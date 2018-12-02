@@ -1,0 +1,120 @@
+{
+    "type": "question",
+    "id": 1941,
+    "tags": [
+        {
+            "tag-id": 128,
+            "tag-name": "文化"
+        },
+        {
+            "tag-id": 157,
+            "tag-name": "蛤丝"
+        },
+        {
+            "tag-id": 192,
+            "tag-name": "真正的粉丝"
+        }
+    ],
+    "detail": {
+        "title": "“真正的粉丝”这个梗是从什么时候出现的？",
+        "body": "<p>很早前，这五个字就被赋予政治敏感词了。</p><p><br></p><p>能够考古出最早的出处和最早的版本吗？<br></p><p><br></p><p>本人最早发现这个梗的版本是“真正的粉丝，就算变成了一道光......”。</p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-16T00:00:00.000Z",
+        "modifyTime": "2018-07-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 872,
+            "body": "大概在16年那次大清洗的时候",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 739,
+                    "user-name": "fossildim"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-17T00:00:00.000Z",
+            "modifyTime": "2018-07-17T00:00:00.000Z"
+        },
+        {
+            "author": 1559,
+            "body": "<p>考证了一下<br></p><p>大概是2015-2016时出现的吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-17T00:00:00.000Z",
+            "modifyTime": "2018-07-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "你是什么时候发现刁大犬是个危险的倒车歹徒的？",
+            "id": 2449
+        },
+        {
+            "title": "什么时候才天亮？",
+            "id": 930
+        },
+        {
+            "title": "如何看待《底特律：变成人类》中提到的第一批长生不死者出现？",
+            "id": 1388
+        },
+        {
+            "title": "如何看待深圳工人运动出现“腊式革命”倾向？该如何避免中国重蹈腊肉覆辙？",
+            "id": 2342
+        },
+        {
+            "title": "光明的那一天什么时候才倒来呢？",
+            "id": 3149
+        },
+        {
+            "title": "膜乎未来会出现不同思想流派纷争的局面吗？",
+            "id": 706
+        },
+        {
+            "title": "如何看待人民日报发文《明星什么时候起“不能批评”了？》",
+            "id": 2229
+        },
+        {
+            "title": "膜乎什么时候也开始“禁评”了？",
+            "id": 2278
+        },
+        {
+            "title": "如何评价Quora出现大量魔法师?",
+            "id": 138
+        },
+        {
+            "title": "在可以预见的江来，会否出现因外交失利导致极端民族主义者反噬的情况",
+            "id": 1385
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-17T08:58:00.000Z",
+        "views": 539,
+        "concerns": 4
+    }
+}

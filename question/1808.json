@@ -1,0 +1,158 @@
+{
+    "type": "question",
+    "id": 1808,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "有哪些靠谱的墙外中文媒体？",
+        "body": "<p>共产党的媒体自然是不能信的，然而轮子的媒体不仅倾向性明显，而且姿势水平极低。</p><p><br></p><p>我想了解一下最近发生在嘉兴的暴乱，然而轮子的大纪元等媒体写的报道逻辑混乱、事实模糊，实在是读不下去。请问各位膜法师在墙外一般浏览哪些媒体？</p>",
+        "author": 1505,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-03T00:00:00.000Z",
+        "modifyTime": "2018-07-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1471,
+            "body": "<p>VOA，RFA（好像也有轮子），苹果日报，BBC，RFI。</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-03T00:00:00.000Z",
+            "modifyTime": "2018-07-03T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>文茜世界周报</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-03T00:00:00.000Z",
+            "modifyTime": "2018-07-03T00:00:00.000Z"
+        },
+        {
+            "author": 1328,
+            "body": "米国之音",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-03T00:00:00.000Z",
+            "modifyTime": "2018-07-03T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>美国之音，bbc，德国之音，fnn（手动蛤稽）</p><p>像共匪和轮子的新闻可以看，但自己本身也要判断</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-04T00:00:00.000Z",
+            "modifyTime": "2018-07-04T00:00:00.000Z"
+        },
+        {
+            "author": 1523,
+            "body": "<p>紐約時報</p><p>法廣</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1444,
+            "body": "CNN Education",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "在墙外膜蛤乳包真的永远安全吗？",
+            "id": 3628
+        },
+        {
+            "title": "如何评价谷歌翻译日语版对这几句中文名言的翻译？",
+            "id": 875
+        },
+        {
+            "title": "在墙外乳包会被迫失踪吗？",
+            "id": 2364
+        },
+        {
+            "title": "如何看待vice的中文翻译是“恶习”？",
+            "id": 2114
+        },
+        {
+            "title": "如何评价墙国媒体称“台风山竹的威力相当于多颗原子弹”？",
+            "id": 2713
+        },
+        {
+            "title": "如何看待当今墙外中文圈的风气？",
+            "id": 1450
+        },
+        {
+            "title": "轮子是否控制了中文维基",
+            "id": 1188
+        },
+        {
+            "title": "如何评价法轮功媒体，例如大纪元时包，阿波罗网，体感报道未知现象、外星人、未解之谜的新闻较多？",
+            "id": 3104
+        },
+        {
+            "title": "如何评价「观察者网」（大陆媒体）？",
+            "id": 2131
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-08T05:19:00.000Z",
+        "views": 651,
+        "concerns": 7
+    }
+}

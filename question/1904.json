@@ -1,0 +1,112 @@
+{
+    "type": "question",
+    "id": 1904,
+    "tags": [
+        {
+            "tag-id": 611,
+            "tag-name": "大学生"
+        },
+        {
+            "tag-id": 483,
+            "tag-name": "64"
+        }
+    ],
+    "detail": {
+        "title": "如何看待武警总队被设置在浙江大学对面？",
+        "body": "<p><img src=\"/uploads/ueditor/20180713/1531492811609411.jpg\" title=\"1531492811609411.jpg\" alt=\"P80713-153544.jpg\"></p><p>是不是有利于又快又好地碾压大学生？</p>",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-13T00:00:00.000Z",
+        "modifyTime": "2018-07-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "应该说是多此一举：经过了十几年服从教育，还有饥饿政治的沉重生活负担，现在的大学生还有几人可以站出来担负国家的兴亡？",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-13T00:00:00.000Z",
+            "modifyTime": "2018-07-13T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "现在的大学生，和当年相比根本没法比了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-13T00:00:00.000Z",
+            "modifyTime": "2018-07-13T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-13T15:45:00.000Z",
+        "views": 250,
+        "concerns": 4
+    }
+}

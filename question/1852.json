@@ -1,0 +1,178 @@
+{
+    "type": "question",
+    "id": 1852,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        }
+    ],
+    "detail": {
+        "title": "如何成为一名伟大的领导人？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-08T00:00:00.000Z",
+        "modifyTime": "2018-07-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "先念两句诗",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "要读萨格尔王传",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1255,
+                    "user-name": "rainneverstop"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1522,
+            "body": "姿势水平要够高",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1447,
+            "body": "<p>别把权力看得太重。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "我当时就填了清华大学 给上就上不给上拉倒",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-09T00:00:00.000Z",
+            "modifyTime": "2018-07-09T00:00:00.000Z"
+        },
+        {
+            "author": 1471,
+            "body": "初中肄业，三个志愿都写清华",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-09T00:00:00.000Z",
+            "modifyTime": "2018-07-09T00:00:00.000Z"
+        },
+        {
+            "author": 1467,
+            "body": "<p>坐龙椅,左手阅兵</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-09T00:00:00.000Z",
+            "modifyTime": "2018-07-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "B站如果被强封会否成为大规模反共起义导火索？",
+            "id": 2006
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "如果继续由共产党执政，中国会成为发达国家吗",
+            "id": 2069
+        },
+        {
+            "title": "最高领导人如果任内猝死会发生什么？",
+            "id": 964
+        },
+        {
+            "title": "中国领导人里是不是只有太祖能和蛤比知识水平?",
+            "id": 995
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "如果全部华人皈依伊斯兰教成为穆斯林，中国会变强吗？",
+            "id": 2779
+        },
+        {
+            "title": "中国下一任领导人会是谁？",
+            "id": 794
+        },
+        {
+            "title": "如果他去世了，学生们会像当年纪念胡耀邦一样纪念他吗？会不会成为另一场8964？",
+            "id": 2334
+        },
+        {
+            "title": "如果中国未来陷入了长时间大规模的饥荒或战乱，台湾能否成为大陆华人的第二家园？",
+            "id": 2883
+        },
+        {
+            "title": "我是一名爱狗人士，前几天有宠物店的人推荐我买一条叫“刁大犬”的狗，该买不该买？",
+            "id": 2855
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-09T01:12:00.000Z",
+        "views": 332,
+        "concerns": 7
+    }
+}

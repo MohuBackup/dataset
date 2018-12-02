@@ -1,0 +1,167 @@
+{
+    "type": "question",
+    "id": 1544,
+    "tags": [
+        {
+            "tag-id": 325,
+            "tag-name": "革命"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 573,
+            "tag-name": "中共"
+        },
+        {
+            "tag-id": 304,
+            "tag-name": "中国共产党"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "中国共产党最害怕什么？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-15T00:00:00.000Z",
+        "modifyTime": "2018-06-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "人民群众团结一心，一致反共，起义造反。失民心者失天下，共党不在乎老百姓，老百姓也不会在乎你共党。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-15T00:00:00.000Z",
+            "modifyTime": "2018-06-15T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>全国性大geming</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1257,
+                    "user-name": "假面之下"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-16T00:00:00.000Z",
+            "modifyTime": "2018-06-16T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>估计地球上已经没有任何东西会让他们害怕了。</p><p>靠着淫威和宣传以及人性，P民不会反抗</p><p>靠着钱财和谎言，西方发达国家为了自己的利益也不会反对中共，最后一起倒车堕落</p>",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-16T00:00:00.000Z",
+            "modifyTime": "2018-06-16T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "怕民众的价值观不再来自他人的论调，来自惯例，来自常态；而是来自自己的逻辑",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-16T00:00:00.000Z",
+            "modifyTime": "2018-06-16T00:00:00.000Z"
+        },
+        {
+            "author": 1395,
+            "body": "TG天不怕地不怕，就怕自己内部有一个傻逼领导人",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "裆燃是我啦！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "为什么还有人爱中华人民共和国，对中国共产党有一丝希望",
+            "id": 2291
+        },
+        {
+            "title": "为什么知乎的话题标签里没有中国共产党？",
+            "id": 2266
+        },
+        {
+            "title": "等待我们的最坏的下场是什么？你们现在感到害怕吗？",
+            "id": 4011
+        },
+        {
+            "title": "中国共产党是如何在民主制度下进行专制统治的？",
+            "id": 1811
+        },
+        {
+            "title": "中国共产党与世界其他共产党的根本性区别在哪里？",
+            "id": 261
+        },
+        {
+            "title": "为什么英国克伦威尔领导的议会革命没有像法国大革命那样，让欧洲其他君主害怕？",
+            "id": 3418
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-17T00:34:00.000Z",
+        "views": 437,
+        "concerns": 5
+    }
+}

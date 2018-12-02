@@ -1,0 +1,149 @@
+{
+    "type": "question",
+    "id": 1511,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "外出就餐，菜没吃完，要打包吗？",
+        "body": "如题",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-14T00:00:00.000Z",
+        "modifyTime": "2018-06-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 902,
+            "body": "<p>餐厅老板维尼熊说：“有些吃饱了没事干的顾客，对我们的食物指手画脚。饭店一不许剩菜，二必须吃完，三吃不完就不要点，还有什么好说的。”</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 498,
+                    "user-name": "KONATA"
+                },
+                {
+                    "user-id": 1087,
+                    "user-name": "Mogician江道夫"
+                },
+                {
+                    "user-id": 1303,
+                    "user-name": "习司马"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-15T00:00:00.000Z",
+            "modifyTime": "2018-06-15T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "吃饱了没事干，打什么包。",
+            "agree-by": [
+                {
+                    "user-id": 1087,
+                    "user-name": "Mogician江道夫"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-15T00:00:00.000Z",
+            "modifyTime": "2018-06-15T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "裆燃啦！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-14T00:00:00.000Z",
+            "modifyTime": "2018-06-14T00:00:00.000Z"
+        },
+        {
+            "author": 934,
+            "body": "<p>这问题以前膜乎问过一次。当时的结论是，要打“包”，而且要狠狠的打</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-15T00:00:00.000Z",
+            "modifyTime": "2018-06-15T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "要腔调就不要包<br>\n要里子，包必须打<br>\n要是遇上没良心的，就不给你打包",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-14T00:00:00.000Z",
+            "modifyTime": "2018-06-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "在华莱士就餐有哪些续要注意的事项？",
+            "id": 2017
+        },
+        {
+            "title": "可不可以在庆丰包子铺打包",
+            "id": 867
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-15T08:40:00.000Z",
+        "views": 380,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "question",
+    "id": 1656,
+    "tags": [
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "阿斯玛阿萨德和彭丽媛谁更有气质谁更漂亮？",
+        "body": "",
+        "author": 855,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-22T00:00:00.000Z",
+        "modifyTime": "2018-06-22T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>都没有煮鹰漂亮</p>",
+            "agree-by": [
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-22T00:00:00.000Z",
+            "modifyTime": "2018-06-22T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么彭丽媛会和包子勾搭在一起",
+            "id": 2174
+        },
+        {
+            "title": "江蛤和刁犬谁更有钱？",
+            "id": 4064
+        },
+        {
+            "title": "如何判断包皇后彭丽媛身兼五个教授职位？",
+            "id": 905
+        },
+        {
+            "title": "巴沙尔阿萨德和习近平谁的知识水平更高？",
+            "id": 1655
+        },
+        {
+            "title": "欧阳锋和金轮法王谁更厉害？",
+            "id": 3283
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-22T15:43:00.000Z",
+        "views": 254,
+        "concerns": 2
+    }
+}

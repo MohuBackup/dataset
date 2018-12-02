@@ -1,0 +1,84 @@
+{
+    "type": "question",
+    "id": 1505,
+    "tags": [
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 175,
+            "tag-name": "1984"
+        }
+    ],
+    "detail": {
+        "title": "Big bother会watch到这里吗？",
+        "body": "感觉自己时时刻刻都在面对着电幕，事实可能也正是如此，信息时代没有隐私",
+        "author": 757,
+        "link": null,
+        "comments": 1,
+        "publishTime": "2018-06-14T00:00:00.000Z",
+        "modifyTime": "2018-06-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 902,
+            "body": "<blockquote><p>你总是说老大哥在看着你，</p><p>可是老大哥不想看着你。</p><p>老大哥觉得你很没用，</p><p>老大哥有更需要看的人，</p><p>而不是闲疯了去看你。</p><p>老大哥也有心烦的事情，</p><p>低端人口还没有被全部清洗。</p><p>你关心过老大哥吗？</p><p>没有，你只关心你自己。</p></blockquote><p><br></p><p>（抖个机灵，事实上老大哥现在就正看着你）</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 757,
+                    "user-name": "听风就是雨"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 914,
+                    "user-name": "不如食蛤去"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-14T00:00:00.000Z",
+            "modifyTime": "2018-06-14T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "请关注我的关于CCTV中文意义的问题",
+            "agree-by": [
+                {
+                    "user-id": 757,
+                    "user-name": "听风就是雨"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-14T00:00:00.000Z",
+            "modifyTime": "2018-06-14T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p><a href=\"/people/%E6%9E%9C%E5%B0%94%E5%BE%B7%E6%96%BD%E5%9D%A6%E5%9B%A0\" class=\"aw-user-name\" data-id=\"1115\">@果尔德施坦因</a> （蛤稽）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-14T00:00:00.000Z",
+            "modifyTime": "2018-06-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-06-14T11:57:00.000Z",
+        "views": 270,
+        "concerns": 3
+    }
+}

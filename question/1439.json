@@ -1,0 +1,50 @@
+{
+    "type": "question",
+    "id": 1439,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "什么是七九爆炸案",
+        "body": "我看到膜乎上有说的，想问一下！",
+        "author": 347,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-12T00:00:00.000Z",
+        "modifyTime": "2018-06-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>听说过搜索引擎吗？听说过百度百科吗？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待79爆炸案？",
+            "id": 1428
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-12T05:16:00.000Z",
+        "views": 180,
+        "concerns": 2
+    }
+}

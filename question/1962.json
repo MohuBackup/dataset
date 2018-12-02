@@ -1,0 +1,143 @@
+{
+    "type": "question",
+    "id": 1962,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "包子会是赤朝末代皇帝吗？",
+        "body": "",
+        "author": 981,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "不一定，就算傻大包被赶下台而没能够终身连任，你能保证下一位领导人不是赤朝的？说不定比包子更聪明，更凶残呢？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 1418,
+            "body": "大犬被赶下去之后，应该会有一个开明的戈尔巴乔夫，如汪洋之流，然后走戈尔巴乔夫的路，被人民推翻",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "我看行",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "我看行，行为做派如翻版崇祯<br>\n啊不连崇祯都不如",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>我看行</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-18T13:11:00.000Z",
+        "views": 473,
+        "concerns": 7
+    }
+}

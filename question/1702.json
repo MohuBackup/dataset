@@ -1,0 +1,171 @@
+{
+    "type": "question",
+    "id": 1702,
+    "tags": [
+        {
+            "tag-id": 694,
+            "tag-name": "音乐"
+        }
+    ],
+    "detail": {
+        "title": "你们听过的最好听的外文歌是哪几首？",
+        "body": "注意是外文歌，不要纯音乐。听一遍就震撼心灵的，或者越听中毒越深的都行。",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-25T00:00:00.000Z",
+        "modifyTime": "2018-06-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1178,
+            "body": "<p>《Aloha 'Oe》这个Guitar</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>-----请州长夫人演唱</p>",
+            "agree-by": [
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "世界著名歌曲45首",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>兄啊怎么这么多一样的问题啊（半恼）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>John Adams 极简风歌剧 Nixon in China，很好听，全程腊肉高能</p><p>https://www.youtube.com/watch?v=5qTaeF9x8wk</p>",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>昭和維新歌、軍艦進行曲、拔刀隊</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 2324,
+            "body": "<p>一首<em>The Internationale</em>送给全国八千万</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>霍斯特维塞尔歌是坠吼的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 356,
+            "body": "喀秋莎",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 607,
+            "body": "Государственный Гимн Советского Союза",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "彭老师和祖英谁唱歌更好听？",
+            "id": 2328
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1702
+        },
+        {
+            "title": "为什么昭和维新歌这么好听？",
+            "id": 2821
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1698
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1699
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1703
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1705
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1707
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1709
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1711
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T20:16:00.000Z",
+        "views": 523,
+        "concerns": 7
+    }
+}

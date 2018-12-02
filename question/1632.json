@@ -1,0 +1,229 @@
+{
+    "type": "question",
+    "id": 1632,
+    "tags": [
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        }
+    ],
+    "detail": {
+        "title": "如何看待维基百科的全部语言版本被墙（18.6.20）？",
+        "body": "事实上，被墙的涵盖了维基媒体基金会的所有运营项目（除WikiCommons）…<br>\n<br>\n一同被封的还有WolframAlpha\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180620/5de57c0fc3ea30c6011ba16c52e791d3.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180620/5de57c0fc3ea30c6011ba16c52e791d3.png\" class=\"img-thumbnail\" alt=\"wp_ss_20180620_0005.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180620/e221b9b3c6ae08f3558ab6007665914c.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180620/e221b9b3c6ae08f3558ab6007665914c.png\" class=\"img-thumbnail\" alt=\"wp_ss_20180620_0016_(2).png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-20T00:00:00.000Z",
+        "modifyTime": "2018-06-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 498,
+            "body": "<p>这是领导对我们屁民外语水平的肯定！</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1234,
+                    "user-name": "winnie97"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 414,
+                    "user-name": "nai黄包子"
+                },
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 80,
+            "body": "i am angry,<br>\n这样搞不行的啊",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>完全墙掉维基百科只是前奏，</p><p>之后就要建立墙内的<strong>维习百科</strong>了。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 10,
+            "body": "<p>【新蛤社6月20日电】今天下午5:10左右，中国大陆防火长城（GFW）再次发威，封锁方式中有IP封锁（TCP阻断），请注意规避风险。</p><p><br></p><p>可见墙的增高是大规模的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 1457,
+            "body": "有压力才会有动力，这是领导为了开化民智，争取早日让国民都像虵一样掌握八国语言，感谢领导，泪，拉了下来",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 16,
+            "body": "维基百科大部分语言页面，如英文，已可以从中国大陆正常访问。中文和日文维基仍处于被屏蔽状态。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "习惯近乎平常",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>独裁国家</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-24T20:38:00.000Z",
+        "views": 746,
+        "concerns": 6
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "type": "question",
+    "id": 1755,
+    "tags": [
+        {
+            "tag-id": 347,
+            "tag-name": "中国经济"
+        }
+    ],
+    "detail": {
+        "title": "网传中国的明斯基时刻已经到来。",
+        "body": "泡面即将破裂，经济即将崩盘，大家怎么看？<br>\n这里有个分析视频：https://youtu.be/AV9GA7N53Ks",
+        "author": 1441,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-28T00:00:00.000Z",
+        "modifyTime": "2018-06-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1234,
+            "body": "别的我不知道，但是中国经济畸形是不争的事实，至于那个泡沫什么时候破裂用在中国貌似行不通，按自由市场来说，早就破裂了，可中国没有，可以说共党不倒 泡沫就破不了",
+            "agree-by": [
+                {
+                    "user-id": 80,
+                    "user-name": "linkhoo"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1457,
+                    "user-name": "rua"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-28T00:00:00.000Z",
+            "modifyTime": "2018-06-28T00:00:00.000Z"
+        },
+        {
+            "author": 1367,
+            "body": "<p>目前还破不了。。。中美在比命硬。看谁的股市先撑不住吧。</p><p>打鸡血的一个在升值美元，一个贬值人民币。美股接下来打不了鸡血了，跟着A股下来</p><p>看着谁撑得过谁。<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-28T00:00:00.000Z",
+            "modifyTime": "2018-06-28T00:00:00.000Z"
+        },
+        {
+            "author": 918,
+            "body": "<p>看谁命硬<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-28T00:00:00.000Z",
+            "modifyTime": "2018-06-28T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>要相信党中央，相信习主席！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-30T00:00:00.000Z",
+            "modifyTime": "2018-06-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "毛主席在位时，和平年代造成8000w中国人非正常死亡，为什么现在广大中国百姓依然怀念敬仰他呢",
+            "id": 2001
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-29T19:20:00.000Z",
+        "views": 467,
+        "concerns": 6
+    }
+}

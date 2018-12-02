@@ -1,0 +1,54 @@
+{
+    "type": "question",
+    "id": 1976,
+    "tags": [
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "gcd还有多少年的活头？",
+        "body": "更进一步的，gcd会亡于什么？",
+        "author": 1556,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p>30年以内吧</p><p>要嘛是亡于党内崩盘，要嘛就是外界压力，更可能的是两者都有。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 1523,
+            "body": "15至30年 預料過了一代人的時間，中國就會「天下大亂」。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-20T00:00:00.000Z",
+            "modifyTime": "2018-07-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-07-20T06:48:00.000Z",
+        "views": 340,
+        "concerns": 4
+    }
+}

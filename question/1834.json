@@ -1,0 +1,136 @@
+{
+    "type": "question",
+    "id": 1834,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "适合中国的民主制度是什么？",
+        "body": "（正经提问）<br>\n<br>\n专制独裁个人崇拜显然不是正常国家应该有的社会制度。那么一套适合中国的民主制度该是什么样子？",
+        "author": 1505,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-07T00:00:00.000Z",
+        "modifyTime": "2018-07-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "什么都好说，但是首先先把修改宪法Undo",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        },
+        {
+            "author": 1447,
+            "body": "<p>权力必须分化，监督必须严格，法律必须有尊严，程序必须透明，媒体不能被QJ，人不会“因言获罪”，选举与被选举不能流于形式。以上是我个人拙见。</p>",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        },
+        {
+            "author": 1418,
+            "body": "短期内<br>\n高薪养廉<br>\n开放墙<br>\n基层民主<br>\n言论自由，新闻自由",
+            "agree-by": [
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>日常钓鱼</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        },
+        {
+            "author": 1418,
+            "body": "短期内<br>\n高薪养廉<br>\n开放墙<br>\n基层民主<br>\n言论自由，新闻自由",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "为什么总有些人认为美帝的制度比中共的优秀",
+            "id": 1234
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-07T15:56:00.000Z",
+        "views": 229,
+        "concerns": 8
+    }
+}

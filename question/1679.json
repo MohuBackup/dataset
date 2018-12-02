@@ -1,0 +1,93 @@
+{
+    "type": "question",
+    "id": 1679,
+    "tags": [
+        {
+            "tag-id": 341,
+            "tag-name": "社会"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 311,
+            "tag-name": "人权"
+        },
+        {
+            "tag-id": 312,
+            "tag-name": "美国"
+        }
+    ],
+    "detail": {
+        "title": "如何看待美国宣布退出“联合国人权理事会”?",
+        "body": "<p>https://www.voachinese.com/a/us-rights-20180619/4445876.html</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-24T00:00:00.000Z",
+        "modifyTime": "2018-06-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>这个所谓人权理事会连古巴这种国家都在里面，还是退群拉到了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-24T00:00:00.000Z",
+            "modifyTime": "2018-06-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-24T14:00:00.000Z",
+        "views": 159,
+        "concerns": 2
+    }
+}

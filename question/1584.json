@@ -1,0 +1,146 @@
+{
+    "type": "question",
+    "id": 1584,
+    "tags": [
+        {
+            "tag-id": 131,
+            "tag-name": "香港记者"
+        },
+        {
+            "tag-id": 536,
+            "tag-name": "张宝华"
+        }
+    ],
+    "detail": {
+        "title": "怎么看待张宝蛤的这条微博",
+        "body": "<p><img src=\"/uploads/ueditor/20180617/1529230527846053.jpg\" title=\"1529230527846053.jpg\" alt=\"8975cc8d70f4bcb55301c9c4f75ff819_232964815.jpg\"></p>",
+        "author": 1394,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-17T00:00:00.000Z",
+        "modifyTime": "2018-06-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "新浪能忍她发这些，是不是给人一种感觉",
+            "agree-by": [
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "事后张女士对江先生的评价还是颇高的<br>\n二位本人也都知道我等的存在与宗旨<br>\n张女士作为当事人，头号粉丝<br>\n这种言论，无可厚非，甚至应该为之<br>\n倒是你这个问题，大惊小怪<br>\n还是要学习一个",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1257,
+                    "user-name": "假面之下"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>在下作为一个隐退江湖的膜导师见得多了，什么大风大浪没经历过？这点小事也拿出来大惊小怪，还是要提高一下志己的姿势水平。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>太暴力了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-18T06:26:00.000Z",
+        "views": 395,
+        "concerns": 4
+    }
+}

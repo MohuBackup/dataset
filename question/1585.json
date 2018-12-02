@@ -1,0 +1,145 @@
+{
+    "type": "question",
+    "id": 1585,
+    "tags": [
+        {
+            "tag-id": 632,
+            "tag-name": "华莱士"
+        }
+    ],
+    "detail": {
+        "title": "华莱士飞蛙是什么物种",
+        "body": "",
+        "author": 1394,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-17T00:00:00.000Z",
+        "modifyTime": "2018-06-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "华莱士飞蛙(黑掌树蛙)是在马来西亚和印尼发现的，它们习惯生活在高高的树梢上。这种青蛙拥有带蹼的长脚趾，而且四肢之间有扁平的皮肤，它们利用这些东西，可以从树梢上降落下来。从某方面来说，术语“降落伞”就涉及到动物以很小的倾斜度从高处快速下降。虽然华莱士飞蛙喜欢生活在高处，但是它们必须下降到地面附近进行交配和产卵。华莱士飞蛙天性活泼，常于夜晚吼叫，所以又名“吼蛙” 。<br>\n华莱士与长者谈笑风生，长者觉得华的知识水平很高，长者非常excited，决定将华钦定为“华莱士飞蛙”，由于与华交谈过程中长者对华的很多想法表示非常资瓷，时不时来一句“吼哇！”，所以民间又俗称华为“吼蛙”。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 347,
+                    "user-name": "昂纳克同志"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "华莱士来采访，对方看到了就说<br>\n时间「飞」得很快。<br>\n<br>\n因此得名成语华莱士飞蛙",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "黑框蟾蜍了解一下？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "华莱士呱是什么呱呢？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>泽蛙了解一下</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 934,
+            "body": "<p>飞的比别的蛙不知道高到哪里去的一种蛙</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "华莱士为什么说江主席是最后一位独裁者？",
+            "id": 1096
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "在华莱士就餐有哪些续要注意的事项？",
+            "id": 2017
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-18T03:54:00.000Z",
+        "views": 514,
+        "concerns": 5
+    }
+}

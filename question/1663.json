@@ -1,0 +1,175 @@
+{
+    "type": "question",
+    "id": 1663,
+    "tags": [
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "“习大大”这个外号到底是怎么来的？",
+        "body": "",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-23T00:00:00.000Z",
+        "modifyTime": "2018-06-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 602,
+            "body": "国家主席→老大→习老大→习大大<br>\n大大在北方方言里有大爷(ye轻声，指父亲的哥哥)的意思，此称呼既暗示了其老大的地位，也显得比较亲民，经官方操控炒作后蹿红，是习近平操弄个人崇拜的一部分。",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-24T00:00:00.000Z",
+            "modifyTime": "2018-06-24T00:00:00.000Z"
+        },
+        {
+            "author": 188,
+            "body": "好像是这么来的",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-24T00:00:00.000Z",
+            "modifyTime": "2018-06-24T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>不知道，但是习大大的广东话发音类似“杂呆呆”</p><p>。会不会又掀起封杀广东话的浪潮呢。</p>",
+            "agree-by": [
+                {
+                    "user-id": 9,
+                    "user-name": "Wallais_"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-23T00:00:00.000Z",
+            "modifyTime": "2018-06-23T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "楼上的截图是正解。不过我觉得刁太犬，习呆呆会更好一些，为啥刁民们没想到呢？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 3,
+            "publishTime": "2018-06-24T00:00:00.000Z",
+            "modifyTime": "2018-06-24T00:00:00.000Z"
+        },
+        {
+            "author": 1457,
+            "body": "大大貌似是某地“爸爸”的方言，这个称呼能火起来背后有点意思",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-24T00:00:00.000Z",
+            "modifyTime": "2018-06-24T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "有人认为是来自其女儿对其的称呼",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-23T00:00:00.000Z",
+            "modifyTime": "2018-06-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "天安门事件到底是谁的错？",
+            "id": 1095
+        },
+        {
+            "title": "说到底，习到底想要怎样？",
+            "id": 3262
+        },
+        {
+            "title": "3000游客被困日本机场...到底是真新闻还是假新闻？",
+            "id": 2539
+        },
+        {
+            "title": "回族把猪肉叫大肉，那习大大会不会给人一种辱包的感觉",
+            "id": 1779
+        },
+        {
+            "title": "如何看待“ ‘刁大大’商标不良影响案”？",
+            "id": 1809
+        },
+        {
+            "title": "社会主义到底有没有可能成功？",
+            "id": 1021
+        },
+        {
+            "title": "包子的“人类命运共同体”到底是什么想法？",
+            "id": 2608
+        },
+        {
+            "title": "中国移动的“和包”到底是什么包？",
+            "id": 2719
+        },
+        {
+            "title": "如何评价习近平的以下外号？",
+            "id": 3270
+        },
+        {
+            "title": "到底是“倒车请注意”还是“请注意倒车”？",
+            "id": 413
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-24T11:45:00.000Z",
+        "views": 510,
+        "concerns": 8
+    }
+}

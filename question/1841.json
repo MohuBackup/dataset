@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 1841,
+    "tags": [
+        {
+            "tag-id": 49,
+            "tag-name": "人生经验"
+        }
+    ],
+    "detail": {
+        "title": "如果不及时的吸收人生经验的结果?",
+        "body": "",
+        "author": 1522,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-07T00:00:00.000Z",
+        "modifyTime": "2018-07-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "就会让有必要告诉你们的人再次起身，第三次走向你们",
+            "agree-by": [
+                {
+                    "user-id": 1522,
+                    "user-name": "江某膜"
+                },
+                {
+                    "user-id": 498,
+                    "user-name": "KONATA"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-07T00:00:00.000Z",
+            "modifyTime": "2018-07-07T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "<p>就会导致这个效率efficiency的降低，之后只好再花费大量的1s去重新吸取人生经验，如果不及时重新吸收，容易导致倒车的悲剧，这是坠痛苦的！</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>会变得naive，容易思想江化，寿命还会缩短，导致一分钟只有59秒，这是坠痛苦的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1522,
+                    "user-name": "江某膜"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1488,
+            "body": "之后会再付出时间去学习一个",
+            "agree-by": [
+                {
+                    "user-id": 1522,
+                    "user-name": "江某膜"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-08T00:00:00.000Z",
+            "modifyTime": "2018-07-08T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "毛病不改 积恶成习",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 1364,
+            "body": "<p>被水淹没 不知所措</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "从及时止损的角度看，停缴个人社保是否是明智之举？",
+            "id": 2326
+        },
+        {
+            "title": "膜乎用户是否应该定时互相报平安？好在大清洗开始时及时逃脱？",
+            "id": 3617
+        },
+        {
+            "title": "北大岳昕的今后人生可能会是什么样子？",
+            "id": 622
+        },
+        {
+            "title": "人生很失败是一种什么样的体验？",
+            "id": 2761
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-10T09:42:00.000Z",
+        "views": 302,
+        "concerns": 8
+    }
+}

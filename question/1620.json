@@ -1,0 +1,152 @@
+{
+    "type": "question",
+    "id": 1620,
+    "tags": [
+        {
+            "tag-id": 678,
+            "tag-name": "科學"
+        }
+    ],
+    "detail": {
+        "title": "人類是否該放棄自己的肉體，讓身軀機械化？",
+        "body": "<p>假如有朝一日人類的身體器官都可以由機械部件替換(性能自然比肉體不知道高到哪裡去了)，你願意嗎？<br></p>",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-20T00:00:00.000Z",
+        "modifyTime": "2018-06-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1377,
+            "body": "除了脑子，别的都可以接受<br>\n不过还是碳基的原装件应该会更舒服<br>\n配偶的决定也是很重要的！<br>\n不接受思想的存取，转移<br>\n想想看，和宝华姐赛跑，exciting！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-20T00:00:00.000Z",
+            "modifyTime": "2018-06-20T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>愿意，因为这样人的寿命更长，能给长者奉献更多的生命。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 855,
+            "body": "机械生命形态应该是比生化生命形态更加高级，因为它是从生化生命形态进化而来，",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-20T00:00:00.000Z",
+            "modifyTime": "2018-06-20T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>像质量效应里的收割者族？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-20T00:00:00.000Z",
+            "modifyTime": "2018-06-20T00:00:00.000Z"
+        },
+        {
+            "author": 1087,
+            "body": "<p>愿意啊（但是要保留性快感，逃</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-20T00:00:00.000Z",
+            "modifyTime": "2018-06-20T00:00:00.000Z"
+        },
+        {
+            "author": 898,
+            "body": "<p>楼主嗦的素megalo box？。。。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "如果长者在某一天正式加入了膜乎，是否应该给牠一个特殊钦定账号？享受钦定特效和特殊权限？",
+            "id": 1402
+        },
+        {
+            "title": "在膜乎的各位， 现在的这“盛世”是否如你所愿呢？[图片]",
+            "id": 3144
+        },
+        {
+            "title": "和自己的表妹结婚是否违法？",
+            "id": 311
+        },
+        {
+            "title": "该车主贴上了“庆丰包子铺”车贴，这是否会加快车主的倒车速度？【图片】",
+            "id": 2045
+        },
+        {
+            "title": "投票表决是否封禁此账号",
+            "id": 3799
+        },
+        {
+            "title": "最新的假疫苗案是否属于恶习的“人口清理计划”的一部分？",
+            "id": 2034
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-21T01:46:00.000Z",
+        "views": 290,
+        "concerns": 7
+    }
+}

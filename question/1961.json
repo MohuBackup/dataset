@@ -1,0 +1,150 @@
+{
+    "type": "question",
+    "id": 1961,
+    "tags": [
+        {
+            "tag-id": 457,
+            "tag-name": "国民党"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 534,
+            "tag-name": "烈士"
+        }
+    ],
+    "detail": {
+        "title": "以《烈士保护法》为定义，国民党烈士受不受该法律保护",
+        "body": "",
+        "author": 1374,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1496,
+            "body": "烈士保护法 是为侮辱烈士的寻衅滋事人员量身打造的法律。别想多了",
+            "agree-by": [
+                {
+                    "user-id": 1467,
+                    "user-name": "习远平"
+                },
+                {
+                    "user-id": 430,
+                    "user-name": "小管家"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "没记错的话，8964中因镇压学生而在混乱中死亡的党卫军也是“烈士”",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 1418,
+            "body": "共惨档有烈士？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "怎么看待《英烈保护法》？",
+            "id": 913
+        },
+        {
+            "title": "膜乎如何保护依旧在大陆没有移民的用户的隐私安全",
+            "id": 2384
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        },
+        {
+            "title": "如何评价国民党",
+            "id": 1370
+        },
+        {
+            "title": "如何反驳小粉红“马英九是独台，国民党是暗独”的观点？",
+            "id": 2033
+        },
+        {
+            "title": "为什么中日战争，国民党可以抵抗8年之久，而内战才不到两年就土崩瓦解了",
+            "id": 1268
+        },
+        {
+            "title": "如何看待波蘭議員認為維尼不男不女不穿內褲，是陰陽人，甚至計劃修改法律驅逐維尼？",
+            "id": 3078
+        },
+        {
+            "title": "如何评价百度贴吧中国梦吧被根据相关法律和法规暂不开放？",
+            "id": 3148
+        },
+        {
+            "title": "如果国共内战国民党打赢，是好事还是坏事？",
+            "id": 753
+        },
+        {
+            "title": "中国三大政党共产党、国民党、民进党如何排序？",
+            "id": 2323
+        },
+        {
+            "title": "中共倒台之后，国民党有能力、意愿或者机会接手吗",
+            "id": 3199
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-18T05:33:00.000Z",
+        "views": 283,
+        "concerns": 5
+    }
+}

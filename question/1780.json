@@ -1,0 +1,170 @@
+{
+    "type": "question",
+    "id": 1780,
+    "tags": [
+        {
+            "tag-id": 710,
+            "tag-name": "传播"
+        },
+        {
+            "tag-id": 341,
+            "tag-name": "社会"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 331,
+            "tag-name": "舆论"
+        },
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        }
+    ],
+    "detail": {
+        "title": "是否应该为了社会安定而禁止特大负面新闻的传播？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-01T00:00:00.000Z",
+        "modifyTime": "2018-07-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "掩耳盗铃",
+            "agree-by": [
+                {
+                    "user-id": 914,
+                    "user-name": "不如食蛤去"
+                },
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-01T00:00:00.000Z",
+            "modifyTime": "2018-07-01T00:00:00.000Z"
+        },
+        {
+            "author": 444,
+            "body": "应该让官方声音尽早迅速占领舆论场，让官方声音传得到处都是；同时伪装异见人士，用极端观点把异见人士搞臭。",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-01T00:00:00.000Z",
+            "modifyTime": "2018-07-01T00:00:00.000Z"
+        },
+        {
+            "author": 1178,
+            "body": "<p>原则上 宪法规定并保障了公民新闻及新闻自由的权利</p><p>但是邓公也说过 &nbsp;稳定压倒一切</p><p>见仁见智了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-02T00:00:00.000Z",
+            "modifyTime": "2018-07-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如何评价长沙漫展警察闯入，以扰乱社会治安为由拘留现场二次元？",
+            "id": 3145
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "有哪些在大陆被禁止的歌曲？",
+            "id": 1531
+        },
+        {
+            "title": "有没有人来一起吐槽国内二胎生育基金的新闻",
+            "id": 2282
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-02T08:15:00.000Z",
+        "views": 326,
+        "concerns": 6
+    }
+}

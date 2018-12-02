@@ -1,0 +1,163 @@
+{
+    "type": "question",
+    "id": 1802,
+    "tags": [
+        {
+            "tag-id": 325,
+            "tag-name": "革命"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "有哪些高速平稳的倒车技巧？",
+        "body": "",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-02T00:00:00.000Z",
+        "modifyTime": "2018-07-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "只要你姓赵，再没有其他技巧，因为你姓赵以后就是把车倒到桥底下，也会立即立法说明这是正确的倒车姿势，一大堆人过来围观大喊，厉害了，我的车，专门拍照采访，出书，我的倒车岁月，坠桥地被改成旅游景点，专门有人出来解释这种倒法的合理性（最后讽刺陈宝生）",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 607,
+                    "user-name": "Срутра"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-02T00:00:00.000Z",
+            "modifyTime": "2018-07-02T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>要尽量习惯倒车，开着车一点一点往后倒，逐渐靠近目的地，就能平稳一些</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-02T00:00:00.000Z",
+            "modifyTime": "2018-07-02T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "稍有常识的人都能看出，以前方站着的人为水平基点，将四辆铁骑息息静静地向后平稳地开",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 607,
+                    "user-name": "Срутра"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-02T00:00:00.000Z",
+            "modifyTime": "2018-07-02T00:00:00.000Z"
+        },
+        {
+            "author": 1778,
+            "body": "<p>换车，换上红色法拉利，最起码也要是黑色红旗<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-17T00:00:00.000Z",
+            "modifyTime": "2018-08-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你是什么时候发现刁大犬是个危险的倒车歹徒的？",
+            "id": 2449
+        },
+        {
+            "title": "为什么包包大人的倒车速度如此之快？",
+            "id": 2428
+        },
+        {
+            "title": "请问除了山路麦子、倒车，包子还有还有什么公认的语录",
+            "id": 2224
+        },
+        {
+            "title": "如何评价「江习高速」？",
+            "id": 1678
+        },
+        {
+            "title": "汽车倒车应该挂哪个档？",
+            "id": 226
+        },
+        {
+            "title": "如何评价2018年度亚洲倒车竞速锦标赛？",
+            "id": 127
+        },
+        {
+            "title": "科目二倒车入库这一项总是不合格，怎么办？",
+            "id": 803
+        },
+        {
+            "title": "该车主贴上了“庆丰包子铺”车贴，这是否会加快车主的倒车速度？【图片】",
+            "id": 2045
+        },
+        {
+            "title": "如何评价《头号玩家》中开局倒车获胜的设定？",
+            "id": 378
+        },
+        {
+            "title": "哪位大佬可以科普一下包子都是如何倒车的？",
+            "id": 525
+        },
+        {
+            "title": "如何成为倒车高手？",
+            "id": 2205
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-17T01:28:00.000Z",
+        "views": 678,
+        "concerns": 5
+    }
+}

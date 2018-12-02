@@ -1,0 +1,65 @@
+{
+    "type": "question",
+    "id": 2009,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 584,
+            "tag-name": "未来"
+        },
+        {
+            "tag-id": 93,
+            "tag-name": "多快好省地建设膜蛤文化"
+        }
+    ],
+    "detail": {
+        "title": "关于思想罪",
+        "body": "以后会不会又出现思想罪呢？如果会，大概多久出现？以什么形式出现？",
+        "author": 914,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-21T00:00:00.000Z",
+        "modifyTime": "2018-07-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>思想罪已经以另一种形式悄然无声地进入我们的生活了，在人民“翻墙”的时候，他们会主动避开和时政有关的非官方内容。这种“自我审查”就是思想罪的一种预防体系。</p>",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 914,
+                    "user-name": "不如食蛤去"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-21T00:00:00.000Z",
+            "modifyTime": "2018-07-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-07-21T00:43:00.000Z",
+        "views": 223,
+        "concerns": 4
+    }
+}

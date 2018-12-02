@@ -1,0 +1,96 @@
+{
+    "type": "question",
+    "id": 1859,
+    "tags": [
+        {
+            "tag-id": 115,
+            "tag-name": "尬膜"
+        }
+    ],
+    "detail": {
+        "title": "男友对我说道：“听说你收藏了一本手抄的蛤严经，能不能看一下”？",
+        "body": "怎么回应最好？",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-09T00:00:00.000Z",
+        "modifyTime": "2018-07-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 765,
+            "body": "把生命都献给虵，就给你看。",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-09T00:00:00.000Z",
+            "modifyTime": "2018-07-09T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>请问介意男友多一个吗！</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "听说大犬要被赶下台了？",
+            "id": 1926
+        },
+        {
+            "title": "听说江湖上有一款船新的宝物，叫做吸金瓶，有没有人介绍一下它的功效",
+            "id": 3998
+        },
+        {
+            "title": "兔然变得很黄，想听几个少儿不宜的 宽衣 故事，谁有优秀的宽衣故事的？能不能通我讲一讲？",
+            "id": 3381
+        },
+        {
+            "title": "通过座驾能不能判断一个人的经济情况？",
+            "id": 2742
+        },
+        {
+            "title": "（蛤稽一本道）包子的说话声音是不是变了？",
+            "id": 3483
+        },
+        {
+            "title": "大家能不能推荐一下美食？",
+            "id": 2987
+        },
+        {
+            "title": "我的新作《大脑升级人》(原曲《恶魔人》)已经在膜乎发表为文章了，大家能不能来捧个场？",
+            "id": 3868
+        },
+        {
+            "title": "有没有人见过一本杂志，叫《我爱摇滚乐》？",
+            "id": 3371
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-11T12:08:00.000Z",
+        "views": 319,
+        "concerns": 4
+    }
+}

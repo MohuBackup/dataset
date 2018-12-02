@@ -1,0 +1,248 @@
+{
+    "type": "question",
+    "id": 1683,
+    "tags": [
+        {
+            "tag-id": 463,
+            "tag-name": "学习"
+        },
+        {
+            "tag-id": 685,
+            "tag-name": "阅读"
+        }
+    ],
+    "detail": {
+        "title": "你最想推荐给其他人阅读的书是什么？",
+        "body": "<p>只能说一本书<br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-24T00:00:00.000Z",
+        "modifyTime": "2018-06-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "被誉为蛏经Haly Baoble的--虵改变了中国",
+            "agree-by": [
+                {
+                    "user-id": 1457,
+                    "user-name": "rua"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 1087,
+                    "user-name": "Mogician江道夫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 898,
+                    "user-name": "江来"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1457,
+            "body": "现已震撼发布《他又改了回来》",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1255,
+                    "user-name": "rainneverstop"
+                },
+                {
+                    "user-id": 1467,
+                    "user-name": "习远平"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 356,
+            "body": "上海交大《学报》",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "《中等数学》很有趣的书，可以大大提高自己的数学水平(迫真)",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1428,
+                    "user-name": "Luoshuciyu"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-27T00:00:00.000Z",
+            "modifyTime": "2018-06-27T00:00:00.000Z"
+        },
+        {
+            "author": 1069,
+            "body": "<p>背书民就可以了！</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1471,
+            "body": "萨格尔王",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>悲惨世界</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>1984</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-27T00:00:00.000Z",
+            "modifyTime": "2018-06-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "求大家推荐一款精准的狙击枪，我“精准扶贫”要用的",
+            "id": 2015
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "假如长者现在依然在领导我们，中国会是什么样子？",
+            "id": 929
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-27T00:02:00.000Z",
+        "views": 375,
+        "concerns": 9
+    }
+}

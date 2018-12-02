@@ -1,0 +1,174 @@
+{
+    "type": "question",
+    "id": 1967,
+    "tags": [
+        {
+            "tag-id": 190,
+            "tag-name": "EzawaNico（膜乎用户）"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "EzawaNico自称魔法少女到底是真是假？",
+        "body": "<p>以我混迹纸糊多年的经验，多半是女装大佬。</p>",
+        "author": 1564,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1,
+            "body": "<p>无可奉告！</p>",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 1536,
+                    "user-name": "DengJiagui"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>不管是女装还是少女，只要是和妮可有关就萌</p>",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "是不是不确定，but我知道我们团队新来了一个小姐姐@膜乎员工的日常",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-20T00:00:00.000Z",
+            "modifyTime": "2018-07-20T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "事",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 604,
+            "body": "假的，如果是女的简介会写程序媛",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "天安门事件到底是谁的错？",
+            "id": 1095
+        },
+        {
+            "title": "说到底，习到底想要怎样？",
+            "id": 3262
+        },
+        {
+            "title": "3000游客被困日本机场...到底是真新闻还是假新闻？",
+            "id": 2539
+        },
+        {
+            "title": "社会主义到底有没有可能成功？",
+            "id": 1021
+        },
+        {
+            "title": "有膜法少女吗？",
+            "id": 3475
+        },
+        {
+            "title": "包子的“人类命运共同体”到底是什么想法？",
+            "id": 2608
+        },
+        {
+            "title": "中国移动的“和包”到底是什么包？",
+            "id": 2719
+        },
+        {
+            "title": "到底是“倒车请注意”还是“请注意倒车”？",
+            "id": 413
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-20T08:02:00.000Z",
+        "views": 323,
+        "concerns": 7
+    }
+}

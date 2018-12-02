@@ -1,0 +1,114 @@
+{
+    "type": "question",
+    "id": 1978,
+    "tags": [
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 501,
+            "tag-name": "江泽蛤"
+        },
+        {
+            "tag-id": 489,
+            "tag-name": "江蛤蟆"
+        },
+        {
+            "tag-id": 436,
+            "tag-name": "蛤蟆"
+        },
+        {
+            "tag-id": 406,
+            "tag-name": "蛤诞祭"
+        },
+        {
+            "tag-id": 132,
+            "tag-name": "文膜"
+        },
+        {
+            "tag-id": 451,
+            "tag-name": "膜法师"
+        }
+    ],
+    "detail": {
+        "title": "你对今年蛤诞祭有什么期待？希望能有那些作品展出？",
+        "body": "<p>大家对2018年蛤诞祭有什么样的期待呢，又有哪些好的建议并希望出现什么样的作品</p><p><br></p><p>本人对新蛤社的投稿：歌词：<a href=\"/question/1801\">/question/1801</a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/question/1293\">/question/1293</a></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/question/450\">/question/450</a> </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/question/449\">/question/449</a> </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/question/419\">/question/419</a></p><p><br></p><p><br></p><p>膜蛤小说：<a href=\"/question/1914\">/question/1914</a></p>",
+        "author": 709,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>别出事故就成，17年的出事故出的厉害了。</p>",
+            "agree-by": [
+                {
+                    "user-id": 582,
+                    "user-name": "SkyFuInMC"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "你对中国有多么憎恶？",
+            "id": 2871
+        },
+        {
+            "title": "为什么还有人爱中华人民共和国，对中国共产党有一丝希望",
+            "id": 2291
+        },
+        {
+            "title": "大家希不希望祖国强大？",
+            "id": 3367
+        },
+        {
+            "title": "如何看待今年（2018年）安倍访华？",
+            "id": 3870
+        },
+        {
+            "title": "要是能重来，你希望谁来统治呢?",
+            "id": 1214
+        },
+        {
+            "title": "如何评价2018蛤诞祭？",
+            "id": 2292
+        },
+        {
+            "title": "什么时刻你对中国的未来最有信心？",
+            "id": 1118
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-19T08:38:00.000Z",
+        "views": 381,
+        "concerns": 4
+    }
+}

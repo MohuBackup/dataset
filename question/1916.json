@@ -1,0 +1,330 @@
+{
+    "type": "question",
+    "id": 1916,
+    "tags": [
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        },
+        {
+            "tag-id": 449,
+            "tag-name": "中国特色社会主义"
+        },
+        {
+            "tag-id": 330,
+            "tag-name": "网络安全"
+        }
+    ],
+    "detail": {
+        "title": "如何评价大陆特供版 Flash Player 的流氓行为？",
+        "body": "<p>补充阅读：<a href=\"https://www.bilibili.com/read/cv719032\">https://www.bilibili.com/read/cv719032</a><br></p><p>如果你在中国大陆，就删掉Flash Player吧，不然哪天人间蒸发都不知道。</p><p><strong>检查系统内是否有「FlashHelperService」的程序、服务和开机启动项。</strong><br> </p>",
+        "author": 54,
+        "link": "https://www.bilibili.com/read/cv719032",
+        "comments": 0,
+        "publishTime": "2018-07-14T00:00:00.000Z",
+        "modifyTime": "2018-07-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>这说明了中国开房的大门不会开放，只会越关越小，最终关闭。</p><p>不管造反分子逃到哪里，都要缉拿归案、绳之以法。</p><p>人民群众有了更多失落感、痛苦感、危险感。我们朝着实现全面建成愚昧社会目标又迈进了一大步。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1091,
+                    "user-name": "matsusaki"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1510,
+                    "user-name": "xu1s"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1630,
+                    "user-name": "习文盲"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 1747,
+                    "user-name": "RemoveTurkey"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-14T00:00:00.000Z",
+            "modifyTime": "2018-07-14T00:00:00.000Z"
+        },
+        {
+            "author": 1015,
+            "body": "html5时代居然还用flash插件？ 只能说一些网站不思进取，chrome默认关闭flash插件，最近看央视世界杯，居然还要开启flash插件才能播放。<br>\n尽早推广html5，把flash插件彻底打入坟墓！<br>\n国外已经开始这么做了",
+            "agree-by": [
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1630,
+                    "user-name": "习文盲"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 2375,
+                    "user-name": "加把劲骑士"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-16T00:00:00.000Z",
+            "modifyTime": "2018-07-16T00:00:00.000Z"
+        },
+        {
+            "author": 902,
+            "body": "<p>幸运的是，鉴于 Windows 10 自带的 Edge 浏览器和市场上主流的 Chrome 已经自带 Flash Player，需要单独安装 Flash Player 的场景不算很多。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 2057,
+                    "user-name": "mrhaven"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 6,
+            "publishTime": "2018-07-15T00:00:00.000Z",
+            "modifyTime": "2018-07-15T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>watch_dogs里面的游戏游玩体验，正在变成现实。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1553,
+                    "user-name": "XTD0417"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-15T00:00:00.000Z",
+            "modifyTime": "2018-07-15T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>中国特色</p><p><img src=\"/uploads/ueditor/20180715/1531665112875465.jpeg\" title=\"1531665112875465.jpeg\" alt=\"F7983D0F-0D80-4DBC-8D68-C7EEF9682C74.jpeg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1216,
+                    "user-name": "fix"
+                },
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-15T00:00:00.000Z",
+            "modifyTime": "2018-07-15T00:00:00.000Z"
+        },
+        {
+            "author": 1572,
+            "body": "<p>避开2144版flash的方法有两种喵：</p><p>一、SSR全局代理访问<a href=\"https://get.adobe.com/cn/flashplayer/\">https://get.adobe.com/cn/flashplayer/</a>&nbsp;不行的话就加上无痕窗口喵</p><p>二、进台湾+香港版官网喵 <a href=\"https://get.adobe.com/tw/flashplayer/\">https://get.adobe.com/tw/flashplayer/</a></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-03T00:00:00.000Z",
+            "modifyTime": "2018-08-03T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "入乡随俗",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-15T00:00:00.000Z",
+            "modifyTime": "2018-07-15T00:00:00.000Z"
+        },
+        {
+            "author": 1751,
+            "body": "<p>老大哥没有忘记我们, Windows/Android水平不行的人, 就只能被间谍软体凌乳了<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-14T14:33:00.000Z",
+        "views": 1053,
+        "concerns": 12
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "type": "question",
+    "id": 1863,
+    "tags": [
+        {
+            "tag-id": 554,
+            "tag-name": "足球"
+        },
+        {
+            "tag-id": 675,
+            "tag-name": "世界杯"
+        }
+    ],
+    "detail": {
+        "title": "这届世界杯谁坠有可能夺冠？",
+        "body": "",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-09T00:00:00.000Z",
+        "modifyTime": "2018-07-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 765,
+            "body": "法国队<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180709/aad329a48a050bedb8d8ae25d70f97f5.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180709/aad329a48a050bedb8d8ae25d70f97f5.jpg\" class=\"img-polaroid\" title=\"mmexport1531148212844.jpg\" alt=\"mmexport1531148212844.jpg\"></a>\n</div>",
+            "agree-by": [
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 481,
+                    "user-name": "yin_bob"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-07-09T00:00:00.000Z",
+            "modifyTime": "2018-07-09T00:00:00.000Z"
+        },
+        {
+            "author": 1374,
+            "body": "英格兰<br>\n香港跑记者得快，所以英格兰球员也跑得快<br>\nQ.E.D",
+            "agree-by": [
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 1178,
+            "body": "<p>湖人队</p><p><img src=\"/uploads/ueditor/20180710/1531197400391401.jpg\" title=\"1531197400391401.jpg\" alt=\"7baa552c11dfa9ec3664bb9269d0f703908fc163.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>世界杯不知道，但这届续命大赛谁是冠军大家都知道。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "克罗地亚<br>\n无可奉告",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>泽西岛队，罗马尼亚队</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-10T00:00:00.000Z",
+            "modifyTime": "2018-07-10T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>巴拿马（蛤稽）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-11T00:00:00.000Z",
+            "modifyTime": "2018-07-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "世界杯上英格兰球员都穿红衣，是为女王续吗？",
+            "id": 1848
+        },
+        {
+            "title": "(附图) 如何评价习近平的球技？能否带领中国走向世界杯？",
+            "id": 1567
+        },
+        {
+            "title": "蛤丝们看世界杯了吗？",
+            "id": 1565
+        },
+        {
+            "title": "如何看待2018世界杯强队在第一场输球",
+            "id": 1591
+        },
+        {
+            "title": "如何评价法国4:2击败克罗地亚赢得世界杯？",
+            "id": 1930
+        },
+        {
+            "title": "中国民主化和中国足球队夺得世界杯哪个发生的概率更高一些?",
+            "id": 1666
+        },
+        {
+            "title": "法国队在世界杯上表现出色是否能证明中共中央提拔年轻干部的决策非常正确？",
+            "id": 1856
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-11T03:26:00.000Z",
+        "views": 304,
+        "concerns": 6
+    }
+}

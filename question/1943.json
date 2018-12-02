@@ -1,0 +1,84 @@
+{
+    "type": "question",
+    "id": 1943,
+    "tags": [
+        {
+            "tag-id": 173,
+            "tag-name": "胡锦涛"
+        }
+    ],
+    "detail": {
+        "title": "为什么胡会裸退",
+        "body": "<p>蛤还做了两年军事委员会<br></p>",
+        "author": 1199,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-16T00:00:00.000Z",
+        "modifyTime": "2018-07-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "正人君子，骑士精神，希望以身作则把这种形式传下去，可惜了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-16T00:00:00.000Z",
+            "modifyTime": "2018-07-16T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "没想到下一个居然是包，大搞个人崇拜",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-17T00:00:00.000Z",
+            "modifyTime": "2018-07-17T00:00:00.000Z"
+        },
+        {
+            "author": 1522,
+            "body": "胡有一股儒生气",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-17T00:00:00.000Z",
+            "modifyTime": "2018-07-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-07-16T19:40:00.000Z",
+        "views": 360,
+        "concerns": 4
+    }
+}

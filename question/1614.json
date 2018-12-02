@@ -1,0 +1,85 @@
+{
+    "type": "question",
+    "id": 1614,
+    "tags": [
+        {
+            "tag-id": 647,
+            "tag-name": "内战"
+        }
+    ],
+    "detail": {
+        "title": "新四军在抗日的时候闷声发大财了吗",
+        "body": "<p>这同我们军队的命运有很大的关系</p>",
+        "author": 1364,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-19T00:00:00.000Z",
+        "modifyTime": "2018-06-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "匪军自己承认的，一分抗日两分扩张（攻击国府，变相支持日军）七分发展<br>\n论联日抗战，毛润之敢称第二，也就汪兆铭总裁敢称第一了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1103,
+                    "user-name": "开着59压维尼"
+                },
+                {
+                    "user-id": 1364,
+                    "user-name": "吸精瓶"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-19T00:00:00.000Z",
+            "modifyTime": "2018-06-19T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>闷声发大财到赢下了中国大陆</p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-19T00:00:00.000Z",
+            "modifyTime": "2018-06-19T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>全是在国军杠正面的时候自己在敌后慢慢发展，最后骑到国民党头上了……</p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-19T00:00:00.000Z",
+            "modifyTime": "2018-06-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-06-19T11:38:00.000Z",
+        "views": 219,
+        "concerns": 3
+    }
+}

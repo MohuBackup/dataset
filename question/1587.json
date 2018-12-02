@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 1587,
+    "tags": [
+        {
+            "tag-id": 632,
+            "tag-name": "华莱士"
+        }
+    ],
+    "detail": {
+        "title": "Time flies very fast的更多解释？",
+        "body": "看到华莱士「飞」蛙问题想到的<br>\n时间≈生命。<br>\n飞走≈流失<br>\n那么这句话的意思是生命流失的很快吗？",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-17T00:00:00.000Z",
+        "modifyTime": "2018-06-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>为了体现长者的姿势水平和文化素养，正确的翻译应该是：白驹过隙</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 1092,
+                    "user-name": "高压聚乙烯"
+                },
+                {
+                    "user-id": 1457,
+                    "user-name": "rua"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "有双关之意。。<br>\n一来是好久不见<br>\n二来是你快凉了<br>\n（之后好像就没见过了）",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1092,
+                    "user-name": "高压聚乙烯"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>华莱士的时间流逝的飞快</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "检验你是否是真正的粉丝的时候到了，请解释下文中的膜点。",
+            "id": 1025
+        },
+        {
+            "title": "各位现在的态度是怎样的？膜乎只是一个少数人玩梗rbmh的地方，还是想要吸纳更多成员？",
+            "id": 1107
+        },
+        {
+            "title": "高中语文书上《我有一个梦》对美国梦的解释为“一个通用的口号”，中国梦呢？",
+            "id": 2444
+        },
+        {
+            "title": "如何解释“习以为常”？",
+            "id": 573
+        },
+        {
+            "title": "如何解释成语“胆大包天”？",
+            "id": 2139
+        },
+        {
+            "title": "如何解释主体思想",
+            "id": 1624
+        },
+        {
+            "title": "解释下查水表的流程是怎样的？",
+            "id": 4116
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-18T03:30:00.000Z",
+        "views": 243,
+        "concerns": 3
+    }
+}

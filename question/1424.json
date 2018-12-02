@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 1424,
+    "tags": [
+        {
+            "tag-id": 40,
+            "tag-name": "膜乎用户"
+        },
+        {
+            "tag-id": 69,
+            "tag-name": "膜乎管理员"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "如果看待愚蠢的回复验证码制度",
+        "body": "我不相信是修复服务器bug，防止连续发话题/回复的手段",
+        "author": 1377,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-12T00:00:00.000Z",
+        "modifyTime": "2018-06-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "<p>浪费时间的功能。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>这个验证码啊！boring！连着输入好几遍都不对！</p><p>I AM 安格瑞！</p>",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 855,
+            "body": "老旧的技术，现在一些先进网站已采用图片或自动人机验证",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么总有些人认为美帝的制度比中共的优秀",
+            "id": 1234
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-17T20:48:00.000Z",
+        "views": 217,
+        "concerns": 5
+    }
+}

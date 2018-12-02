@@ -1,0 +1,132 @@
+{
+    "type": "question",
+    "id": 1596,
+    "tags": [
+        {
+            "tag-id": 116,
+            "tag-name": "暴力"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 252,
+            "tag-name": "游戏"
+        }
+    ],
+    "detail": {
+        "title": "日语的感叹词，发音类似“江江”，是什么意思？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-18T00:00:00.000Z",
+        "modifyTime": "2018-06-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 898,
+            "body": "<p>じゃんじゃん<br>大概 当当 锵锵 啥的 拟声词？<br>对方用这个词 说明 你虽然跑得快 但是观察和看待事物的能力啊 还too simple sometimes naive 对方觉得有必要小小地 提醒你一蛤 给你一些啊 人生的经验 <br>#尬膜</p>",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1091,
+                    "user-name": "matsusaki"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-19T00:00:00.000Z",
+            "modifyTime": "2018-06-19T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>泽泽</p><p>民民</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-19T00:00:00.000Z",
+            "modifyTime": "2018-06-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜蛤有没有个人崇拜的意思？",
+            "id": 2022
+        },
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "等待我们的最坏的下场是什么？你们现在感到害怕吗？",
+            "id": 4011
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-18T23:58:00.000Z",
+        "views": 362,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "type": "question",
+    "id": 1966,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "本网粉丝最多的是哪个用户呀？",
+        "body": "<p>我要学习一个</p>",
+        "author": 1564,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-18T00:00:00.000Z",
+        "modifyTime": "2018-07-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "<p><a href=\"/people/EzawaNico\" class=\"aw-user-name\" data-id=\"1\">@EzawaNico</a> <br></p><p>默认关注，不过我就是取关了。<br></p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1428,
+                    "user-name": "Luoshuciyu"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "当蓝是站长EzawaNico啦",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-07-18T00:00:00.000Z",
+            "modifyTime": "2018-07-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        },
+        {
+            "title": "膜乎用户和知乎用户有哪些异同点？",
+            "id": 2389
+        },
+        {
+            "title": "如何评价膜乎用户@50cent？",
+            "id": 3821
+        },
+        {
+            "title": "有哪些图片是只有真正的粉丝才能看董的？",
+            "id": 448
+        },
+        {
+            "title": "有哪些值得关注的推特用户？",
+            "id": 1089
+        },
+        {
+            "title": "关于郑国成这个膜乎用户",
+            "id": 3306
+        },
+        {
+            "title": "如何评价推特用户“共青团流亡中央”？",
+            "id": 339
+        },
+        {
+            "title": "我们应不应该通过民主选举的方式来枪毙膜乎用户？",
+            "id": 1305
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-18T11:23:00.000Z",
+        "views": 166,
+        "concerns": 3
+    }
+}

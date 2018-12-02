@@ -1,0 +1,157 @@
+{
+    "type": "question",
+    "id": 1539,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 149,
+            "tag-name": "包子（广义的）"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        }
+    ],
+    "detail": {
+        "title": "习近平上台做了哪些坏事？",
+        "body": "<p>如题<br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-15T00:00:00.000Z",
+        "modifyTime": "2018-06-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1395,
+            "body": "参考《1984》，能干的他都干了",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-16T00:00:00.000Z",
+            "modifyTime": "2018-06-16T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "你要是问他没做过哪些坏事，我还能勉强回答出来，现在我只能说一句无可奉告，毕竟实在太多了",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-17T00:00:00.000Z",
+            "modifyTime": "2018-06-17T00:00:00.000Z"
+        },
+        {
+            "author": 1444,
+            "body": "把《1984》当作治国方针",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>反正就是参考我个性签名里这段话，中国朝地狱里冲。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>罄竹难书</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-16T00:00:00.000Z",
+            "modifyTime": "2018-06-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果上台的是薄熙来，会发生什么？",
+            "id": 492
+        },
+        {
+            "title": "独裁主义一定是坏事吗？",
+            "id": 3723
+        },
+        {
+            "title": "长者为什么要钦定包子上台",
+            "id": 2110
+        },
+        {
+            "title": "如果国共内战国民党打赢，是好事还是坏事？",
+            "id": 753
+        },
+        {
+            "title": "如果上台的是长者，会发生什么？",
+            "id": 146
+        },
+        {
+            "title": "所以包子是怎么上台的啊？？",
+            "id": 812
+        },
+        {
+            "title": "国共内战共产党打赢，是好事还是坏事？",
+            "id": 749
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-21T10:43:00.000Z",
+        "views": 1036,
+        "concerns": 6
+    }
+}

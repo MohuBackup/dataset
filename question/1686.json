@@ -1,0 +1,116 @@
+{
+    "type": "question",
+    "id": 1686,
+    "tags": [
+        {
+            "tag-id": 423,
+            "tag-name": "网站"
+        },
+        {
+            "tag-id": 331,
+            "tag-name": "舆论"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "2018年知乎用户的风格和几年前相比有什么变化？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-24T00:00:00.000Z",
+        "modifyTime": "2018-06-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "政治敏感删除度和防火墙的高度一样高，想法删得厉害，我有网友遭殃了<br>\n以前是拖出去续，后来是枪毙名单，之后是为国家省点子弹，现在不知道如何了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1307,
+            "body": "<p>上个月在知乎看到一个问题是“你是什么时候觉得自己的手机很好的？”把我恶心透了，就再也不去知乎了。</p><p>百度知道都不会有这种弱智问题。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "上限更高了，下限更低了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何把宿舍装修成膜法风格？",
+            "id": 299
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        },
+        {
+            "title": "中共会不会在2018年崩溃？",
+            "id": 1248
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "如何看待知乎在各大 App 平台上全线下架？",
+            "id": 62
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
+        },
+        {
+            "title": "膜乎用户和知乎用户有哪些异同点？",
+            "id": 2389
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-26T04:14:00.000Z",
+        "views": 296,
+        "concerns": 4
+    }
+}

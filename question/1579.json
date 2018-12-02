@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 1579,
+    "tags": [
+        {
+            "tag-id": 215,
+            "tag-name": "膜包"
+        },
+        {
+            "tag-id": 461,
+            "tag-name": "乳蛤"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何评价乳蛤膜包？",
+        "body": "是轮子？被习脑？还是被活摘？",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-17T00:00:00.000Z",
+        "modifyTime": "2018-06-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2645,
+            "body": "<p>轮子的日常</p>",
+            "agree-by": [
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                },
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "乳蛤膜包，简称乳包。到最后还是要乳包。",
+            "agree-by": [
+                {
+                    "user-id": 2645,
+                    "user-name": "子弹尖名单长"
+                },
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>安格瑞！naive！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>那就是刁本人。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-24T23:22:00.000Z",
+        "views": 387,
+        "concerns": 4
+    }
+}

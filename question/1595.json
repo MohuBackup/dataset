@@ -1,0 +1,66 @@
+{
+    "type": "question",
+    "id": 1595,
+    "tags": [
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何评价江世俊？",
+        "body": "",
+        "author": 855,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-18T00:00:00.000Z",
+        "modifyTime": "2018-06-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "虵的生父",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "习仲勋就比他差一个",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价江主席的书法？",
+            "id": 754
+        },
+        {
+            "title": "如何评价江绵恒？",
+            "id": 262
+        },
+        {
+            "title": "如何评价江之永？",
+            "id": 389
+        },
+        {
+            "title": "如何评价江本胜博士？",
+            "id": 4120
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-17T22:50:00.000Z",
+        "views": 167,
+        "concerns": 1
+    }
+}

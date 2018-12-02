@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 1982,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "我要去看病，这家诊所吼不吼？",
+        "body": "<p>图/马库西姆</p><p><img src=\"/uploads/ueditor/20180719/1531988563216628.jpg\" title=\"1531988563216628.jpg\" alt=\"QQ图片20180719162103.jpg\"></p>",
+        "author": 54,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-19T00:00:00.000Z",
+        "modifyTime": "2018-07-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1561,
+            "body": "看什么病？脑膜炎？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1559,
+                    "user-name": "AF421"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>这家医院已经有九十多年的历史了，历史悠久，身经百战。并且媒体认为这家医院还可以继续开下去。</p><p>但是它也有缺点，因为只能治疗脑膜炎，受到了广泛的批评。此外消耗时间过长，导致efficiency下降也是个问题。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 1507,
+            "body": "吼啊！",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>吃枣?</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "门诊什么啊？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "把《Flappy Frog》膜改成《Flappy Winnie》吼不吼？",
+            "id": 585
+        },
+        {
+            "title": "这个cosplay吼不吼啊",
+            "id": 2805
+        },
+        {
+            "title": "我们一起看平语近人，学习习近平语录吼不吼哇？",
+            "id": 3287
+        },
+        {
+            "title": "包子的“四个伟大”吼不吼哇？",
+            "id": 3612
+        },
+        {
+            "title": "大家觉得这位同学画的吼不吼啊",
+            "id": 2280
+        },
+        {
+            "title": "新作转卐包卐轮，大家觉得我以后把乳包图片(原创)都分享到膜乎吼不吼蛙？",
+            "id": 1901
+        },
+        {
+            "title": "8年后的长者百年诞辰请长者本人发表讲话大家觉得吼不吼啊？",
+            "id": 678
+        },
+        {
+            "title": "大家觉得把这当国歌吼不吼啊？",
+            "id": 1417
+        },
+        {
+            "title": "开发膜乎App上架Google Play吼不吼啊？",
+            "id": 834
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-19T10:07:00.000Z",
+        "views": 245,
+        "concerns": 6
+    }
+}

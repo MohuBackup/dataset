@@ -1,0 +1,129 @@
+{
+    "type": "question",
+    "id": 1440,
+    "tags": [
+        {
+            "tag-id": 116,
+            "tag-name": "暴力"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 201,
+            "tag-name": "小粉红"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何看待膜乎用户强势洗白城管？",
+        "body": "<p>下个被洗白的是不是包子？</p>",
+        "author": 1379,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-12T00:00:00.000Z",
+        "modifyTime": "2018-06-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>蒙上眼睛，城管就是黑的，张开眼睛，城管还是黑的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1379,
+                    "user-name": "习近平傻逼"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        },
+        {
+            "author": 927,
+            "body": "<p>以后还要洗白64，洗白共产党。等着吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 1379,
+                    "user-name": "习近平傻逼"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        },
+        {
+            "author": 934,
+            "body": "<p>给城管说句公正话就叫洗白了？这个想法有点naive了。</p><p><br></p><p>城管队伍里有素质低的，也有正儿八经文明执法的嘛</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 4,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-12T05:29:00.000Z",
+        "views": 191,
+        "concerns": 4
+    }
+}

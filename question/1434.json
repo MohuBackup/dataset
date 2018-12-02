@@ -1,0 +1,132 @@
+{
+    "type": "question",
+    "id": 1434,
+    "tags": [
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 102,
+            "tag-name": "GFW"
+        },
+        {
+            "tag-id": 15,
+            "tag-name": "互联网"
+        },
+        {
+            "tag-id": 26,
+            "tag-name": "如何评价 X"
+        },
+        {
+            "tag-id": 648,
+            "tag-name": "Steam"
+        },
+        {
+            "tag-id": 252,
+            "tag-name": "游戏"
+        }
+    ],
+    "detail": {
+        "title": "如何看待Steam将推出中国版",
+        "body": "<p>Valve 将联合完美世界推出中国版 Steam&nbsp;今天（6 月 12 日），Valve 宣布将与完美世界预计合作，将 Steam 游戏市场和服务正式带入中国市场。Valve 暂未公布具体时间和相关细节。Valve 表示中国版 Steam 将不会影响目前已有的其他服务，Valve 将与完美世界一起在市场推广和游戏阵容上一起努力，为中国玩家和开发者提供接入 Steam 的新方式。<br>Via： https://www.theverge.com/2018/6/11/17451484/steam-china-announced-valve-perfect-world<br></p><p>steam社区是否药丸？</p>",
+        "author": 10,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-12T00:00:00.000Z",
+        "modifyTime": "2018-06-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 617,
+            "body": "<p>如果没有创意工坊，这是坠痛苦的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1379,
+                    "user-name": "习近平傻逼"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        },
+        {
+            "author": 1379,
+            "body": "<p>就怕原版steam玩不了了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-12T04:21:00.000Z",
+        "views": 213,
+        "concerns": 2
+    }
+}

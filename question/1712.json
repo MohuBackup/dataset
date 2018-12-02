@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 1712,
+    "tags": [
+        {
+            "tag-id": 253,
+            "tag-name": "推特"
+        }
+    ],
+    "detail": {
+        "title": "如何防止推特号被锁定？",
+        "body": "刚才推特号又被锁了……神特么怀疑我是机器人，我觉得可能是我用国内电话号码和免费vpn不稳定的问题…………烦死了。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180624/a788a410dd96b6d047524afcc7407278.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180624/a788a410dd96b6d047524afcc7407278.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-06-25-01-50-50-31.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-25T00:00:00.000Z",
+        "modifyTime": "2018-06-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>有没有可能联系到twitter管理员，跟他说说是墙国内的，要翻墙用，但是VPN的锅。twitter应该不会锁中国区吧。</p><p>BTW 你的这个twitter账号里的数字啊，excitied</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>首先啊，你这个要先锁自己的推，防止被坏人粉红举报。然后哇，以后看到粉红不要争辩，直接举报屏蔽就完了。</p>",
+            "agree-by": [
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1234,
+            "body": "我沒碰到這個問題，也是國內號，免費vpn",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        },
+        {
+            "author": 54,
+            "body": "<p>推特说我未满13岁，把我锁了。我一脸懵逼。</p><p>我提交了我的身份证，但是他们到现在还没给我回邮件。<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-26T00:00:00.000Z",
+            "modifyTime": "2018-06-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果中国实现了民主化，怎样防止中国“解体”？",
+            "id": 1113
+        },
+        {
+            "title": "怎样防止因为闹的欢而被拉清单？",
+            "id": 487
+        },
+        {
+            "title": "强烈建议提高新用户注册的准入门槛，防止包卫兵借尸还魂",
+            "id": 2375
+        },
+        {
+            "title": "如何看待问题“在膜乎讨论膜乎管理员会有什么后果？”被锁定？",
+            "id": 83
+        },
+        {
+            "title": "如何防止境外中文问答网站被续？",
+            "id": 4086
+        },
+        {
+            "title": "推特号被锁定后要怎么解除？",
+            "id": 1308
+        },
+        {
+            "title": "对待文化产业的态度是不是宁愿让其彻底烂掉也要防止其触碰意识形态？",
+            "id": 1142
+        },
+        {
+            "title": "如何評價許雲飛的推特號在反賊化後，之前的举报全部瞬间生效（包括我的），导致徐云飞的推特号瞬間蒸發？[图片]突然間我收到了舉報成功的更新，然後這時去看許大佐，大佐已經消失。",
+            "id": 2552
+        },
+        {
+            "title": "如何防止推特号被封或锁",
+            "id": 1602
+        },
+        {
+            "title": "生活在大数据时代，如何防止自己的隐私泄露？",
+            "id": 1692
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-26T06:57:00.000Z",
+        "views": 537,
+        "concerns": 5
+    }
+}

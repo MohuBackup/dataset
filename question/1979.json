@@ -1,0 +1,88 @@
+{
+    "type": "question",
+    "id": 1979,
+    "tags": [
+        {
+            "tag-id": 136,
+            "tag-name": "政治敏感"
+        },
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        }
+    ],
+    "detail": {
+        "title": "外媒说8341卫戍部队还是老江掌控，是真是假？",
+        "body": "<p>京师卫戍部队，中央警卫团</p>",
+        "author": 1564,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-19T00:00:00.000Z",
+        "modifyTime": "2018-07-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1453,
+            "body": "不要见得风是的雨，自己也要学会判断",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>无可奉告</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-19T00:00:00.000Z",
+            "modifyTime": "2018-07-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "EzawaNico自称魔法少女到底是真是假？",
+            "id": 1967
+        },
+        {
+            "title": "这种言论是真是假？",
+            "id": 2860
+        },
+        {
+            "title": "活摘到底是真是假？",
+            "id": 1972
+        },
+        {
+            "title": "还真是这么回事",
+            "id": 2566
+        },
+        {
+            "title": "坊间传言：聂树斌被枪毙是为了换器官给章含之，是真是假？",
+            "id": 1995
+        },
+        {
+            "title": "如何评价邵雍的《梅花诗》，是真是假?",
+            "id": 1664
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-19T10:12:00.000Z",
+        "views": 374,
+        "concerns": 3
+    }
+}
