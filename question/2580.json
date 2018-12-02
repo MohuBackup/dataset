@@ -1,0 +1,150 @@
+{
+    "type": "question",
+    "id": 2580,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 256,
+            "tag-name": "和谐"
+        }
+    ],
+    "detail": {
+        "title": "p2p暴雷大家怎么看？",
+        "body": "",
+        "author": 1586,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-11T00:00:00.000Z",
+        "modifyTime": "2018-09-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2174,
+            "body": "<p>据说是赵家为了消灭自己搞下的天量债务，把其打包成p2p投资模式，然后把债务转嫁到韭菜那里，然后搞p2p的也就是自己家养的狗，肯定不能打了，然后就出了这档子事。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1216,
+                    "user-name": "fix"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>刘昆拉响汽笛，<br></p><p>近平敲起钟，</p><p>中南海发出信号，</p><p>赵国朝地狱里冲！</p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "想当年，90年代初期阿尔巴尼亚也玩过一次非法集资爆雷，民众散步上街打砸抢，导致政府倒台，有兴趣的可以搜索“阿尔巴尼亚  传销”",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "求大家推荐一款精准的狙击枪，我“精准扶贫”要用的",
+            "id": 2015
+        },
+        {
+            "title": "大家有没有这样的经历：“虵无处不在”？",
+            "id": 350
+        },
+        {
+            "title": "大家希不希望祖国强大？",
+            "id": 3367
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-11T08:17:00.000Z",
+        "views": 247,
+        "concerns": 5
+    }
+}

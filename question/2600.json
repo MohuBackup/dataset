@@ -1,0 +1,741 @@
+{
+    "type": "question",
+    "id": 2600,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 463,
+            "tag-name": "学习"
+        },
+        {
+            "tag-id": 136,
+            "tag-name": "政治敏感"
+        }
+    ],
+    "detail": {
+        "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+        "body": "<p>几个破梗玩来玩去的，都翻烂了，还天天复读机，有意思么。</p><p><br></p><p>为什么没有见到比较深刻的讨论，毕竟精辟的间接？感觉不如隔壁品葱</p>",
+        "author": 1564,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-12T00:00:00.000Z",
+        "modifyTime": "2018-09-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2194,
+            "body": "<p>人民喜闻乐见，你不喜欢，你算老几？</p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --周恩来</p>",
+            "agree-by": [
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 868,
+                    "user-name": "GUT412454"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1159,
+                    "user-name": "默然"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 1713,
+                    "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1734,
+                    "user-name": "社会我江哥"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                },
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                },
+                {
+                    "user-id": 2313,
+                    "user-name": "Yorotoyo"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "这里是粉丝的聚集地，不是左右派的战场",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2174,
+                    "user-name": "Naiiiiiive"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1527,
+                    "user-name": "月莫"
+                },
+                {
+                    "user-id": 2033,
+                    "user-name": "ExcitedFrogJZM"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1159,
+                    "user-name": "默然"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 1713,
+                    "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                },
+                {
+                    "user-id": 2012,
+                    "user-name": "Peace_walker"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>膜乎不膜还叫膜乎吗？</p><p>这个网站创建的目的就是用来膜蛤的，不是像品葱一样单单作为政治论坛。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1527,
+                    "user-name": "月莫"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                },
+                {
+                    "user-id": 1507,
+                    "user-name": "yaoyujie"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 1713,
+                    "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 2174,
+            "body": "这个地方就是大家作诗膜蛤的地方，不喜欢就去品葱，不要来这边。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1507,
+                    "user-name": "yaoyujie"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>fa？破站好久没正经膜蛤力，，，都在乳包<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1529,
+                    "user-name": "noob"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>我觉得还是需要学习一个。非常熟悉品葱那一套理论，但问来问去的问题啊，还是too young。你看边上相关问题和推荐内容，这里答题的和睦气氛，比品葱不知道高到哪里去了！我们在这啊，谈笑风生！</p>",
+            "agree-by": [
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1911,
+                    "user-name": "kiana"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 1159,
+            "body": "本来这里就是个娱乐性的社区，不膜才不正常。<br>\n不过我还是资瓷多讨论下时政，毕竟蛤丝群体粉红也不少，有必要普及一下政治常识，毕竟中国未来十年相当危险，普及政治有助于在政治剧变的过程中尽量让更多人能更温和的过渡，更好的来迎接一个真正的新中国",
+            "agree-by": [
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 2140,
+                    "user-name": "Renaissance"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 2039,
+            "body": "你想被批判一番？！",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1911,
+                    "user-name": "kiana"
+                },
+                {
+                    "user-id": 2735,
+                    "user-name": "侠盗猎车五崔佛"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 1570,
+            "body": "其实这里直接膜蛤倒不多，大多是乳包。",
+            "agree-by": [
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>膜乎一开始时貌似是开设一个不像知乎那么鹳狸猿的网站...去产生的。</p><p>（产妇的产）</p><p>这↑里↓什么都可以讨论</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2207,
+                    "user-name": "Katusha02"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "小同志，看来你适合送回墙内知乎接受社会主义改造！哼！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1911,
+                    "user-name": "kiana"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 1498,
+            "body": "<p>嗯，不过这↑里↓本身也只是亚文化的产物罢了，娱乐性居多，</p><p>足够的深刻的见解源于自身阅览的多少和其思考的进程，看几段文字就觉得自己升华了，那是隔壁知乎吧。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1957,
+                    "user-name": "MoriyaSuwako"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 1957,
+            "body": "人类的本质是?<br>\nA.时间存储器<br>\nB.红衣模特<br>\nC.复读机<br>\nD.人类的本质是?",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 2254,
+            "body": "<p>感觉膜乎大多数人坚持“膜蛤乳包”的政治立场，品葱各种激进派太多。而且膜乎更加贴近中国的网络文化圈，有很多讨论关于墙内网站（如b站）的问题，而品葱很多都是港台用户和海外华人，他们或许根本不了解我国的真实情况。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "然而首页不都是讨论政治的么",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 1477,
+            "body": "有意思",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-12T00:00:00.000Z",
+            "modifyTime": "2018-09-12T00:00:00.000Z"
+        },
+        {
+            "author": 1488,
+            "body": "大家都决定了，楼主来提高膜乎的姿势水平",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 1701,
+            "body": "蛤蛤蛤？岂不美哉？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        },
+        {
+            "author": 604,
+            "body": "乳包确实趋同化，希望多挖掘新黑点",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-13T00:00:00.000Z",
+            "modifyTime": "2018-09-13T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-16T14:28:00.000Z",
+        "views": 1058,
+        "concerns": 18
+    }
+}

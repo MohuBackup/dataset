@@ -1,0 +1,100 @@
+{
+    "type": "question",
+    "id": 2382,
+    "tags": [
+        {
+            "tag-id": 146,
+            "tag-name": "学生运动"
+        }
+    ],
+    "detail": {
+        "title": "请问佳士工人事件是否说明政府是人民币的好公仆？",
+        "body": "<p>如果我们的铁骑直接驰骋在工人的住所！</p>",
+        "author": 1911,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-26T00:00:00.000Z",
+        "modifyTime": "2018-08-26T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "应该是美元",
+            "agree-by": [
+                {
+                    "user-id": 1911,
+                    "user-name": "kiana"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-08-26T00:00:00.000Z",
+            "modifyTime": "2018-08-26T00:00:00.000Z"
+        },
+        {
+            "author": 1709,
+            "body": "政府是党的爪牙",
+            "agree-by": [
+                {
+                    "user-id": 1911,
+                    "user-name": "kiana"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-29T00:00:00.000Z",
+            "modifyTime": "2018-08-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "如何看待董存瑞的妹妹称暴走大事件并没有侮辱董存瑞？",
+            "id": 1007
+        },
+        {
+            "title": "如何评价汝溪加油站名称未被核准事件？",
+            "id": 2731
+        },
+        {
+            "title": " 如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
+            "id": 599
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如何評價深圳近期的工人、學生運動?",
+            "id": 2315
+        },
+        {
+            "title": "如何看待某学校学生翻墙被抓事件？",
+            "id": 330
+        },
+        {
+            "title": "政府为什么要向民众隐瞒64事件",
+            "id": 695
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-29T04:26:00.000Z",
+        "views": 327,
+        "concerns": 4
+    }
+}

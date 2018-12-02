@@ -1,0 +1,100 @@
+{
+    "type": "question",
+    "id": 2566,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 87,
+            "tag-name": "历史"
+        }
+    ],
+    "detail": {
+        "title": "还真是这么回事",
+        "body": "<p><img src=\"/uploads/ueditor/20180910/1536555089733023.jpg\" title=\"1536555089733023.jpg\" alt=\"01.jpg\"></p>",
+        "author": 2115,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-10T00:00:00.000Z",
+        "modifyTime": "2018-09-10T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "剥削的太厉害，社会已经不稳定了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "8.也可能强行文革。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>会玩</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "EzawaNico自称魔法少女到底是真是假？",
+            "id": 1967
+        },
+        {
+            "title": "这种言论是真是假？",
+            "id": 2860
+        },
+        {
+            "title": "活摘到底是真是假？",
+            "id": 1972
+        },
+        {
+            "title": "外媒说8341卫戍部队还是老江掌控，是真是假？",
+            "id": 1979
+        },
+        {
+            "title": "坊间传言：聂树斌被枪毙是为了换器官给章含之，是真是假？",
+            "id": 1995
+        },
+        {
+            "title": "如何评价邵雍的《梅花诗》，是真是假?",
+            "id": 1664
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-10T08:29:00.000Z",
+        "views": 266,
+        "concerns": 4
+    }
+}

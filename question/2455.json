@@ -1,0 +1,173 @@
+{
+    "type": "question",
+    "id": 2455,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 330,
+            "tag-name": "网络安全"
+        },
+        {
+            "tag-id": 692,
+            "tag-name": "隐私"
+        }
+    ],
+    "detail": {
+        "title": "如何最大限度的保护自己在网络上的隐私？（从不被查水表到不被人肉这类的）",
+        "body": "<p>比如说上网用vpntor，注册各种东西用网上找到的假身份证信息，自己开车不坐火车，不用移动支付或是银行卡完全不关联自己的任何网络账号之类的</p>",
+        "author": 1713,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-02T00:00:00.000Z",
+        "modifyTime": "2018-09-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 174,
+            "body": "<p>国内网站想防共产党查水表很困难。但是有一些招数可以防其他人的人肉，典型的手段是不经意多造点假信息就行了。比如你本来在A省B市，身份是学生，但是你在论坛上一直说自己来自C省D市，身份是白领。反复少量不断制造这种假身份信息，就很容易把人肉你的人带偏。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                },
+                {
+                    "user-id": 1664,
+                    "user-name": "陈浩蓝"
+                },
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-02T00:00:00.000Z",
+            "modifyTime": "2018-09-02T00:00:00.000Z"
+        },
+        {
+            "author": 855,
+            "body": "移民",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-02T00:00:00.000Z",
+            "modifyTime": "2018-09-02T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>干脆就直接拿已出道的小粉红的身份来“实名上外网”就好了，也减轻国宝叔叔的工作量。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-02T00:00:00.000Z",
+            "modifyTime": "2018-09-02T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "拿衣服！你以为满街的摄像头是说着玩的",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-02T00:00:00.000Z",
+            "modifyTime": "2018-09-02T00:00:00.000Z"
+        },
+        {
+            "author": 868,
+            "body": "像编程随想一样，严密保护进行敏感活动的身份，对于一般的身份不作什么要求。<br>\n毕竟你说是为了防查水表，不是为了防被查到个人信息。<br>\n不知道你说的人肉具体是哪种，是breakwa11那种对敏感人士的人肉，还是对普通人（普通身份）的人肉。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-02T00:00:00.000Z",
+            "modifyTime": "2018-09-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "膜乎社区有没有可能发展线下聚会且不被集体枪毙的可能性？",
+            "id": 1466
+        },
+        {
+            "title": "膜乎如何保护依旧在大陆没有移民的用户的隐私安全",
+            "id": 2384
+        },
+        {
+            "title": "如何看待国内网络流行的香甜的空气等形容词？",
+            "id": 2671
+        },
+        {
+            "title": "如何看待知乎隐私条例中的“不同意”按钮不能点？",
+            "id": 516
+        },
+        {
+            "title": "蛤丝们应该如何庆祝乳包节而不被枪毙?",
+            "id": 1517
+        },
+        {
+            "title": "如何看待韩国网络实名制的废除",
+            "id": 3308
+        },
+        {
+            "title": "现在充斥网络的小粉红有没有向红卫兵发展趋势",
+            "id": 2144
+        },
+        {
+            "title": "被查水表是一种什么样的体验？",
+            "id": 175
+        },
+        {
+            "title": "膜蛤文化的兴起与网络的封锁有关系吗？",
+            "id": 830
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-02T15:48:00.000Z",
+        "views": 411,
+        "concerns": 5
+    }
+}

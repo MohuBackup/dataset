@@ -1,0 +1,112 @@
+{
+    "type": "question",
+    "id": 2321,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        }
+    ],
+    "detail": {
+        "title": "如何买到主席同款的物品？",
+        "body": "<p>比如说鸡年送的鸡，同款眼镜，还有其他东西，有没有淘宝链接之类的</p>",
+        "author": 866,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-21T00:00:00.000Z",
+        "modifyTime": "2018-08-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p><a href=\"https://www.douban.com/doulist/44604193/\">https://www.douban.com/doulist/44604193/</a></p><p>这里有一些膜蛤的，但并不同款，这是坠痛苦的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-21T00:00:00.000Z",
+            "modifyTime": "2018-08-21T00:00:00.000Z"
+        },
+        {
+            "author": 1498,
+            "body": "<p>貌似没有的样子，即使有可能也只能在现实中买吧。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-21T00:00:00.000Z",
+            "modifyTime": "2018-08-21T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>我認為那個可能衹能自己製作，同款的可能衹能在n年以後出現在拍賣場的時候才能買到了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-21T00:00:00.000Z",
+            "modifyTime": "2018-08-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "同学们都认为习近平当主席好，治理国家好，我该怎么办？（见补充）",
+            "id": 2448
+        },
+        {
+            "title": "如何参加中国国家主席选举？",
+            "id": 469
+        },
+        {
+            "title": "华莱士为什么说江主席是最后一位独裁者？",
+            "id": 1096
+        },
+        {
+            "title": "如何评价习主席胸章/领章？",
+            "id": 443
+        },
+        {
+            "title": "为什么江主席比包有风度？",
+            "id": 660
+        },
+        {
+            "title": "如何看待愛赵小將的言論“日本天皇吃習主席的狗屎”？",
+            "id": 2723
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "越南国家主席任内去世 享年61岁 膜乎的各位觉得习还能活多久",
+            "id": 2786
+        },
+        {
+            "title": "B站上有哪些视频能看到江主席，而且没有被禁评？",
+            "id": 1329
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-21T14:02:00.000Z",
+        "views": 442,
+        "concerns": 5
+    }
+}

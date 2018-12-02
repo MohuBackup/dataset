@@ -1,0 +1,192 @@
+{
+    "type": "question",
+    "id": 2193,
+    "tags": [
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 692,
+            "tag-name": "隐私"
+        },
+        {
+            "tag-id": 330,
+            "tag-name": "网络安全"
+        }
+    ],
+    "detail": {
+        "title": "如何在不使用大陆手机号的前提下使用谷歌和推特",
+        "body": "<p>如题，谷歌和推特现在如果要使用，都需要有大陆的手机号，但是现在谷歌传闻有可能重回大陆，所以用大陆的手机号注册谷歌并不安全，因为无法排除谷歌把手机号交给大陆当局的情况。</p><p><br></p><p>推特同样，我在推特上每天膜蛤乳包，万一有一天我的手机号泄露了，那估计就要被抓起来续了。</p><p><br></p><p>请问诸位，有没有什么办法在不使用大陆手机号的前提下注册和使用这两个网站？</p><p><br></p><p>另外推特一直在这个界面，非要发验证短信，否则没法正常使用。</p><p><img src=\"/uploads/ueditor/20180807/1533631210481562.png\" title=\"1533631210481562.png\" alt=\"QQ拼音截图未命名.png\"></p>",
+        "author": 1674,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-07T00:00:00.000Z",
+        "modifyTime": "2018-08-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>买一个电话卡</p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 1669,
+                    "user-name": "贾文和"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-07T00:00:00.000Z",
+            "modifyTime": "2018-08-07T00:00:00.000Z"
+        },
+        {
+            "author": 542,
+            "body": "<p>Twitter可以用邮箱注册</p><p>Google没有必要注册</p>",
+            "agree-by": [
+                {
+                    "user-id": 1092,
+                    "user-name": "高压聚乙烯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-08-07T00:00:00.000Z",
+            "modifyTime": "2018-08-07T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>我也是永远在那个界面</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-07T00:00:00.000Z",
+            "modifyTime": "2018-08-07T00:00:00.000Z"
+        },
+        {
+            "author": 866,
+            "body": "<p>获得一张国外的电话卡才是最好的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-13T00:00:00.000Z",
+            "modifyTime": "2018-08-13T00:00:00.000Z"
+        },
+        {
+            "author": 1740,
+            "body": "<p>您可以通过临时手机号来注册。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-13T00:00:00.000Z",
+            "modifyTime": "2018-08-13T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "<p>记得有个免费美国手机号的软件。</p><p>此外我只有Google用了中国手机号，其余的都是用的 Google Voice 送的美国手机号 = = Twitter验证不了可以试试</p><p>既然都能翻墙上膜乎了还想什么，直接还像以前那样翻墙上谷歌不就行了呗。当自己是个国外谷歌用户就行了，大陆手机号这方面，既然我们一直在用国外的谷歌，自然问题不会太大。</p><p><br></p><p>此外Twitter不支持直接验证大陆手机号，三年前我也遇到过同样的尴尬状况，明明好好用着突然有一天让我验证，我在那里也是卡了好几天 = = 解决方法是向某个国外的号码发四条短信，这个百度经验上有号码和内容的教程，可以去看看。。。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        },
+        {
+            "author": 763,
+            "body": "淘宝买个号",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        },
+        {
+            "author": 1418,
+            "body": "<p>翻墙的这么多，管不过来的</p><p>忙着管国内的就够他们喝一壶了</p><p>我相信谷歌不会轻易屈服的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        },
+        {
+            "author": 1103,
+            "body": "<p>我谷歌和推特都是用大陆的号码，可以正常收短信，实在不行就去textnow弄个美国号码</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        },
+        {
+            "author": 1467,
+            "body": "淘宝十块钱买一个google voice<br>\n而且你（我）在共党眼里算哪根葱他们要你的个人信息",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "如何评价人民日报官方推特关注反共分子？",
+            "id": 1382
+        },
+        {
+            "title": "有哪些在大陆被禁止的歌曲？",
+            "id": 1531
+        },
+        {
+            "title": "如何看待批站小將（血小板萌萌哒）入住推特，並要求推特原住民們集體移民微博的事例？？",
+            "id": 2599
+        },
+        {
+            "title": "如何评价大陆特供版 Flash Player 的流氓行为？",
+            "id": 1916
+        },
+        {
+            "title": "有哪些值得关注的推特用户？",
+            "id": 1089
+        },
+        {
+            "title": "膜乎如何保护依旧在大陆没有移民的用户的隐私安全",
+            "id": 2384
+        },
+        {
+            "title": "如何评价推特用户“共青团流亡中央”？",
+            "id": 339
+        },
+        {
+            "title": "如果中国未来陷入了长时间大规模的饥荒或战乱，台湾能否成为大陆华人的第二家园？",
+            "id": 2883
+        },
+        {
+            "title": "各位觉得大陆简体字哪个比较怪异（难看）？",
+            "id": 2649
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-14T11:49:00.000Z",
+        "views": 726,
+        "concerns": 13
+    }
+}

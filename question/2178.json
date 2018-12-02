@@ -1,0 +1,152 @@
+{
+    "type": "question",
+    "id": 2178,
+    "tags": [
+        {
+            "tag-id": 29,
+            "tag-name": "续命"
+        }
+    ],
+    "detail": {
+        "title": "有洋文好的粉丝们翻译成汉字吗",
+        "body": "<p><img src=\"/uploads/ueditor/20180806/1533528676359317.jpg\" title=\"1533528676359317.jpg\" alt=\"36c6e2599ce0472d8ae4d784431f68bc.jpg\"></p>",
+        "author": 1675,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-06T00:00:00.000Z",
+        "modifyTime": "2018-08-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>你要是能苟住不被弄死，你就可以加倍的续攻击你的角色的命。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1467,
+                    "user-name": "习远平"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1092,
+                    "user-name": "高压聚乙烯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>用了這卡之後，衹要是對你造成過傷害但是沒能殺死你的，在回合結束後雙倍返還傷害。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>mogic</p>",
+            "agree-by": [
+                {
+                    "user-id": 1675,
+                    "user-name": "习酱"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 1453,
+            "body": "<p>那个叫洋文</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "有哪些图片是只有真正的粉丝才能看董的？",
+            "id": 448
+        },
+        {
+            "title": "如何评价知乎程序员的洋文水平？",
+            "id": 602
+        },
+        {
+            "title": "检验你是否是真正的粉丝的时候到了，请解释下文中的膜点。",
+            "id": 1025
+        },
+        {
+            "title": "包子洋文水平如何？",
+            "id": 2896
+        },
+        {
+            "title": "知乎雇的管理员是不是只学过“政治敏感”这四个汉字，说话写字表达情绪都只会使用这四个字，并且根本不懂这四个字的真正意思？（类似银河护卫队格鲁特，表达任何意思他都说I am groot）",
+            "id": 3290
+        },
+        {
+            "title": "如何评价真正的粉丝在习习踢威上暴力膜蛤？[图片][链接]",
+            "id": 3171
+        },
+        {
+            "title": "洋文好是一种什么样的体验？",
+            "id": 1521
+        },
+        {
+            "title": "大家都是什么时候成为小鬼然后再成为真正的粉丝的",
+            "id": 807
+        },
+        {
+            "title": "我觉得“膜”翻译成“mock”要好于“worship”？",
+            "id": 2023
+        },
+        {
+            "title": "2018年长者诞生祭直播 粉丝来信征集开始！",
+            "id": 2125
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-06T10:33:00.000Z",
+        "views": 296,
+        "concerns": 5
+    }
+}

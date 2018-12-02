@@ -1,0 +1,112 @@
+{
+    "type": "question",
+    "id": 2052,
+    "tags": [
+        {
+            "tag-id": 457,
+            "tag-name": "国民党"
+        }
+    ],
+    "detail": {
+        "title": "国粉真的人人喊打吗？",
+        "body": "<p>墙内经常有“国粉现在是人人喊打”“美分是立场问题，国粉是智商问题”，希望大家不要打我，因为我算是半个国粉<br></p>",
+        "author": 1586,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-24T00:00:00.000Z",
+        "modifyTime": "2018-07-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "不会，我就是国粉，在班里不光没挨骂，还成功把三个团员带成了国粉",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1644,
+                    "user-name": "九厅厅长"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-07-24T00:00:00.000Z",
+            "modifyTime": "2018-07-24T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>因为大部分国粉姿势水平略低, 通常只会围绕两个话题：抗战中国军做了多少贡献，共党做了多少恶。纠结于历史，是不可能驳倒五毛的。我们必须要承认KMT也有不堪的历史，共产党在历史进程中作出的贡献。 真正的国粉，应当充分了解三民主义和五权宪法的内涵和历史，包括马列的思想和毛的思想与作为等等，才能意识到KMT和CPC的本质性不同。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1644,
+                    "user-name": "九厅厅长"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-01T00:00:00.000Z",
+            "modifyTime": "2018-08-01T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>中共肯定会这么说啊</p>",
+            "agree-by": [
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-08-01T00:00:00.000Z",
+            "modifyTime": "2018-08-01T00:00:00.000Z"
+        },
+        {
+            "author": 1644,
+            "body": "<p>我也是国粉</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-01T00:00:00.000Z",
+            "modifyTime": "2018-08-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么“民主大统一论”在外网不受欢迎，甚至被视为脑残国粉",
+            "id": 2163
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-01T10:19:00.000Z",
+        "views": 367,
+        "concerns": 4
+    }
+}

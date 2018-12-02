@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 2415,
+    "tags": [
+        {
+            "tag-id": 370,
+            "tag-name": "分裂"
+        },
+        {
+            "tag-id": 196,
+            "tag-name": "粉红"
+        },
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何评价诸如油管等境外网站评论区的无脑政治评论？（包括粉红、分裂等）",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-29T00:00:00.000Z",
+        "modifyTime": "2018-08-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1087,
+            "body": "<p>不管在什么地方，都有大致固定比例的傻X，不管是墙内还是墙外。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1701,
+                    "user-name": "潘静雯"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1957,
+                    "user-name": "MoriyaSuwako"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-29T00:00:00.000Z",
+            "modifyTime": "2018-08-29T00:00:00.000Z"
+        },
+        {
+            "author": 1606,
+            "body": "<p>对于他们没什么好评价的，给他们下评论只会导致吵架，自己保持理性不理睬就行</p><p>（之前没看清问题，抱歉）</p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-29T00:00:00.000Z",
+            "modifyTime": "2018-08-29T00:00:00.000Z"
+        },
+        {
+            "author": 2046,
+            "body": "<p>缺乏系统性学习的结果，生理上发育到尽头，一定程度上会本能选择一个消耗知性成本最低的观点或立场来维护自己的认知，这类人膜乎也不少，网上毛左姨粉一类有共通性。</p><p>这也是为什么我们要以一个基本的道德为不可逾越的原则去时时刻刻反思。</p>",
+            "agree-by": [
+                {
+                    "user-id": 607,
+                    "user-name": "Срутра"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-29T00:00:00.000Z",
+            "modifyTime": "2018-08-29T00:00:00.000Z"
+        },
+        {
+            "author": 1701,
+            "body": "引战的人很烦，我在b站做风纪委员的时候每天都能看到十几个故意引战的，全都建议封禁。除之为快。",
+            "agree-by": [
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-30T00:00:00.000Z",
+            "modifyTime": "2018-08-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "小粉红群体有哪些代表性观点？",
+            "id": 684
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-30T09:07:00.000Z",
+        "views": 474,
+        "concerns": 8
+    }
+}

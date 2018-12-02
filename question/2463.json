@@ -1,0 +1,39 @@
+{
+    "type": "question",
+    "id": 2463,
+    "tags": [
+        {
+            "tag-id": 391,
+            "tag-name": "民主自由"
+        }
+    ],
+    "detail": {
+        "title": "如何解救权平",
+        "body": "",
+        "author": 450,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-03T00:00:00.000Z",
+        "modifyTime": "2018-09-03T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何营救权平，董小姐等被捕人士",
+            "id": 2587
+        },
+        {
+            "title": "如何看待《关于做好解救被拐卖妇女儿童的通知》（又名拐卖合法化法案）？[图片]",
+            "id": 2725
+        },
+        {
+            "title": "如何评价权平及两名前往中国驻澳领事馆抗议的中国留学生？",
+            "id": 2462
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-02T17:25:00.000Z",
+        "views": 146,
+        "concerns": 1
+    }
+}

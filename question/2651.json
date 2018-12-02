@@ -1,0 +1,99 @@
+{
+    "type": "question",
+    "id": 2651,
+    "tags": [
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "为什么援水解不了近渴？",
+        "body": "<p>RT</p>",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-15T00:00:00.000Z",
+        "modifyTime": "2018-09-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "@梦雪",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-15T00:00:00.000Z",
+            "modifyTime": "2018-09-15T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>我怎么就想不出这么好的问题</p><p><br></p><p>援水水力不够，就像诗所说的：</p><ul><li><p><strong>弄潮儿向龟头立，手把扯旗旗不湿。</strong></p></li></ul><p></p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-15T00:00:00.000Z",
+            "modifyTime": "2018-09-15T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "因为声乐有八种唱法",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p><img src=\"/uploads/ueditor/20180916/1537058695632491.jpeg\" title=\"1537058695632491.jpeg\" alt=\"C942D07D-B3D9-4188-A97A-131FEDBE267A.jpeg\"></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1328,
+            "body": "<p>自从上了这个破站，身体是越来越不好了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 2040,
+            "body": "黄乳。。。奶黄包",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-16T04:33:00.000Z",
+        "views": 380,
+        "concerns": 8
+    }
+}

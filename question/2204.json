@@ -1,0 +1,140 @@
+{
+    "type": "question",
+    "id": 2204,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        }
+    ],
+    "detail": {
+        "title": "如何评价<上海滩>歌词？",
+        "body": "<p>浪奔 浪流</p><p>万里<strong>涛涛</strong></p><p><strong>江</strong>水永不休</p><p>淘尽了世间事</p><p>混作滔滔一片潮流</p><p>是喜 是愁</p><p>浪里分不清欢笑悲忧</p><p>成功 失败</p><p>浪里看不出有未有</p><p>爱你恨你问君知否</p><p>似大<strong>江</strong>一发不收</p><p>转千弯转千滩</p><p>亦未平复此中<strong>争斗</strong></p><p>又有喜又有愁</p><p>就算分不清欢笑悲忧</p><p>仍愿翻</p><p>百千浪</p><p>在我心中起伏够</p><p>爱你恨你 问君知否</p><p>似大<strong>江</strong>一发不收</p><p>转千弯转千滩</p><p>亦未平复此中<strong>争斗</strong></p><p>又有喜又有愁</p><p>就算分不清欢笑悲忧</p><p>仍愿翻 百千浪</p><p>在我心中起伏够</p><p>仍愿翻 百千浪</p><p>在我心中起伏够</p>",
+        "author": 855,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-08T00:00:00.000Z",
+        "modifyTime": "2018-08-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1347,
+            "body": "<p>豪迈</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-08T00:00:00.000Z",
+            "modifyTime": "2018-08-08T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "一个歌曲的膜蛤关键字标志着这个歌曲的暴力程度",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-09T00:00:00.000Z",
+            "modifyTime": "2018-08-09T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "歌以咏志",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-09T00:00:00.000Z",
+            "modifyTime": "2018-08-09T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>稍微有点尬，不过确实唱出了当今的江湖险恶，我只能习以为常啊。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-09T00:00:00.000Z",
+            "modifyTime": "2018-08-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-09T13:56:00.000Z",
+        "views": 226,
+        "concerns": 5
+    }
+}

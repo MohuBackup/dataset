@@ -1,0 +1,101 @@
+{
+    "type": "question",
+    "id": 2561,
+    "tags": [
+        {
+            "tag-id": 29,
+            "tag-name": "续命"
+        }
+    ],
+    "detail": {
+        "title": "年纪轻轻就敢在长江里面游泳？",
+        "body": "<p>http://news.163.com/18/0909/15/DR97AA7K0001875P.html</p>",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-09T00:00:00.000Z",
+        "modifyTime": "2018-09-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1957,
+            "body": "不加练习就会不知所措，姿势不够就会被水淹没。<br>\n最后祝您，提前枪毙，谢谢。",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "据说，伟大领袖畅游长江，回去就发动运动了？？",
+            "agree-by": [
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        },
+        {
+            "author": 2039,
+            "body": "虵还在太平洋中游过泳呢(๑• . •๑)！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-10T00:00:00.000Z",
+            "modifyTime": "2018-09-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价刁每天游泳一千米",
+            "id": 3530
+        },
+        {
+            "title": "如何评价“长江，嫩江，松花江，江江泽民”",
+            "id": 2340
+        },
+        {
+            "title": "有哪些图片，里面没有蛤，但却让人觉得蛤意盎然？",
+            "id": 823
+        },
+        {
+            "title": "为什么长者还敢在这个会议室里面会见外宾",
+            "id": 2787
+        },
+        {
+            "title": "如龙里面有没有哪个好的不是挡枪死的？",
+            "id": 1855
+        },
+        {
+            "title": "如何评价长江750警用摩托车？",
+            "id": 4039
+        },
+        {
+            "title": "移动硬盘里面所有东西都被续了怎么办？",
+            "id": 4195
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-09T23:49:00.000Z",
+        "views": 334,
+        "concerns": 5
+    }
+}

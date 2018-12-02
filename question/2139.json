@@ -1,0 +1,108 @@
+{
+    "type": "question",
+    "id": 2139,
+    "tags": [
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 128,
+            "tag-name": "文化"
+        }
+    ],
+    "detail": {
+        "title": "如何解释成语“胆大包天”？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-03T00:00:00.000Z",
+        "modifyTime": "2018-08-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "下联：小狗包帝",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-03T00:00:00.000Z",
+            "modifyTime": "2018-08-03T00:00:00.000Z"
+        },
+        {
+            "author": 1216,
+            "body": "<p>包藏祸心</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-03T00:00:00.000Z",
+            "modifyTime": "2018-08-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "检验你是否是真正的粉丝的时候到了，请解释下文中的膜点。",
+            "id": 1025
+        },
+        {
+            "title": "马云退出，打一成语",
+            "id": 2563
+        },
+        {
+            "title": "高中语文书上《我有一个梦》对美国梦的解释为“一个通用的口号”，中国梦呢？",
+            "id": 2444
+        },
+        {
+            "title": "如何解释“习以为常”？",
+            "id": 573
+        },
+        {
+            "title": "如何评价“习习蛤蛤”这个成语？",
+            "id": 2078
+        },
+        {
+            "title": "成语“江郎裁近”是什么意思？",
+            "id": 2768
+        },
+        {
+            "title": "Time flies very fast的更多解释？",
+            "id": 1587
+        },
+        {
+            "title": "如何评价“包藏祸心”这个成语？",
+            "id": 3717
+        },
+        {
+            "title": "如何解释主体思想",
+            "id": 1624
+        },
+        {
+            "title": "解释下查水表的流程是怎样的？",
+            "id": 4116
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-03T01:46:00.000Z",
+        "views": 288,
+        "concerns": 4
+    }
+}

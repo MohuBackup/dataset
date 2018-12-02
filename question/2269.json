@@ -1,0 +1,154 @@
+{
+    "type": "question",
+    "id": 2269,
+    "tags": [
+        {
+            "tag-id": 30,
+            "tag-name": "他改变了中国"
+        },
+        {
+            "tag-id": 315,
+            "tag-name": "红宝书"
+        },
+        {
+            "tag-id": 65,
+            "tag-name": "B站"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何做到在B站上传膜蛤视频而不被封号",
+        "body": "不包括尬膜（直接展示长者等情节），只会出现红宝书（遮挡了“中国”二字）、毕业歌、被续。<br>\n上传这样的视频会被封号吗",
+        "author": 1438,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-14T00:00:00.000Z",
+        "modifyTime": "2018-08-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 235,
+            "body": "<p>有人@我了，那我就来现身说法</p><p>在b站膜蛤了</p><p>那b站封不封你号就是不可预料的了。</p><p><br></p><p>我被封过几天是因为id和头像，那时候id还叫 江鸡就鸡&nbsp; 头像写了个&nbsp; naive 。后来几个月搞了个小号也换上了同样的id头像结果就只是清除而没有封7天。可见b站对于膜封号制度确实是不可预料。</p><p>其中也以下可能:不同管理员处置方式不同、敏感时期、膜蛤稿件数占比大</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1438,
+                    "user-name": "AndyChuck"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 1467,
+            "body": "除非你是我侄女",
+            "agree-by": [
+                {
+                    "user-id": 642,
+                    "user-name": "黑泽露比"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p><a href=\"/people/%E9%B8%A3%E5%88%99%E9%85%B1\" class=\"aw-user-name\" data-id=\"235\">@鸣则酱</a> 发过，然后被短暂风过几天，id换过几次，但还吼，没被永丰（不像我的b站号）</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1438,
+                    "user-name": "AndyChuck"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-08-14T00:00:00.000Z",
+            "modifyTime": "2018-08-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+            "id": 1239
+        },
+        {
+            "title": "膜蛤有没有个人崇拜的意思？",
+            "id": 2022
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "在QQ空间里公然膜蛤会被续吗？",
+            "id": 822
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "在墙外膜蛤乳包真的永远安全吗？",
+            "id": 3628
+        },
+        {
+            "title": "如何看待打着膜蛤旗号尊蛤的小粉红？",
+            "id": 2251
+        },
+        {
+            "title": "膜乎社区有没有可能发展线下聚会且不被集体枪毙的可能性？",
+            "id": 1466
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-15T03:29:00.000Z",
+        "views": 363,
+        "concerns": 4
+    }
+}

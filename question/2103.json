@@ -1,0 +1,187 @@
+{
+    "type": "question",
+    "id": 2103,
+    "tags": [
+        {
+            "tag-id": 465,
+            "tag-name": "这是个话题"
+        }
+    ],
+    "detail": {
+        "title": "习会在这期任期结束后垂帘听政吗",
+        "body": "",
+        "author": 546,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-29T00:00:00.000Z",
+        "modifyTime": "2018-07-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1090,
+            "body": "首先他要活着结束任期",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 1569,
+                    "user-name": "qcyq"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>这届任期不可能结束</p>",
+            "agree-by": [
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1569,
+                    "user-name": "qcyq"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": 1617,
+            "body": "<p>宪法都改了，还要结束什么任期？naive</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1569,
+                    "user-name": "qcyq"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>要么占坑，要么滚蛋，没有第三种。</p>",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "①被其它派别橄榄，然后由单人独裁变多寡头模式 <br>\n <br>\n②霸着不走，等维稳维不住了全党被橄榄",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1569,
+                    "user-name": "qcyq"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>这期结束之后等待的是被枪毙</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习会翻墙去外网玩吗？",
+            "id": 672
+        },
+        {
+            "title": "如何评价布基纳法索总统打算修宪延长任期而被民众示威赶下台?",
+            "id": 801
+        },
+        {
+            "title": "如何评价「微软不按照基本法提前结束一代Windows寿命」",
+            "id": 661
+        },
+        {
+            "title": "各位对于包包大人本任期结束后，人大在连任问题上的票形情况怎么看",
+            "id": 1317
+        },
+        {
+            "title": "如何看待Quora上小粉红飙英语膜包支持习近平第三个任期？",
+            "id": 1489
+        },
+        {
+            "title": "和平会在我们这一代人结束吗？",
+            "id": 3031
+        },
+        {
+            "title": "[网易云音乐备份] 上海文化广场剧院演出《悲惨世界》结束后，观众合唱《Do you hear the people sing》",
+            "id": 2910
+        },
+        {
+            "title": "如何评价古巴修宪限制领导人任期？",
+            "id": 2007
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-29T12:32:00.000Z",
+        "views": 379,
+        "concerns": 6
+    }
+}

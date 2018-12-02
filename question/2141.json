@@ -1,0 +1,103 @@
+{
+    "type": "question",
+    "id": 2141,
+    "tags": [
+        {
+            "tag-id": 102,
+            "tag-name": "GFW"
+        },
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        }
+    ],
+    "detail": {
+        "title": "为何中国大陆除了Ingress之外没有别的适地性游戏？",
+        "body": "众所周知，宝可梦GO锁区应该是公司行为。之前有开飞机玩过，但是因为这样失去了侵入式虚拟现实游戏的乐趣所以放弃了。之后不断有类似的local basic类的游戏比如侏罗纪世界，行尸走肉our world（ios），但是中国大陆的地图上是不会出现恐龙和行尸的。<br>\n所以我很想知道：<br>\n这类游戏的锁区（地域歧视？），是公司行为，还是与GFW的开放权限有关？<br>\nIngress就能在地图上刷出portal，别的游戏就啥都没有。<br>\n不过想想，反正我们连人权都没有，还能玩Ingress，真的是太棒了呢。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180803/7ba4a91e9180540c18a35f353b9b8d49.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180803/7ba4a91e9180540c18a35f353b9b8d49.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-08-03-11-15-57-625_com.android_.vending_.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180803/f577849b1e849c5a3c062f2bfbba1067.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180803/f577849b1e849c5a3c062f2bfbba1067.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-08-03-11-16-04-181_com.android_.vending_.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180803/3cf108cecd83a9fed9d520ea7cb70ca3.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180803/3cf108cecd83a9fed9d520ea7cb70ca3.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-08-03-11-16-12-899_com.android_.vending_.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180803/943a7e54345e097c8842f61a7e7205ea.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180803/943a7e54345e097c8842f61a7e7205ea.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-08-03-11-16-35-548_com.android_.vending_.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 739,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-03T00:00:00.000Z",
+        "modifyTime": "2018-08-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1655,
+            "body": "<p>靡靡之音，轻歌曼舞，一点也不豪迈，包子都看不下去了。</p><p>所以，就是得搞个中国特色的，以烈士事迹为内容的新时代纳粹军国主义游戏，如果有这游戏，我曹丰泽会去玩玩的。</p><p><img src=\"/uploads/ueditor/20180803/1533270980827780.jpg\" title=\"1533270980827780.jpg\" alt=\"v2-55d6439102fcc359dcda5e91425c38dc_hd.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 1706,
+                    "user-name": "dls15109659"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-03T00:00:00.000Z",
+            "modifyTime": "2018-08-03T00:00:00.000Z"
+        },
+        {
+            "author": 893,
+            "body": "国产LBS游戏并不是完全没有，甚至有些类似ingress的国产游戏。如果能翻墙的话，能在大陆玩的LBS游戏也不止ingress这一款。<br>\n<br>\n小畜生（pokemon go）的锁区完全是因为开发商猩猩（niantic）的原因。<br>\n<br>\n当然这种国外游戏在国内的游戏体验并不好，其主要是使用Google账号或者Google地图数据导致需要翻墙，和国内地图偏移引起的。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 3,
+            "publishTime": "2018-08-03T00:00:00.000Z",
+            "modifyTime": "2018-08-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-03T04:42:00.000Z",
+        "views": 278,
+        "concerns": 2
+    }
+}

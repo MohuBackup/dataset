@@ -1,0 +1,140 @@
+{
+    "type": "question",
+    "id": 2179,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 738,
+            "tag-name": "游行示威"
+        },
+        {
+            "tag-id": 739,
+            "tag-name": "维权"
+        }
+    ],
+    "detail": {
+        "title": "今日就是8月6日了，P2P事件会被演化成什么样的结果？",
+        "body": "<p>他们打算在今日在北京抗议，尽管对抗（若仅仅是表达不满亦可算作对抗的话）权威通常是没有结果的，但还是希望不要出现过大的人员伤亡...</p>",
+        "author": 1498,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-06T00:00:00.000Z",
+        "modifyTime": "2018-08-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1510,
+            "body": "已经被截访的弄回老家了。少数临时起意进京、没上落地维稳名单的现在都已经被抓了。伤亡不多。保密意识太差，都在用微信群交流。都算不上泄密，对于匪帮来说就是完全公开化了。",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 1087,
+            "body": "<p>当局怎么可能会听这些愚蠢的韭菜的意见，过几个月事情就没有波澜了，然后韭菜就又能长起来了，再割一波。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "吃烤鸭的人最终变成了烤鸭。",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-06T00:00:00.000Z",
+            "modifyTime": "2018-08-06T00:00:00.000Z"
+        },
+        {
+            "author": 1216,
+            "body": "p2p 变成people to police了",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-07T00:00:00.000Z",
+            "modifyTime": "2018-08-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何看待董存瑞的妹妹称暴走大事件并没有侮辱董存瑞？",
+            "id": 1007
+        },
+        {
+            "title": "如何评价汝溪加油站名称未被核准事件？",
+            "id": 2731
+        },
+        {
+            "title": "如何看待P2P融资受害者组织8月6日进京抗议？",
+            "id": 2122
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "如何看待某学校学生翻墙被抓事件？",
+            "id": 330
+        },
+        {
+            "title": "政府为什么要向民众隐瞒64事件",
+            "id": 695
+        },
+        {
+            "title": "在QQ空间里公然膜蛤会被续吗？",
+            "id": 822
+        },
+        {
+            "title": "天安门事件到底是谁的错？",
+            "id": 1095
+        },
+        {
+            "title": "在\"反人身攻击宣言\"产生效应后，第一例的人身攻击事件已经发生，该如何解决？\"小学生、秀智商\"算不算人身攻击？",
+            "id": 1313
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-06T16:57:00.000Z",
+        "views": 590,
+        "concerns": 5
+    }
+}

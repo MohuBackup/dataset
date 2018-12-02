@@ -1,0 +1,160 @@
+{
+    "type": "question",
+    "id": 2233,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 575,
+            "tag-name": "国际关系"
+        },
+        {
+            "tag-id": 430,
+            "tag-name": "中国政治"
+        }
+    ],
+    "detail": {
+        "title": "如何看待这张我看都看烦了的图片？",
+        "body": "<p><img src=\"/uploads/ueditor/20180811/1533943398661980.png\" title=\"1533943398661980.png\" alt=\"1.PNG\"></p><p>上一个相关问题：<a href=\"/question/2219\">/question/2219</a><br></p><p><br></p><p>外国同学就差把这图片贴在我背上了【国旗设计的丑死了】<br> </p><p><br></p><p></p>",
+        "author": 1574,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-11T00:00:00.000Z",
+        "modifyTime": "2018-08-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>台湾不是还会分成台北国和台南国么。多年前伪基百科看到的</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 542,
+                    "user-name": "Hatate"
+                },
+                {
+                    "user-id": 1655,
+                    "user-name": "曹丰泽"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-11T00:00:00.000Z",
+            "modifyTime": "2018-08-11T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "反对分裂，人人有责",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-11T00:00:00.000Z",
+            "modifyTime": "2018-08-11T00:00:00.000Z"
+        },
+        {
+            "author": 1756,
+            "body": "<p>画这张图的人姿势水平连香港记者都不如</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1571,
+                    "user-name": "lvxing_qingwa"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>民国好惨……</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-11T00:00:00.000Z",
+            "modifyTime": "2018-08-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-15T06:31:00.000Z",
+        "views": 545,
+        "concerns": 5
+    }
+}

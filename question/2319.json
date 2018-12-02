@@ -1,0 +1,78 @@
+{
+    "type": "question",
+    "id": 2319,
+    "tags": [
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "哪能买到江爷爷送出的同款玩具鸡？",
+        "body": "<p>求个地址<br></p>",
+        "author": 1862,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-21T00:00:00.000Z",
+        "modifyTime": "2018-08-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "当然是淘宝啦ヽ(=^･ω･^=)丿",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-08-21T00:00:00.000Z",
+            "modifyTime": "2018-08-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "我离不开江爷爷了怎么办？",
+            "id": 2243
+        },
+        {
+            "title": "如何评价这套玩具",
+            "id": 2439
+        },
+        {
+            "title": "怎样才能忘掉爷爷？",
+            "id": 1777
+        },
+        {
+            "title": "如何看待玩具枪的威力是56冲的六倍这个言论？",
+            "id": 757
+        },
+        {
+            "title": "如何评价动画《蛤蟆爷爷的秘诀》？",
+            "id": 2656
+        },
+        {
+            "title": "话说，包包大人死后会不会像毛爷爷一样钦定一下自己的继承人呢？",
+            "id": 447
+        },
+        {
+            "title": "怎么才能弄到长者同款眼镜（相似的也行）？",
+            "id": 2308
+        },
+        {
+            "title": "如何买到主席同款的物品？",
+            "id": 2321
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-21T03:00:00.000Z",
+        "views": 333,
+        "concerns": 2
+    }
+}

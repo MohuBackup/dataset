@@ -1,0 +1,120 @@
+{
+    "type": "question",
+    "id": 2390,
+    "tags": [
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        },
+        {
+            "tag-id": 15,
+            "tag-name": "互联网"
+        },
+        {
+            "tag-id": 379,
+            "tag-name": "抖音"
+        },
+        {
+            "tag-id": 668,
+            "tag-name": "APP"
+        }
+    ],
+    "detail": {
+        "title": "为什么国内无法使用抖音国际版tiktok的app，翻墙挂代理vpn也不行？",
+        "body": "有个笑话就是中国人不能使用中国公司开发的app。",
+        "author": 986,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-27T00:00:00.000Z",
+        "modifyTime": "2018-08-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "因为这是要给一等洋大人使用的app，怎么能让下等人去污染了洋大人的使用体验呢",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-27T00:00:00.000Z",
+            "modifyTime": "2018-08-27T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>翻墙不行应该不大可能吧</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-27T00:00:00.000Z",
+            "modifyTime": "2018-08-27T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "试一下改系统语言为非中文和非英语？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-27T00:00:00.000Z",
+            "modifyTime": "2018-08-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待某学校学生翻墙被抓事件？",
+            "id": 330
+        },
+        {
+            "title": "怎样快速教小白翻墙？",
+            "id": 628
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "有没有人来一起吐槽国内二胎生育基金的新闻",
+            "id": 2282
+        },
+        {
+            "title": "习会翻墙去外网玩吗？",
+            "id": 672
+        },
+        {
+            "title": "如何看待\"由于系统维护，微信头像与昵称暂无法修改\"？",
+            "id": 1199
+        },
+        {
+            "title": "如何评价这句话：“由于你无法自主选择出生在哪国，因此爱国本身就是荒谬的”？",
+            "id": 3478
+        },
+        {
+            "title": "国内的言论管制现状如何？",
+            "id": 914
+        },
+        {
+            "title": "还在国内的膜乎er，你们对未来是怎么规划的？",
+            "id": 3123
+        },
+        {
+            "title": "在国内何种场合可以肆无忌惮的唱《民主会战胜归来》",
+            "id": 1397
+        },
+        {
+            "title": "如何看待国内网络流行的香甜的空气等形容词？",
+            "id": 2671
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-27T05:12:00.000Z",
+        "views": 695,
+        "concerns": 3
+    }
+}

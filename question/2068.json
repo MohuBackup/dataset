@@ -1,0 +1,129 @@
+{
+    "type": "question",
+    "id": 2068,
+    "tags": [
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        },
+        {
+            "tag-id": 55,
+            "tag-name": "共青团中央"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "如何看待共青团中央在知乎公开乳包？",
+        "body": "<p><img src=\"/uploads/ueditor/20180725/1532493102512382.jpg\" title=\"1532493102512382.jpg\" alt=\"1532492993(1).jpg\">、</p><p>https://www.zhihu.com/question/267438391/answer/324827509</p>",
+        "author": 1548,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-25T00:00:00.000Z",
+        "modifyTime": "2018-07-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p>这个是在膜包</p>",
+            "agree-by": [
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-07-25T00:00:00.000Z",
+            "modifyTime": "2018-07-25T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>名副其实的“中央也支持他”嘛。</p><p><br></p><p>（宗young也滋磁他妈）</p>",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-25T00:00:00.000Z",
+            "modifyTime": "2018-07-25T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "一些小鬼而已",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-25T00:00:00.000Z",
+            "modifyTime": "2018-07-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "暴力乳包的匿名废物们，你们敢不敢不匿名？",
+            "id": 3261
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-25T05:09:00.000Z",
+        "views": 764,
+        "concerns": 5
+    }
+}

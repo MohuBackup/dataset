@@ -1,0 +1,157 @@
+{
+    "type": "question",
+    "id": 2656,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何评价动画《蛤蟆爷爷的秘诀》？",
+        "body": "",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-16T00:00:00.000Z",
+        "modifyTime": "2018-09-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2040,
+            "body": "<p><a href=\"https://www.bilibili.com/video/av8167448\">https://www.bilibili.com/video/av8167448</a> </p><p>是一部非常适合小朋友们学习人生经验及姿势水平的教育动画</p>",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 430,
+                    "user-name": "小管家"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1974,
+            "body": "<p>这部动画的姿势水平高的很那，比那个“雷锋的故事”，不知高到哪里去了</p>",
+            "agree-by": [
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "续命要从娃娃抓起",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "没视频你说个贾斯丁比伯？",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>很好的动画，里面调出了一个法国的画家莫奈的光线的透视。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-16T08:08:00.000Z",
+        "views": 345,
+        "concerns": 7
+    }
+}

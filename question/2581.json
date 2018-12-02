@@ -1,0 +1,128 @@
+{
+    "type": "question",
+    "id": 2581,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "改编《一分钱》被拘留",
+        "body": "<p><img src=\"/uploads/ueditor/20180911/1536640499771921.png\" title=\"1536640499771921.png\" alt=\"01.png\"><img src=\"/uploads/ueditor/20180911/1536640516290779.jpg\" title=\"1536640516290779.jpg\" alt=\"02.jpg\"></p>",
+        "author": 2115,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-11T00:00:00.000Z",
+        "modifyTime": "2018-09-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1488,
+            "body": "改编成了《五毛钱》？",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1510,
+                    "user-name": "xu1s"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "求歌词。不会是我小时候流行的版本吧？“我在马路边捡到一盒烟。。。”",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 2174,
+            "body": "<p>倒车，请注意～</p>",
+            "agree-by": [
+                {
+                    "user-id": 1510,
+                    "user-name": "xu1s"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "失控的权力",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价长沙漫展警察闯入，以扰乱社会治安为由拘留现场二次元？",
+            "id": 3145
+        },
+        {
+            "title": "如何看待网红莉哥被拘留",
+            "id": 3462
+        },
+        {
+            "title": "中国会不会学习沙俄那样子，学英国国歌改编的“天佑沙皇”。",
+            "id": 3744
+        },
+        {
+            "title": "高雅创作之《创国的毁灭》(改编自《帝国的毁灭》)",
+            "id": 3981
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-11T08:20:00.000Z",
+        "views": 490,
+        "concerns": 7
+    }
+}

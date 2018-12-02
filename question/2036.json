@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 2036,
+    "tags": [
+        {
+            "tag-id": 667,
+            "tag-name": "工具"
+        }
+    ],
+    "detail": {
+        "title": "给大家推荐一个不错的网站",
+        "body": "<p><a href=\"https://chinadigitaltimes.net/chinese/\">https://chinadigitaltimes.net/chinese/</a> </p><p><br></p><p>东西很全，关键是分类做得很好，有不少分析性的内容，观点也不太偏激</p>",
+        "author": 1578,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-23T00:00:00.000Z",
+        "modifyTime": "2018-07-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1178,
+            "body": "<p>上面一部分文章还是站在一个客观立场陈述事实的。</p><p>也有一部分政治立场鲜明</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-23T00:00:00.000Z",
+            "modifyTime": "2018-07-23T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>看过，还是相当不错的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-23T00:00:00.000Z",
+            "modifyTime": "2018-07-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "如果让你二选一，你愿做一个沉迷二次元的废宅还是一个随时可能被枪毙的反动分子？",
+            "id": 984
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-23T11:12:00.000Z",
+        "views": 336,
+        "concerns": 3
+    }
+}

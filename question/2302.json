@@ -1,0 +1,140 @@
+{
+    "type": "question",
+    "id": 2302,
+    "tags": [
+        {
+            "tag-id": 406,
+            "tag-name": "蛤诞祭"
+        },
+        {
+            "tag-id": 680,
+            "tag-name": "维基百科"
+        },
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        }
+    ],
+    "detail": {
+        "title": "有没有必要在维基百科上新建“新蛤社”条目",
+        "body": "<p><br></p><p>刚才回味了一下维基百科条目“膜蛤文化”，发现中间有一条中“新蛤社”与“蛤诞祭”还是红色的，有没有必要新建这两个条目<br></p><p><br></p><p><br></p><p><img src=\"/uploads/ueditor/20180818/1534569650273823.png\" title=\"1534569650273823.png\" alt=\"HA.png\"></p><p><img src=\"/uploads/ueditor/20180818/1534569777115931.png\" title=\"1534569777115931.png\" alt=\"HA2.png\"></p>",
+        "author": 1438,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-18T00:00:00.000Z",
+        "modifyTime": "2018-08-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1856,
+            "body": "<p>干脆志己建个灰机wiki，那是坠好的。不要老是用西方的那一套平台。</p>",
+            "agree-by": [
+                {
+                    "user-id": 607,
+                    "user-name": "Срутра"
+                },
+                {
+                    "user-id": 1438,
+                    "user-name": "AndyChuck"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-18T00:00:00.000Z",
+            "modifyTime": "2018-08-18T00:00:00.000Z"
+        },
+        {
+            "author": 6,
+            "body": "<p>关注度恐怕不够。</p>",
+            "agree-by": [
+                {
+                    "user-id": 777,
+                    "user-name": "Blissghost"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-18T00:00:00.000Z",
+            "modifyTime": "2018-08-18T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>去伪基或wikia上创建吧，维基很严格</p>",
+            "agree-by": [
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-18T00:00:00.000Z",
+            "modifyTime": "2018-08-18T00:00:00.000Z"
+        },
+        {
+            "author": 777,
+            "body": "可以考虑来维基学院社会学开亚文化专题，刚开站方针还在确定中，很可能去除掉维百的非原创研究和关注度要求。蛤丝的wiki站还有膜蛤wiki（在fandom上）和膜学大典（同，但是内容较少）。",
+            "agree-by": [
+                {
+                    "user-id": 1438,
+                    "user-name": "AndyChuck"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-19T00:00:00.000Z",
+            "modifyTime": "2018-08-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "关于新蛤社app的设计",
+            "id": 318
+        },
+        {
+            "title": "新蛤社夏日诗词大赏诗词征集令",
+            "id": 520
+        },
+        {
+            "title": "怎么看待新蛤社建立海外b站？",
+            "id": 2073
+        },
+        {
+            "title": "如何看待甘肃新建的 超级规模 集中营（即将完工），人口容量30万-100万以上，相当于6-20个奥斯维辛？",
+            "id": 3114
+        },
+        {
+            "title": "如何评价新蛤社",
+            "id": 114
+        },
+        {
+            "title": "如何反驳维基百科上轮子说是江泽民主动镇压轮子的",
+            "id": 756
+        },
+        {
+            "title": "如何评价百度百科“20世纪最具影响力的100个人物”词条删除王维林？",
+            "id": 1925
+        },
+        {
+            "title": "如何看待维基百科的全部语言版本被墙（18.6.20）？",
+            "id": 1632
+        },
+        {
+            "title": "轮子是否控制了中文维基",
+            "id": 1188
+        },
+        {
+            "title": "我们蛤丝要不要在贴吧复辟？",
+            "id": 1155
+        },
+        {
+            "title": "你们觉得专门推出个“百科”模块吼不吼啊",
+            "id": 1254
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-18T17:12:00.000Z",
+        "views": 296,
+        "concerns": 5
+    }
+}

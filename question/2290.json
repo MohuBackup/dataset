@@ -1,0 +1,70 @@
+{
+    "type": "question",
+    "id": 2290,
+    "tags": [
+        {
+            "tag-id": 115,
+            "tag-name": "尬膜"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "有人看他生日庆祝会吗？",
+        "body": "<p><img class=\"loadingclass\" id=\"loading_jkxx3dup\" src=\"/static/js/ueditor/themes/default/images/spacer.gif\" title=\"正在上传...\"></p>",
+        "author": 1096,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-17T00:00:00.000Z",
+        "modifyTime": "2018-08-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1805,
+            "body": "冲就完事了嗷",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-17T00:00:00.000Z",
+            "modifyTime": "2018-08-17T00:00:00.000Z"
+        },
+        {
+            "author": 1809,
+            "body": "<p>正在看，别打扰我</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-17T00:00:00.000Z",
+            "modifyTime": "2018-08-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "今天是共英宗庆丰皇帝的生日，大家觉得该怎么庆祝皇上的生日？",
+            "id": 1519
+        },
+        {
+            "title": "有多少膜乎用户以虵的生日为密码？",
+            "id": 798
+        },
+        {
+            "title": "如何评价英国驻华使馆发文维尼生日快乐",
+            "id": 3524
+        },
+        {
+            "title": "祝蒋介石（蒋中正）131岁生日快乐",
+            "id": 4097
+        },
+        {
+            "title": "维尼的生日应该怎么祝福呢？",
+            "id": 3514
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-17T11:55:00.000Z",
+        "views": 276,
+        "concerns": 3
+    }
+}

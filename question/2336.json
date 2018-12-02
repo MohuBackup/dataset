@@ -1,0 +1,150 @@
+{
+    "type": "question",
+    "id": 2336,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 328,
+            "tag-name": "政治制度"
+        }
+    ],
+    "detail": {
+        "title": "如何看待人民代表大会制度？",
+        "body": "<p>RT</p><p>我指的是按照已有的法律进行的（<strong>就是政治课本上描述的</strong>），不在TG领导下的，人民代表大会制度，（<strong>就是有实权，不是TG的橡皮图章</strong>）</p><p>个人认为这样的制度是比较好的，既保证了人民的权力又一定程度上权力集中，不会民粹又遏制了独裁。</p><p>膜乎诸位的观点如何？</p>",
+        "author": 1426,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-22T00:00:00.000Z",
+        "modifyTime": "2018-08-22T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1570,
+            "body": "世界上几乎所有国家政府形式上都是有这种议会的，无论是英美还是俄罗斯甚至朝鲜纳粹，脱离了国情问议会好不好，就像突然问张三这人怎么样，也不说这个张三到底是哪个张三。",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-08-22T00:00:00.000Z",
+            "modifyTime": "2018-08-22T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "都要加上前缀，中国特色",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-22T00:00:00.000Z",
+            "modifyTime": "2018-08-22T00:00:00.000Z"
+        },
+        {
+            "author": 1701,
+            "body": "只有代表，没有人民。",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-25T00:00:00.000Z",
+            "modifyTime": "2018-08-25T00:00:00.000Z"
+        },
+        {
+            "author": 1892,
+            "body": "猪大代表都是被内定硬点的，只能代表猪头",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-25T00:00:00.000Z",
+            "modifyTime": "2018-08-25T00:00:00.000Z"
+        },
+        {
+            "author": 1662,
+            "body": "<p>500人以上的议会都是假民主</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-26T00:00:00.000Z",
+            "modifyTime": "2018-08-26T00:00:00.000Z"
+        },
+        {
+            "author": 1964,
+            "body": "<p>确实</p><p>很多都是没有能力的底层代表</p><p>这个不得不承认</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-25T00:00:00.000Z",
+            "modifyTime": "2018-08-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "为什么总有些人认为美帝的制度比中共的优秀",
+            "id": 1234
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-25T23:17:00.000Z",
+        "views": 395,
+        "concerns": 9
+    }
+}

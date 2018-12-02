@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 2643,
+    "tags": [
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 330,
+            "tag-name": "网络安全"
+        },
+        {
+            "tag-id": 385,
+            "tag-name": "技术"
+        }
+    ],
+    "detail": {
+        "title": "如何看待QQ疑似使用OCR和图像识别等技术识别图片中的敏感词?",
+        "body": "<p>之前用QQ空间发一些敏感的文字, 不到一个小时就被屏蔽了, 然后就改成了图片截图, 没想到刚发出去图片就消失了, 试了几次均是如此, 还有一些长者和包子的表情包也发不出去, 而腾讯不仅仅是使用图片的md5等特征码作为黑名单, 当我在图片里随手画了几道并且裁剪了一点, 依然是会被拦截屏蔽的.&nbsp;<br></p>",
+        "author": 2217,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-15T00:00:00.000Z",
+        "modifyTime": "2018-09-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "腾讯本来就有识别文字的技术，不过他们还是图样，你把图片倒过来就是了",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 3,
+            "publishTime": "2018-09-15T00:00:00.000Z",
+            "modifyTime": "2018-09-15T00:00:00.000Z"
+        },
+        {
+            "author": 2174,
+            "body": "<p>截图的ocr太好做了，你用生成验证码的那一套东西来搞个大新闻，大家就都资瓷了。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-15T00:00:00.000Z",
+            "modifyTime": "2018-09-15T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "名单太长一时枪毙不过来而已，诸位不要太嚣张",
+            "agree-by": [
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-15T00:00:00.000Z",
+            "modifyTime": "2018-09-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-15T06:59:00.000Z",
+        "views": 307,
+        "concerns": 4
+    }
+}

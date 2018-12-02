@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 2098,
+    "tags": [
+        {
+            "tag-id": 502,
+            "tag-name": "中国梦"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 239,
+            "tag-name": "鬼畜"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "在做包子的鬼畜视频，用曲是shape of you，但是发现以包子的语速有点跟不上，怎么办？大家伙给出出主意",
+        "body": "",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-07-28T00:00:00.000Z",
+        "modifyTime": "2018-07-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p>把歌曲倒放就可以了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                },
+                {
+                    "user-id": 1178,
+                    "user-name": "efficiency"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-28T00:00:00.000Z",
+            "modifyTime": "2018-07-28T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "这这个问题我也解决不了，你应该请萨格尔王来帮忙",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-28T00:00:00.000Z",
+            "modifyTime": "2018-07-28T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>建议把曲子换成Xhame On You</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "这歌我听过，建议放慢，并且部分地方不要按原来填词",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-29T00:00:00.000Z",
+            "modifyTime": "2018-07-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "如何看待包子说\"我年轻时练过拳击\"？",
+            "id": 2147
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-29T13:26:00.000Z",
+        "views": 376,
+        "concerns": 4
+    }
+}

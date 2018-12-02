@@ -1,0 +1,74 @@
+{
+    "type": "question",
+    "id": 2286,
+    "tags": [
+        {
+            "tag-id": 130,
+            "tag-name": "董建华"
+        }
+    ],
+    "detail": {
+        "title": "请教肤浅和naive的分别？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-08-17T00:00:00.000Z",
+        "modifyTime": "2018-08-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 286,
+            "body": "naive的意思是幼稚，这个大家都知道。意思是[年纪小]，头脑简单。后印为成年人思想不成熟，见识不够开阔，看问题难以洞悉实质，总是喜欢主观想象。<br>\n肤浅，解释为[学识]浅薄，[看问题]限于表面，不深刻。而且要面子。常用于观点、认识、体会、理论等等。强调不深入、不深刻，止于表面，多与表示人的认识活动的词语搭配。<br>\n算了，自己度娘去。",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-08-17T00:00:00.000Z",
+            "modifyTime": "2018-08-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "文膜，武膜，暴膜，尬膜分别指的是什么样的膜法运用水平?",
+            "id": 248
+        },
+        {
+            "title": "如果给五代军委主席，毛邓江胡习，分别跟历代帝王一样起一个谥号，各位有何高见？",
+            "id": 2593
+        },
+        {
+            "title": "如何评价暴力膜包游戏《Naive Ninja》？",
+            "id": 438
+        },
+        {
+            "title": "为什么膜包小鬼都那么Naive?",
+            "id": 3566
+        },
+        {
+            "title": "如何分别评价这四张教科书封面",
+            "id": 2438
+        },
+        {
+            "title": "如何评价supercell下属游戏在聊天窗口屏蔽simple/naive等民敢茨",
+            "id": 535
+        },
+        {
+            "title": "如何评价AMD的naive级显卡架构？",
+            "id": 1927
+        },
+        {
+            "title": "流芳千古不是给死人用的吗？这个膜包小鬼难道是在诅咒大犬吗？还是因为它真的Naive得连话都说不好了？",
+            "id": 3582
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-17T00:27:00.000Z",
+        "views": 218,
+        "concerns": 2
+    }
+}
