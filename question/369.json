@@ -1,0 +1,58 @@
+{
+    "type": "question",
+    "id": 369,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "《包九篇》是指哪九篇?",
+        "body": "",
+        "author": 204,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-13T00:00:00.000Z",
+        "modifyTime": "2018-04-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 631,
+            "body": "没听说过",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 584,
+            "body": "xxx用典     xxx谈治国理政    之江新语     平易近人",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "“包九篇”指的都是哪几篇？有视频链接吗？",
+            "id": 541
+        },
+        {
+            "title": "请问什么叫“跪久了站不起来了”？是指下图吗？",
+            "id": 3193
+        },
+        {
+            "title": "鹳是指什么？",
+            "id": 364
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-14T10:17:00.000Z",
+        "views": 431,
+        "concerns": 3
+    }
+}

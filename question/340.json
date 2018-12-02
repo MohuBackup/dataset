@@ -1,0 +1,177 @@
+{
+    "type": "question",
+    "id": 340,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何看待我国的外交政策？",
+        "body": "本人觉得即使爱豆这方面也有争议。请大家讨论，我薛习一个。",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-09T00:00:00.000Z",
+        "modifyTime": "2018-04-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 228,
+            "body": "对外：爸爸我错了<br>\n对内：爸爸我又赢了",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 137,
+                    "user-name": "小熊"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-11T00:00:00.000Z",
+            "modifyTime": "2018-04-11T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "轻关易道，通商宽衣",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 137,
+                    "user-name": "小熊"
+                },
+                {
+                    "user-id": 64,
+                    "user-name": "狂人日港记"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-11T00:00:00.000Z",
+            "modifyTime": "2018-04-11T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "原本神隐弃权时还很闷声大发财，现在鹰派当权后太张扬了",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 353,
+            "body": "周五项，邓开放",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        },
+        {
+            "author": 691,
+            "body": "强迫膜包",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-14T06:30:00.000Z",
+        "views": 380,
+        "concerns": 7
+    }
+}

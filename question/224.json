@@ -1,0 +1,75 @@
+{
+    "type": "question",
+    "id": 224,
+    "tags": [
+        {
+            "tag-id": 192,
+            "tag-name": "真正的粉丝"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "CS好玩吗？",
+        "body": "最近一直在玩CS，可好玩了，就是觉得时间过得有点快\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180329/3eaceb867523db5ab7ed7691fa218a11.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180329/3eaceb867523db5ab7ed7691fa218a11.jpg\" class=\"img-thumbnail\" alt=\"QQ图片20160107163735.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180329/0bf86b04be677c240529284fc4fa7a28.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180329/0bf86b04be677c240529284fc4fa7a28.jpg\" class=\"img-thumbnail\" alt=\"QQ图片20160116144036.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 430,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-29T00:00:00.000Z",
+        "modifyTime": "2018-03-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 546,
+            "body": "直接枪毙，不用名单了",
+            "agree-by": [
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-02T00:00:00.000Z",
+            "modifyTime": "2018-04-02T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "-1s更好玩",
+            "agree-by": [
+                {
+                    "user-id": 645,
+                    "user-name": "枸杞诗社"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-02T17:22:00.000Z",
+        "views": 331,
+        "concerns": 4
+    }
+}

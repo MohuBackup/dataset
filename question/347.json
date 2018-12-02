@@ -1,0 +1,57 @@
+{
+    "type": "question",
+    "id": 347,
+    "tags": [
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 11,
+            "tag-name": "鹳"
+        }
+    ],
+    "detail": {
+        "title": "鹳到底是啥？",
+        "body": "膜了五六年了，这都不知道，知识水平不够高",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-09T00:00:00.000Z",
+        "modifyTime": "2018-04-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 56,
+            "body": "知乎管理员，擅长口球用户，膜乎早期大佬很多都有知乎号被封的经历。站长曾经说过，膜乎早期是知乎蛤丝的根据地",
+            "agree-by": [
+                {
+                    "user-id": 22,
+                    "user-name": "宇佐岐沙真"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-04-09T00:00:00.000Z",
+            "modifyTime": "2018-04-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-09T14:01:00.000Z",
+        "views": 241,
+        "concerns": 4
+    }
+}

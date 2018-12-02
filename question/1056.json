@@ -1,0 +1,142 @@
+{
+    "type": "question",
+    "id": 1056,
+    "tags": [
+        {
+            "tag-id": 545,
+            "tag-name": "拉黑"
+        },
+        {
+            "tag-id": 546,
+            "tag-name": "川普"
+        },
+        {
+            "tag-id": 253,
+            "tag-name": "推特"
+        },
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        }
+    ],
+    "detail": {
+        "title": "如何评价法官裁决川普不可以拉黑推特用户？",
+        "body": "<p>http://www.koaa.com/story/38260521/federal-judge-rules-president-trump-cant-block-critics-on-twitter<br><br>纽约（美联社） - 纽约一位联邦法官称，唐纳德特朗普总统通过阻止Twitter上的批评人士进行政治言论而违反了第一修正案。<br><br>曼哈顿法官Naomi Reice Buchwald（瑞士BUHK'-wahld）周三发表书面决定。 在裁决中，她说任何政府官员 - 包括总统 - 都不在法律之上。<br><br>这起案件是去年7月由哥伦比亚大学骑士第一修正案研究所提出的，七名个人在批评共和党总统后被特朗普封锁。 今年听证会后，法官表示特朗普是沉默的，而不是阻挠他的一些批评者。当时，一位司法部门的律师认为，静音可以让特朗普避免他不想阅读的推文。<br><br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-27T00:00:00.000Z",
+        "modifyTime": "2018-05-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "<p>推特不能习惯性的禁止评论吗？<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "然后新华社就跪了",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "为什么不学习微博——不想看的直接看不到",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>就是，联邦法官应该对先近的平安中国，如楼上说的微博，学习一个<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-27T10:48:00.000Z",
+        "views": 281,
+        "concerns": 4
+    }
+}

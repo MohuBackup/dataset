@@ -1,0 +1,159 @@
+{
+    "type": "question",
+    "id": 38,
+    "tags": [
+        {
+            "tag-id": 14,
+            "tag-name": "女装"
+        }
+    ],
+    "detail": {
+        "title": "女生穿女装是怎样一种体验？",
+        "body": "",
+        "author": 3,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-03T00:00:00.000Z",
+        "modifyTime": "2018-03-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "<p>膜乎林子大了，连这种沙雕问题都出来了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>这是性别普查mua！坠痛苦的就是要把裤腰带系在胸上那个时候</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "包子馅裹在包子皮里是什么体验？我就什么也不说，这是坠吼的",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>这问题有任何意义吗？（半恼）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        },
+        {
+            "title": "吃青蛙肉是一种什么样的体验？",
+            "id": 186
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-12T12:52:00.000Z",
+        "views": 399,
+        "concerns": 4
+    }
+}

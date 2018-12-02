@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 1037,
+    "tags": [
+        {
+            "tag-id": 195,
+            "tag-name": "五毛"
+        }
+    ],
+    "detail": {
+        "title": "为什么很多五毛/小粉红其实都是土包子？",
+        "body": "<p>他们都不是很cool的人 而且很多五毛/小粉红的思维和乡下人一样 请问为什么？</p>",
+        "author": 1192,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-26T00:00:00.000Z",
+        "modifyTime": "2018-05-26T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1138,
+            "body": "<p>因为一般没受太多教育的人才容易被洗脑</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-26T00:00:00.000Z",
+            "modifyTime": "2018-05-26T00:00:00.000Z"
+        },
+        {
+            "author": 1103,
+            "body": "<p>越穷越信共产党</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-26T00:00:00.000Z",
+            "modifyTime": "2018-05-26T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>你这个题目有问题。</p><p>五毛/小粉红不会用“土包子”这个词。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 430,
+                    "user-name": "小管家"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-26T00:00:00.000Z",
+            "modifyTime": "2018-05-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "小粉红群体有哪些代表性观点？",
+            "id": 684
+        },
+        {
+            "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+            "id": 1239
+        },
+        {
+            "title": "如何看待某膜乎小粉红诬蔑我是小粉红？",
+            "id": 1300
+        },
+        {
+            "title": "如何看待打着膜蛤旗号尊蛤的小粉红？",
+            "id": 2251
+        },
+        {
+            "title": "都说蛤三篇，其实真正可膜的是不是只有两篇",
+            "id": 919
+        },
+        {
+            "title": "是不是真的都是这样的",
+            "id": 1148
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "小粉红这种病，被现实强奸几次就好了。",
+            "id": 2263
+        },
+        {
+            "title": "深度思考：为什么现在很多hath不好好膜反而搞哲♂学？",
+            "id": 457
+        },
+        {
+            "title": "最近膜乎似乎有大批粉红注入啊？",
+            "id": 1447
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-26T12:17:00.000Z",
+        "views": 302,
+        "concerns": 4
+    }
+}

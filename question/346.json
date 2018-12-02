@@ -1,0 +1,153 @@
+{
+    "type": "question",
+    "id": 346,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "如何看待秦始皇铜像被吹倒？",
+        "body": "",
+        "author": 86,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-09T00:00:00.000Z",
+        "modifyTime": "2018-04-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 671,
+            "body": "郭嘉乌烟瘴气，秦始皇很安轨，气倒的。",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-09T00:00:00.000Z",
+            "modifyTime": "2018-04-09T00:00:00.000Z"
+        },
+        {
+            "author": 542,
+            "body": "庆丰兴，维尼王",
+            "agree-by": [
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-09T00:00:00.000Z",
+            "modifyTime": "2018-04-09T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "这是不符合秦朝的基本法的，放在秦朝是要宽衣的",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        },
+        {
+            "author": 353,
+            "body": "丢人啊，还能说什么",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "新时代，新皇帝。怎么能拿秦始皇的剑斩维尼的官?",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-11T00:00:00.000Z",
+            "modifyTime": "2018-04-11T00:00:00.000Z"
+        },
+        {
+            "author": 228,
+            "body": "因为皇帝只能有一个，庆丰大帝上任，始皇自然要倒",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-11T00:00:00.000Z",
+            "modifyTime": "2018-04-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-11T10:38:00.000Z",
+        "views": 307,
+        "concerns": 7
+    }
+}

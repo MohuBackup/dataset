@@ -1,0 +1,94 @@
+{
+    "type": "question",
+    "id": 84,
+    "tags": [
+        {
+            "tag-id": 42,
+            "tag-name": "青蛙"
+        },
+        {
+            "tag-id": 26,
+            "tag-name": "如何评价 X"
+        }
+    ],
+    "detail": {
+        "title": "如何评价“107 间”的网页设计？",
+        "body": "如图：<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180305/36677ab647f8d62eafd30b1f1f6fdcfa.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180305/36677ab647f8d62eafd30b1f1f6fdcfa.jpg\" class=\"img-polaroid\" title=\"Screenshot-2018-3-5_107间-【北京租房_北京租房网_北京房屋出租】-让租房真实而简单(1).jpg\" alt=\"Screenshot-2018-3-5_107间-【北京租房_北京租房网_北京房屋出租】-让租房真实而简单(1).jpg\"></a>\n</div>\n<br>\n会不会给人以一种政治隐喻的感觉呢？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 11,
+        "link": "http://www.107room.com/",
+        "comments": 0,
+        "publishTime": "2018-03-05T00:00:00.000Z",
+        "modifyTime": "2018-03-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 333,
+            "body": "登陆该网站，一分钟续5秒；<br>\n使用其服务，一分钟将有20秒被献祭。<br>\n当然，一般还是一分钟一秒的。<br>\nbtw，在膜呼，每30秒，就有两分钟过去。",
+            "agree-by": [
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-19T16:10:00.000Z",
+        "views": 232,
+        "concerns": 5
+    }
+}

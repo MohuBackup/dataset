@@ -1,0 +1,220 @@
+{
+    "type": "question",
+    "id": 231,
+    "tags": [
+        {
+            "tag-id": 202,
+            "tag-name": "港铁"
+        },
+        {
+            "tag-id": 203,
+            "tag-name": "MTR"
+        },
+        {
+            "tag-id": 131,
+            "tag-name": "香港记者"
+        }
+    ],
+    "detail": {
+        "title": "如何评价港铁的“香港记者号”？",
+        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180329/c91affd9d7d27beb3a16a0204dbfe483.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180329/c91affd9d7d27beb3a16a0204dbfe483.jpg\" class=\"img-thumbnail\" alt=\"photo_2018-03-26_19-19-03.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 467,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-29T00:00:00.000Z",
+        "modifyTime": "2018-03-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 500,
+            "body": "历史上第一辆时间穿越列车。",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 510,
+                    "user-name": "苏子荷"
+                },
+                {
+                    "user-id": 513,
+                    "user-name": "相机电脑"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 535,
+                    "user-name": "LinYun"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "每一个宇宙模型对应一个场方程的解，有些解描述下的宇宙是允许时间穿越的……堪比大型粒子加速器，能够帮助我们进行物理学研究",
+            "agree-by": [
+                {
+                    "user-id": 510,
+                    "user-name": "苏子荷"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 500,
+                    "user-name": "阿尔法苟"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 481,
+                    "user-name": "yin_bob"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "有了这辆列车，人类或许可以进行时间旅行，如果不能也可以打破相对论",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 510,
+                    "user-name": "苏子荷"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        },
+        {
+            "author": 481,
+            "body": "我试了一下，非常快，但不知道为什么下了车手表总是比别人少走一秒",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 510,
+                    "user-name": "苏子荷"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-29T00:00:00.000Z",
+            "modifyTime": "2018-03-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "倒车的速度加快了",
+            "agree-by": [
+                {
+                    "user-id": 461,
+                    "user-name": "某位热心hath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        },
+        {
+            "author": 86,
+            "body": "可以进行时间穿越，收集每位蛤丝贡献的每一秒，然后就可以回到1926年8月17号",
+            "agree-by": [
+                {
+                    "user-id": 461,
+                    "user-name": "某位热心hath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-30T10:43:00.000Z",
+        "views": 943,
+        "concerns": 6
+    }
+}

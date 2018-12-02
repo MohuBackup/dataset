@@ -1,0 +1,30 @@
+{
+    "type": "question",
+    "id": 696,
+    "tags": [
+        {
+            "tag-id": 42,
+            "tag-name": "青蛙"
+        },
+        {
+            "tag-id": 11,
+            "tag-name": "鹳"
+        }
+    ],
+    "detail": {
+        "title": "鹳类的主食是蛙吗？",
+        "body": "",
+        "author": 64,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-07T00:00:00.000Z",
+        "modifyTime": "2018-05-07T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-07T15:40:00.000Z",
+        "views": 183,
+        "concerns": 2
+    }
+}

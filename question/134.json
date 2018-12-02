@@ -1,0 +1,396 @@
+{
+    "type": "question",
+    "id": 134,
+    "tags": [
+        {
+            "tag-id": 99,
+            "tag-name": "职场"
+        },
+        {
+            "tag-id": 100,
+            "tag-name": "高校教师"
+        },
+        {
+            "tag-id": 101,
+            "tag-name": "高等学校"
+        }
+    ],
+    "detail": {
+        "title": "我想我应该去当教授，应该怎么办？",
+        "body": "朱物华校长，张钟俊院长说欢迎我来",
+        "author": 262,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-19T00:00:00.000Z",
+        "modifyTime": "2018-03-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 295,
+            "body": "我不同意",
+            "agree-by": [
+                {
+                    "user-id": 415,
+                    "user-name": "膜戒"
+                },
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 462,
+                    "user-name": "姜旭"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1087,
+                    "user-name": "Mogician江道夫"
+                },
+                {
+                    "user-id": 1117,
+                    "user-name": "skygate"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-19T00:00:00.000Z",
+            "modifyTime": "2018-03-19T00:00:00.000Z"
+        },
+        {
+            "author": 415,
+            "body": "别想着当教授了，收拾收拾准备去北京吧",
+            "agree-by": [
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 462,
+                    "user-name": "姜旭"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 183,
+                    "user-name": "江沢民"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-29T00:00:00.000Z",
+            "modifyTime": "2018-03-29T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "但是有别人已经被靛了",
+            "agree-by": [
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 462,
+                    "user-name": "姜旭"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "还得拉上其余299个教授一致通过他的意见才可以",
+            "agree-by": [
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-29T00:00:00.000Z",
+            "modifyTime": "2018-03-29T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "可是这两位都已经被续了，不在人世了，所以你这是异想天开、没事找事，这样子是不行的",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-07T00:00:00.000Z",
+            "modifyTime": "2018-04-07T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "先做一个报告",
+            "agree-by": [
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 430,
+                    "user-name": "小管家"
+                },
+                {
+                    "user-id": 462,
+                    "user-name": "姜旭"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 86,
+            "body": "可以对某人说，另请高明吧！并让他同意",
+            "agree-by": [
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-29T00:00:00.000Z",
+            "modifyTime": "2018-03-29T00:00:00.000Z"
+        },
+        {
+            "author": 63,
+            "body": "应该考虑历史的进程再做决定",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 262,
+                    "user-name": "kaeru教信者"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-09T00:00:00.000Z",
+            "modifyTime": "2018-04-09T00:00:00.000Z"
+        },
+        {
+            "author": 728,
+            "body": "去发表《能源发展趋势和主要节能措施》、《微电子工业的发展》两篇论文，然后几百个教授一致通过。再给朱校长，张院长写报告。之后临危受命还念两句诗。最后对只做了一点微小的工作感到惭愧。",
+            "agree-by": [
+                {
+                    "user-id": 500,
+                    "user-name": "阿尔法苟"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        },
+        {
+            "author": 787,
+            "body": "提前想好怎么管理城市才是教授该做的",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>这一点~我跟你差不多<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 9,
+                    "user-name": "Wallais_"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+            "author": 1141,
+            "body": "这个时候可以念上两句诗",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "中央决定让你去北京………",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "这个水平跟他当年“好几百个教授一致通过”如何？",
+            "id": 1127
+        },
+        {
+            "title": "汽车倒车应该挂哪个档？",
+            "id": 226
+        },
+        {
+            "title": "蛤丝应该爱国吗？",
+            "id": 1027
+        },
+        {
+            "title": "民主化后的中国应该定都在哪里？",
+            "id": 3921
+        },
+        {
+            "title": "我们是否应该枪毙蓄意挑起内战，企图分裂膜乎的用户？",
+            "id": 1355
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-20T15:52:00.000Z",
+        "views": 680,
+        "concerns": 11
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "type": "question",
+    "id": 55,
+    "tags": [
+        {
+            "tag-id": 11,
+            "tag-name": "鹳"
+        }
+    ],
+    "detail": {
+        "title": "你们说的“鹳”是什么意思？",
+        "body": "尴尬，我以为是“鹤”字，原来是“鹳”字。",
+        "author": 40,
+        "link": null,
+        "comments": 2,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1,
+            "body": "是雏鹤爱吗",
+            "agree-by": [
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 42,
+                    "user-name": "周源"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 3,
+            "body": "草<br>\n话说题主是……？",
+            "agree-by": [
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 42,
+                    "user-name": "周源"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 13,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 35,
+            "body": "论“鹳”与“鹤”的区别。。。。。<br>\n题主是外国友人？",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜蛤有没有个人崇拜的意思？",
+            "id": 2022
+        },
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "假如长者现在依然在领导我们，中国会是什么样子？",
+            "id": 929
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-03T16:58:00.000Z",
+        "views": 361,
+        "concerns": 4
+    }
+}

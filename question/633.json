@@ -1,0 +1,143 @@
+{
+    "type": "question",
+    "id": 633,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "《切包子》源代码 (GayHub)，请问还有哪些地方需要改进？",
+        "body": "https://github.com/hahaxixi/bao",
+        "author": 831,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-03T00:00:00.000Z",
+        "modifyTime": "2018-05-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 204,
+            "body": "在游戏初始界面添加游戏规则<br>\n让没玩过的人知道萨格尔王法拉利彭丽媛一类都是干嘛的",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-04T00:00:00.000Z",
+            "modifyTime": "2018-05-04T00:00:00.000Z"
+        },
+        {
+            "author": 54,
+            "body": "写代码我是不会，提一点建议。<br>\n多搞点背景，每局Game Over之后自动更替。<br>\n场上出现的东西会随着分数的增加而增加。<br>\n添加BGM",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-04T00:00:00.000Z",
+            "modifyTime": "2018-05-04T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "开源了，吼啊！",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-05T00:00:00.000Z",
+            "modifyTime": "2018-05-05T00:00:00.000Z"
+        },
+        {
+            "author": 1,
+            "body": "请发成文章，提问不是这么用的",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-04T16:18:00.000Z",
+        "views": 391,
+        "concerns": 4
+    }
+}

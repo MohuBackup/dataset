@@ -1,0 +1,149 @@
+{
+    "type": "question",
+    "id": 454,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 252,
+            "tag-name": "游戏"
+        }
+    ],
+    "detail": {
+        "title": "《切包子》吼不吼蛙？",
+        "body": "https://angry.netlify.com<br>\nhttps://bz.netlify.com",
+        "author": 831,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-22T00:00:00.000Z",
+        "modifyTime": "2018-04-22T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "兹磁，建议加入街机模式的元素:<br>\n<ul><li>切一套《基本法》可以短暂冻结时间</li><li>切一套《宪法》则可以增加漏切数量限制</li><li>切一套《萨格尔王》则会飞出一堆的包子</li><li>切一只小熊维尼，物体则会倒过来，从屏幕上方出现，向上掉落</li><li>连击奖励，凡是一次切超过两个以上的包子会额外加分</li></ul>",
+            "agree-by": [
+                {
+                    "user-id": 831,
+                    "user-name": "江煮習"
+                },
+                {
+                    "user-id": 642,
+                    "user-name": "黑泽露比"
+                },
+                {
+                    "user-id": 810,
+                    "user-name": "高端宇宙人"
+                },
+                {
+                    "user-id": 204,
+                    "user-name": "redFerrari"
+                },
+                {
+                    "user-id": 612,
+                    "user-name": "氢氧化氢_P"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 444,
+                    "user-name": "NComU"
+                },
+                {
+                    "user-id": 63,
+                    "user-name": "新蛤社"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-22T00:00:00.000Z",
+            "modifyTime": "2018-04-22T00:00:00.000Z"
+        },
+        {
+            "author": 849,
+            "body": "吼啊",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-22T00:00:00.000Z",
+            "modifyTime": "2018-04-22T00:00:00.000Z"
+        },
+        {
+            "author": 542,
+            "body": "为什么logo是诹访子...",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-04-22T00:00:00.000Z",
+            "modifyTime": "2018-04-22T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "别看现在闹得欢，小心日后拉清单",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-22T00:00:00.000Z",
+            "modifyTime": "2018-04-22T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-22T13:34:00.000Z",
+        "views": 693,
+        "concerns": 5
+    }
+}

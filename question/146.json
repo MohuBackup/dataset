@@ -1,0 +1,168 @@
+{
+    "type": "question",
+    "id": 146,
+    "tags": [
+        {
+            "tag-id": 62,
+            "tag-name": "连任"
+        },
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        }
+    ],
+    "detail": {
+        "title": "如果上台的是长者，会发生什么？",
+        "body": "",
+        "author": 333,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-20T00:00:00.000Z",
+        "modifyTime": "2018-03-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 167,
+            "body": "把驾驶方向调换",
+            "agree-by": [
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1630,
+                    "user-name": "习文盲"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 384,
+            "body": "长者不可能干出像某个初中毕业上山下乡然后直接工作连高中都没读过的土包子一样，坑害自己的国家只为了加强自己的政治统治，长者在台上的大部分举动都是为中国人民谋利益、某幸福，而不是制造舆论群抨击西方国家然后到处树敌",
+            "agree-by": [
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-21T00:00:00.000Z",
+            "modifyTime": "2018-03-21T00:00:00.000Z"
+        },
+        {
+            "author": 379,
+            "body": "上海的天气好转了",
+            "agree-by": [
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 332,
+            "body": "會車禍",
+            "agree-by": [
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果上台的是薄熙来，会发生什么？",
+            "id": 492
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "长者做过哪些恶？",
+            "id": 1512
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "很喜欢长者但是讨厌共产党怎么办",
+            "id": 806
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "长者过生日，习近平会送什么礼物？",
+            "id": 2138
+        },
+        {
+            "title": "在庆丰包子铺乳包会发生什么",
+            "id": 526
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-22T17:45:00.000Z",
+        "views": 375,
+        "concerns": 7
+    }
+}

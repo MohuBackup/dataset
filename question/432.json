@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 432,
+    "tags": [
+        {
+            "tag-id": 268,
+            "tag-name": "学历"
+        }
+    ],
+    "detail": {
+        "title": "大学每次考试前才学习这个效率是否efficiency?",
+        "body": "已经大三了，见得多了，总是考前一晚上才读书，一考完跑的比西方记者还快。口.口感觉生活浑浑噩噩的，头上不停-1s\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180418/c410ff989409ee9d28273c2d4efdf67e.JPG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180418/c410ff989409ee9d28273c2d4efdf67e.JPG\" class=\"img-thumbnail\" alt=\"IMG_9137.JPG\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 731,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-19T00:00:00.000Z",
+        "modifyTime": "2018-04-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "吼蛙，别人花一学期学的东西你一晚上就学完了",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "不资瓷，年轻人啊都是靡靡之音，还是要提高自己的知识水平，学习一个，识得唔识得啊？",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "考前考中都要意识长者的同在，包好几百个教授一致通过。<br>\n（暂停）<br>\n大学学生是不信邪的?",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "薄熙来有哪些值得我们学习的地方？",
+            "id": 490
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "如果长者在某一天正式加入了膜乎，是否应该给牠一个特殊钦定账号？享受钦定特效和特殊权限？",
+            "id": 1402
+        },
+        {
+            "title": "和自己的表妹结婚是否违法？",
+            "id": 311
+        },
+        {
+            "title": "该车主贴上了“庆丰包子铺”车贴，这是否会加快车主的倒车速度？【图片】",
+            "id": 2045
+        },
+        {
+            "title": "投票表决是否封禁此账号",
+            "id": 3799
+        },
+        {
+            "title": "最新的假疫苗案是否属于恶习的“人口清理计划”的一部分？",
+            "id": 2034
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-19T09:49:00.000Z",
+        "views": 363,
+        "concerns": 3
+    }
+}

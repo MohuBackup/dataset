@@ -1,0 +1,108 @@
+{
+    "type": "question",
+    "id": 1144,
+    "tags": [
+        {
+            "tag-id": 115,
+            "tag-name": "尬膜"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "对于这个历史上的今天，你们有什么想说的？",
+        "body": "<p><img src=\"/uploads/ueditor/20180531/1527759262118178.jpg\" title=\"1527759262118178.jpg\" alt=\"QQ图片20180531173305.jpg\"></p>",
+        "author": 1096,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-31T00:00:00.000Z",
+        "modifyTime": "2018-05-31T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1157,
+            "body": "<h1>历史上的江天</h1><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "苟利国家生死以，岂因祸福避趋之",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "<p>改变中国的一天</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "在学校表白墙上辱包被举报了，今天校长直接给我打电话，我该怎么办？",
+            "id": 701
+        },
+        {
+            "title": "今天是光輝燦爛的中華民國雙十國慶耶，各位膜友們有何感想呢？",
+            "id": 3299
+        },
+        {
+            "title": "如何看待腾讯新闻在今天推送这个？",
+            "id": 927
+        },
+        {
+            "title": "今天是共英宗庆丰皇帝的生日，大家觉得该怎么庆祝皇上的生日？",
+            "id": 1519
+        },
+        {
+            "title": "大家今天怎么过呢",
+            "id": 1211
+        },
+        {
+            "title": "如果毛泽东和邓小平穿越到今天，会如何评价当今的中国？",
+            "id": 1545
+        },
+        {
+            "title": "今天是共惨党97岁",
+            "id": 1785
+        },
+        {
+            "title": "今天是中国成立25197天，是苏联存活的时间，大家怎么看",
+            "id": 2947
+        },
+        {
+            "title": "别看你今天闹得欢，小心啊........",
+            "id": 2797
+        },
+        {
+            "title": "别看你今天闹得欢，小心今后拉清单",
+            "id": 838
+        },
+        {
+            "title": "如何看待包主席今天造访北大的行为？",
+            "id": 583
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-31T10:04:00.000Z",
+        "views": 277,
+        "concerns": 5
+    }
+}

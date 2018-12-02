@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 508,
+    "tags": [
+        {
+            "tag-id": 305,
+            "tag-name": "监管"
+        },
+        {
+            "tag-id": 306,
+            "tag-name": "自由"
+        },
+        {
+            "tag-id": 102,
+            "tag-name": "GFW"
+        }
+    ],
+    "detail": {
+        "title": "如何看待网易云监管不到位",
+        "body": "如题，某首歌的评论区中发现如图文字。是不是应该把评论管理人员拉出去挡子弹？<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180428/a2df92d5b63d756179c2f378c69330a3.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180428/a2df92d5b63d756179c2f378c69330a3.jpg\" class=\"img-polaroid\" title=\"IMG_20180428_161152_978.jpg\" alt=\"IMG_20180428_161152_978.jpg\"></a>\n</div>\n<br>\n&nbsp;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-28T00:00:00.000Z",
+        "modifyTime": "2018-04-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "首先，网易云音乐颜色是红色的。<br>\n其次，网易云音乐在首页广告里面经常暴力施展膜法，有时候连蛤丝都看不下去了。（见新蛤社报道）<br>\n然后，网易云音乐怕是除了怕惹事，几个月清理一批评论外，根本没删除评论，蛤三篇中任何一个词语搜歌，评论区都是可以预料的，即使被禁言都不会被删评论。<br>\n结论：网易云音乐根本不怕查水表。<br>\n引出结论2：网易云音乐后台很强大。<br>\n推导：是谁能在应用商店、社交媒体、直播、短视频、游戏等app集体被迫倒车的同时，钦定给网易云音乐这么大的权利呢？<br>\n这个问题给广大蛤丝考虑。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1864,
+                    "user-name": "Austiforn"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-28T00:00:00.000Z",
+            "modifyTime": "2018-04-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-28T12:39:00.000Z",
+        "views": 335,
+        "concerns": 1
+    }
+}

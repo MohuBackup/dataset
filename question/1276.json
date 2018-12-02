@@ -1,0 +1,72 @@
+{
+    "type": "question",
+    "id": 1276,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "周恩来有黑点吗？",
+        "body": "",
+        "author": 414,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-07T00:00:00.000Z",
+        "modifyTime": "2018-06-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1234,
+            "body": "人非圣贤，每个人都有黑点，只是他为我政治服务，黑点自然掩盖",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 347,
+            "body": "有没有也等待你自己去发现了，多看几本关于他的书册吧，也许会有点端倪",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 970,
+            "body": "有啊，我记得两少一宽政策就是他提出来的吧，还说什么汉人对不起少数民族，祖辈的债我们还之类的",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价周恩来？",
+            "id": 3622
+        },
+        {
+            "title": "如何评价周恩来",
+            "id": 1261
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-07T15:26:00.000Z",
+        "views": 385,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "type": "question",
+    "id": 922,
+    "tags": [
+        {
+            "tag-id": 495,
+            "tag-name": "网络封锁"
+        },
+        {
+            "tag-id": 521,
+            "tag-name": "网页"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 522,
+            "tag-name": "蛤乎"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "蛤乎仍有（仅可浏览的）网页快照？",
+        "body": "<p><a href=\"https://archive.is/El8hu\">https://archive.is/El8hu</a></p><p>这个网站的档案工作做的太吼了，滋磁一个。</p>",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-20T00:00:00.000Z",
+        "modifyTime": "2018-05-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1117,
+            "body": "<p>Of course, 不知是哪位热心的蛤丝当时保存了一个快照，excited!</p><p>另外还有西方妓者作的一篇报导：</p><p><a href=\"http://foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/\" rel=\"nofollow\" target=\"_blank\">http://foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/</a><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1181,
+                    "user-name": "naiveme"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-05-21T00:00:00.000Z",
+            "modifyTime": "2018-05-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "如何看待知乎通过禁止旧版应用浏览图片来强制用户更新为有大量广告的新版本？",
+            "id": 605
+        },
+        {
+            "title": "如何评价Greatfire.org和其自由浏览app？",
+            "id": 1496
+        },
+        {
+            "title": "使用VPN可以提高访问膜乎网页的速度吗？",
+            "id": 787
+        },
+        {
+            "title": "如何评价【膜法指南】网页版？",
+            "id": 1975
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-21T11:59:00.000Z",
+        "views": 502,
+        "concerns": 3
+    }
+}

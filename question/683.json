@@ -1,0 +1,134 @@
+{
+    "type": "question",
+    "id": 683,
+    "tags": [
+        {
+            "tag-id": 6,
+            "tag-name": "小熊维尼"
+        }
+    ],
+    "detail": {
+        "title": "包帝最像中国古代的哪位皇帝？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-07T00:00:00.000Z",
+        "modifyTime": "2018-05-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 262,
+            "body": "晋惠帝司马衷，刁既没有毛的政治手腕，军事水平，也没有邓的精明强干和江的博学多才，还没有胡的谦谦君子风度，至于袁世凯，更是无法与之相比，只好喊喊“撸起……”之类土气到爆的口号，还有随时都能念错的文章，以及不知道谁给他的四个自信，在世界舞台上出尽风头，出尽洋相，殊不知闷声才能发大财。",
+            "agree-by": [
+                {
+                    "user-id": 679,
+                    "user-name": "习大犬"
+                },
+                {
+                    "user-id": 831,
+                    "user-name": "江煮習"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "你姓赵吗",
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "我大清国，无奇不有",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "袁世凯",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "如何参加中国国家主席选举？",
+            "id": 469
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-08T04:46:00.000Z",
+        "views": 292,
+        "concerns": 4
+    }
+}

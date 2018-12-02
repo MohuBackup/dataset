@@ -1,0 +1,106 @@
+{
+    "type": "question",
+    "id": 1215,
+    "tags": [
+        {
+            "tag-id": 242,
+            "tag-name": "高中"
+        }
+    ],
+    "detail": {
+        "title": "89年的高考是怎样的？",
+        "body": "",
+        "author": 1157,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-04T00:00:00.000Z",
+        "modifyTime": "2018-06-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p><img src=\"/uploads/ueditor/20180618/1529266076139943.png\" title=\"1529266076139943.png\" alt=\"image.png\"></p><p>我没有经历过，不知道是怎么样的，但是我知道我们不能忘记为我们争取到一点点自由和权力却背负污蔑和骂名的他们。</p>",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1257,
+                    "user-name": "假面之下"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "刚刚学潮学长学姐血染广场<br>\n应该是极其失望了<br>\n对于大学，对于体制<br>\n亦然<br>\n<br>\n不过那时的校方都还声援着学生<br>\n哪像今天。。。",
+            "agree-by": [
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                },
+                {
+                    "user-id": 1520,
+                    "user-name": "small_c"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "反官倒，反腐败",
+            "agree-by": [
+                {
+                    "user-id": 1414,
+                    "user-name": "leon98zhang"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价2018高考浙江卷这篇满分作文?",
+            "id": 1270
+        },
+        {
+            "title": "如何看待最近几年高考作文题目的变化？",
+            "id": 1269
+        },
+        {
+            "title": "怎样高考有姿势水平？",
+            "id": 1275
+        },
+        {
+            "title": "如何评价2018北京高考作文题？",
+            "id": 1263
+        },
+        {
+            "title": "如何评价中国的高考？",
+            "id": 3036
+        },
+        {
+            "title": "如何评价今年高考全国卷1的作文题？",
+            "id": 1292
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-17T22:48:00.000Z",
+        "views": 385,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "type": "question",
+    "id": 352,
+    "tags": [
+        {
+            "tag-id": 112,
+            "tag-name": "膜"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        }
+    ],
+    "detail": {
+        "title": "中高级鉿丝必答题：东圈门是哪里？",
+        "body": "裆燃了，我志己是知道的",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-10T00:00:00.000Z",
+        "modifyTime": "2018-04-10T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 262,
+            "body": "他的故居",
+            "agree-by": [
+                {
+                    "user-id": 690,
+                    "user-name": "青篁悦雪"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        },
+        {
+            "author": 86,
+            "body": "16号?地图上标的是江上青故居，",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果在政治历史会考的答题纸上乳包会发生什么",
+            "id": 763
+        },
+        {
+            "title": "东圈门倡议：膜乎里不要提尬膜问题！",
+            "id": 504
+        },
+        {
+            "title": "如何在大学的政治课要的文章（观后感、论文）中高级黑包、辱包、批评体制？",
+            "id": 1756
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-10T12:15:00.000Z",
+        "views": 227,
+        "concerns": 3
+    }
+}

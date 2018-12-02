@@ -1,0 +1,198 @@
+{
+    "type": "question",
+    "id": 1116,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 578,
+            "tag-name": "双重国籍"
+        },
+        {
+            "tag-id": 579,
+            "tag-name": "移民"
+        },
+        {
+            "tag-id": 580,
+            "tag-name": "国籍"
+        }
+    ],
+    "detail": {
+        "title": "中国未来会不会实行双重国籍制度？",
+        "body": "<p>双重国籍制度对赵家人有利吗？对屁民有利吗？<br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-29T00:00:00.000Z",
+        "modifyTime": "2018-05-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1192,
+            "body": "<p>现在就有啊 比如高晓松 普通人没有双国籍因为他们不姓赵</p>",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 1245,
+                    "user-name": "长津"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "赵国籍的人可以有双国籍，这样等一倒台他们可以逃出来",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 1245,
+                    "user-name": "长津"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": 347,
+            "body": "很明显对赵家人是有利的，赵家人有双重国籍，一旦国内出了问题，他们就可以逃走，离开中国，参考秘鲁总统阿尔韦托 藤森。秘鲁日本双重国籍，最后出了事还不是逃回日本了。但是对于普通百姓来说，也是多一条路，但是我还是认为，就现在条件而言，还是弄不到！",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "对于真正的中产是有利的，可以收拾东西跑路，生活可以在习惯的地方；<br>\n对于赵家人是有利的，参见中产<br>\n对于赵家是不利的，有钱的都跑了，资本，人才都没了，赵家也就要明面上崩了<br>\n赵家人从来不是一家人，画重点，赵家人不是人",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1192,
+                    "user-name": "刁扛麦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 918,
+            "body": "<p>明面上肯定不会的。暗地里都会，毕竟出了事跑路方便</p>",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "为什么总有些人认为美帝的制度比中共的优秀",
+            "id": 1234
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-10T06:42:00.000Z",
+        "views": 395,
+        "concerns": 6
+    }
+}

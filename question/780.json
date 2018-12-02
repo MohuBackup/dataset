@@ -1,0 +1,133 @@
+{
+    "type": "question",
+    "id": 780,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        }
+    ],
+    "detail": {
+        "title": "有一个会膜法的家长/老师是怎样一种体验",
+        "body": "",
+        "author": 842,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-13T00:00:00.000Z",
+        "modifyTime": "2018-05-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1069,
+            "body": "回答政治题，答上三个代表，老师肯定会额外加分",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-13T00:00:00.000Z",
+            "modifyTime": "2018-05-13T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "还记得以前高中英语老师给我们放江与华莱士谈笑风生的视频，本来同学们一个个死气沉沉，突然大家都感到excited,上课的这个efficiency大大提高，放完后老师说:“今天(8月17号)你们都为长者续了一秒吗？”台下蛙声一片，“当蓝啦！”“吼哇！”“资瓷！”。怀念高中时代，大家一起膜蛤是坠美好的回忆。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-05-14T00:00:00.000Z",
+            "modifyTime": "2018-05-14T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "我们音乐老师肯定是个粉丝。<br>\n我们念诗、暴力膜的时候，老师总是露出神秘的笑容。<br>\n还有老师特别喜欢我桌子上的一本红色的书。",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-14T00:00:00.000Z",
+            "modifyTime": "2018-05-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        },
+        {
+            "title": "吃青蛙肉是一种什么样的体验？",
+            "id": 186
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-14T06:00:00.000Z",
+        "views": 322,
+        "concerns": 4
+    }
+}

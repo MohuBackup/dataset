@@ -1,0 +1,36 @@
+{
+    "type": "question",
+    "id": 1028,
+    "tags": [
+        {
+            "tag-id": 152,
+            "tag-name": "生活"
+        }
+    ],
+    "detail": {
+        "title": "吴京为什么被黑？",
+        "body": "除了战狼有故意利用爱国情绪的嫌疑之外还有什么？",
+        "author": 1002,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-25T00:00:00.000Z",
+        "modifyTime": "2018-05-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1157,
+            "body": "好像李小璐做头发那晚吴京也在场，但是因为吴京爱国，所以新闻没爆他的名字。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-05-25T00:00:00.000Z",
+            "modifyTime": "2018-05-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-25T13:36:00.000Z",
+        "views": 304,
+        "concerns": 2
+    }
+}

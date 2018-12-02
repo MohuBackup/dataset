@@ -1,0 +1,200 @@
+{
+    "type": "question",
+    "id": 53,
+    "tags": [
+        {
+            "tag-id": 44,
+            "tag-name": "心理"
+        }
+    ],
+    "detail": {
+        "title": "墜痛苦是一種怎樣的痛苦？",
+        "body": "如題，大家經常說這是墜痛苦的，那末這是一種怎樣的痛苦呢？",
+        "author": 20,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 3,
+            "body": "皮一瞬皆老，沉而下坠，此众所谓「坠痛苦」也。",
+            "agree-by": [
+                {
+                    "user-id": 20,
+                    "user-name": "立花琴子"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 24,
+                    "user-name": "连任吼不吼呀"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 204,
+                    "user-name": "redFerrari"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 35,
+            "body": "失去生命的力量",
+            "agree-by": [
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 20,
+                    "user-name": "立花琴子"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 24,
+            "body": "把墨水弄到纸上，他说过的",
+            "agree-by": [
+                {
+                    "user-id": 35,
+                    "user-name": "云山間·王文徽"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 20,
+                    "user-name": "立花琴子"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "先买杆鸭嘴笔自己体验下吧",
+            "agree-by": [
+                {
+                    "user-id": 498,
+                    "user-name": "KONATA"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>把墨汁弄到图纸上再用刀片去刮，这是坠痛苦的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>是一种有味道的痛&nbsp;&nbsp;</p><p>（<strong>苦</strong>）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        },
+        {
+            "author": 1069,
+            "body": "<p>满脸都是粪！<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-25T00:00:00.000Z",
+            "modifyTime": "2018-06-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "請問移民中國是一個好選擇嗎？",
+            "id": 2899
+        },
+        {
+            "title": "看色情內容被家長發現是種怎樣的體驗？",
+            "id": 1619
+        },
+        {
+            "title": "「晚了一步，就進不去了」是一種怎樣的體驗？",
+            "id": 56
+        },
+        {
+            "title": "嗑药自杀更痛苦还是跳楼自杀更痛苦？",
+            "id": 888
+        },
+        {
+            "title": "生活在瑞士是不是很痛苦？瑞士人都多羡慕中国？",
+            "id": 1965
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-25T12:11:00.000Z",
+        "views": 420,
+        "concerns": 8
+    }
+}

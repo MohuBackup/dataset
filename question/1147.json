@@ -1,0 +1,134 @@
+{
+    "type": "question",
+    "id": 1147,
+    "tags": [
+        {
+            "tag-id": 483,
+            "tag-name": "64"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "大陆的社群网站如何在「64」这天控制舆论？",
+        "body": "<p>如题<br></p>",
+        "author": 54,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-31T00:00:00.000Z",
+        "modifyTime": "2018-05-31T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "应该深入了解习禁评主席思想",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 414,
+                    "user-name": "nai黄包子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 445,
+            "body": "当然是把网线剪掉，没错，所有的网线",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "现在的控制能力不清楚，但是以前还有战斗意识的国家安全部门做的很好。到了今天起码大多数人是不知道这个事情的，在香港有轮子借这个做题目搞事遇到陆客。基本上想的都是讲的是什么东西",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>知乎管理员了解一下</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "有哪些在大陆被禁止的歌曲？",
+            "id": 1531
+        },
+        {
+            "title": "如何评价大陆特供版 Flash Player 的流氓行为？",
+            "id": 1916
+        },
+        {
+            "title": "控制不了想和习明泽做爱的念头 怎么办？",
+            "id": 2934
+        },
+        {
+            "title": "膜乎会不会是一个钓鱼执法网站",
+            "id": 767
+        },
+        {
+            "title": "大家是怎么知道膜乎这个网站",
+            "id": 2299
+        },
+        {
+            "title": "膜乎如何保护依旧在大陆没有移民的用户的隐私安全",
+            "id": 2384
+        },
+        {
+            "title": "如果中国未来陷入了长时间大规模的饥荒或战乱，台湾能否成为大陆华人的第二家园？",
+            "id": 2883
+        },
+        {
+            "title": "各位觉得大陆简体字哪个比较怪异（难看）？",
+            "id": 2649
+        },
+        {
+            "title": "如何在墙内用极其隐晦的方式膜起来？",
+            "id": 620
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-03T02:09:00.000Z",
+        "views": 591,
+        "concerns": 2
+    }
+}

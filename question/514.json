@@ -1,0 +1,135 @@
+{
+    "type": "question",
+    "id": 514,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        }
+    ],
+    "detail": {
+        "title": "征集：江学之歌，拟作为蛤丝的马赛曲、国际歌？",
+        "body": "",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-29T00:00:00.000Z",
+        "modifyTime": "2018-04-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "乐队编制有蛤威夷吉他，竹笛，二胡，声乐",
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-29T00:00:00.000Z",
+            "modifyTime": "2018-04-29T00:00:00.000Z"
+        },
+        {
+            "author": 619,
+            "body": "同学们，大家起来...",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-29T00:00:00.000Z",
+            "modifyTime": "2018-04-29T00:00:00.000Z"
+        },
+        {
+            "author": 887,
+            "body": "扬州爱蛤乐团",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-29T00:00:00.000Z",
+            "modifyTime": "2018-04-29T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "谢邀，不过我不一定有时间写",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-04-29T00:00:00.000Z",
+            "modifyTime": "2018-04-29T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "担负起天下的兴亡",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-30T00:00:00.000Z",
+            "modifyTime": "2018-04-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "你们见过姿势水平坠低的蛤丝是谁？",
+            "id": 650
+        },
+        {
+            "title": "新蛤社夏日诗词大赏诗词征集令",
+            "id": 520
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如何利用有限的江学资源创造新的“膜派”？",
+            "id": 335
+        },
+        {
+            "title": "你们见过知识水平最高的蛤丝是谁？",
+            "id": 638
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "蛤丝应该爱国吗？",
+            "id": 1027
+        },
+        {
+            "title": "请各位讨论蛤丝应该有怎样的思考方式？",
+            "id": 704
+        },
+        {
+            "title": "为什么“暴力膜蛤必被续”的“续”是减少，而“百万蛤丝续大江”的“续”是增加？",
+            "id": 436
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-29T18:13:00.000Z",
+        "views": 268,
+        "concerns": 6
+    }
+}

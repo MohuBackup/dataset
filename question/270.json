@@ -1,0 +1,53 @@
+{
+    "type": "question",
+    "id": 270,
+    "tags": [
+        {
+            "tag-id": 121,
+            "tag-name": "初中生"
+        },
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "十八大后收手了会怎样？",
+        "body": "",
+        "author": 602,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-02T00:00:00.000Z",
+        "modifyTime": "2018-04-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 167,
+            "body": "无法预料，毕竟包收手了总还要有个人继任，但是我们对继任者所知甚少，事实上当时就没有合适的继任者，可能真的要想茳接班赵紫阳那样仓促",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-02T00:00:00.000Z",
+            "modifyTime": "2018-04-02T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "曾经传言胡春华孙政才，现在你看到了吧，灭一个收买一个",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-02T17:05:00.000Z",
+        "views": 364,
+        "concerns": 4
+    }
+}

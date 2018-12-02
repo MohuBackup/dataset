@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 474,
+    "tags": [
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        }
+    ],
+    "detail": {
+        "title": "《皇帝的新农》中有什么细思极恐的细节？",
+        "body": "听说这本书江的是萨格尔王岿然不动，背着两百斤麦子不换肩到庆丰包子铺吃包子。然而她的衣服太紧了，在付钱的时候通商宽衣，后来找了人给它制作新衣服。结果萨格尔王就成了智障，衣和农也分不清，读的书都只记得标题和作者了，还动不动就做中国梦，天天吵着当皇帝。结局是被蛤神批判一番，被弄得满脸喷粪，坠吼被xu死了。",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-25T00:00:00.000Z",
+        "modifyTime": "2018-04-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 461,
+            "body": "萨格尔王觉得pm二百五污染十分严重，于是便狠狠斥责了一番有关部门的官员们，并说他们“满脸喷粪”。",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 80,
+                    "user-name": "linkhoo"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-04-25T00:00:00.000Z",
+            "modifyTime": "2018-04-25T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "有人往地上扔了一块无磷肥皂，萨格尔王把这块肥皂捡了起来，用它洗农服。",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-25T00:00:00.000Z",
+            "modifyTime": "2018-04-25T00:00:00.000Z"
+        },
+        {
+            "author": 262,
+            "body": "萨格尔王为了发展国家经济，绝不追求贸易逆差",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-25T00:00:00.000Z",
+            "modifyTime": "2018-04-25T00:00:00.000Z"
+        },
+        {
+            "author": 872,
+            "body": "萨格尔王觉得自己和丽媛比不上江煮习和英子，就吵着让丽媛当皇后",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-25T00:00:00.000Z",
+            "modifyTime": "2018-04-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "今天是共英宗庆丰皇帝的生日，大家觉得该怎么庆祝皇上的生日？",
+            "id": 1519
+        },
+        {
+            "title": "包帝的下一任皇帝是谁？",
+            "id": 2841
+        },
+        {
+            "title": "对于庆丰皇帝的龙椅大家有什么见解?",
+            "id": 1846
+        },
+        {
+            "title": "对于庆丰皇帝，民意或者民望是不是越来越不重要了？",
+            "id": 1877
+        },
+        {
+            "title": "皇帝的新农",
+            "id": 1332
+        },
+        {
+            "title": "在中国大陆，事实上恢复皇帝制度有没有可行性",
+            "id": 3737
+        },
+        {
+            "title": "为什么人想做皇帝？",
+            "id": 1929
+        },
+        {
+            "title": "包帝最像中国古代的哪位皇帝？",
+            "id": 683
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-25T14:35:00.000Z",
+        "views": 628,
+        "concerns": 5
+    }
+}

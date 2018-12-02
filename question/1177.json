@@ -1,0 +1,142 @@
+{
+    "type": "question",
+    "id": 1177,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "为什么清朝初期汉人誓死不肯留辫子 清末汉人则把辫子视为命根？",
+        "body": "<p>如题 还有缠足和太监制度 为什么这么残忍的事物在当时能被人普遍看待 并为视为传统 请问在高压的社会环境下人类的认知能力和智商会不会受到一定影响？</p>",
+        "author": 1192,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-02T00:00:00.000Z",
+        "modifyTime": "2018-06-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "大清统治下你当蓝要将大清文化当成本族传统文化，类比如今少数民族要学汉语，过新年。所谓人人平等，不过是一个弥天大谎，这个弱肉强食的世界，败者注定要向胜者妥协，顺我者昌，逆我者亡，那些生存下来的败者必须忍受并适应胜者的世界，直到翻身的那一天。高压的社会环境会让很多人变得愚昧，但也会催生少数思想先进的精英，正是有这些人的牺牲，才有revolution,才有freely tomorrow,只要到到了合适的时机，愚民也终将觉醒！三十年河东，三十年河西，莫欺少年穷！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1245,
+                    "user-name": "长津"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1192,
+                    "user-name": "刁扛麦"
+                },
+                {
+                    "user-id": 445,
+                    "user-name": "FX_W"
+                },
+                {
+                    "user-id": 1087,
+                    "user-name": "Mogician江道夫"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 855,
+                    "user-name": "齐奥塞斯库"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+            "author": 1138,
+            "body": "<p>被清朝统治导致骨子遗留下了奴性</p>",
+            "agree-by": [
+                {
+                    "user-id": 414,
+                    "user-name": "nai黄包子"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+            "author": 1311,
+            "body": "<p>先问是不是，再问为什么。</p><p><br></p><p>清末又不是所有人都把辫子视为命根，很多人剪的很欢乐，不存在视为命根。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "请问现在的共朝末年和清朝末年有什么不同？",
+            "id": 3098
+        },
+        {
+            "title": "为什么“民主大统一论”在外网不受欢迎，甚至被视为脑残国粉",
+            "id": 2163
+        },
+        {
+            "title": "问社区内的爱党人士，如果你们生于清末或民国，你们是否也会和现在一样无条件支持政府？",
+            "id": 1246
+        },
+        {
+            "title": "当今小粉红如果回到清朝 会不会在当时支持拥护清国？",
+            "id": 1176
+        },
+        {
+            "title": "所谓的汉人第一、美国第一等言论正义吗？",
+            "id": 3614
+        },
+        {
+            "title": "清朝纪映钟的<望东澨山>是怎样的一首诗？",
+            "id": 1063
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-03T02:26:00.000Z",
+        "views": 343,
+        "concerns": 5
+    }
+}

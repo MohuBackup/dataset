@@ -1,0 +1,155 @@
+{
+    "type": "question",
+    "id": 1180,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "外国人为什么普遍歧视华人？",
+        "body": "我在telegram的一个组玩狼人杀，不知道怎么的突然就有人爆出一句中国人喜欢吃昆虫，如果真是非常歧视，这又是为什么呢",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-02T00:00:00.000Z",
+        "modifyTime": "2018-06-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 765,
+            "body": "说的好像天朝就不歧视华人一样",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 410,
+                    "user-name": "蛤蟆镜"
+                },
+                {
+                    "user-id": 1175,
+                    "user-name": "依云矿泉水"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 498,
+                    "user-name": "KONATA"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "中国的吃虫好像只是小范围的，人家喜欢吃也不能说是歧视。毕竟中国没有像贝爷一样的人物。",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 410,
+                    "user-name": "蛤蟆镜"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+            "author": 445,
+            "body": "当一个人害怕到了极点的时候，表现出来的会是愤怒，也就是物极必反，在此同理，或许是他太喜欢中国了，还想要切磋一下倒车技术",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "对于未知的恐惧",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果全部华人皈依伊斯兰教成为穆斯林，中国会变强吗？",
+            "id": 2779
+        },
+        {
+            "title": "如何看待当今人们普遍膜蛤，乳包却没人膜胡的情况呢",
+            "id": 1231
+        },
+        {
+            "title": "美国不能歧视别人是不是意味着就没有言论自由？",
+            "id": 2049
+        },
+        {
+            "title": "中国这么强大，外国人会感到畏惧吗？",
+            "id": 1837
+        },
+        {
+            "title": "美国不能歧视别人是不是意味着就没有言论自由？",
+            "id": 2050
+        },
+        {
+            "title": "华人在中国之外独立建国，中国政府将怎么表态？",
+            "id": 479
+        },
+        {
+            "title": "如何优雅的访问世界第一大华人媒体大纪元？",
+            "id": 3313
+        },
+        {
+            "title": "如何看待中国普遍出现的“消费降级”状态？",
+            "id": 3615
+        },
+        {
+            "title": "如何看待现代年轻人普遍不关心政治的现象？",
+            "id": 4095
+        },
+        {
+            "title": "膜乎应该如何对待一部分用户对其他用户进行歧视的言论和心态？",
+            "id": 1688
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-03T03:54:00.000Z",
+        "views": 291,
+        "concerns": 3
+    }
+}

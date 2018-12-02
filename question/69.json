@@ -1,0 +1,153 @@
+{
+    "type": "question",
+    "id": 69,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "卸载知乎转战到膜乎是一种什么样的体验？",
+        "body": "知乎已死，膜乎当立",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 35,
+            "body": "每分钟变成了61秒，为他+1s后还有60秒！",
+            "agree-by": [
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 2,
+                    "user-name": "喵鱼子"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "你江是这个网站的拓荒者+首批用户",
+            "agree-by": [
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 2,
+                    "user-name": "喵鱼子"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 2,
+            "body": "比起知乎太安逸了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-05T00:00:00.000Z",
+            "modifyTime": "2018-03-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-05T04:52:00.000Z",
+        "views": 449,
+        "concerns": 5
+    }
+}

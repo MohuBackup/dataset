@@ -1,0 +1,111 @@
+{
+    "type": "question",
+    "id": 1067,
+    "tags": [
+        {
+            "tag-id": 550,
+            "tag-name": "政治正确"
+        },
+        {
+            "tag-id": 553,
+            "tag-name": "保守"
+        },
+        {
+            "tag-id": 551,
+            "tag-name": "少数群体"
+        },
+        {
+            "tag-id": 341,
+            "tag-name": "社会"
+        },
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 552,
+            "tag-name": "lgbt"
+        }
+    ],
+    "detail": {
+        "title": "你为什么反对lgbt？",
+        "body": "<p>镜像问题：</p><p>你为什么不反对lgbt？</p><p>https://www.mohu1.tk/question/1065</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-27T00:00:00.000Z",
+        "modifyTime": "2018-05-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "这是每个人自己的自由选择，不影响到他人利益 为什么要禁，只有独裁者才会去打压",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "我为什么要反对LGBT？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-28T00:00:00.000Z",
+            "modifyTime": "2018-05-28T00:00:00.000Z"
+        },
+        {
+            "author": 1087,
+            "body": "<p>我资瓷LGBT，这是每个人自由，独立的选择。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-28T00:00:00.000Z",
+            "modifyTime": "2018-05-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "法轮功反对共产党，所以我们就要滋磁共产党吗？",
+            "id": 644
+        },
+        {
+            "title": "轮子为什么那么反对虵啊？",
+            "id": 659
+        },
+        {
+            "title": "大家是滋磁TG还是反对TG呢？",
+            "id": 1369
+        },
+        {
+            "title": "如何看待中英等国反对\"取消+1秒\"的提议？",
+            "id": 1958
+        },
+        {
+            "title": "现在支持LGBT和反对LGBT哪个是政治正确？",
+            "id": 887
+        },
+        {
+            "title": "如何评价以反对中共为旗号的轮子现在疯狂舔包？",
+            "id": 3307
+        },
+        {
+            "title": "你为什么不反对lgbt？",
+            "id": 1065
+        },
+        {
+            "title": "如何看待无脑反对分子",
+            "id": 1559
+        },
+        {
+            "title": "如何看待\"反对人身攻击宣言\"后的第三起人身攻击案例？",
+            "id": 1468
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-04T09:34:00.000Z",
+        "views": 218,
+        "concerns": 3
+    }
+}

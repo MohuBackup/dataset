@@ -1,0 +1,49 @@
+{
+    "type": "question",
+    "id": 389,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何评价江之永？",
+        "body": "题主学物理的，在图书馆发现了很早以前看的《普通物理学》（作者江之永），突然意识到看这书的时候我还是too young.<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180415/33f1414bb009e19e8fddad3680644caa.JPG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180415/33f1414bb009e19e8fddad3680644caa.JPG\" class=\"img-polaroid\" title=\"_20180415_185409.JPG\" alt=\"_20180415_185409.JPG\"></a>\n</div>\n<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180415/5b2b3a56759a34a5a079ef819e1a1030.JPG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180415/5b2b3a56759a34a5a079ef819e1a1030.JPG\" class=\"img-polaroid\" title=\"_20180415_184824.JPG\" alt=\"_20180415_184824.JPG\"></a>\n</div>\n<br>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 167,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-15T00:00:00.000Z",
+        "modifyTime": "2018-04-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 604,
+            "body": "汉之广矣，不可泳思。<br>\n江之永矣，不可方思。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-15T00:00:00.000Z",
+            "modifyTime": "2018-04-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价江主席的书法？",
+            "id": 754
+        },
+        {
+            "title": "如何评价江绵恒？",
+            "id": 262
+        },
+        {
+            "title": "如何评价江世俊？",
+            "id": 1595
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-15T11:39:00.000Z",
+        "views": 237,
+        "concerns": 2
+    }
+}

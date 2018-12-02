@@ -1,0 +1,181 @@
+{
+    "type": "question",
+    "id": 288,
+    "tags": [
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "How do you evaluate Donald·J·Trump?",
+        "body": "",
+        "author": 51,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-04T00:00:00.000Z",
+        "modifyTime": "2018-04-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": -1,
+            "body": "我觉得他这么爱用推特，Facebook丑闻一定是他搞出来的",
+            "agree-by": [
+                {
+                    "user-id": 542,
+                    "user-name": "Hatate"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-06T00:00:00.000Z",
+            "modifyTime": "2018-04-06T00:00:00.000Z"
+        },
+        {
+            "author": 65,
+            "body": "excited！",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-04T00:00:00.000Z",
+            "modifyTime": "2018-04-04T00:00:00.000Z"
+        },
+        {
+            "author": 295,
+            "body": "为什么英文还要用分隔符",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-07T00:00:00.000Z",
+            "modifyTime": "2018-04-07T00:00:00.000Z"
+        },
+        {
+            "author": 671,
+            "body": "Trump is the best. Trump is our leader of our great party. Trump is the father of American People. Long live our great leader Donald Trump! May our respected deputy leader Mike Pence be healthy forever!",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-05T00:00:00.000Z",
+            "modifyTime": "2018-05-05T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "没听说过",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-06T00:00:00.000Z",
+            "modifyTime": "2018-04-06T00:00:00.000Z"
+        },
+        {
+            "author": 416,
+            "body": "sometimes naive",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": 546,
+            "body": "DJ特朗普＝特朗普限定DJ皮肤",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": 567,
+            "body": "naive！",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-06T00:00:00.000Z",
+            "modifyTime": "2018-04-06T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "Your English is TOO BAD.",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "everyone me Donald Trump is here",
+            "id": 63
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-05T10:55:00.000Z",
+        "views": 387,
+        "concerns": 9
+    }
+}

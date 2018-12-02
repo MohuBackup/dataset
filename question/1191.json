@@ -1,0 +1,102 @@
+{
+    "type": "question",
+    "id": 1191,
+    "tags": [
+        {
+            "tag-id": 615,
+            "tag-name": "六四事件"
+        }
+    ],
+    "detail": {
+        "title": "这份六四签名名单上看到了很多不得了的东西……",
+        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180603/683724c1ae66d798c86d7726531bce57.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180603/683724c1ae66d798c86d7726531bce57.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-06-03-10-09-22-00.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-03T00:00:00.000Z",
+        "modifyTime": "2018-06-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "笑死我了:-D",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1175,
+                    "user-name": "依云矿泉水"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1320,
+                    "user-name": "Михаил"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么枪毙名单上有我的名字，可是我还活的吼吼的？",
+            "id": 1957
+        },
+        {
+            "title": "深度思考：为什么现在很多hath不好好膜反而搞哲♂学？",
+            "id": 457
+        },
+        {
+            "title": "地上的泽个东西叫什么？是干什么用的？",
+            "id": 1050
+        },
+        {
+            "title": "北京智者天下科技有限公司里有很多智者吗？",
+            "id": 103
+        },
+        {
+            "title": "如何评价很多蛤丝也在淫梦圈的这样一种现象？",
+            "id": 551
+        },
+        {
+            "title": "初中生能扛得动两百斤重的东西吗？",
+            "id": 2094
+        },
+        {
+            "title": "你对这份书单有什么看法？",
+            "id": 1057
+        },
+        {
+            "title": "如何判断一个人是真的读了很多书，还只是记住了书名？",
+            "id": 1996
+        },
+        {
+            "title": "X月枪毙名单的梗来源于哪里？",
+            "id": 950
+        },
+        {
+            "title": "如何对待这份资料",
+            "id": 1135
+        },
+        {
+            "title": "如何评价本人经历：小时候吃过很多青蛙腿？",
+            "id": 3529
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-03T02:15:00.000Z",
+        "views": 422,
+        "concerns": 2
+    }
+}

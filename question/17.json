@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 17,
+    "tags": [
+        {
+            "tag-id": 11,
+            "tag-name": "鹳"
+        }
+    ],
+    "detail": {
+        "title": "“怒发冲鹳”是怎样的体验？",
+        "body": "",
+        "author": 4,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-03T00:00:00.000Z",
+        "modifyTime": "2018-03-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 167,
+            "body": "I'm angry! 我今天算是得罪了你们一下!",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "鹳会很angry",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "吃青蛙肉是一种什么样的体验？",
+            "id": 186
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-20T10:20:00.000Z",
+        "views": 166,
+        "concerns": 5
+    }
+}

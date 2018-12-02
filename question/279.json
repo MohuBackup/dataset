@@ -1,0 +1,177 @@
+{
+    "type": "question",
+    "id": 279,
+    "tags": [
+        {
+            "tag-id": 102,
+            "tag-name": "GFW"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "江膜乎的内容分享到微博会不会被查水表？",
+        "body": "刚才在某个问题旁边看到“分享到微博”的按钮，不知道分享到国内的话是否安全？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-03T00:00:00.000Z",
+        "modifyTime": "2018-04-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 64,
+            "body": "分享一些很暴力的东西有可能会，不暴力的和政治无关的应该没事",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "我就民确的告诉你，会<br>\n分享按钮只是为了便利，从我们的层面上我们不会获取信息，but微博鹳看到你的分享，有可能就找上门来了",
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 586,
+                    "user-name": "秦枫皇帝"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "还会被拉去枪毙",
+            "agree-by": [
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-07T00:00:00.000Z",
+            "modifyTime": "2018-04-07T00:00:00.000Z"
+        },
+        {
+            "author": 595,
+            "body": "不要总想搞个大新闻…要闷声发大财",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "你的微博号会被续<br>\n不要问我怎么知道的",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-04T00:00:00.000Z",
+            "modifyTime": "2018-04-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "如何评价「央视评B站存低俗动漫内容」？",
+            "id": 2002
+        },
+        {
+            "title": "在QQ空间里公然膜蛤会被续吗？",
+            "id": 822
+        },
+        {
+            "title": "如何看待批站小將（血小板萌萌哒）入住推特，並要求推特原住民們集體移民微博的事例？？",
+            "id": 2599
+        },
+        {
+            "title": "Github会因为作死的内容太多而被墙吗？",
+            "id": 637
+        },
+        {
+            "title": "如何看待微博禁评美国驻华大使馆？",
+            "id": 1350
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "【图片】如何评价微博账号“求是”对自己的前后打脸？",
+            "id": 2031
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-07T07:29:00.000Z",
+        "views": 467,
+        "concerns": 4
+    }
+}

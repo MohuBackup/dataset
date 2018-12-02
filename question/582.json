@@ -1,0 +1,116 @@
+{
+    "type": "question",
+    "id": 582,
+    "tags": [
+        {
+            "tag-id": 319,
+            "tag-name": "时间"
+        },
+        {
+            "tag-id": 320,
+            "tag-name": "如果吃一勺X会怎样"
+        }
+    ],
+    "detail": {
+        "title": "吃一勺时间会怎么样？",
+        "body": "膜仿知乎勺提问风格。",
+        "author": 611,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-02T00:00:00.000Z",
+        "modifyTime": "2018-05-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "时间密度是非常大的，一勺时间可以给你续个几十年，堪比无数吨年轻解放军的血液。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "时间是你能吃的？<br>\n只有<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180502/52fd5f4e1a922fc9415cbeaa851e6a80.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180502/52fd5f4e1a922fc9415cbeaa851e6a80.png\" class=\"img-polaroid\" title=\"7B49D4D9-A238-408D-ADC2-1D6441E7FD40.png\" alt=\"7B49D4D9-A238-408D-ADC2-1D6441E7FD40.png\"></a>\n</div>\n才可以吃<br>\n&nbsp;",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "时间会向密度大的地方自动流动，所以不是你吃时间，是时间吃你。",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "辱包会不会随着时间推移逐渐变成膜包？",
+            "id": 3216
+        },
+        {
+            "title": "全球第一个落地的区块链时间众筹项目来了",
+            "id": 1719
+        },
+        {
+            "title": "今天是中国成立25197天，是苏联存活的时间，大家怎么看",
+            "id": 2947
+        },
+        {
+            "title": "如果人类灭绝了，虵会怎么获得时间？",
+            "id": 1296
+        },
+        {
+            "title": "你觉得郭嘉是否有计划在将来的某个时间节点拆除GFW？",
+            "id": 4056
+        },
+        {
+            "title": "为什么速度越接近光速，时间越接近静止",
+            "id": 1104
+        },
+        {
+            "title": "《时间都去哪了？》",
+            "id": 788
+        },
+        {
+            "title": "做中国梦和膜蛤哪一种行为流逝的时间更快？",
+            "id": 2534
+        },
+        {
+            "title": "这个时间点发生过什么膜力十足的事件？",
+            "id": 1465
+        },
+        {
+            "title": "如何评价鹿晗新歌 时间停了",
+            "id": 3087
+        },
+        {
+            "title": "如何评价「时间就是金钱，效率就是生命」这句话？",
+            "id": 1760
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-02T11:41:00.000Z",
+        "views": 310,
+        "concerns": 4
+    }
+}

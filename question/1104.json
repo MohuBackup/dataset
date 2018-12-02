@@ -1,0 +1,173 @@
+{
+    "type": "question",
+    "id": 1104,
+    "tags": [
+        {
+            "tag-id": 465,
+            "tag-name": "这是个话题"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "为什么速度越接近光速，时间越接近静止",
+        "body": "",
+        "author": 445,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-29T00:00:00.000Z",
+        "modifyTime": "2018-05-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1096,
+            "body": "<p>相应的，能掌控时间的虵的速度不是接近光速甚至能超越光速？</p><p>所以他微微的夸了一下香港记者，但是还是指出了他们的不足之处。</p><p>因为虵，比这些香港记者不知道快到哪里去了。</p>",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 934,
+                    "user-name": "吼不吼蛙"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": 913,
+            "body": "<p>因为光速跑得比谁都快</p>",
+            "agree-by": [
+                {
+                    "user-id": 1192,
+                    "user-name": "刁扛麦"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": 934,
+            "body": "<p>张宝蛤为什么这么年轻？就是因为跑的快。</p><p>当一个物体跑得比谁都快，接近光速了，自然就能保持too young forever了。对这个物体来说这也就是所谓的时间静止了。</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 174,
+                    "user-name": "岿衣"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "\"光泽\"嘛",
+            "agree-by": [
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-30T00:00:00.000Z",
+            "modifyTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p style=\"text-align: left;\">这也是为什么张宝华可以stay young stay simple</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-01T00:00:00.000Z",
+            "modifyTime": "2018-06-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "辱包会不会随着时间推移逐渐变成膜包？",
+            "id": 3216
+        },
+        {
+            "title": "全球第一个落地的区块链时间众筹项目来了",
+            "id": 1719
+        },
+        {
+            "title": "今天是中国成立25197天，是苏联存活的时间，大家怎么看",
+            "id": 2947
+        },
+        {
+            "title": "如果人类灭绝了，虵会怎么获得时间？",
+            "id": 1296
+        },
+        {
+            "title": "《时间都去哪了？》",
+            "id": 788
+        },
+        {
+            "title": "做中国梦和膜蛤哪一种行为流逝的时间更快？",
+            "id": 2534
+        },
+        {
+            "title": "这个时间点发生过什么膜力十足的事件？",
+            "id": 1465
+        },
+        {
+            "title": "如何评价鹿晗新歌 时间停了",
+            "id": 3087
+        },
+        {
+            "title": "如何评价「时间就是金钱，效率就是生命」这句话？",
+            "id": 1760
+        },
+        {
+            "title": "吃一勺时间会怎么样？",
+            "id": 582
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-31T23:48:00.000Z",
+        "views": 420,
+        "concerns": 7
+    }
+}

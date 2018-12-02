@@ -1,0 +1,128 @@
+{
+    "type": "question",
+    "id": 353,
+    "tags": [
+        {
+            "tag-id": 152,
+            "tag-name": "生活"
+        }
+    ],
+    "detail": {
+        "title": "长者身边有过哪些值得一说的女性人物？",
+        "body": "我只知道夫人王冶坪，歌唱家煮鹰，香港记者张宝华，俄语老师茜茜金娜，生命竞赛争冠对手伊丽莎白二世",
+        "author": 174,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-10T00:00:00.000Z",
+        "modifyTime": "2018-04-10T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 675,
+            "body": "怎么能没有我？",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 444,
+                    "user-name": "NComU"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-15T00:00:00.000Z",
+            "modifyTime": "2018-04-15T00:00:00.000Z"
+        },
+        {
+            "author": 262,
+            "body": "江泽慧教授，他的妹妹，著名木材学家，全国政协委员、全国政协人口资源环境委员会副主任，国际竹藤组织董事会联合主席，另外，竹藤组织是他题的字。<br>\n<br>\n王者兰，他妈，革命烈士江上青的遗孀。<br>\n<br>\n吴月青，他的生母",
+            "agree-by": [
+                {
+                    "user-id": 174,
+                    "user-name": "岿衣"
+                },
+                {
+                    "user-id": 690,
+                    "user-name": "青篁悦雪"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 64,
+                    "user-name": "狂人日港记"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-10T00:00:00.000Z",
+            "modifyTime": "2018-04-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "长者做过哪些恶？",
+            "id": 1512
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "薄熙来有哪些值得我们学习的地方？",
+            "id": 490
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "很喜欢长者但是讨厌共产党怎么办",
+            "id": 806
+        },
+        {
+            "title": "长者过生日，习近平会送什么礼物？",
+            "id": 2138
+        },
+        {
+            "title": "如何评价有关长者活到2022的言论？",
+            "id": 3672
+        },
+        {
+            "title": "为什么长者每年春天都要回扬州?",
+            "id": 426
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-15T15:37:00.000Z",
+        "views": 424,
+        "concerns": 4
+    }
+}

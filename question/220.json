@@ -1,0 +1,152 @@
+{
+    "type": "question",
+    "id": 220,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "小学学历如何去清华？",
+        "body": "陕西人，祖籍河南邓县，小学毕业后上初中，但是没上完。请问这一辈子还有机会上清华吗？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-28T00:00:00.000Z",
+        "modifyTime": "2018-03-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 415,
+            "body": "只要能扛得动100kg的农作物走上5000m的距离不休息还是有机会的",
+            "agree-by": [
+                {
+                    "user-id": 144,
+                    "user-name": "Explove"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 478,
+                    "user-name": "白玉京"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-28T00:00:00.000Z",
+            "modifyTime": "2018-03-28T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "清华的名校之风也表现为不拘一格的人才甄选——虽然只有小学学历，但是身体强壮擅长游泳和引体向上以为的所有运动，文学素养高到倒背《萨格尔王传》，再有超一流的驾驶技术，这样的人才还是值得破一次例的。",
+            "agree-by": [
+                {
+                    "user-id": 144,
+                    "user-name": "Explove"
+                },
+                {
+                    "user-id": 478,
+                    "user-name": "白玉京"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-29T00:00:00.000Z",
+            "modifyTime": "2018-03-29T00:00:00.000Z"
+        },
+        {
+            "author": 86,
+            "body": "先上初中吧",
+            "agree-by": [
+                {
+                    "user-id": 144,
+                    "user-name": "Explove"
+                },
+                {
+                    "user-id": 478,
+                    "user-name": "白玉京"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-28T00:00:00.000Z",
+            "modifyTime": "2018-03-28T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "竟敢侮辱当今圣上",
+            "agree-by": [
+                {
+                    "user-id": 144,
+                    "user-name": "Explove"
+                },
+                {
+                    "user-id": 478,
+                    "user-name": "白玉京"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-28T00:00:00.000Z",
+            "modifyTime": "2018-03-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "小学文化大字不识、喜欢在公共场合宽衣的人算不算低端人口？",
+            "id": 2531
+        },
+        {
+            "title": "如何看待溥仪登记身份证时，学历被登记成初中？",
+            "id": 991
+        },
+        {
+            "title": "如何评价这个小学作文?",
+            "id": 3987
+        },
+        {
+            "title": "如何评价厉害国教育部长只有小学三年级学历？",
+            "id": 3268
+        },
+        {
+            "title": "如何看待包包实锤自己只有小学学历？",
+            "id": 2567
+        },
+        {
+            "title": "只有小学学历的初中肄业生如何扩大视野和增进勇气？",
+            "id": 208
+        },
+        {
+            "title": "如何看待清华破格录取现象？",
+            "id": 237
+        },
+        {
+            "title": "学历造假为何文科类的最多？",
+            "id": 936
+        },
+        {
+            "title": "如何看待上海一小学给学生出家庭作业让写出家族四代成员及职业？",
+            "id": 3389
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-28T23:49:00.000Z",
+        "views": 404,
+        "concerns": 6
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "type": "question",
+    "id": 640,
+    "tags": [
+        {
+            "tag-id": 29,
+            "tag-name": "续命"
+        },
+        {
+            "tag-id": 318,
+            "tag-name": "上海"
+        },
+        {
+            "tag-id": 84,
+            "tag-name": "黑框眼镜"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "为什么这个黑框男子上面写着“xu”？",
+        "body": "<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180504/61eea8a7b491332704ecf1784bd42837.jpeg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180504/61eea8a7b491332704ecf1784bd42837.jpeg\" class=\"img-polaroid\" title=\"26B8049F-E336-4980-A927-6B5866754923.jpeg\" alt=\"26B8049F-E336-4980-A927-6B5866754923.jpeg\"></a>\n</div>\n<br>\n上海老外街，官方膜？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-04T00:00:00.000Z",
+        "modifyTime": "2018-05-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "这是黑框吗？不要见的风是的雨！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-04T00:00:00.000Z",
+            "modifyTime": "2018-05-04T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "闷声大发财，这是坠吼的。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-04T00:00:00.000Z",
+            "modifyTime": "2018-05-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "穿红衣戴黑框眼镜是一种什么样的体验？",
+            "id": 192
+        },
+        {
+            "title": "如何评价「猜画小歌」(Google AI)把黑框眼镜当成画框展示在首位？（附图）",
+            "id": 1994
+        },
+        {
+            "title": "河南某男子在微信群發佈諷刺言論被行拘14天",
+            "id": 3469
+        },
+        {
+            "title": "微博上面在刘强东强奸案里给刘站台的人都是水军吗？",
+            "id": 2519
+        },
+        {
+            "title": "想给自己头像P个黑框眼镜，有没有好一点的素材呢？",
+            "id": 365
+        },
+        {
+            "title": "如何看待男子造谣山东矿难9人死亡被拘，后来官方通报21人遇难？",
+            "id": 3990
+        },
+        {
+            "title": "如果在六四穿着黑衣，而且黑衣上面有8*8，去香港深圳海关会不会把我抓起来",
+            "id": 866
+        },
+        {
+            "title": "如何评价一男子出售VPN获刑？",
+            "id": 3316
+        },
+        {
+            "title": "如何看待百度上面大量的移民广告？和部分帖子移民XX国真后悔！",
+            "id": 3644
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-04T14:26:00.000Z",
+        "views": 330,
+        "concerns": 3
+    }
+}

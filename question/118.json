@@ -1,0 +1,35 @@
+{
+    "type": "question",
+    "id": 118,
+    "tags": [
+        {
+            "tag-id": 91,
+            "tag-name": "左右"
+        }
+    ],
+    "detail": {
+        "title": "越左越好还是越右越好？",
+        "body": "",
+        "author": 109,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-18T00:00:00.000Z",
+        "modifyTime": "2018-03-18T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "是不是只要每天坚持乳包，身体就会越变越好？",
+            "id": 858
+        },
+        {
+            "title": "越左越好还是越右越好？",
+            "id": 119
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-18T08:19:00.000Z",
+        "views": 302,
+        "concerns": 2
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "type": "question",
+    "id": 1046,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "坦克人如果还活着 他有可能知道自己在国际社会上出名了么？",
+        "body": "<p>如题&nbsp;</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-27T00:00:00.000Z",
+        "modifyTime": "2018-05-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 934,
+            "body": "<p>既然江总采访里说了没有被捕，那应该就是没被捕喽。</p><p>江总说话都不信，我信我的话去？信那些海外小报？</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 1103,
+            "body": "<p>我觉得是应该是见马克思了，江泽民说他没被抓也可能只是嘴上说说，如果他还活着早就接受采访了吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 915,
+            "body": "不可能。他就算还活着也是一直作为政治犯被关在监狱里，甚至会失去时间观念，恐怕还认为当今圣上是邓小平。中共其它的不行，扼杀自由封锁信息倒是一流的。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 3,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 10,
+            "body": "<p>如果活在栅栏外面，肯定会知道。如果在见面嘛……倒也有可能</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 1138,
+            "body": "据说是经香港逃到了外国，但是我认为如果他还活着应该会接受一些西方记者采访，不至于连他的名字都还有争议。所以我想大概的确是死了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "大家是怎么知道膜乎这个网站",
+            "id": 2299
+        },
+        {
+            "title": "假如华莱士还活着，要求采访習煮席，会发生什么？",
+            "id": 1255
+        },
+        {
+            "title": "如何评价坦克人？",
+            "id": 1042
+        },
+        {
+            "title": "长者知道自己在网上火了吗，习近平知不知道他的外号叫包子维尼?",
+            "id": 1386
+        },
+        {
+            "title": "如何评价膜乎用户@社会党国际",
+            "id": 1479
+        },
+        {
+            "title": "我们把长者戏称为蛤蟆，如果长者知道后会生气吗?",
+            "id": 3946
+        },
+        {
+            "title": "谁知道包子的脖子是怎么回事",
+            "id": 1964
+        },
+        {
+            "title": "如何看待中共抓捕国际刑警组织主席孟宏伟",
+            "id": 3235
+        },
+        {
+            "title": "作为一个刚来的尬膜小鬼，需要知道什么",
+            "id": 841
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-27T02:23:00.000Z",
+        "views": 320,
+        "concerns": 6
+    }
+}

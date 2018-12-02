@@ -1,0 +1,180 @@
+{
+    "type": "question",
+    "id": 1045,
+    "tags": [
+        {
+            "tag-id": 147,
+            "tag-name": "六四"
+        },
+        {
+            "tag-id": 162,
+            "tag-name": "螳臂当车的歹徒"
+        }
+    ],
+    "detail": {
+        "title": "什么样的人才能被称为稍有常识的人？",
+        "body": "",
+        "author": 868,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-27T00:00:00.000Z",
+        "modifyTime": "2018-05-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1192,
+            "body": "<p>没有被坦克碾过的人&nbsp;</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2025,
+                    "user-name": "MASON"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 2012,
+            "body": "<p>（水+1）没有读过“萨格尔王”的人...</p>",
+            "agree-by": [
+                {
+                    "user-id": 2025,
+                    "user-name": "MASON"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "自1989年6月以来每天固定收看新闻联播的人。",
+            "agree-by": [
+                {
+                    "user-id": 2025,
+                    "user-name": "MASON"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        },
+        {
+            "author": 2074,
+            "body": "<p>敢于直面59并使其挂R档的人</p>",
+            "agree-by": [
+                {
+                    "user-id": 2149,
+                    "user-name": "搞个小新闻"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-18T00:00:00.000Z",
+            "modifyTime": "2018-09-18T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>能知道自己到底是不是“被稍有常识的”</p>",
+            "agree-by": [
+                {
+                    "user-id": 2012,
+                    "user-name": "Peace_walker"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 1138,
+            "body": "<p>能看出军队有没有保持最大克制的人</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-27T00:00:00.000Z",
+            "modifyTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+            "author": 2025,
+            "body": "<p>（水）有常识的人和“稍”有常识的人之间的区别......</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "世界上有几个必须要欺骗民众才能存活下来的政权？如何看待图片内的观点？",
+            "id": 1318
+        },
+        {
+            "title": "如何才能让一个完全没接触过膜蛤文化的女生变成膜法师？",
+            "id": 760
+        },
+        {
+            "title": "怎样才能膜包？",
+            "id": 3294
+        },
+        {
+            "title": "见到漂亮的异性，怎样才能做到即使欲火焚身，也，kui然不动？",
+            "id": 2820
+        },
+        {
+            "title": "如何才能像膜乎大佬那样头像左上角有个V?",
+            "id": 699
+        },
+        {
+            "title": "怎样才能忘掉爷爷？",
+            "id": 1777
+        },
+        {
+            "title": "中国怎么才能建立多党制",
+            "id": 3975
+        },
+        {
+            "title": "什么样的人可以被称为“共匪”？",
+            "id": 762
+        },
+        {
+            "title": "为何股市低迷被称为“熊市”？",
+            "id": 2548
+        },
+        {
+            "title": "我才爬到山上就累得气喘吁吁了，怎么样才能让身体变得更好",
+            "id": 3635
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-18T03:05:00.000Z",
+        "views": 505,
+        "concerns": 8
+    }
+}

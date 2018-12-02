@@ -1,0 +1,108 @@
+{
+    "type": "question",
+    "id": 56,
+    "tags": [
+        {
+            "tag-id": 46,
+            "tag-name": "人生"
+        }
+    ],
+    "detail": {
+        "title": "「晚了一步，就進不去了」是一種怎樣的體驗？",
+        "body": "就像楊絳先生筆下的老王一樣，這是一種怎樣的體驗呢？",
+        "author": 20,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 35,
+            "body": "<a href=\"/people/%E8%96%84%E7%86%99%E6%9D%A5\" class=\"aw-user-name\" data-id=\"1637\">@薄熙来</a>",
+            "agree-by": [
+                {
+                    "user-id": 42,
+                    "user-name": "周源"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 20,
+                    "user-name": "立花琴子"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 3,
+            "body": "刚学了这篇（",
+            "agree-by": [
+                {
+                    "user-id": 42,
+                    "user-name": "周源"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 20,
+                    "user-name": "立花琴子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "請問移民中國是一個好選擇嗎？",
+            "id": 2899
+        },
+        {
+            "title": "墜痛苦是一種怎樣的痛苦？",
+            "id": 53
+        },
+        {
+            "title": "象棋下到这一步,接下来应该怎么走?",
+            "id": 2752
+        },
+        {
+            "title": "看色情內容被家長發現是種怎樣的體驗？",
+            "id": 1619
+        },
+        {
+            "title": "大家是如何一步一步地把自己的名字写到清单上的",
+            "id": 1060
+        },
+        {
+            "title": "恭喜大陆，在倒车中又走了一步！",
+            "id": 3908
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-03T16:59:00.000Z",
+        "views": 262,
+        "concerns": 4
+    }
+}

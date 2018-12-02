@@ -1,0 +1,128 @@
+{
+    "type": "question",
+    "id": 682,
+    "tags": [
+        {
+            "tag-id": 411,
+            "tag-name": "公关"
+        },
+        {
+            "tag-id": 331,
+            "tag-name": "舆论"
+        },
+        {
+            "tag-id": 135,
+            "tag-name": "查水表"
+        },
+        {
+            "tag-id": 412,
+            "tag-name": "官商勾结"
+        },
+        {
+            "tag-id": 413,
+            "tag-name": "言论监控"
+        },
+        {
+            "tag-id": 414,
+            "tag-name": "鸿茅药酒"
+        }
+    ],
+    "detail": {
+        "title": "如何看待广州医生发帖称\"鸿茅药酒有毒\" 被跨省抓捕？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-07T00:00:00.000Z",
+        "modifyTime": "2018-05-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 56,
+            "body": "tag即是答案系列。<br>\n上一个我见过的这样的问题是“有什么值得反复看的采访”，tag是“长者”和“野兽先辈”。",
+            "agree-by": [
+                {
+                    "user-id": 962,
+                    "user-name": "日人民报"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": 617,
+            "body": "HOMO19，每天两口，昏睡114514个小时",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-07T23:04:00.000Z",
+        "views": 283,
+        "concerns": 2
+    }
+}

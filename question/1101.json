@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 1101,
+    "tags": [
+        {
+            "tag-id": 465,
+            "tag-name": "这是个话题"
+        },
+        {
+            "tag-id": 563,
+            "tag-name": "如何xx"
+        },
+        {
+            "tag-id": 564,
+            "tag-name": "轮子"
+        }
+    ],
+    "detail": {
+        "title": "如何正确对待社交软件中的“轮子”",
+        "body": "",
+        "author": 445,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-29T00:00:00.000Z",
+        "modifyTime": "2018-05-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1294,
+            "body": "我个人一直是奉行孔子的一句话：见贤思齐焉，见不贤而内自省也",
+            "agree-by": [
+                {
+                    "user-id": 80,
+                    "user-name": "linkhoo"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "裆燃是把他们的时间全部续给长者啦",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "续他命",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-02T00:00:00.000Z",
+            "modifyTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+            "author": 1444,
+            "body": "你是造轮子的，还是练轮子的？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-21T00:00:00.000Z",
+            "modifyTime": "2018-06-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "车轮子碾到了一只蟾蜍，蟾蜍还能救活吗？",
+            "id": 468
+        },
+        {
+            "title": "为什么轮子宣称已经有三亿人退出tg，这种夸张的数字却有人相信？",
+            "id": 938
+        },
+        {
+            "title": "有哪些聊天软件信息加密比较好适合聊敏感话题?",
+            "id": 429
+        },
+        {
+            "title": "如何评价长者镇压轮子？",
+            "id": 1485
+        },
+        {
+            "title": "如何反驳维基百科上轮子说是江泽民主动镇压轮子的",
+            "id": 756
+        },
+        {
+            "title": "轮子为什么那么反对虵啊？",
+            "id": 659
+        },
+        {
+            "title": "轮子是否控制了中文维基",
+            "id": 1188
+        },
+        {
+            "title": "苹果日报，阿波罗新闻网，明镜新闻，美国之音，德国之音，中国新闻网等网站的立场是怎样的？哪些属于轮子，哪些属于台独藏独？",
+            "id": 1864
+        },
+        {
+            "title": "如何评价国内聊天软件监控用户聊天记录？",
+            "id": 2198
+        },
+        {
+            "title": "轮子和民运人士是否已混入蛤丝内部？",
+            "id": 3484
+        },
+        {
+            "title": "庆丰大帝和轮子哪个坠可恶？",
+            "id": 461
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-21T10:53:00.000Z",
+        "views": 466,
+        "concerns": 3
+    }
+}

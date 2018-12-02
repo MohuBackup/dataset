@@ -1,0 +1,45 @@
+{
+    "type": "question",
+    "id": 1280,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "程序员必看的书",
+        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180607/ef7833a430d603daa8b18cea736bdfc6.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180607/ef7833a430d603daa8b18cea736bdfc6.jpg\" class=\"img-thumbnail\" alt=\"niVUvC0enfTu6Rui-IJx-CkMubk.cnt_.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 1111,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-07T00:00:00.000Z",
+        "modifyTime": "2018-06-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1360,
+            "body": "這本書淘寶上都搜不到了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>真正的粉丝，第一眼看到的都是hong bao shu</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-08T00:00:00.000Z",
+            "modifyTime": "2018-06-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-06-08T14:28:00.000Z",
+        "views": 303,
+        "concerns": 3
+    }
+}

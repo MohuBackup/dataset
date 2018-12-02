@@ -1,0 +1,146 @@
+{
+    "type": "question",
+    "id": 292,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何理解三个代表？",
+        "body": "",
+        "author": 461,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-05T00:00:00.000Z",
+        "modifyTime": "2018-04-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1051,
+            "body": "InternetExplorer要始终代表网络先进速度的提高要求<br>\nInternetExplorer要始终代表上网先进技术的前进方向<br>\nInternetExplorer要始终代表世界广大网民的根本利益",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-05T00:00:00.000Z",
+            "modifyTime": "2018-05-05T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180506/7bc01923824379ff46bf0571cc54e26e.jpeg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180506/7bc01923824379ff46bf0571cc54e26e.jpeg\" class=\"img-polaroid\" title=\"9CBF83F3-B391-44CF-BD0F-9643CF8ACD88.jpeg\" alt=\"9CBF83F3-B391-44CF-BD0F-9643CF8ACD88.jpeg\"></a>\n</div>\n<br>\n&nbsp;",
+            "agree-by": [
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 1051,
+                    "user-name": "InternetExplorer"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-06T00:00:00.000Z",
+            "modifyTime": "2018-05-06T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "我只知道八个明确十四个坚持",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "谢邀<br>\n指引了正确的驾驶方向<br>\n<br>\n想现在一个中心两个凡是……",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何理解习在博鳌论坛的演讲中说的“中国不追求贸易逆差”？",
+            "id": 381
+        },
+        {
+            "title": "如何理解中国梦",
+            "id": 561
+        },
+        {
+            "title": "如何理解这道高深的物理问题？",
+            "id": 317
+        },
+        {
+            "title": "如何理解“君生吾未生，我死君未老”这句诗词？",
+            "id": 273
+        },
+        {
+            "title": "如何理解民族团结大于天",
+            "id": 999
+        },
+        {
+            "title": "如何评价部分学者在论文中将低俗的量子力学和高雅的三个代表思想混为一谈？",
+            "id": 793
+        },
+        {
+            "title": "如何理解“土包子”这个三字词？",
+            "id": 3297
+        },
+        {
+            "title": "“江上风流胜习家”这一句应该怎么理解？",
+            "id": 456
+        },
+        {
+            "title": "如何理解社会主义核心价值观？",
+            "id": 607
+        },
+        {
+            "title": "如何理解《蛏经》终末章“坠吼的审判”？",
+            "id": 3265
+        },
+        {
+            "title": "如何评价“三个代表”变成了“带三个表”？",
+            "id": 740
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-06T06:43:00.000Z",
+        "views": 362,
+        "concerns": 5
+    }
+}

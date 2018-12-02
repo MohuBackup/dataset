@@ -1,0 +1,115 @@
+{
+    "type": "question",
+    "id": 325,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "越来越多的“领袖”称呼是不是预示着文革的到来？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-08T00:00:00.000Z",
+        "modifyTime": "2018-04-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 353,
+            "body": "不一定，也可能是要肃反了",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 675,
+                    "user-name": "宋祖英"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 679,
+                    "user-name": "习大犬"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-09T00:00:00.000Z",
+            "modifyTime": "2018-04-09T00:00:00.000Z"
+        },
+        {
+            "author": 86,
+            "body": "人民群众马上就要发动起来了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-12T00:00:00.000Z",
+            "modifyTime": "2018-04-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+            "id": 1239
+        },
+        {
+            "title": "共产党垮台对中国是不是大灾难？",
+            "id": 1178
+        },
+        {
+            "title": "如果共产党垮台后美国侵占中国并建立起白人政权，是不是一件好事?",
+            "id": 2127
+        },
+        {
+            "title": "如何评价「顾客买包子多付14万」？这是不是在暗中支持习近平？",
+            "id": 710
+        },
+        {
+            "title": "大学生是不是一代不如一代了？",
+            "id": 1172
+        },
+        {
+            "title": "包子是不是看不到网上对他的评价？",
+            "id": 2345
+        },
+        {
+            "title": "拿包维尼跟元首比是不是侮辱了元首",
+            "id": 3594
+        },
+        {
+            "title": "中国领导人里是不是只有太祖能和蛤比知识水平?",
+            "id": 995
+        },
+        {
+            "title": "庆丰包子是不是有毒啊？",
+            "id": 511
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-12T04:07:00.000Z",
+        "views": 436,
+        "concerns": 6
+    }
+}

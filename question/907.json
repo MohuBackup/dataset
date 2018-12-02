@@ -1,0 +1,158 @@
+{
+    "type": "question",
+    "id": 907,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        },
+        {
+            "tag-id": 318,
+            "tag-name": "上海"
+        }
+    ],
+    "detail": {
+        "title": "如何评价「光明冰砖」（上海益民食品集团产品）？",
+        "body": "<p><img class=\"currentImg\" id=\"currentImg\" src=\"https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1526742885370&amp;di=9746d59a8cbd42530254555751df5f5f&amp;imgtype=jpg&amp;src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D1097159091%2C3786216054%26fm%3D214%26gp%3D0.jpg\" title=\"点击查看源网页\" width=\"280\" height=\"180\"></p>",
+        "author": 54,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-19T00:00:00.000Z",
+        "modifyTime": "2018-05-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "光明冰砖的身骨是如此的柔软，一口下去，像咬住一团冰嗖嗖的棉花，寒咝咝的，哆嗦一会儿舌头才从冰感中缓过来，一股温柔奶香顺着喉咙慢慢往身子里淌，这时，脑海里会浮现一位慈祥的老人，他笑着推了推黑框眼镜，用独特的扬州方言念了两句诗……当你回过神来，冰砖已经荡然无存，留下的，是老人隐隐约约的念诗声……",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1144,
+                    "user-name": "a660297281"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 934,
+                    "user-name": "吼不吼蛙"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+            "author": 640,
+            "body": "吃了之后能够少许提升姿势水平",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-19T00:00:00.000Z",
+            "modifyTime": "2018-05-19T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>你死它都不会化啊</p>",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-22T00:00:00.000Z",
+            "modifyTime": "2018-05-22T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-22T02:18:00.000Z",
+        "views": 460,
+        "concerns": 4
+    }
+}

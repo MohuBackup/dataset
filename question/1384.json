@@ -1,0 +1,111 @@
+{
+    "type": "question",
+    "id": 1384,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "一百元的耳机和上前元的耳机听起来有区别么",
+        "body": "",
+        "author": 1234,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-11T00:00:00.000Z",
+        "modifyTime": "2018-06-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1044,
+            "body": "<p>有，是里面的膜的区别，有的是上好的文膜，有的是较差的尬膜，还有的是蛤膜，不过包膜是坠要不得的，就像八块八包邮<img src=\"/uploads/ueditor/20180611/1528699348244887.png\" title=\"1528699348244887.png\" alt=\"39dc29a53aa88b1c.png\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1234,
+                    "user-name": "winnie97"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "听起来的差别可能不明显<br>\n<br>\n但是咬耳机线的时候还是10块钱的口感呐最好<br>\n也不心疼<br>\n咬坏拆了玩<br>\n还能拿来逗猫<br>\n丢了更是无所谓<br>\n<br>\n1000以上的？我10块的一星期买一条，我买两年，期间我丢掉的耳机可以够玩捆绑play，你叫我丢一根试试？我得拿我坏掉的那些十块钱上吊了",
+            "agree-by": [
+                {
+                    "user-id": 1234,
+                    "user-name": "winnie97"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1379,
+            "body": "<p>耳机一般是1000以下听个响，音响一般是5000以下听个响。我最近买的索尼hg10音响很响！我很满意！我之前买的苹果耳机也很响，我也很满意！</p>",
+            "agree-by": [
+                {
+                    "user-id": 1234,
+                    "user-name": "winnie97"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 669,
+            "body": "对于真正的HiFi发烧友，5000一下的耳机都是听个响，像我的谢兰图就只是HiFi入门级耳机。<br>\n对于真正的粉丝，只为长者续了少于一年时间的都是尬膜小鬼，像我就是一个续了三年时间的入门的蛤丝。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-11T10:33:00.000Z",
+        "views": 146,
+        "concerns": 5
+    }
+}

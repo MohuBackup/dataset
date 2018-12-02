@@ -1,0 +1,104 @@
+{
+    "type": "question",
+    "id": 1161,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "在什么场合梳头最养生？",
+        "body": "<p>如题</p>",
+        "author": 1265,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-01T00:00:00.000Z",
+        "modifyTime": "2018-06-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "当着西班牙国王的面梳。",
+            "agree-by": [
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 297,
+                    "user-name": "Latihas"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1245,
+                    "user-name": "长津"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 500,
+                    "user-name": "阿尔法苟"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-01T00:00:00.000Z",
+            "modifyTime": "2018-06-01T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "西班牙国王：eficiencia",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-01T00:00:00.000Z",
+            "modifyTime": "2018-06-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "小学文化大字不识、喜欢在公共场合宽衣的人算不算低端人口？",
+            "id": 2531
+        },
+        {
+            "title": "在国内何种场合可以肆无忌惮的唱《民主会战胜归来》",
+            "id": 1397
+        },
+        {
+            "title": "海外的膜法师主要集中在什么国家",
+            "id": 1462
+        },
+        {
+            "title": "如何评价那些公然在公众场合宽衣解带的人？",
+            "id": 910
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-01T14:36:00.000Z",
+        "views": 245,
+        "concerns": 5
+    }
+}

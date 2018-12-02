@@ -1,0 +1,112 @@
+{
+    "type": "question",
+    "id": 385,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 102,
+            "tag-name": "GFW"
+        }
+    ],
+    "detail": {
+        "title": "膜乎被墙了？",
+        "body": "",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-15T00:00:00.000Z",
+        "modifyTime": "2018-04-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "&nbsp;<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180415/e9809fd3027a9829c5939b782166a46a.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180415/e9809fd3027a9829c5939b782166a46a.png\" class=\"img-polaroid\" title=\"1.png\" alt=\"1.png\"></a>\n</div>\n<br>\n&nbsp;<br>\n如图所示，膜乎应该是用了Cloudflare做CDN，这样IP不太可能被墙，配合https，几乎是不可能从常规手段封锁的，因而螳臂当车的GFW卑劣地使用了DNS污染的方法，江IP解析为仍然是海外但是并不是Cloudflare的IP，给人一种贵站已挂的感觉，这样的情况通常可以通过钦定hosts的方式修复，效果很吼（站方已经给出了解决方案）。",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-04-15T00:00:00.000Z",
+            "modifyTime": "2018-04-15T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "感觉这个不是真正的墙，可能是解析问题。因为真正被GFW墙的网站是指向空IP导致长时间连接不上，会给你一种就是连接失败了、网站不存在了的感觉，而不是现在的 “拒绝连接”。<br>\n<br>\n但是我感到坠痛苦的就是仍然有一些 too simple, sometimes naive 的人在用 QQ, 360 等国产浏览器，我上次就看到一个人这么做，这些浏览器收集信息后就报告上去导致膜乎网址被枪毙",
+            "agree-by": [
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 312,
+                    "user-name": "Meredith"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 4,
+            "publishTime": "2018-04-15T00:00:00.000Z",
+            "modifyTime": "2018-04-15T00:00:00.000Z"
+        },
+        {
+            "author": 461,
+            "body": "好像是翻墙才能进了。",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-15T00:00:00.000Z",
+            "modifyTime": "2018-04-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-15T07:56:00.000Z",
+        "views": 532,
+        "concerns": 4
+    }
+}

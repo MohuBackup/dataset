@@ -1,0 +1,143 @@
+{
+    "type": "question",
+    "id": 261,
+    "tags": [
+        {
+            "tag-id": 126,
+            "tag-name": "共产主义"
+        },
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        }
+    ],
+    "detail": {
+        "title": "中国共产党与世界其他共产党的根本性区别在哪里？",
+        "body": "",
+        "author": 353,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-01T00:00:00.000Z",
+        "modifyTime": "2018-04-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 546,
+            "body": "倒车请注意",
+            "agree-by": [
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 1536,
+                    "user-name": "DengJiagui"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-02T00:00:00.000Z",
+            "modifyTime": "2018-04-02T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "共产档就和r档的作用是一样的",
+            "agree-by": [
+                {
+                    "user-id": 1536,
+                    "user-name": "DengJiagui"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-02T00:00:00.000Z",
+            "modifyTime": "2018-04-02T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "中国共产党内部分裂神TM大，有点共和党的意思",
+            "agree-by": [
+                {
+                    "user-id": 432,
+                    "user-name": "造反有理"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "其他国家共产党不含共产主义国家都是参政党，中共是独裁党派。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-02T00:00:00.000Z",
+            "modifyTime": "2018-04-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "董先生的全票通过和恶习的全票通过有什么区别？",
+            "id": 2072
+        },
+        {
+            "title": "为什么有人会质疑共产党的统治？",
+            "id": 1812
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "一字之差，习近平的「扫黑除恶」和薄熙来的「打黑除恶」有什么区别？",
+            "id": 687
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
+        },
+        {
+            "title": "为什么还有人爱中华人民共和国，对中国共产党有一丝希望",
+            "id": 2291
+        },
+        {
+            "title": "如何看待“xjp把中国建设成世界强国”这一看法？",
+            "id": 1651
+        },
+        {
+            "title": "民主化后的中国应该定都在哪里？",
+            "id": 3921
+        },
+        {
+            "title": "为什么知乎的话题标签里没有中国共产党？",
+            "id": 2266
+        },
+        {
+            "title": "中国特色社会主义究竟体现在哪里",
+            "id": 1217
+        },
+        {
+            "title": "共产主义和资本主义哪个更好？",
+            "id": 2394
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-02T16:01:00.000Z",
+        "views": 383,
+        "concerns": 7
+    }
+}

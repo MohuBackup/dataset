@@ -1,0 +1,69 @@
+{
+    "type": "question",
+    "id": 75,
+    "tags": [
+        {
+            "tag-id": 68,
+            "tag-name": "数学"
+        }
+    ],
+    "detail": {
+        "title": "如何学好高等代数学？",
+        "body": "我觉得可以问一点严肃的问题（迫真",
+        "author": 29,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1414,
+            "body": "<p>MIT公开课上找</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>高等代数有几种学法？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>推荐三本英文教材，因为咱们这里洋文吼的人多的很啊</p><p>linear algebra done right by sheldon axler<br></p><p>linear algebra by kenneth hoffman&nbsp;<br></p><p>linear algebra by friedberg</p><p><br></p><p>国内有号称亚洲第一难书张贤科高等代数学</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1454,
+                    "user-name": "脑虫达苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-08-15T09:27:00.000Z",
+        "views": 349,
+        "concerns": 5
+    }
+}

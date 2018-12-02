@@ -1,0 +1,107 @@
+{
+    "type": "question",
+    "id": 237,
+    "tags": [
+        {
+            "tag-id": 208,
+            "tag-name": "包"
+        }
+    ],
+    "detail": {
+        "title": "如何看待清华破格录取现象？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-30T00:00:00.000Z",
+        "modifyTime": "2018-03-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 56,
+            "body": "破格录取的大多数背后都有感人的故事，或者非凡的才能，然而有一个人是例外",
+            "agree-by": [
+                {
+                    "user-id": 542,
+                    "user-name": "Hatate"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-31T00:00:00.000Z",
+            "modifyTime": "2018-03-31T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "竟然无问西东中没有熊也，建议把所有剧组人员枪毙！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-30T00:00:00.000Z",
+            "modifyTime": "2018-03-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-31T09:44:00.000Z",
+        "views": 278,
+        "concerns": 2
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "type": "question",
+    "id": 1229,
+    "tags": [
+        {
+            "tag-id": 536,
+            "tag-name": "张宝华"
+        },
+        {
+            "tag-id": 622,
+            "tag-name": "蛤三"
+        },
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        },
+        {
+            "tag-id": 626,
+            "tag-name": "怒斥记者"
+        },
+        {
+            "tag-id": 286,
+            "tag-name": "蛤三篇"
+        },
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        }
+    ],
+    "detail": {
+        "title": "怒斥篇里长者说到“连任也要按照香港的法律啊对不对？”时出现的微小音量音乐是手机铃声吗？",
+        "body": "<p>新闻透视版和高清重制版都有这个声音。</p><p>那个年代有彩铃了吗？</p><p><br></p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-05T00:00:00.000Z",
+        "modifyTime": "2018-06-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "<p>感觉不像，或是我什么都没听出来。</p><p>这一段感觉就听到了两声类似敲瓷器的声音。</p><p><img src=\"/uploads/ueditor/20180618/1529269131341466.png\" title=\"1529269131341466.png\" alt=\"未命名.png\" width=\"313\" height=\"182\"></p><p>单独截取这一段并放大并去除去除人声看。<img src=\"/uploads/ueditor/20180618/1529269277153920.png\" title=\"1529269277153920.png\" alt=\"未命名.png\" width=\"640\" height=\"430\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1128,
+                    "user-name": "怒而蛤斥"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1943,
+                    "user-name": "boundary6"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        },
+        {
+            "author": 1414,
+            "body": "<p>有啊！</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-18T00:00:00.000Z",
+            "modifyTime": "2018-06-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "长者做过哪些恶？",
+            "id": 1512
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "如何看待天安门广场有人拉横幅要求习连任",
+            "id": 3066
+        },
+        {
+            "title": "如何看待王毅怒斥加拿大女记者？",
+            "id": 3692
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "很喜欢长者但是讨厌共产党怎么办",
+            "id": 806
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-17T21:01:00.000Z",
+        "views": 395,
+        "concerns": 4
+    }
+}

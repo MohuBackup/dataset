@@ -1,0 +1,99 @@
+{
+    "type": "question",
+    "id": 106,
+    "tags": [
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        },
+        {
+            "tag-id": 72,
+            "tag-name": "机器"
+        }
+    ],
+    "detail": {
+        "title": "拥有知乎账号最多的人是谁？",
+        "body": "",
+        "author": 11,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-08T00:00:00.000Z",
+        "modifyTime": "2018-03-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 120,
+            "body": "拥有最多账号的我可能不知道是谁，但我一定知道拥有粉丝最多的人。",
+            "agree-by": [
+                {
+                    "user-id": 206,
+                    "user-name": "长者的忠实粉丝"
+                },
+                {
+                    "user-id": 145,
+                    "user-name": "膜法梁同学de"
+                },
+                {
+                    "user-id": 137,
+                    "user-name": "小熊"
+                },
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-18T00:00:00.000Z",
+            "modifyTime": "2018-03-18T00:00:00.000Z"
+        },
+        {
+            "author": 4,
+            "body": "Antonio Peng 有69个。",
+            "agree-by": [
+                {
+                    "user-id": 145,
+                    "user-name": "膜法梁同学de"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 61,
+                    "user-name": "张蛤蟆"
+                },
+                {
+                    "user-id": 480,
+                    "user-name": "goldimax"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-03-18T00:00:00.000Z",
+            "modifyTime": "2018-03-18T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-03-18T11:10:00.000Z",
+        "views": 363,
+        "concerns": 4
+    }
+}

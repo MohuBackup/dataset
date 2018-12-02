@@ -1,0 +1,171 @@
+{
+    "type": "question",
+    "id": 294,
+    "tags": [
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "被请喝茶是怎样的体验？",
+        "body": "",
+        "author": 604,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-05T00:00:00.000Z",
+        "modifyTime": "2018-04-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 642,
+            "body": "空间被监控啊，调所有的网上发言记录…<br>\n上次被传没事是因为美国国籍…oh yea",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 145,
+                    "user-name": "膜法梁同学de"
+                },
+                {
+                    "user-id": 542,
+                    "user-name": "Hatate"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 632,
+                    "user-name": "Excited_Wallce"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "为什么邀我，是咒我吗",
+            "agree-by": [
+                {
+                    "user-id": 642,
+                    "user-name": "黑泽露比"
+                },
+                {
+                    "user-id": 145,
+                    "user-name": "膜法梁同学de"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "同老法师回答……",
+            "agree-by": [
+                {
+                    "user-id": 145,
+                    "user-name": "膜法梁同学de"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 642,
+                    "user-name": "黑泽露比"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-05T00:00:00.000Z",
+            "modifyTime": "2018-04-05T00:00:00.000Z"
+        },
+        {
+            "author": 353,
+            "body": "吴淦的《喝茶宝典》",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-08T00:00:00.000Z",
+            "modifyTime": "2018-04-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "吃青蛙肉是一种什么样的体验？",
+            "id": 186
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-08T15:22:00.000Z",
+        "views": 510,
+        "concerns": 5
+    }
+}

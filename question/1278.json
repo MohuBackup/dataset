@@ -1,0 +1,131 @@
+{
+    "type": "question",
+    "id": 1278,
+    "tags": [
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        }
+    ],
+    "detail": {
+        "title": "如何看待友谊勋章？",
+        "body": "<p>感觉完全就是形式化的东西，国际关系变化莫测，没有永远的朋友，也没有永远的敌人，如此好大喜功的虚套路，完全就是浪费民脂民膏</p>",
+        "author": 1090,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-07T00:00:00.000Z",
+        "modifyTime": "2018-06-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "友♂谊勋章",
+            "agree-by": [
+                {
+                    "user-id": 977,
+                    "user-name": "轰隆隆和木小拓"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 918,
+            "body": "<p>当蓝是为了表示孝心</p>",
+            "agree-by": [
+                {
+                    "user-id": 977,
+                    "user-name": "轰隆隆和木小拓"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 640,
+            "body": "兄贵之间的友谊",
+            "agree-by": [
+                {
+                    "user-id": 977,
+                    "user-name": "轰隆隆和木小拓"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 833,
+            "body": "一个形式",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-08T00:00:00.000Z",
+            "modifyTime": "2018-06-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-10T03:05:00.000Z",
+        "views": 465,
+        "concerns": 4
+    }
+}

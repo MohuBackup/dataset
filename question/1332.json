@@ -1,0 +1,146 @@
+{
+    "type": "question",
+    "id": 1332,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "皇帝的新农",
+        "body": "最近庆丰维尼又在搞什么鬼？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180609/b6bb188cd75a9e7ab96ede308ef321a2.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180609/b6bb188cd75a9e7ab96ede308ef321a2.jpg\" class=\"img-thumbnail\" alt=\"5DF945B77590C51C6460FB20A7F1F2DB.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 1279,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-09T00:00:00.000Z",
+        "modifyTime": "2018-06-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1069,
+            "body": "吃相难看",
+            "agree-by": [
+                {
+                    "user-id": 1157,
+                    "user-name": "习明泽"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 1279,
+            "body": "每天看电视都能看到包子，感觉自己要被习脑了",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        },
+        {
+            "author": 927,
+            "body": "<p>岐山拉响汽笛，恶习敲起钟，大会堂发出信号，中国朝地狱里冲。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "今天是共英宗庆丰皇帝的生日，大家觉得该怎么庆祝皇上的生日？",
+            "id": 1519
+        },
+        {
+            "title": "包帝的下一任皇帝是谁？",
+            "id": 2841
+        },
+        {
+            "title": "对于庆丰皇帝的龙椅大家有什么见解?",
+            "id": 1846
+        },
+        {
+            "title": "对于庆丰皇帝，民意或者民望是不是越来越不重要了？",
+            "id": 1877
+        },
+        {
+            "title": "《皇帝的新农》中有什么细思极恐的细节？",
+            "id": 474
+        },
+        {
+            "title": "在中国大陆，事实上恢复皇帝制度有没有可行性",
+            "id": 3737
+        },
+        {
+            "title": "为什么人想做皇帝？",
+            "id": 1929
+        },
+        {
+            "title": "包帝最像中国古代的哪位皇帝？",
+            "id": 683
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-10T01:32:00.000Z",
+        "views": 508,
+        "concerns": 4
+    }
+}

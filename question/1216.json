@@ -1,0 +1,136 @@
+{
+    "type": "question",
+    "id": 1216,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        },
+        {
+            "tag-id": 133,
+            "tag-name": "朝圣"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        }
+    ],
+    "detail": {
+        "title": "扬州有哪些充满膜力的地点",
+        "body": "蛏诞节想去扬州朝圣 想知道长者都在扬州哪些地方留下了足迹",
+        "author": 898,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-04T00:00:00.000Z",
+        "modifyTime": "2018-06-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "东圈门古巷18号，长者旧居。东关小学，扬州中学，虵曾在此读书。还有瘦西湖等扬州的著名景点，长者都有去游玩过(我也没去过扬州，有时间一定要去一次)",
+            "agree-by": [
+                {
+                    "user-id": 898,
+                    "user-name": "江来"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-06-04T00:00:00.000Z",
+            "modifyTime": "2018-06-04T00:00:00.000Z"
+        },
+        {
+            "author": 1069,
+            "body": "还有何园，个园，长者都去过",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-04T00:00:00.000Z",
+            "modifyTime": "2018-06-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你在动漫或游戏里见过哪些充满膜力的场景？",
+            "id": 326
+        },
+        {
+            "title": "为什么长者每年春天都要回扬州?",
+            "id": 426
+        },
+        {
+            "title": "吃扬州炒饭是一种什么样的体验？",
+            "id": 437
+        },
+        {
+            "title": "如何才能在扬州建一座名为江国神社的用来供奉江国泽民大神的神社？",
+            "id": 921
+        },
+        {
+            "title": "如何评价歌曲情定扬州？",
+            "id": 2402
+        },
+        {
+            "title": "如何评价扬州图书馆还能借到红宝书",
+            "id": 2409
+        },
+        {
+            "title": "【谈笑风生】这一次地点位于steam，双方都做出了极长的论证（看完可能需要十分钟），甚至分成了好几段，如何评价双方的理论？",
+            "id": 3437
+        },
+        {
+            "title": "如何评价江苏扬州一业主将汽车从螳臂当车的强拆歹徒身上碾了过去？",
+            "id": 3601
+        },
+        {
+            "title": "这个时间点发生过什么膜力十足的事件？",
+            "id": 1465
+        },
+        {
+            "title": "最近膜力衰弱，有什么补MP的好办法？",
+            "id": 2662
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-04T11:29:00.000Z",
+        "views": 391,
+        "concerns": 5
+    }
+}

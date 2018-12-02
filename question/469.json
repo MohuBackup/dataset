@@ -1,0 +1,620 @@
+{
+    "type": "question",
+    "id": 469,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何参加中国国家主席选举？",
+        "body": "需要提交什么资料？有什么条件限制？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-24T00:00:00.000Z",
+        "modifyTime": "2018-04-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "<ul><li>有通过革命来夺取原有政权，从而成为主席的。</li><li>有苟利社稷，经中央钦定，从上海来到北京就职成为主席的。</li><li>有初中直博，广阅书名，靠通商宽衣的理念成为主席的。</li></ul><br>\n如果题主真的要参加选举，那么会遇到这样的问题<br>\n<ul><li>首先得入党并且加入人大代表，身为一个蛤丝要隐忍自己的信仰，是坠痛苦的</li><li>然后得级级升迁，直至厅级以上，这要求题主社会姿势要掌握一个，naive的人下场会很惨</li><li>接着，题主需要保持坠大限度的克制，闷声发大财，否则会被请去秦城伺候，但是这个时候题主就需要广泛地获取同盟的兹磁了，权钱交易官商勾结那一套搞起来</li><li>随后，题主需要进入常委，这个步骤需要站好队，看准各家的实力，否则就是一条路走到黑，秦城里现在关着的不少就是这种，而且这时候要及时清除竞争对手了，伪造证据什么的要薛习一个</li><li>然后，还需要继续闷声发大财，该接锅的时候要接锅，一定要迎合圣意，以免遭到质疑，失去进一步上升的机会</li><li>克服了以上条件，坠后，题主的机会来了，请参考坠上面三种方案自由发挥，不保证成功。</li><li>其实上面的问题都不是问题，真正的问题是，题主一定要卡好时间，之前进行上述操作的周期是10年，现在就说不准了。</li></ul>",
+            "agree-by": [
+                {
+                    "user-id": 765,
+                    "user-name": "习习蛤虫合"
+                },
+                {
+                    "user-id": 855,
+                    "user-name": "齐奥塞斯库"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1075,
+                    "user-name": "江沢植树"
+                },
+                {
+                    "user-id": 866,
+                    "user-name": "黑框长者"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 1157,
+                    "user-name": "习明泽"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 1058,
+                    "user-name": "MD岳长龙"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 24,
+                    "user-name": "连任吼不吼呀"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1323,
+                    "user-name": "njc0125"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 2194,
+                    "user-name": "野獣先輩"
+                },
+                {
+                    "user-id": 2254,
+                    "user-name": "bishi"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2047,
+                    "user-name": "boxilai"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2453,
+                    "user-name": "oo31323"
+                },
+                {
+                    "user-id": 2573,
+                    "user-name": "妙木山长者"
+                },
+                {
+                    "user-id": 1975,
+                    "user-name": "初阶mogician"
+                },
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "开局只是个乞丐，如何当上皇帝？<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180424/baf78dcf8f062170725616d4d3b833cc.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180424/baf78dcf8f062170725616d4d3b833cc.jpg\" class=\"img-polaroid\" title=\"IMG_20170914_213806.jpg\" alt=\"IMG_20170914_213806.jpg\"></a>\n</div>",
+            "agree-by": [
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 1058,
+                    "user-name": "MD岳长龙"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 2046,
+                    "user-name": "fricassee"
+                },
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 2417,
+                    "user-name": "williamni"
+                },
+                {
+                    "user-id": 1645,
+                    "user-name": "Alexander"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "一般只有一个候选人的",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 1058,
+                    "user-name": "MD岳长龙"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 582,
+                    "user-name": "SkyFuInMC"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": 834,
+            "body": "枪杆子里出政权",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 582,
+                    "user-name": "SkyFuInMC"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "初中毕业保送清华博士就可以参选了",
+            "agree-by": [
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 1323,
+                    "user-name": "njc0125"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 40,
+                    "user-name": "江边沼泽的村民"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 542,
+            "body": "扛200斤麦子，不换肩<br>\n还要会背书名",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1371,
+                    "user-name": "excitingtoad"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "中华人民共和国主席由全国人民代表大会选举。<br>\n有选举权和被选举权的年满四十五周岁的中华人民共和国公民可以被选为中华人民共和国主席。<br>\n中华人民共和国主席每届任期同全国人民代表大会每届任期相同。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 2254,
+                    "user-name": "bishi"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>干掉包子先</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": 24,
+            "body": "要会背萨格尔王全篇才行，我们还是要学习一个",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-10T00:00:00.000Z",
+            "modifyTime": "2018-06-10T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>等額選舉，就是一比一選舉。</p><p>主席和副主席的候选人得票数超过50%就顺利当选。如果得票数低于50%，则不得当选，再推举其他人做候选人参加选举。不过还没出现过得票数低于50%的情况，所以都顺利当选了。</p><p>以上，呵呵</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 2254,
+            "body": "事实上邓把政权让给了江有点类似于古代的禅让制了",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "不可能的，这辈子都是不可能的。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "同学们都认为习近平当主席好，治理国家好，我该怎么办？（见补充）",
+            "id": 2448
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-27T11:45:00.000Z",
+        "views": 1465,
+        "concerns": 12
+    }
+}

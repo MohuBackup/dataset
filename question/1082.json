@@ -1,0 +1,83 @@
+{
+    "type": "question",
+    "id": 1082,
+    "tags": [
+        {
+            "tag-id": 231,
+            "tag-name": "审查"
+        }
+    ],
+    "detail": {
+        "title": "我被屏蔽动态10分钟？",
+        "body": "<p>在某站发了一句民主是法治的基础，法治是民主的保障，然后动态被屏蔽了10分钟？小号都查不到动态信息？</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-28T00:00:00.000Z",
+        "modifyTime": "2018-05-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "关键词:民主",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-29T00:00:00.000Z",
+            "modifyTime": "2018-05-29T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>记得以前在msn space， 民主和自由两个都是敏感词<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-29T00:00:00.000Z",
+            "modifyTime": "2018-05-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价QQ屏蔽天安门事件这个词",
+            "id": 2354
+        },
+        {
+            "title": "如何看待美国法院判决川普不能屏蔽别人？",
+            "id": 998
+        },
+        {
+            "title": "如何看待膜乎被屏蔽",
+            "id": 1516
+        },
+        {
+            "title": "GFW使用了哪些手段来屏蔽不和谐内容？",
+            "id": 1737
+        },
+        {
+            "title": "如何评价知乎在马克思诞辰屏蔽马克思的相关搜索？",
+            "id": 658
+        },
+        {
+            "title": "哪个网站是由于host文件的原因被GFW屏蔽?",
+            "id": 409
+        },
+        {
+            "title": "推特为啥屏蔽我的图？",
+            "id": 1179
+        },
+        {
+            "title": "如何评价supercell下属游戏在聊天窗口屏蔽simple/naive等民敢茨",
+            "id": 535
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-28T17:44:00.000Z",
+        "views": 187,
+        "concerns": 2
+    }
+}

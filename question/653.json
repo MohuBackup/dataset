@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 653,
+    "tags": [
+        {
+            "tag-id": 399,
+            "tag-name": "马克思"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 382,
+            "tag-name": "马克思主义"
+        }
+    ],
+    "detail": {
+        "title": "如何评价马克思主义？",
+        "body": "",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-05T00:00:00.000Z",
+        "modifyTime": "2018-05-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 498,
+            "body": "想法很好，奈何你国姿势水平不够学的不好",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-05T00:00:00.000Z",
+            "modifyTime": "2018-05-05T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>马克思主义最终的理想是吼的。但是共产党无产阶级专政实际上并没有真正的消除阶级意识，而是更换了一个统治阶级而已。</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 1570,
+            "body": "共产，纳粹，政教合一分别为现代人类文明三大灾难。认为人类可以实现共产主义的，其实和认为可以让雅利安人统治地球，安拉信徒统治地球的人是一种思维。",
+            "agree-by": [
+                {
+                    "user-id": 684,
+                    "user-name": "彭定康说的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 4,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-15T13:29:00.000Z",
+        "views": 310,
+        "concerns": 4
+    }
+}

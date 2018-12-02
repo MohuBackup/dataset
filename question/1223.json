@@ -1,0 +1,121 @@
+{
+    "type": "question",
+    "id": 1223,
+    "tags": [
+        {
+            "tag-id": 465,
+            "tag-name": "这是个话题"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "steam上是否有膜蛤元素的游戏",
+        "body": "",
+        "author": 445,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-04T00:00:00.000Z",
+        "modifyTime": "2018-06-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 54,
+            "body": "<p>游戏不知道，软体倒是有啊！</p><p>Wallpaper Engine的工作坊里一堆膜蛤影片，绝大多数是我从新蛤社的YouTube频道载下来的。</p><p>（溜了<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1260,
+                    "user-name": "Mohahahahah"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-04T00:00:00.000Z",
+            "modifyTime": "2018-06-04T00:00:00.000Z"
+        },
+        {
+            "author": 893,
+            "body": "Amazing frog.",
+            "agree-by": [
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>AVGN（喷神JAMES）今年元旦和麦克玩的一个STEAM上的青蛙游戏。没有膜蛤元素。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "膜蛤有没有个人崇拜的意思？",
+            "id": 2022
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如何设计一款以蛤文化为主题的游戏？",
+            "id": 342
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "在QQ空间里公然膜蛤会被续吗？",
+            "id": 822
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-05T05:50:00.000Z",
+        "views": 406,
+        "concerns": 4
+    }
+}

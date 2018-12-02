@@ -1,0 +1,150 @@
+{
+    "type": "question",
+    "id": 65,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "惹长辈生气了应该怎么办？",
+        "body": "他说他要批判我",
+        "author": 28,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-04T00:00:00.000Z",
+        "modifyTime": "2018-03-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 3,
+            "body": "人家的人生经验肯定比你丰富，就乖乖挨骂罢",
+            "agree-by": [
+                {
+                    "user-id": 2,
+                    "user-name": "喵鱼子"
+                },
+                {
+                    "user-id": 333,
+                    "user-name": "江合"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 35,
+            "body": "再学习一个，认真听取人生经验，不要想搞个大新闻",
+            "agree-by": [
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 2,
+                    "user-name": "喵鱼子"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>你要落观一点，听取长辈经验的时候要让气氛更加轻松一点，最后不要忘了说一句“屑屑爷爷！”<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 934,
+                    "user-name": "吼不吼蛙"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-25T00:00:00.000Z",
+            "modifyTime": "2018-05-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "汽车倒车应该挂哪个档？",
+            "id": 226
+        },
+        {
+            "title": "我想我应该去当教授，应该怎么办？",
+            "id": 134
+        },
+        {
+            "title": "蛤丝应该爱国吗？",
+            "id": 1027
+        },
+        {
+            "title": "民主化后的中国应该定都在哪里？",
+            "id": 3921
+        },
+        {
+            "title": "我们是否应该枪毙蓄意挑起内战，企图分裂膜乎的用户？",
+            "id": 1355
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        },
+        {
+            "title": "客车司机连续疲劳驾驶不换班，作为乘客应该怎么做？",
+            "id": 476
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-25T12:11:00.000Z",
+        "views": 218,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "question",
+    "id": 703,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        }
+    ],
+    "detail": {
+        "title": "这些人把“膜”写错了吗？",
+        "body": "<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180508/608a806e07da353a71f1cc064fe8b99d.jpeg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180508/608a806e07da353a71f1cc064fe8b99d.jpeg\" class=\"img-polaroid\" title=\"5CA2C0D7-98EF-435E-803A-ADBE2F8494D5.jpeg\" alt=\"5CA2C0D7-98EF-435E-803A-ADBE2F8494D5.jpeg\"></a>\n</div>\n<br>\n&nbsp;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-08T00:00:00.000Z",
+        "modifyTime": "2018-05-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 872,
+            "body": "应该写成蟆",
+            "agree-by": [
+                {
+                    "user-id": 430,
+                    "user-name": "小管家"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-08T05:27:00.000Z",
+        "views": 183,
+        "concerns": 2
+    }
+}

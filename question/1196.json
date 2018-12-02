@@ -1,0 +1,66 @@
+{
+    "type": "question",
+    "id": 1196,
+    "tags": [
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        }
+    ],
+    "detail": {
+        "title": "冲在崇洋媚外，卖国求荣第一线的是谁？",
+        "body": "<p>习近平，教育部，还是刘鹤？</p>",
+        "author": 1090,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-03T00:00:00.000Z",
+        "modifyTime": "2018-06-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1191,
+            "body": "<p>当然是习包子啦，你看他的亲戚，多少个在海外有绿卡？</p><p>教育部，一天就知道洗脑教育，甚至把历史书中文革那一课给删了。</p><p>刘鹤，他是受过西方教育的，对贸易战还是比较知己知彼。他不像国内一些官员，满脑子只有党性，以为我们真的大国无敌，对贸易战过度自信。所以他的做法看似有点妥协的样子，实际上他知道要玩硬碰硬，中国打不赢。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 807,
+                    "user-name": "夏威夷吉他"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-03T00:00:00.000Z",
+            "modifyTime": "2018-06-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待“跟随党中央的号召，一位深入裙众的好干部倒在了第一线”？",
+            "id": 3690
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-03T07:15:00.000Z",
+        "views": 359,
+        "concerns": 3
+    }
+}

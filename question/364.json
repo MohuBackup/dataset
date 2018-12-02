@@ -1,0 +1,31 @@
+{
+    "type": "question",
+    "id": 364,
+    "tags": [],
+    "detail": {
+        "title": "鹳是指什么？",
+        "body": "",
+        "author": 619,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-12T00:00:00.000Z",
+        "modifyTime": "2018-04-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 40,
+            "body": "这个问题已经有人问过了，提问之前请先搜索一下。<br>\nhttps://www.mohu.ml/question/347",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-12T00:00:00.000Z",
+            "modifyTime": "2018-04-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-12T13:01:00.000Z",
+        "views": 174,
+        "concerns": 2
+    }
+}

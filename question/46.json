@@ -1,0 +1,184 @@
+{
+    "type": "question",
+    "id": 46,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "可以把奶黄包叫做乳黄包吗？",
+        "body": "",
+        "author": 42,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-03T00:00:00.000Z",
+        "modifyTime": "2018-03-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 35,
+            "body": "吼啊！",
+            "agree-by": [
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                },
+                {
+                    "user-id": 42,
+                    "user-name": "周源"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-03T00:00:00.000Z",
+            "modifyTime": "2018-03-03T00:00:00.000Z"
+        },
+        {
+            "author": 1677,
+            "body": "<p>本校食堂直接稱呼奶黃包為乳包，一元一個，味道欠佳</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 2290,
+                    "user-name": "Zalgo"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 2244,
+            "body": "<p>乳皇包</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 2456,
+            "body": "<p>奶皇包=乳黄包</p><p>完 全 一 致</p>",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-03T00:00:00.000Z",
+            "modifyTime": "2018-10-03T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "<p>我这边直接叫乳包</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-04T00:00:00.000Z",
+            "modifyTime": "2018-10-04T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>乳包子5毛一个</p>",
+            "agree-by": [
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "听说江湖上有一款船新的宝物，叫做吸金瓶，有没有人介绍一下它的功效",
+            "id": 3998
+        },
+        {
+            "title": "如何评价钢琴键盘最中间的音叫做“中央C（习）”？",
+            "id": 3696
+        },
+        {
+            "title": "虵可以被叫做民国派吗？",
+            "id": 3319
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-04T01:03:00.000Z",
+        "views": 534,
+        "concerns": 8
+    }
+}

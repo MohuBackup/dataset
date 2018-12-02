@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 453,
+    "tags": [
+        {
+            "tag-id": 132,
+            "tag-name": "文膜"
+        },
+        {
+            "tag-id": 286,
+            "tag-name": "蛤三篇"
+        }
+    ],
+    "detail": {
+        "title": "为什么蛤三篇的第三篇是视察国机二院?",
+        "body": "为什么不是别的?<br>\n另外，没有蛤三篇的话题啊。",
+        "author": 868,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-22T00:00:00.000Z",
+        "modifyTime": "2018-04-22T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 866,
+            "body": "我觉得应该讨论为什么蛤三篇是怒斥，采访和视察。<br>\n因为这三部最经典，梗也最多。由于其他的一些因素，流传范围也最广。所以大家约定俗成的就把最常见的这三篇叫做蛤三篇。",
+            "agree-by": [
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-22T00:00:00.000Z",
+            "modifyTime": "2018-04-22T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>我也觉得第二篇是二院。</p><p>在膜法初期，我觉得谈笑风生篇太长了不好找膜点，That's why 我自动把它放第三篇<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 866,
+                    "user-name": "黑框长者"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-25T00:00:00.000Z",
+            "modifyTime": "2018-05-25T00:00:00.000Z"
+        },
+        {
+            "author": 399,
+            "body": "時間線上是第三篇，慣用排名的第二位。<br>\n二院篇因為早期出現在優酷上，所以容易找到。裏面長者的個人形象表現的很典型，符合一般蛤絲対長者的認知。",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-26T00:00:00.000Z",
+            "modifyTime": "2018-05-26T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "这是第二篇，第三篇是谈笑风生",
+            "agree-by": [
+                {
+                    "user-id": 866,
+                    "user-name": "黑框长者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-25T00:00:00.000Z",
+            "modifyTime": "2018-04-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "都说蛤三篇，其实真正可膜的是不是只有两篇",
+            "id": 919
+        },
+        {
+            "title": "求《大硬点》《回二院》《笑风生》剧本全文",
+            "id": 1219
+        },
+        {
+            "title": "有没有刁三篇？",
+            "id": 1495
+        },
+        {
+            "title": "如何评价该超时空恶政隐？(《第三帝国“精准扶贫”记》)",
+            "id": 3613
+        },
+        {
+            "title": "如何看待\"反对人身攻击宣言\"后的第三起人身攻击案例？",
+            "id": 1468
+        },
+        {
+            "title": "三篇的英文翻译是什么？",
+            "id": 909
+        },
+        {
+            "title": "【 一个创想】坠近在视察（音jian）舆论阵地的过程中遇到了一些不知道怎么评价的观点，我经常把这些话语分享出来，请大家帮我分析一下这些说法合不合理吼不吼啊？",
+            "id": 3428
+        },
+        {
+            "title": "包是不是到大连视察航母了?",
+            "id": 676
+        },
+        {
+            "title": "二院“而且这个效率Efficiency”是否是一句掐断的话的上半部分？",
+            "id": 1029
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-26T04:33:00.000Z",
+        "views": 1412,
+        "concerns": 6
+    }
+}

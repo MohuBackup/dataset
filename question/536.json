@@ -1,0 +1,132 @@
+{
+    "type": "question",
+    "id": 536,
+    "tags": [
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        }
+    ],
+    "detail": {
+        "title": "新蛤社app的开发遇上了一些微小的问题",
+        "body": "稍有常识的人都会看出，膜乎是基于WeCenter的一个社区，但是WeCenter的api文档过于简单（可能是我图样），导致我看了半天没看懂。。。有没有熟悉app与服务器接口那一套理论的hath，给我一些开发的经验，谢谢。",
+        "author": 297,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-30T00:00:00.000Z",
+        "modifyTime": "2018-04-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "从官方给出的信息来看，很民显，这个系统对api的维护是图样的，api跟网站完全就是不同的两个体系，频繁的升级导致兼容性完全没有，坠痛苦的就是，有人刚刚做了ios端的sdk，新版就给变了。另外，由于我一直打不开官方给的API文档网址（呱了梯子也不行），所以大概帮不上什么忙了。。。",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 997,
+                    "user-name": "saul"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-30T00:00:00.000Z",
+            "modifyTime": "2018-04-30T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "傻逼wecenter已经商业fa♂了，付钱解决一切（滑稽）",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 997,
+                    "user-name": "saul"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-30T00:00:00.000Z",
+            "modifyTime": "2018-04-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "关于新蛤社app的设计",
+            "id": 318
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "新蛤社夏日诗词大赏诗词征集令",
+            "id": 520
+        },
+        {
+            "title": "如何评价江泽民贪污问题！",
+            "id": 743
+        },
+        {
+            "title": "怎么看待新蛤社建立海外b站？",
+            "id": 2073
+        },
+        {
+            "title": "有关马克思的问题，不要因人废言",
+            "id": 3734
+        },
+        {
+            "title": "关于膜乎的言论自由问题",
+            "id": 2386
+        },
+        {
+            "title": "如何评价新蛤社",
+            "id": 114
+        },
+        {
+            "title": "如何评价长者时期中国丢掉海参崴、伯力、库页岛等地主权的问题",
+            "id": 1251
+        },
+        {
+            "title": "如何看待新疆集中营问题",
+            "id": 3067
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-30T15:11:00.000Z",
+        "views": 412,
+        "concerns": 3
+    }
+}

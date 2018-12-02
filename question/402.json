@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 402,
+    "tags": [
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 15,
+            "tag-name": "互联网"
+        }
+    ],
+    "detail": {
+        "title": "如何评价china digital times网站？",
+        "body": "",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-15T00:00:00.000Z",
+        "modifyTime": "2018-04-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 353,
+            "body": "立此存照，麻辣总局，还有其他的tag来说，这是比较好的，当然反共立场是这一类网站的主旨。",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-16T00:00:00.000Z",
+            "modifyTime": "2018-04-16T00:00:00.000Z"
+        },
+        {
+            "author": 611,
+            "body": "很久之前就听说过这个网站了，但是没有关注过，稍微查了下资料，是berkeley counter-power lab的一个子项目，貌似背后有美国政府部门的兹磁，不知道是否与轮子相关，内容虽更新频繁但是有很多不实或无法证实的消息，不可偏信，读者自身也要判断一个。",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-16T00:00:00.000Z",
+            "modifyTime": "2018-04-16T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "算是比较客观吧，翻墙网也是这一列的",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-16T00:00:00.000Z",
+            "modifyTime": "2018-04-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-16T08:08:00.000Z",
+        "views": 337,
+        "concerns": 3
+    }
+}

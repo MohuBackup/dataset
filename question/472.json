@@ -1,0 +1,106 @@
+{
+    "type": "question",
+    "id": 472,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 282,
+            "tag-name": "田佳良"
+        },
+        {
+            "tag-id": 283,
+            "tag-name": "岳昕"
+        },
+        {
+            "tag-id": 284,
+            "tag-name": "厦门大学"
+        },
+        {
+            "tag-id": 285,
+            "tag-name": "北大"
+        },
+        {
+            "tag-id": 165,
+            "tag-name": "北京大学"
+        }
+    ],
+    "detail": {
+        "title": "如何看待北大岳昕遭到学校严厉打击，而厦大田佳良仅受到留校留党察看处理？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-24T00:00:00.000Z",
+        "modifyTime": "2018-04-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 642,
+            "body": "北大在皇城啊",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-30T00:00:00.000Z",
+            "modifyTime": "2018-04-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-29T20:00:00.000Z",
+        "views": 997,
+        "concerns": 2
+    }
+}

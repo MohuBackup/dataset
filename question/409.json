@@ -1,0 +1,121 @@
+{
+    "type": "question",
+    "id": 409,
+    "tags": [
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        }
+    ],
+    "detail": {
+        "title": "哪个网站是由于host文件的原因被GFW屏蔽?",
+        "body": "（我也不太懂这些……就是问问",
+        "author": 204,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-17T00:00:00.000Z",
+        "modifyTime": "2018-04-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "因为hosts而被屏蔽（至少与hosts相关的情况）大概有这些原因:<br>\n<ul><li>因为提供翻墙的hosts文件，被举报而被屏蔽的。</li><li>因为提供了hosts，而网站又没有做强制https，被GFW深度包检测（DPI）识别特征（关键词），经而被屏蔽的。</li><li>因为提供了hosts，不满足上面的情况，而又没有加套cdn（暴露服务器ip），被举报，经而被屏蔽的。</li><li>因为提供了hosts，加套了cdn，但是过于暴力导致GFW发大招识别证书SNI，经而被屏蔽的。</li><li>使用的hosts为虚假（钓鱼）地址，进而被钓鱼执法的。</li><li>提供了hosts，但是站点流量过大，被怀疑，经确认而被屏蔽的。</li></ul>",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 831,
+                    "user-name": "江煮習"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 866,
+                    "user-name": "黑框长者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-17T00:00:00.000Z",
+            "modifyTime": "2018-04-17T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "不明白你的意思喔，host只是记录域名对应的ip，怎么改也不会被GFW屏蔽吧",
+            "agree-by": [
+                {
+                    "user-id": 444,
+                    "user-name": "NComU"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-17T00:00:00.000Z",
+            "modifyTime": "2018-04-17T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "你这个题目适合是在知乎问~~",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-17T00:00:00.000Z",
+            "modifyTime": "2018-04-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "有哪些因为政治原因被封杀的明星/演员？",
+            "id": 1561
+        },
+        {
+            "title": "大家是怎么知道膜乎这个网站",
+            "id": 2299
+        },
+        {
+            "title": "膜乎会不会是一个钓鱼执法网站",
+            "id": 767
+        },
+        {
+            "title": "中俄《北京条约》《瑷珲条约》《勘分西北界约记》《伊犁条约》是否和《中英联合声明》一样都是历史性文件，不具有现实意义，为何中国不收回外东北和外西北领土呢？",
+            "id": 3113
+        },
+        {
+            "title": "如何评价当年中国最大的膜蛤网站长者网",
+            "id": 1259
+        },
+        {
+            "title": "有哪些网站建站第一天就被封了？",
+            "id": 31
+        },
+        {
+            "title": "如何评价华为浏览器将soundcloud.com标记为拥有大量违法信息，禁止访问的网站？",
+            "id": 2186
+        },
+        {
+            "title": "膜乎是否有意在暗网（使用tor）建设网站?",
+            "id": 442
+        },
+        {
+            "title": "如何评价QQ屏蔽天安门事件这个词",
+            "id": 2354
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-17T15:04:00.000Z",
+        "views": 392,
+        "concerns": 3
+    }
+}

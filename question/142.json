@@ -1,0 +1,114 @@
+{
+    "type": "question",
+    "id": 142,
+    "tags": [
+        {
+            "tag-id": 110,
+            "tag-name": "记者"
+        }
+    ],
+    "detail": {
+        "title": "张宝华到底跑的有多快？",
+        "body": "她为什么不去参加比赛呢？",
+        "author": 372,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-20T00:00:00.000Z",
+        "modifyTime": "2018-03-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 370,
+            "body": "6km/h，你还是要学习一个。",
+            "agree-by": [
+                {
+                    "user-id": 297,
+                    "user-name": "Latihas"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "2014年Adidas的广告说的是張寶華三年跑龄……具体速度不知道<br>\n<br>\n<br>\n(谁要是相信真是三年他就错了……)",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-20T00:00:00.000Z",
+            "modifyTime": "2018-03-20T00:00:00.000Z"
+        },
+        {
+            "author": 347,
+            "body": "比西方记者不知道快到哪里去了！",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-21T00:00:00.000Z",
+            "modifyTime": "2018-04-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "天安门事件到底是谁的错？",
+            "id": 1095
+        },
+        {
+            "title": "3000游客被困日本机场...到底是真新闻还是假新闻？",
+            "id": 2539
+        },
+        {
+            "title": "说到底，习到底想要怎样？",
+            "id": 3262
+        },
+        {
+            "title": "社会主义到底有没有可能成功？",
+            "id": 1021
+        },
+        {
+            "title": "央视记者大闹英国保守党算不算“搞大新闻”？同样是香港问题，其表现与当年教主张宝华相比熟高熟低？",
+            "id": 3096
+        },
+        {
+            "title": "包子的“人类命运共同体”到底是什么想法？",
+            "id": 2608
+        },
+        {
+            "title": "中国移动的“和包”到底是什么包？",
+            "id": 2719
+        },
+        {
+            "title": "到底是“倒车请注意”还是“请注意倒车”？",
+            "id": 413
+        },
+        {
+            "title": "EzawaNico自称魔法少女到底是真是假？",
+            "id": 1967
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-20T17:40:00.000Z",
+        "views": 374,
+        "concerns": 7
+    }
+}

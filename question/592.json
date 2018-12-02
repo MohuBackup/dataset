@@ -1,0 +1,53 @@
+{
+    "type": "question",
+    "id": 592,
+    "tags": [
+        {
+            "tag-id": 288,
+            "tag-name": "言论自由"
+        },
+        {
+            "tag-id": 330,
+            "tag-name": "网络安全"
+        },
+        {
+            "tag-id": 135,
+            "tag-name": "查水表"
+        },
+        {
+            "tag-id": 256,
+            "tag-name": "和谐"
+        }
+    ],
+    "detail": {
+        "title": "被查水表后该怎么办？",
+        "body": "是抗争到底还是删帖删号保持沉默？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-02T00:00:00.000Z",
+        "modifyTime": "2018-05-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "不能肉身翻墙还是明哲保身吧，不计后果去螳臂当车然后失去自由……是坠痛苦的！",
+            "agree-by": [
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-02T14:15:00.000Z",
+        "views": 245,
+        "concerns": 2
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "question",
+    "id": 936,
+    "tags": [
+        {
+            "tag-id": 226,
+            "tag-name": "话题"
+        }
+    ],
+    "detail": {
+        "title": "学历造假为何文科类的最多？",
+        "body": "",
+        "author": 918,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-21T00:00:00.000Z",
+        "modifyTime": "2018-05-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 833,
+            "body": "带头作用",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-21T00:00:00.000Z",
+            "modifyTime": "2018-05-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待溥仪登记身份证时，学历被登记成初中？",
+            "id": 991
+        },
+        {
+            "title": "如何评价厉害国教育部长只有小学三年级学历？",
+            "id": 3268
+        },
+        {
+            "title": "小学学历如何去清华？",
+            "id": 220
+        },
+        {
+            "title": "如何看待包包实锤自己只有小学学历？",
+            "id": 2567
+        },
+        {
+            "title": "只有小学学历的初中肄业生如何扩大视野和增进勇气？",
+            "id": 208
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-21T01:21:00.000Z",
+        "views": 206,
+        "concerns": 2
+    }
+}

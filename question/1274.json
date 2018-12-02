@@ -1,0 +1,81 @@
+{
+    "type": "question",
+    "id": 1274,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何杀包祭天",
+        "body": "<p>如何击杀庆丰包子，并将其悬挂于树上？</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-07T00:00:00.000Z",
+        "modifyTime": "2018-06-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 640,
+            "body": "梦里",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "这一天会有的",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "<p>在倒着开的车里，穿着宽大的衣服做中国梦，就可以做到这种事。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-06-07T13:27:00.000Z",
+        "views": 257,
+        "concerns": 5
+    }
+}

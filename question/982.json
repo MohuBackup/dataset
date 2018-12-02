@@ -1,0 +1,116 @@
+{
+    "type": "question",
+    "id": 982,
+    "tags": [
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 532,
+            "tag-name": "佛教"
+        }
+    ],
+    "detail": {
+        "title": "如何看待以下图片？",
+        "body": "伊斯兰教被共党管控也许可以理解，在中国扎根千年的佛教变成这样要如何理解？佛教文化是否已经变味？如何看待宗教的神佛信仰开始转向现实的个人崇拜主义？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180523/b551b88b0ecf13862566d50d5895a7a4.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180523/b551b88b0ecf13862566d50d5895a7a4.jpg\" class=\"img-thumbnail\" alt=\"IMG_20180523_113620.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180523/7eca259b5749b81d948967066c37f76d.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180523/7eca259b5749b81d948967066c37f76d.jpg\" class=\"img-thumbnail\" alt=\"IMG_20180523_113627.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-23T00:00:00.000Z",
+        "modifyTime": "2018-05-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "第一张图片是PS的，最后三个字有明显痕迹。不过估计最后三个字原本也是新中国",
+            "agree-by": [
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-05-23T00:00:00.000Z",
+            "modifyTime": "2018-05-23T00:00:00.000Z"
+        },
+        {
+            "author": 1141,
+            "body": "和尚作死，包子背锅?",
+            "agree-by": [
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 414,
+                    "user-name": "nai黄包子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-23T00:00:00.000Z",
+            "modifyTime": "2018-05-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-23T05:10:00.000Z",
+        "views": 311,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "type": "question",
+    "id": 113,
+    "tags": [
+        {
+            "tag-id": 11,
+            "tag-name": "鹳"
+        }
+    ],
+    "detail": {
+        "title": "在知乎使用“撒比”一词是否严重违反了知乎社区管理规定？",
+        "body": "",
+        "author": 48,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-16T00:00:00.000Z",
+        "modifyTime": "2018-03-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 56,
+            "body": "撒币可以，因为知乎也撒币",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-08T00:00:00.000Z",
+            "modifyTime": "2018-04-08T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "不行，这样乳包了",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-08T00:00:00.000Z",
+            "modifyTime": "2018-04-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "如何看待知乎在各大 App 平台上全线下架？",
+            "id": 62
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
+        },
+        {
+            "title": "习这几年严重到了什么地步？",
+            "id": 811
+        },
+        {
+            "title": "膜乎用户和知乎用户有哪些异同点？",
+            "id": 2389
+        },
+        {
+            "title": "知乎备份计划",
+            "id": 2459
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-08T15:28:00.000Z",
+        "views": 277,
+        "concerns": 2
+    }
+}

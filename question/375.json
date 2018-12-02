@@ -1,0 +1,85 @@
+{
+    "type": "question",
+    "id": 375,
+    "tags": [
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        }
+    ],
+    "detail": {
+        "title": "怎样有效率地写板书？",
+        "body": "需要向学生们传授高等数学中“极限”的概念，以2的n次方为例。如何写板书才能缩短传授姿势的时间？",
+        "author": 611,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-14T00:00:00.000Z",
+        "modifyTime": "2018-04-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 167,
+            "body": "开头的时候写上：一尺之椎，日取齐半，万世不竭。",
+            "agree-by": [
+                {
+                    "user-id": 611,
+                    "user-name": "XLSheep"
+                },
+                {
+                    "user-id": 64,
+                    "user-name": "狂人日港记"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 461,
+            "body": "比如说把时间比作财富，那谁才是最富有的人？<br>\n答案显而易见.....",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 631,
+            "body": "先把五点共圆画上去再说",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "先要和西方记者谈笑风生",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-04-14T14:36:00.000Z",
+        "views": 220,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "type": "question",
+    "id": 1109,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 87,
+            "tag-name": "历史"
+        },
+        {
+            "tag-id": 565,
+            "tag-name": "种族屠杀"
+        },
+        {
+            "tag-id": 566,
+            "tag-name": "咖啡乐"
+        },
+        {
+            "tag-id": 567,
+            "tag-name": "卡费勒"
+        },
+        {
+            "tag-id": 568,
+            "tag-name": "绿教"
+        },
+        {
+            "tag-id": 293,
+            "tag-name": "伊斯兰"
+        },
+        {
+            "tag-id": 292,
+            "tag-name": "伊斯兰教"
+        }
+    ],
+    "detail": {
+        "title": "有哪些关于同治回乱的资料？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-29T00:00:00.000Z",
+        "modifyTime": "2018-05-29T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何对待这份资料",
+            "id": 1135
+        },
+        {
+            "title": "【跑路】中产家庭的砸钱移民资料整理（欢迎补充指正）",
+            "id": 2598
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-29T13:32:00.000Z",
+        "views": 223,
+        "concerns": 1
+    }
+}

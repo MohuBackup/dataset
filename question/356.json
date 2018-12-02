@@ -1,0 +1,163 @@
+{
+    "type": "question",
+    "id": 356,
+    "tags": [
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        }
+    ],
+    "detail": {
+        "title": "如何看待taptap被罚所有游戏停止下载服务3个月？",
+        "body": "先是付费游戏停止售卖，然后所有游戏下载全停了",
+        "author": 604,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-11T00:00:00.000Z",
+        "modifyTime": "2018-04-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 432,
+            "body": "昂，现在这些青少年怎么了？成天玩枪战这种暴力游戏，并且有暴乱倾向！<br>\n学学围棋、玩玩连连看、数独这种有趣的、健康的游戏不好吗？",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1486,
+                    "user-name": "纵酒放歌"
+                },
+                {
+                    "user-id": 1367,
+                    "user-name": "fengyun1"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1457,
+                    "user-name": "rua"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-12T00:00:00.000Z",
+            "modifyTime": "2018-04-12T00:00:00.000Z"
+        },
+        {
+            "author": 295,
+            "body": "<p>这就是发布高仿版《旅行青蛙》的下场<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1457,
+                    "user-name": "rua"
+                },
+                {
+                    "user-id": 1374,
+                    "user-name": "233kun"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-02T00:00:00.000Z",
+            "modifyTime": "2018-07-02T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "估计是我党要颁布爱党游戏所做的预备",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-07-03T00:00:00.000Z",
+            "modifyTime": "2018-07-03T00:00:00.000Z"
+        },
+        {
+            "author": 1501,
+            "body": "<p style=\"text-align: left;\">等网盘传火就行了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-07-03T00:00:00.000Z",
+            "modifyTime": "2018-07-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-07-03T03:04:00.000Z",
+        "views": 427,
+        "concerns": 4
+    }
+}

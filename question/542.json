@@ -1,0 +1,584 @@
+{
+    "type": "question",
+    "id": 542,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "政府能强行关闭膜乎吗？",
+        "body": "",
+        "author": 546,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-01T00:00:00.000Z",
+        "modifyTime": "2018-05-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "只要<strong>安全措施得当</strong>，想都别想。<br>\n政府有这么几个方法关闭一家网站：<br>\n<ul><li>通过当地法规举报盗版内容，通常的伎俩就是找到网站上侵权的内容，然后联系当地部门takedown，间接性地把站搞废，即使没有相关内容，通过注册用户来上传也是有案例的，不得不防，像Youtube这种更是如此。因此，良好的版权管理对一个境外站点来说是很重要的。对于膜乎而言，不符合规范的鹳自身也要判断（如果贵乎服务器商无版权限制就当我啥也没说了）</li><li>DDoS，但放心，除了确实很出名的站点，一般没人这么搞，况且稍有常识的站长都会上cdn，一般就不会怕DDoS了（除非流量大到人家都不愿意给提供服务了）。对于膜乎而言，cloudflare的安全性和稳定性是没有任何问题的。</li><li>应用层攻击，多半是利用各种漏洞，找到关键敏感信息，从而利用社会工程学手段搞定站长（以及ta的网站），这种问题就涉及到用户隐私的安全了，大意不得，wecenter作为一个半商业化的社区软件，应当有它的安全措施，当然管理员的维护也是很重要的。</li><li>联系服务商关掉，如果知道了服务器IP的情况下，如果不能通过攻击的方式关闭网站，对于部分对中国有利益关系的服务商施压关停，解决这个问题的关键是找好服务商，跟国内有关系的坚决不要。这甚至还出现过跨国查水表的状况（当年本人的App续命服务器被拆硬盘，还好商家及时给格式化了）。</li><li>人身攻击，这是坠痛苦的，假如以上方法均不适用，就会有人去查各类记录，直到查出个人信息，如果不幸身在墙内或者亲人身在墙内，就非常的危险。虽然一般不会到达这一步，但是还是恳请各位站长在注册域名租服务器的时候就要考虑到安全因素，举个坠简单的栗子，whois信息和联系邮箱，就决不能与常用账号有任何关联。</li></ul>",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 898,
+                    "user-name": "江来"
+                },
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 577,
+                    "user-name": "暴力膜蛤30年"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                },
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 2494,
+                    "user-name": "wangweilin"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "除非他们能跑到美国来联系我们的服务器提供商来关闭服务器，或是跑到美国砸机房，否则膜乎就不会关闭。<br>\n当然了，就算膜乎服务器有问题，我们就换服务器提供商啊，办法总比困难多。<br>\n人被抓了枪毙了也没关系，交给别人继续管。<br>\n就算膜乎被关了，一个膜乎倒下了，千万个膜乎站起来！难道你还想把70E人的嘴全部堵上，手全部捆上？",
+            "agree-by": [
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 612,
+                    "user-name": "氢氧化氢_P"
+                },
+                {
+                    "user-id": 834,
+                    "user-name": "随之沉浮"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 981,
+                    "user-name": "刁太犬"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 841,
+                    "user-name": "unidra"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 997,
+                    "user-name": "saul"
+                },
+                {
+                    "user-id": 996,
+                    "user-name": "snki"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 889,
+                    "user-name": "天天弹吉他"
+                },
+                {
+                    "user-id": 204,
+                    "user-name": "redFerrari"
+                },
+                {
+                    "user-id": 814,
+                    "user-name": "奇异膜士"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                },
+                {
+                    "user-id": 1029,
+                    "user-name": "钱秘书"
+                },
+                {
+                    "user-id": 312,
+                    "user-name": "Meredith"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1128,
+                    "user-name": "怒而蛤斥"
+                },
+                {
+                    "user-id": 410,
+                    "user-name": "蛤蟆镜"
+                },
+                {
+                    "user-id": 441,
+                    "user-name": "sdlyszd"
+                },
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                },
+                {
+                    "user-id": 833,
+                    "user-name": "社会主义之光"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 1157,
+                    "user-name": "习明泽"
+                },
+                {
+                    "user-id": 1234,
+                    "user-name": "winnie97"
+                },
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 577,
+                    "user-name": "暴力膜蛤30年"
+                },
+                {
+                    "user-id": 1384,
+                    "user-name": "这是坠吼的ID"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1685,
+                    "user-name": "习仲勋"
+                },
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2084,
+                    "user-name": "mohuusr"
+                },
+                {
+                    "user-id": 2126,
+                    "user-name": "EyeofRetuna"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2733,
+                    "user-name": "江沢"
+                },
+                {
+                    "user-id": 2494,
+                    "user-name": "wangweilin"
+                },
+                {
+                    "user-id": 2634,
+                    "user-name": "魔法眼镜"
+                },
+                {
+                    "user-id": 1600,
+                    "user-name": "老江镇包子"
+                },
+                {
+                    "user-id": 2163,
+                    "user-name": "江湖夜雨"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "可墙不可封，跨国水表没人卵<br>\n<br>\n匪党造反都能成功，体制与意识形态，姿势技术水平的优势都更大的蛤丝们，难道可以被坦克战胜得了吗？<br>\n这与共方某些媒体报道的恰恰相反<br>\n如果..匪党试图扭转局面<br>\n那就是逆历史进程的倒退行为（虽然干的多了）<br>\n那是匪党为自己的丧钟奏鸣<br>\n<br>\n即使服务器商被跨国水表，各位注册提供的帐号资料程度也能保证各位人身安全，换一家服务器商就是了<br>\n<br>\n互联网是全人类的共同资产<br>\n作为人类命运共同体的一员<br>\n我们要时刻警惕试图掠夺我们资产的某些组织<br>\n以毫无依据的“网络主权”之名，迫害网民利益",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 1617,
+                    "user-name": "wdd"
+                },
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-13T00:00:00.000Z",
+            "modifyTime": "2018-06-13T00:00:00.000Z"
+        },
+        {
+            "author": 983,
+            "body": "能被墙，tg政府关不了。",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 889,
+                    "user-name": "天天弹吉他"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 834,
+            "body": "《V字仇杀队》中V最终被杀死了<br>\n可是，有用吗？",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 996,
+                    "user-name": "snki"
+                },
+                {
+                    "user-id": 889,
+                    "user-name": "天天弹吉他"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "只能墙掉",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 889,
+                    "user-name": "天天弹吉他"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>膜乎粉丝们是不可战胜的！</p>",
+            "agree-by": [
+                {
+                    "user-id": 857,
+                    "user-name": "江主席小号"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-13T00:00:00.000Z",
+            "modifyTime": "2018-06-13T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>我们蛤丝是具有很强的凝聚力的，任何困难都压不倒我们，中蛤民族是不可战胜的！</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-11T00:00:00.000Z",
+            "modifyTime": "2018-08-11T00:00:00.000Z"
+        },
+        {
+            "author": 1574,
+            "body": "<p>直接删库还行，实在没有权限记录一下小饼干一个可以的嘛</p><p>CDN形同虚设，各种注入大行其道，暗网里面漏洞一堆，极度不放心，至少给一个像品葱那样的提示说用tor访问啊？</p><p><br></p><p>看到有人直接用腾讯手机浏览器访问我就......虽然强制使用tor会对网站访客造成不可避免的损害，当至少是对访问者负泽任了</p><p>连丝绸之路都可以被干掉？更何况一个小小和膜乎？</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-11T00:00:00.000Z",
+            "modifyTime": "2018-08-11T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "唉，站长、小管家都被失踪了！作为普通用户很是恐怖爱！",
+            "agree-by": [
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": " 如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
+            "id": 599
+        },
+        {
+            "title": "政府为什么要向民众隐瞒64事件",
+            "id": 695
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T03:36:00.000Z",
+        "views": 1503,
+        "concerns": 8
+    }
+}

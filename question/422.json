@@ -1,0 +1,35 @@
+{
+    "type": "question",
+    "id": 422,
+    "tags": [
+        {
+            "tag-id": 68,
+            "tag-name": "数学"
+        }
+    ],
+    "detail": {
+        "title": "代数模型论与代数几何之间有什么联系？",
+        "body": "特别的，Mordell-Lang Conjecture是如何被证明的？<br>\n<br>\n走到哪里，垃圾问题就跟到哪里。",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-18T00:00:00.000Z",
+        "modifyTime": "2018-04-18T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何看待马云退休，刘强东在美涉嫌性侵被捕，范冰冰被拘禁这三件事？它们有联系吗？",
+            "id": 2578
+        },
+        {
+            "title": "六四事件是如何与膜蛤文化联系在一起的？",
+            "id": 809
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-18T15:10:00.000Z",
+        "views": 223,
+        "concerns": 1
+    }
+}

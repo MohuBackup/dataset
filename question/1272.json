@@ -1,0 +1,128 @@
+{
+    "type": "question",
+    "id": 1272,
+    "tags": [
+        {
+            "tag-id": 358,
+            "tag-name": "教育"
+        },
+        {
+            "tag-id": 396,
+            "tag-name": "知识"
+        },
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "这又是什么新奇的操作？",
+        "body": "<p><img src=\"/uploads/ueditor/20180607/1528366431951704.jpg\" title=\"1528366431951704.jpg\" alt=\"捕获.JPG\"></p>",
+        "author": 1157,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-07T00:00:00.000Z",
+        "modifyTime": "2018-06-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "老梗了……调戏那些naive的女孩子用的……",
+            "agree-by": [
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-07T00:00:00.000Z",
+            "modifyTime": "2018-06-07T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>一派胡言</p>",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-08T00:00:00.000Z",
+            "modifyTime": "2018-06-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "等待我们的最坏的下场是什么？你们现在感到害怕吗？",
+            "id": 4011
+        },
+        {
+            "title": "假如长者现在依然在领导我们，中国会是什么样子？",
+            "id": 929
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-08T11:08:00.000Z",
+        "views": 395,
+        "concerns": 3
+    }
+}

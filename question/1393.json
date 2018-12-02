@@ -1,0 +1,269 @@
+{
+    "type": "question",
+    "id": 1393,
+    "tags": [
+        {
+            "tag-id": 73,
+            "tag-name": "膜乎账号"
+        },
+        {
+            "tag-id": 40,
+            "tag-name": "膜乎用户"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "终于轮到我了，我是鬼子六王岐山，膜乎用户们有什么想问的？",
+        "body": "",
+        "author": 1395,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-11T00:00:00.000Z",
+        "modifyTime": "2018-06-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1395,
+            "body": "我在等一个好时机，将习近平抓进监狱里去，我来当总书记，你们说吼不吼啊？",
+            "agree-by": [
+                {
+                    "user-id": 1397,
+                    "user-name": "膜法♂世家"
+                },
+                {
+                    "user-id": 1377,
+                    "user-name": "VanWinnieLing"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 669,
+                    "user-name": "社会党国际"
+                },
+                {
+                    "user-id": 1257,
+                    "user-name": "假面之下"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 4,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1377,
+            "body": "习主席万寿无疆！王副主席永远健康！",
+            "agree-by": [
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                },
+                {
+                    "user-id": 1397,
+                    "user-name": "膜法♂世家"
+                },
+                {
+                    "user-id": 1400,
+                    "user-name": "姜灂錉"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 5,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>你是王岐山？容我给你三个字，操你妈。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1397,
+                    "user-name": "膜法♂世家"
+                },
+                {
+                    "user-id": 1157,
+                    "user-name": "习明泽"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1397,
+            "body": "王73，就算你把刁大犬抓了，我也要要骂你！",
+            "agree-by": [
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1257,
+                    "user-name": "假面之下"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "<p>你一个学历史的怎么把你选到北京去了？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                },
+                {
+                    "user-id": 1397,
+                    "user-name": "膜法♂世家"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "<p>你啊就想搞个大新闻。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "<p>我代表长者消灭你</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": 1369,
+            "body": "一群智障",
+            "agree-by": [
+                {
+                    "user-id": 1395,
+                    "user-name": "鬼子六"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>范爷的逼爽吗？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-11T00:00:00.000Z",
+            "modifyTime": "2018-06-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-11T13:35:00.000Z",
+        "views": 474,
+        "concerns": 10
+    }
+}

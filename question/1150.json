@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 1150,
+    "tags": [
+        {
+            "tag-id": 69,
+            "tag-name": "膜乎管理员"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "膜乎是怎么做到不被墙的？",
+        "body": "<p>是用了什么黑科技吗？</p>",
+        "author": 1098,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-31T00:00:00.000Z",
+        "modifyTime": "2018-05-31T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 902,
+            "body": "<p>膜乎（mohu1.tk）之所以没有被墙是因为规模还不够大，没有引起赵家更多的关注。但这一天终究会来临的，我想我们需要在膜乎彻底被墙前拉拢更多的墙内蛤丝，并向他们推送novalive（由蛤丝自己建立的翻墙代理），这样即使在被墙后那些已注册的墙内用户也会顺势翻进来，同时模糊也能保持一定的活跃量。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-01T00:00:00.000Z",
+            "modifyTime": "2018-06-01T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "mohu.ml已经被墙了<br>\nmohu1.tk为镜像站",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "<p>你上的镜像网站。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>主站被墙了啊，没被墙的是备用站点</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-31T00:00:00.000Z",
+            "modifyTime": "2018-05-31T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        },
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-01T05:26:00.000Z",
+        "views": 510,
+        "concerns": 4
+    }
+}

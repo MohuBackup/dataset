@@ -1,0 +1,155 @@
+{
+    "type": "question",
+    "id": 462,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        }
+    ],
+    "detail": {
+        "title": "维基百科、伪基百科、百毒百科哪一个对蛤的评价坠吼？",
+        "body": "",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-23T00:00:00.000Z",
+        "modifyTime": "2018-04-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 611,
+            "body": "维基百科—非常中立、档案工作做得坠吼，是大部分膜法材料的来源。<br>\n百毒百科—中国特色的评价，图森破，被删减得太多了，但是可访问程度是坠吼的(除此之外找不到哪里坠吼了<br>\n伪基百科—很多不实的消息，自身也要判断，喜欢搞大新闻，部分内容可以当作维基材料的延伸，娱乐性是坠吼的。<br>\n其实呢，更多的资料还是可以从“膜蛤文化”这一词条去获得的。",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 597,
+                    "user-name": "Amane"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "建议修改一下问题吧……<br>\n不明白你这个吼是什么意思<br>\n是中肯还是吹捧呢……",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 353,
+            "body": "历史会评价他的",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": 2645,
+            "body": "<p>维基百科姿势水平很吼，档案特别多，值得欣赏</p><p>伪基百科是台独港独轮子的大本营，坠naive的</p><p>百毒百科基本上是官方的说法，删减的特别多</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-15T00:00:00.000Z",
+            "modifyTime": "2018-10-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-15T13:00:00.000Z",
+        "views": 568,
+        "concerns": 5
+    }
+}

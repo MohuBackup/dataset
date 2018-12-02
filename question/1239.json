@@ -1,0 +1,685 @@
+{
+    "type": "question",
+    "id": 1239,
+    "tags": [
+        {
+            "tag-id": 627,
+            "tag-name": "粉红蛆"
+        }
+    ],
+    "detail": {
+        "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+        "body": "看看最近提的那些问题吧……",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-05T00:00:00.000Z",
+        "modifyTime": "2018-06-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "所謂五毛小粉紅，就是喜歡說歪道理，而且聽不進別人跟他講道理的睿智玩意兒，時間久了這些人自然會浮出水面，和他們沒啥好說的，多次觸犯各位蛤絲不會有好果子吃。這裡不是他們無腦舔包的糞池，希望他們盡早離開這裡。如果只是缺乏常識，知識水平較低的人，我們當藍是要耐心地給他們把道理講明白，批判一番足矣，知錯能改，善莫大焉。希望更多的新用戶是第二種情況，各位，為建設更和諧的膜乎而努力吧！",
+            "agree-by": [
+                {
+                    "user-id": 898,
+                    "user-name": "江来"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 500,
+                    "user-name": "阿尔法苟"
+                },
+                {
+                    "user-id": 814,
+                    "user-name": "奇异膜士"
+                },
+                {
+                    "user-id": 1251,
+                    "user-name": "dafahao"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                },
+                {
+                    "user-id": 1192,
+                    "user-name": "刁扛麦"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 1434,
+                    "user-name": "共和国里当皇帝"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1713,
+                    "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 2280,
+                    "user-name": "毛利小泽东"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2709,
+                    "user-name": "a123123a"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "<p>膜乎怎么能学習“禁评”？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 970,
+                    "user-name": "我也想改变中国"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 1311,
+                    "user-name": "abcd1234"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                },
+                {
+                    "user-id": 1627,
+                    "user-name": "Rain900"
+                },
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1734,
+                    "user-name": "社会我江哥"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 1941,
+                    "user-name": "资瓷不资瓷啊"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 2777,
+                    "user-name": "维尼无限连任"
+                },
+                {
+                    "user-id": 2861,
+                    "user-name": "infiniteholic"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 898,
+            "body": "<p>mohu意下做一个墙内自由发表观点的社区 所以不轻易踢人也是很吼的</p><p>有些粉丝兼五毛诸君看不过去就认真批判一番 如果再有重复提问直接举报问题重复 就能过滤很多想象力有限的五毛<br></p><p>如果有纯傻逼五毛想来刷屏mohu 希望踢掉 踢了以后再挂个路灯是坠吼的</p>",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 814,
+                    "user-name": "奇异膜士"
+                },
+                {
+                    "user-id": 1251,
+                    "user-name": "dafahao"
+                },
+                {
+                    "user-id": 567,
+                    "user-name": "江泽妮可"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1943,
+                    "user-name": "boundary6"
+                },
+                {
+                    "user-id": 1701,
+                    "user-name": "潘静雯"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "<p>同意楼上，作为一个真正自由的社区，随便踢人是很不吼的。如果混入的粉红只是提出了不同的观点没必要把他们禁言或封号，但如果做出一些触及底线的事，例如说毫无逻辑的辱蛤，那么踢掉后在用坦克压是坠吼的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1438,
+                    "user-name": "AndyChuck"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1898,
+                    "user-name": "misssimple"
+                },
+                {
+                    "user-id": 1943,
+                    "user-name": "boundary6"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2777,
+                    "user-name": "维尼无限连任"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "讲一个词：众口铄金<br>\n<br>\n理不辩不明，共产党就是听不进去逆言才走上偏路的，既然觉得自己说的有道理，就把道理讲清楚，如果经不起质疑，那就是假道理咯，如果膜乎只讲一家之言而不许别人质疑，那和共产党有什么区别",
+            "agree-by": [
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 414,
+                    "user-name": "nai黄包子"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1026,
+                    "user-name": "kotori"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1713,
+                    "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "膜乎致力成为一个自由的社区，只要不违反社区的几条举报规则都不会封号的。理性批判可以，但是要是恶意批判可是要被续掉的",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1192,
+                    "user-name": "刁扛麦"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 1087,
+            "body": "<p>其实暂时放着这些问题让大家批判一番也是可以的，等到局势控制不住了管理员再开枪扫射，再不济坦克碾压一下，也就压下去了呢~~~<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1341,
+                    "user-name": "Christian"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-05T00:00:00.000Z",
+            "modifyTime": "2018-06-05T00:00:00.000Z"
+        },
+        {
+            "author": 1756,
+            "body": "<p>你觉得这样符合自由二字吗</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1178,
+                    "user-name": "efficiency"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-15T00:00:00.000Z",
+            "modifyTime": "2018-08-15T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>沒有清理掉粉紅蛆蟲的必要，他們只會襯托我們，而且我們實際上拿那些粉紅蛆蟲沒有辦法，膜乎管理員一定認為粉紅也有合法的自由言論權益。雖然他們很肯定納粹的有毒思想不能傳播，但是對於粉紅卻是網開一面。</p><p>但是膜乎的網評員勢力（俗稱五毛）是必須要清洗的。他們不是來發表自己的看法的，他們是拿了錢奉命來此處維穩的，來到此處進一步保護趙家的權益的。</p><p>所以我說，非常有必要對網評員進行一個大清洗，大家說吼不吼哇?<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1941,
+                    "user-name": "资瓷不资瓷啊"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-17T00:00:00.000Z",
+            "modifyTime": "2018-08-17T00:00:00.000Z"
+        },
+        {
+            "author": 1757,
+            "body": "五毛是拿工资的，他们说的话是习近平让他说的，而不是来自个人想说的，而我们才是。",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1574,
+            "body": "<p>要清洗啦，要清洗啦！【兴奋】<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1944,
+            "body": "<p>来来来&nbsp;赶紧赶紧</p><p>目标很明确嘛</p><p>我就是深红一个</p><p>我就站在这里给你们踢</p><p>来哇</p><p><br></p><p>还有你们真觉得全国13亿人就你们几个有脑子的？</p><p>我告诉你们</p><p>其实是只有你们某些人是没脑子的</p><p><br></p><p>不过估计以你们的智商不一定理解的了我的意思</p><p>你们还是踢了我吧</p><p>毕竟一窝虫子凑在一起说人没脑子<br></p><p>我总不能凑到虫子窝里给他们解释吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 1574,
+                    "user-name": "Marx"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-24T00:00:00.000Z",
+            "modifyTime": "2018-08-24T00:00:00.000Z"
+        },
+        {
+            "author": 1839,
+            "body": "<p>萌新不知道怎么改头像</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-24T00:00:00.000Z",
+            "modifyTime": "2018-08-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "小粉红群体有哪些代表性观点？",
+            "id": 684
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "共产党垮台对中国是不是大灾难？",
+            "id": 1178
+        },
+        {
+            "title": "如果共产党垮台后美国侵占中国并建立起白人政权，是不是一件好事?",
+            "id": 2127
+        },
+        {
+            "title": "谁能举一些官方膜或公开膜的案例出来",
+            "id": 1991
+        },
+        {
+            "title": "如何看待某膜乎小粉红诬蔑我是小粉红？",
+            "id": 1300
+        },
+        {
+            "title": "如何评价「顾客买包子多付14万」？这是不是在暗中支持习近平？",
+            "id": 710
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-24T13:19:00.000Z",
+        "views": 1236,
+        "concerns": 12
+    }
+}

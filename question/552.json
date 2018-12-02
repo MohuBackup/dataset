@@ -1,0 +1,154 @@
+{
+    "type": "question",
+    "id": 552,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "如何为国家省子弹?",
+        "body": "",
+        "author": 100,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-01T00:00:00.000Z",
+        "modifyTime": "2018-05-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 204,
+            "body": "枪毙你的子弹钱你自己掏。",
+            "agree-by": [
+                {
+                    "user-id": 841,
+                    "user-name": "unidra"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 833,
+                    "user-name": "社会主义之光"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1027,
+                    "user-name": "谢谢爷爷"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "请各位自觉站在铁骑前",
+            "agree-by": [
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 188,
+            "body": "去螳臂当车",
+            "agree-by": [
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "提议让国家用坦克处决。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        },
+        {
+            "author": 546,
+            "body": "如果国家的铁骑继续前进",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-01T00:00:00.000Z",
+            "modifyTime": "2018-05-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "生活在祖国的宝岛台湾省,如何为两岸统一出力？",
+            "id": 3819
+        },
+        {
+            "title": "如何为“中南海蟾蜍养殖基地”打广告？",
+            "id": 958
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-01T14:09:00.000Z",
+        "views": 509,
+        "concerns": 6
+    }
+}

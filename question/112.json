@@ -1,0 +1,54 @@
+{
+    "type": "question",
+    "id": 112,
+    "tags": [
+        {
+            "tag-id": 72,
+            "tag-name": "机器"
+        },
+        {
+            "tag-id": 31,
+            "tag-name": "Antonio Peng（知乎用户）"
+        }
+    ],
+    "detail": {
+        "title": "鹏是不断浴火重生的不死鸟吗？",
+        "body": "",
+        "author": 11,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-14T00:00:00.000Z",
+        "modifyTime": "2018-03-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>是啊，还有不断浴火重生的LL学姐、蒸气伊布小蛮、区域规划御仮珂朵莉、游戏机小猫和麻将天才。。不知道现在鹏鸟又转世成了什么新民字了呢？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-16T00:00:00.000Z",
+            "modifyTime": "2018-10-16T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "误会了，以为是说黄河小，浪底大那个呢",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-16T00:00:00.000Z",
+            "modifyTime": "2018-10-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "天灾不断，中共的无神论思想是否在为自己开脱？",
+            "id": 2700
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-16T08:42:00.000Z",
+        "views": 368,
+        "concerns": 4
+    }
+}

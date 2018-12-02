@@ -1,0 +1,216 @@
+{
+    "type": "question",
+    "id": 587,
+    "tags": [
+        {
+            "tag-id": 149,
+            "tag-name": "包子（广义的）"
+        }
+    ],
+    "detail": {
+        "title": "包子溅上粪了，还能吃吗？",
+        "body": "捅沼气池的时候出了意外",
+        "author": 39,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-02T00:00:00.000Z",
+        "modifyTime": "2018-05-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "吃了会满脸喷粪",
+            "agree-by": [
+                {
+                    "user-id": 39,
+                    "user-name": "蛤尼玛"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 1091,
+                    "user-name": "matsusaki"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1117,
+                    "user-name": "skygate"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "当然可以了，吃完后浑身都是劲，扛200斤小麦不是事",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 39,
+                    "user-name": "蛤尼玛"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        },
+        {
+            "author": 617,
+            "body": "可以拿去喂苟（确信）",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 1091,
+                    "user-name": "matsusaki"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "你敢不吃？？？？",
+            "agree-by": [
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": 604,
+            "body": "不要吃，丢到沼气池里",
+            "agree-by": [
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": 887,
+            "body": "你这是倒车时开到沼气池了吧",
+            "agree-by": [
+                {
+                    "user-id": 1117,
+                    "user-name": "skygate"
+                },
+                {
+                    "user-id": 1090,
+                    "user-name": "lll"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-19T00:00:00.000Z",
+            "modifyTime": "2018-05-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "如何看待包子说\"我年轻时练过拳击\"？",
+            "id": 2147
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-19T02:38:00.000Z",
+        "views": 463,
+        "concerns": 5
+    }
+}

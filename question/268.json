@@ -1,0 +1,155 @@
+{
+    "type": "question",
+    "id": 268,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "成为习近平的高中同学是什么体验？",
+        "body": "",
+        "author": 86,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-01T00:00:00.000Z",
+        "modifyTime": "2018-04-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 297,
+            "body": "“您好，我是习主席的高中同学，请问主席在吗？”<br>\n“不可能，主席只上到初中。”彭女士回答道：“怎么可能会有高中同学呢？”",
+            "agree-by": [
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 64,
+                    "user-name": "狂人日港记"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "不存在的。倒是可能成为破格录取的清华生",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "包上过高中?",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 327,
+                    "user-name": "petersuen"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
+        },
+        {
+            "author": 167,
+            "body": "成为茳的葬礼主持人是一种怎样的体验？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-04T00:00:00.000Z",
+            "modifyTime": "2018-04-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "B站如果被强封会否成为大规模反共起义导火索？",
+            "id": 2006
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-04T14:47:00.000Z",
+        "views": 377,
+        "concerns": 6
+    }
+}

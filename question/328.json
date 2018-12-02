@@ -1,0 +1,64 @@
+{
+    "type": "question",
+    "id": 328,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "江豚为什么会灭绝",
+        "body": "",
+        "author": 460,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-08T00:00:00.000Z",
+        "modifyTime": "2018-04-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 133,
+            "body": "江豚不是还没灭绝吗，不要见得风就是雨，假使这些完全无中生有的东西，你再帮他说一遍，你等于...你也有责任吧。<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n皇帝你说灭绝了吧，那现在呢？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-08T00:00:00.000Z",
+            "modifyTime": "2018-04-08T00:00:00.000Z"
+        },
+        {
+            "author": 602,
+            "body": "蜥类，犬类以江豚为食。",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-08T00:00:00.000Z",
+            "modifyTime": "2018-04-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "除了灭绝穆斯林，还有哪些保卫现代世俗文明的方法？",
+            "id": 2781
+        },
+        {
+            "title": "如果新疆独立出中国，会不会发生针对汉人的种族灭绝？",
+            "id": 1629
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-08T13:24:00.000Z",
+        "views": 188,
+        "concerns": 3
+    }
+}

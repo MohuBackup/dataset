@@ -1,0 +1,626 @@
+{
+    "type": "question",
+    "id": 421,
+    "tags": [
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "吃包子应该怎么吃？搭配什么更好吃？",
+        "body": "吃包子的步骤，吃包子的讲究，包子的搭配等等。",
+        "author": 671,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-18T00:00:00.000Z",
+        "modifyTime": "2018-04-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "最好把衣服松开，先扛200斤小麦走个10公里山路，然后背背书名再吃",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 347,
+                    "user-name": "昂纳克同志"
+                },
+                {
+                    "user-id": 151,
+                    "user-name": "QPomelo"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1778,
+                    "user-name": "xxzxg"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1943,
+                    "user-name": "boundary6"
+                },
+                {
+                    "user-id": 1447,
+                    "user-name": "今日不知我是我"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-04-18T00:00:00.000Z",
+            "modifyTime": "2018-04-18T00:00:00.000Z"
+        },
+        {
+            "author": 461,
+            "body": "配炒肝和芥菜。",
+            "agree-by": [
+                {
+                    "user-id": 787,
+                    "user-name": "虫也"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1128,
+                    "user-name": "怒而蛤斥"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1778,
+                    "user-name": "xxzxg"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 868,
+                    "user-name": "GUT412454"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-18T00:00:00.000Z",
+            "modifyTime": "2018-04-18T00:00:00.000Z"
+        },
+        {
+            "author": 604,
+            "body": "吃包子讲究一口露馅，吃皮厚的包子尤其要注意，一口咬不到馅显得包子脸皮太厚还没内涵",
+            "agree-by": [
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1778,
+                    "user-name": "xxzxg"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-18T00:00:00.000Z",
+            "modifyTime": "2018-04-18T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>配上一瓶衣夫山泉，建议在包子里加入200斤麦子，这样吃完了肥头大耳的，可以背书名。</p>",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 204,
+            "body": "吃别人家的，而且自己亲手掀开锅盖发现的包子最香。",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1128,
+                    "user-name": "怒而蛤斥"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 787,
+            "body": "一边询问店员问题一边吃。",
+            "agree-by": [
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                },
+                {
+                    "user-id": 671,
+                    "user-name": "东圈门楼主"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 833,
+                    "user-name": "社会主义之光"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-19T00:00:00.000Z",
+            "modifyTime": "2018-04-19T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>搭配什么吃都可以，另外不要忘记结帐时付14万<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1191,
+                    "user-name": "tiananmen1989"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-25T00:00:00.000Z",
+            "modifyTime": "2018-05-25T00:00:00.000Z"
+        },
+        {
+            "author": 833,
+            "body": "先要运动，比如爬到山上，把自己搞得气喘吁吁，肚子当然就饿了，这个时候就可以开始吃包子了。而包子单吃比较腻，所以要搭配汤水来吃，个人推荐衣夫山泉，也可以配炒肝等等。然后吃好就付钱了一共21块，什么？没钱，没关系，我们修改一下规矩，自然就不用还了。吃完后，精神来了，可以学习一个，拿起书，看一下封面，好，一本书读完了，可以去参加大会了。会上，《萨格尔王》！",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 934,
+                    "user-name": "吼不吼蛙"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-25T00:00:00.000Z",
+            "modifyTime": "2018-05-25T00:00:00.000Z"
+        },
+        {
+            "author": 1069,
+            "body": "要去庆丰包子铺，要讲究吃相，吃富平御贡的200斤麦子的套餐，吃不完的必须打包回去，",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1098,
+                    "user-name": "IceyEllegaard"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-26T00:00:00.000Z",
+            "modifyTime": "2018-05-26T00:00:00.000Z"
+        },
+        {
+            "author": 1323,
+            "body": "搭配扬州青蛙<blockquote><audio controls=\"controls\" style=\"display: none;\"></audio></blockquote>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-08-24T00:00:00.000Z",
+            "modifyTime": "2018-08-24T00:00:00.000Z"
+        },
+        {
+            "author": 1943,
+            "body": "先扛着200斤麦子走20公里山路，记得不能换肩，然后上车，挂倒档，边倒车边吃",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-24T00:00:00.000Z",
+            "modifyTime": "2018-08-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-08-24T13:24:00.000Z",
+        "views": 1084,
+        "concerns": 10
+    }
+}

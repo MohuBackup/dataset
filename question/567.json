@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 567,
+    "tags": [
+        {
+            "tag-id": 274,
+            "tag-name": "江泽民"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "想问一下这个伪基百科的膜蛤文化条目有些不全，但不知道应该添加什么，求众hath帮忙",
+        "body": "我在伪基百科上浏览这个页面，发现膜蛤文化这个页面我感觉有点不全，希望能编辑一下，但又不知道这叫什么，求hath帮忙。<br>\n<br>\nhttp://cn.uncyclopedia.wikia.com/wiki/膜蛤文化<br>\n&nbsp;",
+        "author": 1015,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-02T00:00:00.000Z",
+        "modifyTime": "2018-05-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "伪基百科本来就不是膜蛤的，而是辱蛤的。你去看看条目“江泽民”你就知道了，还说什么膜蛤的都是无产阶级乡民，真是naive。<br>\n伪基百科基本就是政治讽刺，不如模糊这么high level。",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 2645,
+            "body": "<p>伪基是台独和轮子的大本营，都是辱蛤的</p><p>还是维基是坠吼的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-10-15T00:00:00.000Z",
+            "modifyTime": "2018-10-15T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "参考维基百科。",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "我觉得可以去维基复制，然后改一改",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "膜蛤有没有个人崇拜的意思？",
+            "id": 2022
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如何设计一款以蛤文化为主题的游戏？",
+            "id": 342
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-15T12:58:00.000Z",
+        "views": 352,
+        "concerns": 4
+    }
+}

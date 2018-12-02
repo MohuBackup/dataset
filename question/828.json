@@ -1,0 +1,237 @@
+{
+    "type": "question",
+    "id": 828,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "为何都钦点使用「Telegram」？和其他通讯软体（Skype，Discord，QQ，Wechat...）比起来有何优缺点？",
+        "body": "如题，因为Telegram要梯子，所以我目前一直用Skype。",
+        "author": 54,
+        "link": null,
+        "comments": 1,
+        "publishTime": "2018-05-15T00:00:00.000Z",
+        "modifyTime": "2018-05-15T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 297,
+            "body": "telegram可以用proxy然后就不要梯子了",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-15T00:00:00.000Z",
+            "modifyTime": "2018-05-15T00:00:00.000Z"
+        },
+        {
+            "author": 56,
+            "body": "不会和QQ、微信一样受到gov的监控。<br>\n就是前两个星期的事，telegram打死不给俄罗斯政府提供数据，俄罗斯封禁了tg的ip。然后telegram的创始人就给卖代理卖梯子的人打钱感谢……",
+            "agree-by": [
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 914,
+                    "user-name": "不如食蛤去"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-18T00:00:00.000Z",
+            "modifyTime": "2018-05-18T00:00:00.000Z"
+        },
+        {
+            "author": 412,
+            "body": "在IT领域，又是通讯工具，大众化就显得无比重要。想想为什么Ubuntu滚不动而Windows却越滚越大就明白了。Windows在诸多层面不如Ubuntu，无论是稳定性还是安全性，但是用户群体已经长大了，就尾大不掉了。<br>\ntelegram亦是如此。它在国际上已经有很大的用户群体，同时又安全，所以很容易地被接受了，至于Skype，那不是视频聊天的工具吗？QQ的话，就不用解释了吧。<br>\n当然还有WhatsApp之类的，没用过，不做太多评价。<br>\nTelegram的优点，上面酱油已经提到了。缺点的话，目前在我看来，是其服务器不够稳定，APP设计也有需要提升的方面。主要是逻辑上的问题，一时半会儿不太容易解决清楚。<br>\n&nbsp;",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 10,
+                    "user-name": "Guest"
+                },
+                {
+                    "user-id": 640,
+                    "user-name": "男孩为何穿红衣"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 927,
+                    "user-name": "围城1923"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-16T00:00:00.000Z",
+            "modifyTime": "2018-05-16T00:00:00.000Z"
+        },
+        {
+            "author": 617,
+            "body": "优点：信息加密，有很多表情包<br>\n缺点：个性化装扮少，无官方中文<br>\n（需要很高的洋文水平）",
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 412,
+                    "user-name": "Sager"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 914,
+                    "user-name": "不如食蛤去"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-05-15T00:00:00.000Z",
+            "modifyTime": "2018-05-15T00:00:00.000Z"
+        },
+        {
+            "author": 872,
+            "body": "其实我也是用skype的",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-15T00:00:00.000Z",
+            "modifyTime": "2018-05-15T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待生活中有些暴力乳包/膜蛤的人拒绝使用膜乎？",
+            "id": 1085
+        },
+        {
+            "title": "如何评价隔壁的另一个仿Quora的自由中文社区“品葱”？它和膜乎比起来如何？",
+            "id": 537
+        },
+        {
+            "title": "如何在墙内用极其隐晦的方式膜起来？",
+            "id": 620
+        },
+        {
+            "title": "在膜乎里发布敏感言论会不会被共产党抓起来？",
+            "id": 891
+        },
+        {
+            "title": "大家一起来想象一下最好的社会形态",
+            "id": 2411
+        },
+        {
+            "title": "膜乎是否有意在暗网（使用tor）建设网站?",
+            "id": 442
+        },
+        {
+            "title": "如何看待马来西亚92岁前领导人马哈蒂尔退党击败钦点的接班人，赢得选举重掌大权？",
+            "id": 934
+        },
+        {
+            "title": "新版《切包子》做吼了，增加了红色法拉利，切起来更豪迈",
+            "id": 507
+        },
+        {
+            "title": "膜乎官方推特/telegram频道招募管理员",
+            "id": 2460
+        },
+        {
+            "title": "如何看待膜乎网站没钱买域名而使用免费域名的行为？",
+            "id": 124
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-17T22:11:00.000Z",
+        "views": 583,
+        "concerns": 5
+    }
+}

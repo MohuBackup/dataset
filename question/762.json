@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 762,
+    "tags": [
+        {
+            "tag-id": 393,
+            "tag-name": "毛泽东"
+        },
+        {
+            "tag-id": 271,
+            "tag-name": "TG"
+        },
+        {
+            "tag-id": 457,
+            "tag-name": "国民党"
+        },
+        {
+            "tag-id": 462,
+            "tag-name": "共匪"
+        },
+        {
+            "tag-id": 460,
+            "tag-name": "一律不得乳蛤"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        },
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        }
+    ],
+    "detail": {
+        "title": "什么样的人可以被称为“共匪”？",
+        "body": "毛贼东算吗？袭烬贫算吗？<br>\n（长者和小平肯定不是吧）",
+        "author": 881,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-12T00:00:00.000Z",
+        "modifyTime": "2018-05-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1103,
+            "body": "小平也是吧，虽然改革开放是好的，但是这个邓小平镇压64，如果不镇压，中国可能就资本主义化了，哪还需要改革",
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-05-12T00:00:00.000Z",
+            "modifyTime": "2018-05-12T00:00:00.000Z"
+        },
+        {
+            "author": 500,
+            "body": "包子",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1778,
+                    "user-name": "xxzxg"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-12T00:00:00.000Z",
+            "modifyTime": "2018-05-12T00:00:00.000Z"
+        },
+        {
+            "author": 1111,
+            "body": "庆丰",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1778,
+                    "user-name": "xxzxg"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-12T00:00:00.000Z",
+            "modifyTime": "2018-05-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价共匪cctv某节目“用猪油发电”？",
+            "id": 3241
+        },
+        {
+            "title": "求各位高人的指点，共匪还有多久亡国？",
+            "id": 1867
+        },
+        {
+            "title": "什么样的人才能被称为稍有常识的人？",
+            "id": 1045
+        },
+        {
+            "title": "为何股市低迷被称为“熊市”？",
+            "id": 2548
+        },
+        {
+            "title": "如何看待32位x86构架经常被称为i386(80386)，是不是有种被硬点的感觉？",
+            "id": 1897
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-12T14:59:00.000Z",
+        "views": 337,
+        "concerns": 4
+    }
+}

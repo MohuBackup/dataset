@@ -1,0 +1,198 @@
+{
+    "type": "question",
+    "id": 218,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 188,
+            "tag-name": "乳品"
+        }
+    ],
+    "detail": {
+        "title": "如何评价光明集团?",
+        "body": "",
+        "author": 204,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-27T00:00:00.000Z",
+        "modifyTime": "2018-03-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 11,
+            "body": "掌握了长寿的秘密。",
+            "agree-by": [
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-27T00:00:00.000Z",
+            "modifyTime": "2018-03-27T00:00:00.000Z"
+        },
+        {
+            "author": 262,
+            "body": "冰砖",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 690,
+                    "user-name": "青篁悦雪"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 235,
+            "body": "他们搞的这冰砖啊",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-03-28T00:00:00.000Z",
+            "modifyTime": "2018-03-28T00:00:00.000Z"
+        },
+        {
+            "author": 611,
+            "body": "通过国家专项计划的生物技术研究突破，掌握了延长寿命的独特配方，是我国高度涉密的国防企业，不予评论。<br>\n&nbsp;",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 416,
+                    "user-name": "江泽之主"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "他们改变了雪糕业",
+            "agree-by": [
+                {
+                    "user-id": 9,
+                    "user-name": "Wallais_"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": 174,
+            "body": "再过两年估计就能进世界500强了",
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        },
+        {
+            "author": -1,
+            "body": "光明日报：与我没关系",
+            "agree-by": [
+                {
+                    "user-id": 384,
+                    "user-name": "时间的朋友"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-14T00:00:00.000Z",
+            "modifyTime": "2018-04-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-14T06:27:00.000Z",
+        "views": 369,
+        "concerns": 8
+    }
+}

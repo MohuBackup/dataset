@@ -1,0 +1,98 @@
+{
+    "type": "question",
+    "id": 1308,
+    "tags": [
+        {
+            "tag-id": 253,
+            "tag-name": "推特"
+        }
+    ],
+    "detail": {
+        "title": "推特号被锁定后要怎么解除？",
+        "body": "申诉后给我发了一封这样的邮件(如图)是不是要等几天才会收到解封邮件？请有经验的膜友回答一下。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180609/b402b89f97b2f20c1034aadd5882dfbe.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180609/b402b89f97b2f20c1034aadd5882dfbe.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-06-09-09-18-06-73.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-06-09T00:00:00.000Z",
+        "modifyTime": "2018-06-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "难受……修改密码的话一直都在这两个页面徘徊……就是改不了，不是一般的冻结啊……",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        },
+        {
+            "author": 669,
+            "body": "叫你换密码啊",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 5,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        },
+        {
+            "author": 1157,
+            "body": "<p>我今天早上也是这样，改密码就好了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        },
+        {
+            "author": 10,
+            "body": "<p>你需要有一个国外手机号收验证码。（tb上有收验证码的）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        },
+        {
+            "author": 1103,
+            "body": "<p>没遇到过，但我当我注册推特的时候发现我的邮箱已经在09年的时候注册过了，免费捡一个老账号</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-09T00:00:00.000Z",
+            "modifyTime": "2018-06-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待问题“在膜乎讨论膜乎管理员会有什么后果？”被锁定？",
+            "id": 83
+        },
+        {
+            "title": "如何防止推特号被锁定？",
+            "id": 1712
+        },
+        {
+            "title": "如何評價許雲飛的推特號在反賊化後，之前的举报全部瞬间生效（包括我的），导致徐云飞的推特号瞬間蒸發？[图片]突然間我收到了舉報成功的更新，然後這時去看許大佐，大佐已經消失。",
+            "id": 2552
+        },
+        {
+            "title": "如何防止推特号被封或锁",
+            "id": 1602
+        },
+        {
+            "title": "如何看待这个推特号",
+            "id": 2228
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-06-09T11:30:00.000Z",
+        "views": 282,
+        "concerns": 5
+    }
+}

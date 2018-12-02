@@ -1,0 +1,98 @@
+{
+    "type": "question",
+    "id": 20,
+    "tags": [
+        {
+            "tag-id": 10,
+            "tag-name": "知乎管理员"
+        }
+    ],
+    "detail": {
+        "title": "刽子手被判处自己执行的刑罚是什么体验？",
+        "body": "",
+        "author": 4,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-03-03T00:00:00.000Z",
+        "modifyTime": "2018-03-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 6,
+            "body": "Anosa，因为鹳往往自己就是违规人士的其中一员。<br>\n鹳们大概有 S+M 的快感罢（",
+            "agree-by": [
+                {
+                    "user-id": 51,
+                    "user-name": "DonaldTrump"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 52,
+                    "user-name": "潘DY"
+                },
+                {
+                    "user-id": 3,
+                    "user-name": "多实子酱"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-04T08:47:00.000Z",
+        "views": 235,
+        "concerns": 7
+    }
+}

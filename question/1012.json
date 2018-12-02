@@ -1,0 +1,75 @@
+{
+    "type": "question",
+    "id": 1012,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "286,386这些梗是怎么来的？",
+        "body": "<p>如题。</p><p>经常会看到有人用286,386,486来指代中国国家领导人，请问这是什么意思？<br></p>",
+        "author": 54,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-24T00:00:00.000Z",
+        "modifyTime": "2018-05-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 669,
+            "body": "英特尔x86架构处理器，简称中央处理器，186意思就是第一代中央，如此类推",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-24T00:00:00.000Z",
+            "modifyTime": "2018-05-24T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>来源于CPU x86更新换代，<strong>x86</strong>泛指一系列由<a href=\"https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E7%88%BE\">英特尔</a>公司开发处理器的<a href=\"https://zh.wikipedia.org/wiki/%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%A7%8B\">架构</a>。</p><p><br></p><p>8088/86, 80286, 80386, 80486, 80586</p><p><br></p><p>才发现有80186，很惭愧<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 898,
+                    "user-name": "江来"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-24T00:00:00.000Z",
+            "modifyTime": "2018-05-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-24T14:45:00.000Z",
+        "views": 210,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "type": "question",
+    "id": 104,
+    "tags": [
+        {
+            "tag-id": 87,
+            "tag-name": "历史"
+        }
+    ],
+    "detail": {
+        "title": "李广为什么能一直不被封？",
+        "body": "",
+        "author": 4,
+        "link": null,
+        "comments": 1,
+        "publishTime": "2018-03-07T00:00:00.000Z",
+        "modifyTime": "2018-03-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 11,
+            "body": "因为怹不老，长寿啊。但同时又不是 too young too simple sometimes naive。",
+            "agree-by": [
+                {
+                    "user-id": 2,
+                    "user-name": "喵鱼子"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-08T00:00:00.000Z",
+            "modifyTime": "2018-03-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜乎社区有没有可能发展线下聚会且不被集体枪毙的可能性？",
+            "id": 1466
+        },
+        {
+            "title": "為什麼中國一直煽動對日本的仇恨",
+            "id": 1247
+        },
+        {
+            "title": "蛤丝们应该如何庆祝乳包节而不被枪毙?",
+            "id": 1517
+        },
+        {
+            "title": "军队会一直无条件无底线的效忠中共吗？",
+            "id": 3512
+        },
+        {
+            "title": "如何最大限度的保护自己在网络上的隐私？（从不被查水表到不被人肉这类的）",
+            "id": 2455
+        },
+        {
+            "title": "如何做到在B站上传膜蛤视频而不被封号",
+            "id": 2269
+        },
+        {
+            "title": "一个国家怎样保证民主革命的果实不被窃取？",
+            "id": 681
+        },
+        {
+            "title": "膜乎是怎么做到不被墙的？",
+            "id": 1150
+        },
+        {
+            "title": "中国几千年来是否一直在有人争名夺利",
+            "id": 1221
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-03-08T02:49:00.000Z",
+        "views": 155,
+        "concerns": 2
+    }
+}

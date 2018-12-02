@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 433,
+    "tags": [
+        {
+            "tag-id": 236,
+            "tag-name": "经济改革"
+        }
+    ],
+    "detail": {
+        "title": "如何看待中兴被美国商务部制裁？",
+        "body": "",
+        "author": 262,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-04-19T00:00:00.000Z",
+        "modifyTime": "2018-04-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 218,
+            "body": "<strong>芯片靠研发，研发靠人才，人才靠教育，教育要靠学区房，炒房才能拯救芯片行业。没毛病...</strong>",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 611,
+                    "user-name": "XLSheep"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 174,
+            "body": "江主席10年前已经指出芯片行业对于中国的重要性，详见《新时期我国信息技术产业的发展》",
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-04-23T00:00:00.000Z",
+            "modifyTime": "2018-04-23T00:00:00.000Z"
+        },
+        {
+            "author": 353,
+            "body": "中兴作死不提",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "我就看看能不能传PDF",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-24T00:00:00.000Z",
+            "modifyTime": "2018-04-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-04-24T11:11:00.000Z",
+        "views": 504,
+        "concerns": 4
+    }
+}

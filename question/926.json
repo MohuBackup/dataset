@@ -1,0 +1,137 @@
+{
+    "type": "question",
+    "id": 926,
+    "tags": [
+        {
+            "tag-id": 6,
+            "tag-name": "小熊维尼"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        },
+        {
+            "tag-id": 328,
+            "tag-name": "政治制度"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "朝鲜改革开放是否是因为负负得正？",
+        "body": "<p>朝鲜本来就是一直在倒车，结果三胖一倒车导致了负负得正？</p>",
+        "author": 1138,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-20T00:00:00.000Z",
+        "modifyTime": "2018-05-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 834,
+            "body": "朝鲜是不可能改开的，就算改开力度也不会大，否则他的王朝就会被推翻",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+            "author": 297,
+            "body": "emm，我宁愿相信是贫穷限制了朝鲜人民的思想，因为在平壤不用梯子就能上Google",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-05-20T00:00:00.000Z",
+            "modifyTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "不对不对，朝鲜之前一直倒车，就用-1来代表，三胖这些年做的事，也得用-1来代表，-1-1=-2，不存在负负得正",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-21T00:00:00.000Z",
+            "modifyTime": "2018-05-21T00:00:00.000Z"
+        },
+        {
+            "author": 893,
+            "body": "<p>因为迫于无奈吧。</p><p>一方面朝鲜不断的核试和对我朝的挑衅行为招致了我朝对朝鲜实施严格的禁运。</p><p>一方面可能是<a href=\"http://www.bbc.com/zhongwen/simp/world-43903346\" target=\"_blank\" title=\"中国学者确认丰溪里的山塌了\">其核试验场地真的塌方了</a>，自己没牌可打。<br></p><p><br></p><p>经济底子本身就差，又没法再用核试吓唬人，只能服软了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-21T00:00:00.000Z",
+            "modifyTime": "2018-05-21T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>最近三胖又拒绝会晤，改开似乎成了空口陈诺<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-21T00:00:00.000Z",
+            "modifyTime": "2018-05-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "如果长者在某一天正式加入了膜乎，是否应该给牠一个特殊钦定账号？享受钦定特效和特殊权限？",
+            "id": 1402
+        },
+        {
+            "title": "在膜乎的各位， 现在的这“盛世”是否如你所愿呢？[图片]",
+            "id": 3144
+        },
+        {
+            "title": "该车主贴上了“庆丰包子铺”车贴，这是否会加快车主的倒车速度？【图片】",
+            "id": 2045
+        },
+        {
+            "title": "和自己的表妹结婚是否违法？",
+            "id": 311
+        },
+        {
+            "title": "投票表决是否封禁此账号",
+            "id": 3799
+        },
+        {
+            "title": "最新的假疫苗案是否属于恶习的“人口清理计划”的一部分？",
+            "id": 2034
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-21T06:16:00.000Z",
+        "views": 377,
+        "concerns": 4
+    }
+}

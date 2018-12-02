@@ -1,0 +1,656 @@
+{
+    "type": "question",
+    "id": 686,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 306,
+            "tag-name": "自由"
+        },
+        {
+            "tag-id": 328,
+            "tag-name": "政治制度"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 325,
+            "tag-name": "革命"
+        },
+        {
+            "tag-id": 416,
+            "tag-name": "民主革命"
+        },
+        {
+            "tag-id": 336,
+            "tag-name": "民主"
+        }
+    ],
+    "detail": {
+        "title": "你愿意为中国的民主革命献出自己的生命吗？",
+        "body": "包括且不限于生命，还有家人朋友的生命安全，财产损失，以及其他代价",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-07T00:00:00.000Z",
+        "modifyTime": "2018-05-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p>我愿意为民主革命献出一切，但是一定要保证革命之后建设的“民主”中国比今天的中国更吼才可以。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                },
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                },
+                {
+                    "user-id": 746,
+                    "user-name": "易氪赛挺"
+                },
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                },
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1756,
+            "body": "<p>64的领袖们都不愿意，反而傻不愣登的学生们一个个都愿意得很，不过下场是什么样的大家心里也有B数，中国想要民主革命只有两个办法，要么把包子的脑子换成赵紫阳的脑子，要么就是等那一天包子寿终正寝了，如果包子活到80岁的话，15年后再继任的总书记理论上应该是个70后，那估计到时候人家的学历肯定不会是个萨格尔王，万一到时候的领导人如果真开窍了说不定不用革命，我党直接自己推进民主进程了。。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1587,
+                    "user-name": "阿尔法狗狗"
+                },
+                {
+                    "user-id": 286,
+                    "user-name": "莫城幽"
+                },
+                {
+                    "user-id": 1871,
+                    "user-name": "禁评先辈"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 1630,
+                    "user-name": "习文盲"
+                },
+                {
+                    "user-id": 2814,
+                    "user-name": "haruka"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 3,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "如果大多数人都这么想，不会白白流血，那管家愿意",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 746,
+                    "user-name": "易氪赛挺"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 2217,
+                    "user-name": "境内反华势力"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1757,
+            "body": "我自已愿意，你有组织吗？有枪吗？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                },
+                {
+                    "user-id": 1578,
+                    "user-name": "特朗普"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                },
+                {
+                    "user-id": 746,
+                    "user-name": "易氪赛挺"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1438,
+            "body": "有枪的话肯定会，没有枪没有炮不就更螳臂当车的歹徒一样吗",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1587,
+            "body": "如果有那么一天中国都乱了，我会优先考虑自己的存活问题，初步想法是投奔乡下亲戚",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1951,
+                    "user-name": "Hath爱不爱丽th"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1630,
+                    "user-name": "习文盲"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 898,
+            "body": "<p>如果真能做点什么 改变一下历史进程那是坠吼的 但窝不会编程不会洋文数学一般没有运动神经 帮不到什么可能</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "当然啦",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-08-16T00:00:00.000Z",
+            "modifyTime": "2018-08-16T00:00:00.000Z"
+        },
+        {
+            "author": 445,
+            "body": "老实说，不愿意，我算是个贪生怕死的人，但是我也希望这个国家更加敏煮",
+            "agree-by": [
+                {
+                    "user-id": 1091,
+                    "user-name": "matsusaki"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": 1537,
+            "body": "<p>对于一个还未接受高等教育的naive的年轻人来说，除了老老实实提高知识水平和为他＋1s之外，白白为国家献出生命，不管是死在自己人手中还是死在外族的子弹下，都是无法推动历史进程的。</p><p>真正有志气的粉丝不应该将眼光局限于自己的生死，应着眼于如何推进历史的行程。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-06T00:00:00.000Z",
+            "modifyTime": "2018-09-06T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "一个国家的改变既需要献身的人，也要考虑如何改变，当然，民众对良好的改变的支持也是很重要的。就像+1s，如果每个人都能对改变做出一些微小的滋磁，成功的概率才大，这是坠吼的",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-06T00:00:00.000Z",
+            "modifyTime": "2018-09-06T00:00:00.000Z"
+        },
+        {
+            "author": 2733,
+            "body": "当然不愿意，革命的人只是愿意冒失去生命的危险，这与必死是两回事",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 1957,
+            "body": "<p>假如我看不到，那即使存在又与我何干咕？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1537,
+                    "user-name": "丶萨嗝儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-04T00:00:00.000Z",
+            "modifyTime": "2018-09-04T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>愿意。活着多没意思啊，一点都不好。还不如找个有那么点意义的理由把自己献祭了呢。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-06T00:00:00.000Z",
+            "modifyTime": "2018-09-06T00:00:00.000Z"
+        },
+        {
+            "author": 2212,
+            "body": "<p>各国革命，无不从流血而成，然近日中国有为革命流血者多矣，国依不昌也。革命流血之士，岂不悲乎？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p style=\"text-align: center;\">风云变幻感沧桑，</p><p style=\"text-align: center;\">拒虎谁知又进狼；</p><p style=\"text-align: center;\">无量头颅无量血，</p><p style=\"text-align: center;\">可怜购得假共和。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2921,
+            "body": "<p>这个问题哪会有真正的答案，中国人个个都是精致的“实用功利主义者”，最擅长的就是口是心非。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2869,
+            "body": "<p>现在贸然行动肯定会白白丢了性命，不如等到大部分人都意识到了事情的严重性再来作为</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>我愿意献出一秒<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-11T00:00:00.000Z",
+            "modifyTime": "2018-09-11T00:00:00.000Z"
+        },
+        {
+            "author": 834,
+            "body": "不愿意，我觉得现在没什么不好",
+            "agree-by": [
+                {
+                    "user-id": 1756,
+                    "user-name": "吃口包子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": 746,
+            "body": "<p>生命谁没有，不能不为真理活。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-06T00:00:00.000Z",
+            "modifyTime": "2018-09-06T00:00:00.000Z"
+        },
+        {
+            "author": 1709,
+            "body": "然后献出生命的人的家属要求优待，你同意不同意？如果同意，不过是下一场循环，如果不同意那不过是空号口感。能力越大责任越大，在革命的进程中普通人其实始终都是骑墙派，革命本质上是投机者和大资们的舞台。普通人只要在革命胜利后牢牢捍卫自己的权利和智商就好了。",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-08T00:00:00.000Z",
+            "modifyTime": "2018-09-08T00:00:00.000Z"
+        },
+        {
+            "author": 1888,
+            "body": "问题是奉献了之后会有用吗？即使有用会不会过几十年历史重演，政治生态又恶化呢？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2922,
+            "body": "那要看机会具体怎么出现了。怕的是前门拒虎，后门进狼。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2814,
+            "body": "<p>我会像89那样和平上街，它开枪就让他开吧</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2935,
+            "body": "<p>问题是即使我献身了 怕也只是落得成为别人的人血馒头</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2121,
+            "body": "<p>非要献出生命其实也行，就怕到时候变成为了美国献出生命了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-06T00:00:00.000Z",
+            "modifyTime": "2018-09-06T00:00:00.000Z"
+        },
+        {
+            "author": 2867,
+            "body": "和平实现民主就行了暴力容易出现独裁军政府",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "如何参加中国国家主席选举？",
+            "id": 469
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T06:36:00.000Z",
+        "views": 1157,
+        "concerns": 26
+    }
+}

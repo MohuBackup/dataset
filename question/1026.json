@@ -1,0 +1,26 @@
+{
+    "type": "question",
+    "id": 1026,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "周法兴是谁？",
+        "body": "",
+        "author": 997,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-25T00:00:00.000Z",
+        "modifyTime": "2018-05-25T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-05-25T11:31:00.000Z",
+        "views": 246,
+        "concerns": 1
+    }
+}
