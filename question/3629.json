@@ -1,0 +1,147 @@
+{
+    "type": "question",
+    "id": 3629,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何看待两人的对话？",
+        "body": "<p><img src=\"/uploads/ueditor/20181018/1539857549968258.jpeg\" title=\"1539857549968258.jpeg\" alt=\"CD1361AB-C622-41C6-948F-6D62AAB43737.jpeg\"></p><p>一个柯南，一个新闻联播，谁的杀伤力更强？</p>",
+        "author": 2493,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-18T00:00:00.000Z",
+        "modifyTime": "2018-10-18T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p>不说别的，20多年新闻联播，在忍耐力上就不是一个层面的。高下立判。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1527,
+                    "user-name": "月莫"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2728,
+                    "user-name": "蓝黑之珠"
+                },
+                {
+                    "user-id": 2194,
+                    "user-name": "野獣先輩"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>这几年新闻联播在暗网里传播很广，据说很多人听到名字就吓尿了<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2304,
+                    "user-name": "42A"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-19T00:00:00.000Z",
+            "modifyTime": "2018-10-19T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "大木老师，那你很棒棒啊，为森么没有进中南海而是成天在网路上打嘴炮咧？太屈才了吧。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>都是要人命的，差不多的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>两者结合就是包轮功，文则萨格尔王，武则宽衣扶贫，包轮大法真善任忍已然成为华夏新常态，乃至殃及累人命运共痛体。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-19T00:00:00.000Z",
+            "modifyTime": "2018-10-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-18T20:41:00.000Z",
+        "views": 354,
+        "concerns": 8
+    }
+}

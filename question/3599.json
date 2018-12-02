@@ -1,0 +1,94 @@
+{
+    "type": "question",
+    "id": 3599,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 785,
+            "tag-name": "高雅创作"
+        }
+    ],
+    "detail": {
+        "title": "高雅创作之习钞",
+        "body": "<p style=\"text-align: center;\"><img src=\"/uploads/ueditor/20181017/1539779086879588.jpg\" title=\"1539779086879588.jpg\" alt=\"IMG_20181017_184726.jpg\"></p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-17T00:00:00.000Z",
+        "modifyTime": "2018-10-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>優秀</p>",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价部分学者在论文中将低俗的量子力学和高雅的三个代表思想混为一谈？",
+            "id": 793
+        },
+        {
+            "title": "如何看待膜蛤文化基于淫梦元素的再创作作品？",
+            "id": 1389
+        },
+        {
+            "title": "高雅创作之普京拳交吸精平",
+            "id": 3495
+        },
+        {
+            "title": "高雅创作之清真包子4",
+            "id": 3676
+        },
+        {
+            "title": "高雅创作之包多芬",
+            "id": 3678
+        },
+        {
+            "title": "高雅创作之双枪李田所",
+            "id": 3591
+        },
+        {
+            "title": "高雅创作之庆丰先辈",
+            "id": 4164
+        },
+        {
+            "title": "高雅创作之清真包子",
+            "id": 3671
+        },
+        {
+            "title": "高雅创作之清真包子3",
+            "id": 3674
+        },
+        {
+            "title": "高雅创作之恶臭毛腊肉",
+            "id": 3892
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-17T12:43:00.000Z",
+        "views": 283,
+        "concerns": 2
+    }
+}

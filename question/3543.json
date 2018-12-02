@@ -1,0 +1,49 @@
+{
+    "type": "question",
+    "id": 3543,
+    "tags": [
+        {
+            "tag-id": 579,
+            "tag-name": "移民"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "請問從泰國曼谷到梁家河的路線？",
+        "body": "<p>大家好,小弟住在泰國曼谷,最近想去中國定居,順便想去梁家河旅游.請問從曼谷飛香港再到梁家河 還是曼谷飛廣州到梁家河 或者曼谷飛上海再到梁家河哪個比較快？哪個比較便宜？</p>",
+        "author": 2386,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-16T00:00:00.000Z",
+        "modifyTime": "2018-10-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "从曼谷飞西安，西安火车延安，延安客车梁家河。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 7,
+            "publishTime": "2018-10-16T00:00:00.000Z",
+            "modifyTime": "2018-10-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "請問移民中國是一個好選擇嗎？",
+            "id": 2899
+        },
+        {
+            "title": "梁家河阅览室内部照片曝光，大国文风，国之骄傲！美欧无地自容！",
+            "id": 2066
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-16T03:37:00.000Z",
+        "views": 169,
+        "concerns": 2
+    }
+}

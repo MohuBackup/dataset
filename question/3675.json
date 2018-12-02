@@ -1,0 +1,169 @@
+{
+    "type": "question",
+    "id": 3675,
+    "tags": [
+        {
+            "tag-id": 445,
+            "tag-name": "吼啊"
+        }
+    ],
+    "detail": {
+        "title": "如何理解好汉歌中“路见不平一声吼啊”这句歌词？",
+        "body": "",
+        "author": 2736,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-19T00:00:00.000Z",
+        "modifyTime": "2018-10-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>因为在路上<strong>不</strong>能看见习近<strong>平</strong>，所以满意的说了一声“吼啊”</p>",
+            "agree-by": [
+                {
+                    "user-id": 1703,
+                    "user-name": "asmile"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                },
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-20T00:00:00.000Z",
+            "modifyTime": "2018-10-20T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "这么鼓吹造反有理的电视剧你看看现在还播不播了？",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-21T00:00:00.000Z",
+            "modifyTime": "2018-10-21T00:00:00.000Z"
+        },
+        {
+            "author": 2749,
+            "body": "<p>你要习惯<br></p><p>把路近似的</p><p>看成平的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-21T00:00:00.000Z",
+            "modifyTime": "2018-10-21T00:00:00.000Z"
+        },
+        {
+            "author": 1754,
+            "body": "因為青蛙喜歡不平路",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-19T00:00:00.000Z",
+            "modifyTime": "2018-10-19T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "天上的特首要硬点啊",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-19T00:00:00.000Z",
+            "modifyTime": "2018-10-19T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>吼啊！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-20T00:00:00.000Z",
+            "modifyTime": "2018-10-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "这个cosplay吼不吼啊",
+            "id": 2805
+        },
+        {
+            "title": "如何理解习在博鳌论坛的演讲中说的“中国不追求贸易逆差”？",
+            "id": 381
+        },
+        {
+            "title": "三民主义统一中国吼啊还多一国两制统一中国吼啊",
+            "id": 1395
+        },
+        {
+            "title": "如何理解中国梦",
+            "id": 561
+        },
+        {
+            "title": "大家觉得这位同学画的吼不吼啊",
+            "id": 2280
+        },
+        {
+            "title": "8年后的长者百年诞辰请长者本人发表讲话大家觉得吼不吼啊？",
+            "id": 678
+        },
+        {
+            "title": "如何理解这道高深的物理问题？",
+            "id": 317
+        },
+        {
+            "title": "开发膜乎App上架Google Play吼不吼啊？",
+            "id": 834
+        },
+        {
+            "title": "大家觉得把这当国歌吼不吼啊？",
+            "id": 1417
+        },
+        {
+            "title": "如何理解“君生吾未生，我死君未老”这句诗词？",
+            "id": 273
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-20T23:16:00.000Z",
+        "views": 402,
+        "concerns": 7
+    }
+}

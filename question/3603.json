@@ -1,0 +1,155 @@
+{
+    "type": "question",
+    "id": 3603,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "美国驻华大使馆微博不能点赞",
+        "body": "<p>墙内为了控制言论做的事情真龌龊卑鄙，令人作呕</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-17T00:00:00.000Z",
+        "modifyTime": "2018-10-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p>直接禁止点赞，美国人也就知道了，又坐实了一项言论不自由。</p><p>不如把点赞的人挨个秘密处决，刚好借着这个机会清洗一亿人，反动势力又减少了十三分之一。真是可喜可贺，可喜可贺。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 763,
+                    "user-name": "恶灵骑士"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 2215,
+                    "user-name": "60Minutes"
+                },
+                {
+                    "user-id": 2739,
+                    "user-name": "Nest"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": 2163,
+            "body": "<p>习惯就好</p><p>君不见各大党媒开足火力抨击彭斯演讲而大多数人民群众压根不知道彭斯讲了啥</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "好！发动人民战争，让美帝国主义实实在在感受中国人民的冷漠，让他们的热脸去贴中国人民的冷屁股吧！（大概八点二十发）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": 2494,
+            "body": "可以点赞啊，注意时间<br>\n无中生有的东西，你再帮他说一遍，等于……你也有泽任吧？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-18T00:00:00.000Z",
+            "modifyTime": "2018-10-18T00:00:00.000Z"
+        },
+        {
+            "author": 2558,
+            "body": "<p>几亿人共用一个脑子，不要说不能点赞，就算是能点，也不会有几个人去点的。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如果共产党垮台后美国侵占中国并建立起白人政权，是不是一件好事?",
+            "id": 2127
+        },
+        {
+            "title": "如何评价“中国实际GDP是美国5倍”的说法？",
+            "id": 2525
+        },
+        {
+            "title": "如何看待批站小將（血小板萌萌哒）入住推特，並要求推特原住民們集體移民微博的事例？？",
+            "id": 2599
+        },
+        {
+            "title": "如何看待微博禁评美国驻华大使馆？",
+            "id": 1350
+        },
+        {
+            "title": "如何评价美国副总统彭斯在哈德逊研究院发表的对白宫中国政策的演讲？",
+            "id": 3168
+        },
+        {
+            "title": "【图片】如何评价微博账号“求是”对自己的前后打脸？",
+            "id": 2031
+        },
+        {
+            "title": "美国不能歧视别人是不是意味着就没有言论自由？",
+            "id": 2049
+        },
+        {
+            "title": "新浪微博关键词皇后 怀孕",
+            "id": 2171
+        },
+        {
+            "title": "如何看待“国家资本主义还真不能怪国家”的论断？",
+            "id": 2573
+        },
+        {
+            "title": "如何评价美国近日发生的顺风车司机奸杀女孩案？",
+            "id": 2392
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-18T02:46:00.000Z",
+        "views": 452,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "type": "question",
+    "id": 3587,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "如何看待大船的故事",
+        "body": "<p><img src=\"/uploads/ueditor/20181017/1539761357187807.jpg\" title=\"1539761357187807.jpg\" alt=\"222032bm73bm4d9dtdtbm9.jpg\"></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-17T00:00:00.000Z",
+        "modifyTime": "2018-10-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "嗯，那这群人很明显不属于以上任何一个群体。。。",
+            "agree-by": [
+                {
+                    "user-id": 2149,
+                    "user-name": "搞个小新闻"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p><img src=\"/uploads/ueditor/20181017/1539765860442298.jpeg\" title=\"1539765860442298.jpeg\" alt=\"6e43356abdc962230fc0672382858241.jpeg\"></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-17T08:44:00.000Z",
+        "views": 173,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "type": "question",
+    "id": 3580,
+    "tags": [
+        {
+            "tag-id": 173,
+            "tag-name": "胡锦涛"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何评价社会主义荣辱观（八荣八耻）",
+        "body": "<p>几天前在搜政治资料时发现了这个网站：</p><p><a href=\"/uploads/ueditor/20181017/1539751020273462.png\" title=\"1539751020273462.png\" alt=\"blob.png\"></a></p><a href=\"/uploads/ueditor/20181017/1539751020273462.png\" title=\"1539751020273462.png\" alt=\"blob.png\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>",
+        "author": 1747,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-16T16:00:00.000Z",
+        "modifyTime": "2018-10-16T16:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "社会主义核心价值观就是一堆废话。一个人的“核心价值观”指的是一个词，两个词就会自相矛盾。而刁大犬提出的这个蠢东西有十二个词，其中还包括“自由”“平等”和“公正”“法治”之类的，几乎每两个相邻的词都互相矛盾。我不知道这有什么意义。",
+            "agree-by": [
+                {
+                    "user-id": 1747,
+                    "user-name": "RemoveTurkey"
+                },
+                {
+                    "user-id": 2456,
+                    "user-name": "bisհi"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-17T04:51:00.000Z",
+        "views": 182,
+        "concerns": 2
+    }
+}

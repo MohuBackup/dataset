@@ -1,0 +1,58 @@
+{
+    "type": "question",
+    "id": 3540,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 248,
+            "tag-name": "朝鲜"
+        }
+    ],
+    "detail": {
+        "title": "如何评价金日成综合大学？",
+        "body": "传闻大犬统治集团里文化程度最高的人毕业于此学府。",
+        "author": 1441,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-16T00:00:00.000Z",
+        "modifyTime": "2018-10-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2226,
+            "body": "金日成大学其实不错，绝大部分膜乎用户只能仰视，大概就是北大清华层次。再者说朝鲜科研不低，不少科研竞赛朝鲜大学生都很强。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-16T00:00:00.000Z",
+            "modifyTime": "2018-10-16T00:00:00.000Z"
+        },
+        {
+            "author": 1888,
+            "body": "<p>这是朝鲜相对而言最为开放的大学，享受全国最好的资源，明显比金亨稷师范大学的学生更见过世面，每年都有中国留学生。里面有人用得上iPhone，而不是什么阿里郎手机。裆燃也不要对这学校抱有什么美好幻想。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-16T00:00:00.000Z",
+            "modifyTime": "2018-10-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价卡习特罗，查韦习，近日成，习大林，普近，胡志平，伊迪·阿平，卡近菲，习奥赛斯库",
+            "id": 1473
+        },
+        {
+            "title": "如何评价金日成综合大学？",
+            "id": 3539
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-16T03:49:00.000Z",
+        "views": 226,
+        "concerns": 3
+    }
+}
