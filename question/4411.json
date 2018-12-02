@@ -1,0 +1,113 @@
+{
+    "type": "question",
+    "id": 4411,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何学习共产主义思想？",
+        "body": "",
+        "author": 2226,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-07T00:00:00.000Z",
+        "modifyTime": "2018-11-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2304,
+            "body": "<p>看1984</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-07T00:00:00.000Z",
+            "modifyTime": "2018-11-07T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>建议先把马恩的原著读一遍（如果能读德文原文是坠吼的！），尤其是关于政治经济学的内容。你会发现马克思的伟大智慧与惊人的理论创造力。</p><p><br></p><p><img src=\"/uploads/ueditor/20181107/1541524700447253.jpg\" title=\"1541524700447253.jpg\" alt=\"marx3-1_050417032844.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "宇宙区长孙连城"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-07T00:00:00.000Z",
+            "modifyTime": "2018-11-07T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "学习一个马列，并致力于研究如何将伟大理论与实践相结合",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-07T00:00:00.000Z",
+            "modifyTime": "2018-11-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "薄熙来有哪些值得我们学习的地方？",
+            "id": 490
+        },
+        {
+            "title": "国家为何要让我们拥有思想？羊有思想对牧羊人有什么好处嘛？",
+            "id": 2395
+        },
+        {
+            "title": "既然大陆是共产主义国家，现在加班这么严重为什么没有共产主义运动？",
+            "id": 3269
+        },
+        {
+            "title": "膜乎未来会出现不同思想流派纷争的局面吗？",
+            "id": 706
+        },
+        {
+            "title": "如何看待习大犬要求领导干部学习历史？",
+            "id": 1823
+        },
+        {
+            "title": "学习，学个屁？",
+            "id": 975
+        },
+        {
+            "title": "“习近平新时代中国特色社会主义思想”是一种怎样的思想？",
+            "id": 2324
+        },
+        {
+            "title": "学习是种什么感受？",
+            "id": 277
+        },
+        {
+            "title": "长者有哪些值得我们学习的地方？",
+            "id": 491
+        },
+        {
+            "title": "天灾不断，中共的无神论思想是否在为自己开脱？",
+            "id": 2700
+        },
+        {
+            "title": "如何评价习近平新时代中国特色社会主义思想？",
+            "id": 893
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T20:21:00.000Z",
+        "views": 80,
+        "concerns": 4
+    }
+}

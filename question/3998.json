@@ -1,0 +1,158 @@
+{
+    "type": "question",
+    "id": 3998,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "听说江湖上有一款船新的宝物，叫做吸金瓶，有没有人介绍一下它的功效",
+        "body": "",
+        "author": 2189,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-31T00:00:00.000Z",
+        "modifyTime": "2018-10-31T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>三胖！我叫你一声名字你敢答应吗！</p>",
+            "agree-by": [
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                },
+                {
+                    "user-id": 2728,
+                    "user-name": "蓝黑之珠"
+                },
+                {
+                    "user-id": 2149,
+                    "user-name": "搞个小新闻"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                },
+                {
+                    "user-id": 2872,
+                    "user-name": "王二狗子"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>这个monster capturing呢，江湖就有最新用吸金的瓶，旁边有一个现成的包子妖怪。坠痛苦的，就是吸金瓶把这个妖怪弄到里面，tu进去的时候一下子就……然后就被喷的满脸是粪，这是坠痛苦的。而且这个稀有度ssr……</p>",
+            "agree-by": [
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                },
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>我去翻翻哆啦A梦的备用百宝袋。</p><p><br></p><p>喂，野比 大雄在哪里呢？</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-31T00:00:00.000Z",
+            "modifyTime": "2018-10-31T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "听说大犬要被赶下台了？",
+            "id": 1926
+        },
+        {
+            "title": "求大家推荐一款精准的狙击枪，我“精准扶贫”要用的",
+            "id": 2015
+        },
+        {
+            "title": "問一下，膜乎有多少用戶還不會翻墻？",
+            "id": 1298
+        },
+        {
+            "title": "哪位大佬可以科普一下包子都是如何倒车的？",
+            "id": 525
+        },
+        {
+            "title": "大家一起来想象一下最好的社会形态",
+            "id": 2411
+        },
+        {
+            "title": "可以把奶黄包叫做乳黄包吗？",
+            "id": 46
+        },
+        {
+            "title": "最新间谍特征出炉了，请大家展开港一下是不是针对蛤",
+            "id": 2655
+        },
+        {
+            "title": "请问一下坦克是什么历史事件呢",
+            "id": 1227
+        },
+        {
+            "title": "请问一下，谁能把包子的经历给补上？重点还要是有一点点膜包（要有反语，明奉实讽）色彩",
+            "id": 2165
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-30T21:44:00.000Z",
+        "views": 406,
+        "concerns": 5
+    }
+}

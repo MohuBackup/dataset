@@ -1,0 +1,172 @@
+{
+    "type": "question",
+    "id": 4340,
+    "tags": [
+        {
+            "tag-id": 65,
+            "tag-name": "B站"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        },
+        {
+            "tag-id": 289,
+            "tag-name": "敏感词"
+        },
+        {
+            "tag-id": 136,
+            "tag-name": "政治敏感"
+        }
+    ],
+    "detail": {
+        "title": "知乎，哔哩哔哩，微博，微信，贴吧哪个更敏感（政治敏感）？",
+        "body": "哪个删帖更加迅速，哪个敏感词更多，哪个封号的门槛更低？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-06T00:00:00.000Z",
+        "modifyTime": "2018-11-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "天朝乌鸦一般黑，还分啥主次？翻就完事了！",
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2777,
+                    "user-name": "维尼无限连任"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 2812,
+                    "user-name": "huangkangfu"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": 2375,
+            "body": "<p>根据我在数字时代的长期观察，被请喝茶的8成都是微博微信自沙人，直球辱骂suki..</p>",
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": 2955,
+            "body": "貼吧",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": 2900,
+            "body": "很多敏感话题微博可以搜到，贴吧却不能",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": 2869,
+            "body": "<p>不知道，反正我以上所有都被封过号</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": 1015,
+            "body": "酷安",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "有哪些你以为不是敏感词的敏感词？",
+            "id": 482
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "有哪些现在仍在中国上演的苏联式政治笑话？",
+            "id": 693
+        },
+        {
+            "title": "如何看待批站小將（血小板萌萌哒）入住推特，並要求推特原住民們集體移民微博的事例？？",
+            "id": 2599
+        },
+        {
+            "title": "知乎备份计划",
+            "id": 2459
+        },
+        {
+            "title": "政治倾向投票",
+            "id": 1322
+        },
+        {
+            "title": "为什么知乎的话题标签里没有中国共产党？",
+            "id": 2266
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T06:05:00.000Z",
+        "views": 329,
+        "concerns": 7
+    }
+}

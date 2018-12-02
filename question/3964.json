@@ -1,0 +1,128 @@
+{
+    "type": "question",
+    "id": 3964,
+    "tags": [
+        {
+            "tag-id": 489,
+            "tag-name": "江蛤蟆"
+        },
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 496,
+            "tag-name": "习特勒"
+        },
+        {
+            "tag-id": 732,
+            "tag-name": "恶习"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "江贼出卖了多少国土？",
+        "body": "<p>如题<br></p>",
+        "author": 2749,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-29T00:00:00.000Z",
+        "modifyTime": "2018-10-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "比你李教主卖菊花强啊（坚信）",
+            "agree-by": [
+                {
+                    "user-id": 2817,
+                    "user-name": "ciming"
+                },
+                {
+                    "user-id": 2728,
+                    "user-name": "蓝黑之珠"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-29T00:00:00.000Z",
+            "modifyTime": "2018-10-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "虽然估计题主在无聊钓鱼，不过还是咬个钩罢<br>\n <br>\n讨论共朝党家的领土得失，实际意义不大，你看人家现在又改口钓鱼岛无所谓咯",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>拿回了香港和澳门，反殖民。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "看九瓶啊！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 1020,
+            "body": "<p>一块都没卖！实际上我也找不出有哪个人卖了土地，之前被清朝签协议是因为国力太弱了被威胁。和平时期卖土地？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>土地只有七十年产权，到期政府有权无偿收回。<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价国土资源部人民来访接待室看造得碉堡一样？",
+            "id": 1381
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-29T21:44:00.000Z",
+        "views": 537,
+        "concerns": 7
+    }
+}

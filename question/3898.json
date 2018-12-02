@@ -1,0 +1,39 @@
+{
+    "type": "question",
+    "id": 3898,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "【每日一膜】",
+        "body": "<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20181026/958a536b649af700975b9ed7599cded7.JPG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181026/958a536b649af700975b9ed7599cded7.JPG\" class=\"img-polaroid\" title=\"IMG_1386.JPG\" alt=\"IMG_1386.JPG\"></a>\n</div>\n<br>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 2149,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-27T00:00:00.000Z",
+        "modifyTime": "2018-10-27T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何评价“习平”两字普通话发音和粤语“屎片”发音一膜一young？",
+            "id": 2972
+        },
+        {
+            "title": "每日一膜 ",
+            "id": 4102
+        },
+        {
+            "title": "【每日一膜】",
+            "id": 3947
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-26T23:06:00.000Z",
+        "views": 134,
+        "concerns": 1
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "type": "question",
+    "id": 4053,
+    "tags": [
+        {
+            "tag-id": 856,
+            "tag-name": "蛤命根据地建设"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "品葱已经倒下，党国会不会对膜乎进行大规模地围剿",
+        "body": "我们应当如何保卫我们的根据地，我们的部分管理员小管家等人如今也生死未卜。hath们应当怎样担负起膜乎的兴亡。",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-01T00:00:00.000Z",
+        "modifyTime": "2018-11-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2903,
+            "body": "<p>&nbsp; &nbsp;膜乎的<strong>管理员</strong>首先要保護好自己，這是<strong>最最基本的要求</strong>。</p>",
+            "agree-by": [
+                {
+                    "user-id": 3009,
+                    "user-name": "joe5555"
+                },
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>备份！备份！<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "B站如果被强封会否成为大规模反共起义导火索？",
+            "id": 2006
+        },
+        {
+            "title": "在习近平诞辰日(6月15日)，你们会进行什么活动？",
+            "id": 1061
+        },
+        {
+            "title": "品葱为啥访问不了了，是被tg制裁了吗？",
+            "id": 4005
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T22:02:00.000Z",
+        "views": 567,
+        "concerns": 5
+    }
+}

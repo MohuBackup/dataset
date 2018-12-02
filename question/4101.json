@@ -1,0 +1,206 @@
+{
+    "type": "question",
+    "id": 4101,
+    "tags": [
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        }
+    ],
+    "detail": {
+        "title": "你们都是什么星座的",
+        "body": "<p><img src=\"/uploads/ueditor/20181101/1541068778471908.png\" title=\"1541068778471908.png\" alt=\"QQ截图20180616010213.png\"></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-02T00:00:00.000Z",
+        "modifyTime": "2018-11-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "真正的粉丝都会回答：“大犬座。”",
+            "agree-by": [
+                {
+                    "user-id": 2149,
+                    "user-name": "搞个小新闻"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 902,
+            "body": "<p><img src=\"/uploads/ueditor/20181101/1541069182254707.png\" title=\"1541069182254707.png\" alt=\"image.png\"></p><p style=\"text-align: center;\">（真实存在的“大犬座”）</p><p><img src=\"/uploads/ueditor/20181101/1541081980338280.png\" title=\"1541081980338280.png\" alt=\"image.png\"></p><p style=\"text-align: center;\">（还有“小熊座”）</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>狮子座（817）</p>",
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>大熊座和小熊座的混合体</p><p><br></p><p><img src=\"/uploads/ueditor/20181101/1541073423961149.jpg\" title=\"1541073423961149.jpg\" alt=\"pooh-760x400.jpg\"></p><p><br></p><p><img src=\"/uploads/ueditor/20181102/1541101382830904.jpg\" title=\"1541101382830904.jpg\" alt=\"ursa-major-and-ursa-minor-constellation-in-night-vector-18981322.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2571,
+            "body": "<p>熊座</p>",
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2039,
+            "body": "<p>歹徒座的</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "大犬座",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>要收集膜友信息，缩小搜索范围了？</p><p><br></p><p>菊座</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 648,
+            "body": "<p>占座（指高铁二等座，确信）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "如果你代替包子来当中华人民共和国主席，你想做的第一件事是什么？",
+            "id": 1535
+        },
+        {
+            "title": "等待我们的最坏的下场是什么？你们现在感到害怕吗？",
+            "id": 4011
+        },
+        {
+            "title": "如果有一辆刹车坏了的电车，有可能撞死一个法轮功学员或者一个共产党员，你选择救谁？理由是什么？",
+            "id": 4178
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-01T22:09:00.000Z",
+        "views": 135,
+        "concerns": 8
+    }
+}

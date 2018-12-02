@@ -1,0 +1,73 @@
+{
+    "type": "question",
+    "id": 3922,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 378,
+            "tag-name": "娱乐"
+        }
+    ],
+    "detail": {
+        "title": "刚花了两百块钱买的虎眼石手串，看上去好像咖啡豆，好想咬一口",
+        "body": "<p style=\"text-align: left;\"><img src=\"/uploads/ueditor/20181027/1540646648720931.jpeg\" title=\"1540646648720931.jpeg\" alt=\"1540646411358.jpeg\"><img src=\"/uploads/ueditor/20181027/1540646608946497.jpeg\" title=\"1540646608946497.jpeg\" alt=\"1540646413757.jpeg\"></p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-27T00:00:00.000Z",
+        "modifyTime": "2018-10-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2304,
+            "body": "<p>天朝の无用に立たない应試指向の教育</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-28T00:00:00.000Z",
+            "modifyTime": "2018-10-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜乎的反贼好像越来越多了？各种支持桂枝解体的言论频出",
+            "id": 3243
+        },
+        {
+            "title": "為什麼以前好像沒那麼多人罵胡，現在卻很多人罵習",
+            "id": 2799
+        },
+        {
+            "title": "坠近好像没见到小管家了？",
+            "id": 3554
+        },
+        {
+            "title": "同志们，，，我好像找到了乳包之源，，，",
+            "id": 3853
+        },
+        {
+            "title": "关于 肖羊者亡共 各位怎么看，李志绥，赵紫阳，林彪好像也是属羊的吧，百日无孩也是羊年，我个人并不因为这都是轮子编的谣言",
+            "id": 3271
+        },
+        {
+            "title": "膜乎最近好像散发着葱油的气息",
+            "id": 1546
+        },
+        {
+            "title": "最近好像很多网站都被墙了？",
+            "id": 816
+        },
+        {
+            "title": "好像又有事情发生",
+            "id": 3281
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-27T16:10:00.000Z",
+        "views": 143,
+        "concerns": 1
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "question",
+    "id": 4154,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "想养宠物，养苟好还是养犬好？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "我是一名爱狗人士，前几天有宠物店的人推荐我买一条叫“刁大犬”的狗，该买不该买？",
+            "id": 2855
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:18:00.000Z",
+        "views": 124,
+        "concerns": 1
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "type": "question",
+    "id": 4044,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "这两句话哪句有语病？",
+        "body": "<p>A：人民对美好生活的翔往就是我们的奋斗目标！<br>B：人民所翔往的美好生活就是我们的奋斗目标！<br>这两句话哪句有语病？<br></p><p>请从专业语文角度回答下。</p>",
+        "author": 1020,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-01T00:00:00.000Z",
+        "modifyTime": "2018-11-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2304,
+            "body": "<p>初中生，一般写不对“向往”两字的，只能去 tū 沼气池。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T21:56:00.000Z",
+        "views": 150,
+        "concerns": 3
+    }
+}

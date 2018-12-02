@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 3983,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 850,
+            "tag-name": "清真"
+        }
+    ],
+    "detail": {
+        "title": "不能吃猪肉了怎么办？",
+        "body": "<p>前几天我消化不良去看病，医生说我肾不好、尿酸高，以后不能吃猪肉了，我好难受，以后我应该怎么办呢？</p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-30T00:00:00.000Z",
+        "modifyTime": "2018-10-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2226,
+            "body": "要不试试吃人肉？",
+            "agree-by": [
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "感谢安拉！",
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "啊！这一定是真主的旨意让你往正道上去的！感赞真主！快随真主的旨意一天五次礼拜，戴上小白帽，念起清真言，留起大胡子吧！<br>\n<br>\n<br>\n<br>\n<br>\n最重要的是去切包皮！",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>牛羊肉能吃吗？</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 6,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "<p>皈依佛门，修得正果</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>虽然你不能吃猪肉，但是可以看猪跑啊<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "回族把猪肉叫大肉，那习大大会不会给人一种辱包的感觉",
+            "id": 1779
+        },
+        {
+            "title": "包子溅上粪了，还能吃吗？",
+            "id": 587
+        },
+        {
+            "title": "蛤丝能不能吃镇江锅盖面？如果吃了该不该安规？",
+            "id": 1094
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-29T21:44:00.000Z",
+        "views": 320,
+        "concerns": 6
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "type": "question",
+    "id": 3914,
+    "tags": [
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "新蛤社更新视频了！吼不吼啊？大家支持不支持啊？",
+        "body": "",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-27T00:00:00.000Z",
+        "modifyTime": "2018-10-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 881,
+            "body": "<p>裆燃滋磁啦</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-27T00:00:00.000Z",
+            "modifyTime": "2018-10-27T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>和学蛤笑一个声线，这是什么音源？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-27T00:00:00.000Z",
+            "modifyTime": "2018-10-27T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "是真的么？是原来的么？怕有人钓鱼啊！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-27T00:00:00.000Z",
+            "modifyTime": "2018-10-27T00:00:00.000Z"
+        },
+        {
+            "author": 2454,
+            "body": "https://youtu.be/NCXUhJsio0M",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-27T00:00:00.000Z",
+            "modifyTime": "2018-10-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "关于新蛤社app的设计",
+            "id": 318
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "新蛤社夏日诗词大赏诗词征集令",
+            "id": 520
+        },
+        {
+            "title": "支持少数民族地区独立吗",
+            "id": 994
+        },
+        {
+            "title": "怎么看待新蛤社建立海外b站？",
+            "id": 2073
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-27T11:19:00.000Z",
+        "views": 233,
+        "concerns": 5
+    }
+}

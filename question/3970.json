@@ -1,0 +1,85 @@
+{
+    "type": "question",
+    "id": 3970,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        },
+        {
+            "tag-id": 42,
+            "tag-name": "青蛙"
+        }
+    ],
+    "detail": {
+        "title": "求Flappy Frog游戏中 青蛙的LOGO一枚",
+        "body": "<p>求Flappy Frog游戏中 青蛙的LOGO一枚 用作Line WhatsApp头像</p>",
+        "author": 2862,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-30T00:00:00.000Z",
+        "modifyTime": "2018-10-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p><a href=\"https://hahaxixi.github.io/FlappyFrog/icons/Icon-App-60x60@2x.png\">https://hahaxixi.github.io/FlappyFrog/icons/<span class=\"__cf_email__\" data-cfemail=\"5c153f3332711d2c2c716a6c246a6c1c6e24722c323b\">[email&nbsp;protected]</span></a>&nbsp;</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价 \"Flappy Winnie\" 游戏？",
+            "id": 971
+        },
+        {
+            "title": "我們工廠裡進了一隻大青蛙，我該怎麼辦？",
+            "id": 1857
+        },
+        {
+            "title": "把《Flappy Frog》膜改成《Flappy Winnie》吼不吼？",
+            "id": 585
+        },
+        {
+            "title": "吃青蛙肉是一种什么样的体验？",
+            "id": 186
+        },
+        {
+            "title": "如果你有一只会说话的青蛙，你会对它做什么？",
+            "id": 2218
+        },
+        {
+            "title": "如何评价老游戏《青蛙过河》？",
+            "id": 717
+        },
+        {
+            "title": "如何评价本人经历：小时候吃过很多青蛙腿？",
+            "id": 3529
+        },
+        {
+            "title": "什么青蛙能说英语？",
+            "id": 1932
+        },
+        {
+            "title": "日漫里青蛙为什么老是堵住投币口",
+            "id": 1139
+        },
+        {
+            "title": "在吃鸡等在线游戏中使用长者语音包是一种怎样的体验？",
+            "id": 928
+        },
+        {
+            "title": "如何评价开心消消乐游戏中出现了虵和煮鹰的形象？",
+            "id": 1599
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-29T21:44:00.000Z",
+        "views": 118,
+        "concerns": 2
+    }
+}

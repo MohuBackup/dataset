@@ -1,0 +1,152 @@
+{
+    "type": "question",
+    "id": 4031,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "怎么看浙江的反间谍法宣传周",
+        "body": "下课看见一堆警察在大学里搞这个东西啊，kowai",
+        "author": 2601,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-01T00:00:00.000Z",
+        "modifyTime": "2018-11-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1561,
+            "body": "打倒匪諜！！",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>关我屁事，看到间谍我也装看不见，要是在不危害我个人安全的情况下，我还愿意给他们提供方便。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2653,
+                    "user-name": "包打不开弓"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2324,
+            "body": "<p>小心！匪諜就在你身邊</p>",
+            "agree-by": [
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "吼啊，证明我国依法治国，一代革命新人在习主席教导下茁壮成长，即将掀起大批判大举报的高潮",
+            "agree-by": [
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "图碎了。",
+            "agree-by": [
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "文革的告密時代又回來了",
+            "agree-by": [
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价2018高考浙江卷这篇满分作文?",
+            "id": 1270
+        },
+        {
+            "title": "为什么江苏、浙江和福建缩写成「苏浙闽」而不是「江浙闽」？",
+            "id": 1079
+        },
+        {
+            "title": "如何看待武警总队被设置在浙江大学对面？",
+            "id": 1904
+        },
+        {
+            "title": "如何评价《之 江 新语》(习近平担任浙江省委書記时随笔)？",
+            "id": 1568
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T21:56:00.000Z",
+        "views": 357,
+        "concerns": 7
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "type": "question",
+    "id": 4130,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "为什么包子限制比特币？",
+        "body": "就是不想让老百姓发财？还是说怕老百姓赔本？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p>因为比特币比人民银行的主权信用可信啊<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 2733,
+                    "user-name": "江沢"
+                },
+                {
+                    "user-id": 2494,
+                    "user-name": "wangweilin"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>不想让你把钱汇到国外去</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2212,
+            "body": "<p>打着保护民众金融安全之幌子，行阻止人民币外流之实。其实不光是比特币，任何的数字加密货币货币都在包子的打击范围内。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 893,
+            "body": "至少用比特币可以进行资金外逃和洗钱。<br>\n另外大家都去炒比特币，沪深股市怎么办。",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2903,
+            "body": "<p>確保監控<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>刁：我搞不懂的、没法通过此賺钱的东西，你们也别想使用。攒个钱还那么复杂，还不如收割屁民韭菜煎蛋。怎么发这句话？ 请按一下那个颜色不同的按键嘿嘿。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2733,
+                    "user-name": "江沢"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 3024,
+            "body": "<p>一个猜想，不一定对</p><p>https://www.reddit.com/r/Bitcoin/comments/60hbt6/breaking_tiananmen_square_massacre_of_1989/</p>",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2759,
+            "body": "<p>主要怕冲击汇率，独立货币政策、相对稳定汇率、流通性里面三选二，兲朝选了前两个。现在BTC导致换汇流通性大增，势必削弱前两项。要不就是无法随心所欲放水，要不就是汇率崩盘······不过小学生嘛，哪懂这些，估计只是觉得大家都去买币股票就跌吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "因为包子爱钱，更爱你们困难群众的钱。困难群众的钱不受监管，是万万不行滴。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "如何看待包子说\"我年轻时练过拳击\"？",
+            "id": 2147
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:09:00.000Z",
+        "views": 435,
+        "concerns": 9
+    }
+}

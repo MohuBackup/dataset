@@ -1,0 +1,138 @@
+{
+    "type": "question",
+    "id": 4169,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        }
+    ],
+    "detail": {
+        "title": "能够在春节或春节前夕在央视里给大家拜年是什么样的体验？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2601,
+            "body": "如果你是去村里看望村民，并且带了一个这一年生肖的玩具礼物赠送给一名小朋友，坠吼是让旁边的人递过去，小朋友会谢谢你。记者会说出北方过年的三件事，邀请你对全国人民说几句，如果你对各行各业以及全国人民送上祝福，就是一个 high level的体验。",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2903,
+            "body": "<p>臨時體驗一下姓趙的滋味<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "\"朋友们！我想死你们啦！！！\"",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>现在是一种乳滑体验，因为央视春晚办的垃圾，只会政治宣传，所以你只要助纣为虐，就是糟蹋中华文化，也就是乳滑了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如何评价「央视评B站存低俗动漫内容」？",
+            "id": 2002
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:18:00.000Z",
+        "views": 274,
+        "concerns": 8
+    }
+}

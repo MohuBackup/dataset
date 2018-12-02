@@ -1,0 +1,142 @@
+{
+    "type": "question",
+    "id": 4072,
+    "tags": [
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        }
+    ],
+    "detail": {
+        "title": "如何更改注册邮箱？",
+        "body": "用傻瓜邮箱注册的，怕。",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-02T00:00:00.000Z",
+        "modifyTime": "2018-11-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>我也想知道。</p><p>膜乎刚建站时的氛围就是一个延伸知乎不能讨论的膜蛤，摸鹳，政治敏感等，外加女装，野兽先辈等这些nonsense，也聊一些政治，但是是以调侃扯谈的方式去产生的。</p><p>鉴于当时这种幽默氛围就用了这个邮箱注册。</p><p>不过现在这个样子，也想改个临时邮箱。。。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2150,
+            "body": "哈哈，我品葱都是企鹅邮箱注册的。不怕不怕，又没搞啥大事情，真请喝茶了，大不了跪舔认怂就好。",
+            "agree-by": [
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 1519,
+            "body": "<p>好像不能改……</p><p>所以说，要用临时邮箱注册</p>",
+            "agree-by": [
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 1496,
+            "body": "弃号跑路",
+            "agree-by": [
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 902,
+            "body": "只能等膜乎管理方平安回来后开通更改邮箱和账号注销功能了",
+            "agree-by": [
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价膜乎从开放注册变为邀请注册？",
+            "id": 72
+        },
+        {
+            "title": "如何看待渣浪微博禁止小学生中二生注册？",
+            "id": 3301
+        },
+        {
+            "title": "那些网站刚成立就注册账号的用户现在过得如何？",
+            "id": 21
+        },
+        {
+            "title": "需要手机号码注册的VPN会不会是钓鱼软件？",
+            "id": 2788
+        },
+        {
+            "title": "注册推特或telegram使用国内的电话号码是否可行？",
+            "id": 2405
+        },
+        {
+            "title": "如何评价华为更改英文名以便加速国际化?",
+            "id": 322
+        },
+        {
+            "title": "认证用户更改一句话介绍/名字集中贴",
+            "id": 444
+        },
+        {
+            "title": "如何看待渣浪微博禁止小学生中二生注册？",
+            "id": 3300
+        },
+        {
+            "title": "【品葱】大家有收到过品葱订阅邮箱的翻墙软件吗？",
+            "id": 3364
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-01T22:02:00.000Z",
+        "views": 129,
+        "concerns": 5
+    }
+}

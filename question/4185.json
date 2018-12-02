@@ -1,0 +1,99 @@
+{
+    "type": "question",
+    "id": 4185,
+    "tags": [
+        {
+            "tag-id": 809,
+            "tag-name": "谈笑风生"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "把裤腰带提到多高可以显得自己成熟？",
+        "body": "",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2341,
+            "body": "我怎么想起了王源",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "提到华莱士那么高",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>提到适当的高度，让你的衣服不会变宽，就可以了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待《底特律：变成人类》中提到的第一批长生不死者出现？",
+            "id": 1388
+        },
+        {
+            "title": "如何看待腾讯员工说的：“等到时机成熟，steam中国将不复存在”？",
+            "id": 1906
+        },
+        {
+            "title": "作为初中生，包子实际的知识水平有多高？",
+            "id": 894
+        },
+        {
+            "title": "希特勒的裤腰带为什么这么高？",
+            "id": 500
+        },
+        {
+            "title": "如何评价四蝠音书里提到的习律王？",
+            "id": 3516
+        },
+        {
+            "title": "为什么这个人的裤腰带在胸口？",
+            "id": 707
+        },
+        {
+            "title": "为什么中国梦作为宣传广告没问题，举着牌子上街宣传就显得滑稽可笑了呢？",
+            "id": 3863
+        },
+        {
+            "title": "如何看待这篇文章所提到的“洋五毛”？",
+            "id": 1673
+        },
+        {
+            "title": "如何看待腾讯员工说的：“等到时机成熟，steam中国将不复存在”？",
+            "id": 1905
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-03T06:18:00.000Z",
+        "views": 217,
+        "concerns": 7
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "type": "question",
+    "id": 3895,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 694,
+            "tag-name": "音乐"
+        },
+        {
+            "tag-id": 785,
+            "tag-name": "高雅创作"
+        }
+    ],
+    "detail": {
+        "title": "高雅创作之元首翻唱恶魔人",
+        "body": "<p>https://youtu.be/fOzVma_68bw</p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-26T00:00:00.000Z",
+        "modifyTime": "2018-10-26T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>kksk</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "拿包维尼跟元首比是不是侮辱了元首",
+            "id": 3594
+        },
+        {
+            "title": "如何评价部分学者在论文中将低俗的量子力学和高雅的三个代表思想混为一谈？",
+            "id": 793
+        },
+        {
+            "title": "如何看待膜蛤文化基于淫梦元素的再创作作品？",
+            "id": 1389
+        },
+        {
+            "title": "你能接受元首犯下多大错误？",
+            "id": 3373
+        },
+        {
+            "title": "高雅创作之普京拳交吸精平",
+            "id": 3495
+        },
+        {
+            "title": "高雅创作之清真包子4",
+            "id": 3676
+        },
+        {
+            "title": "现在的人工智能有这么强大吗？我就是听个元首鬼畜你怎么给我推荐这种东西？",
+            "id": 3920
+        },
+        {
+            "title": "高雅创作之庆丰先辈",
+            "id": 4164
+        },
+        {
+            "title": "高雅创作之习钞",
+            "id": 3599
+        },
+        {
+            "title": "高雅创作之清真包子",
+            "id": 3671
+        },
+        {
+            "title": "高雅创作之双枪李田所",
+            "id": 3591
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-26T14:49:00.000Z",
+        "views": 121,
+        "concerns": 1
+    }
+}

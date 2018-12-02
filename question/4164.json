@@ -1,0 +1,94 @@
+{
+    "type": "question",
+    "id": 4164,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 785,
+            "tag-name": "高雅创作"
+        }
+    ],
+    "detail": {
+        "title": "高雅创作之庆丰先辈",
+        "body": "<img src=\"/uploads/ueditor/20181102/1541159954356724.jpg\" title=\"1541159954356724.jpg\" alt=\"-7fef1a445c1bc115.jpg\">",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2601,
+            "body": "65岁，是小屑生，有在健身（扛麦走山不换肩），那么倒车什么的有在搞吧？这个可以有！（兴奋）",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价部分学者在论文中将低俗的量子力学和高雅的三个代表思想混为一谈？",
+            "id": 793
+        },
+        {
+            "title": "如何看待膜蛤文化基于淫梦元素的再创作作品？",
+            "id": 1389
+        },
+        {
+            "title": "如何以“野兽先辈知乎小管家说”为题写作？",
+            "id": 609
+        },
+        {
+            "title": "高雅创作之普京拳交吸精平",
+            "id": 3495
+        },
+        {
+            "title": "如何评价野兽先辈李洪志说？",
+            "id": 1610
+        },
+        {
+            "title": "高雅创作之清真包子4",
+            "id": 3676
+        },
+        {
+            "title": "高雅创作之双枪李田所",
+            "id": 3591
+        },
+        {
+            "title": "高雅创作之清真包子",
+            "id": 3671
+        },
+        {
+            "title": "高雅创作之清真包子3",
+            "id": 3674
+        },
+        {
+            "title": "高雅创作之习钞",
+            "id": 3599
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:18:00.000Z",
+        "views": 157,
+        "concerns": 1
+    }
+}

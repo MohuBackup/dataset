@@ -1,0 +1,122 @@
+{
+    "type": "question",
+    "id": 4022,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "墙内的同仁是否应该做好长者逝世的准备？",
+        "body": "比如在购买一批白色绢花、蜡烛？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-01T00:00:00.000Z",
+        "modifyTime": "2018-11-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2494,
+            "body": "谁也不知道那一天真来了会发生什么，会不会像上次胡耀邦那样？",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "我为长者续一秒",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>把自己续掉。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2596,
+            "body": "<p>他年龄也很大了，虽然每次死讯都是假的，但这一天终究会到来的，哎</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2136,
+            "body": "可以准备，但没必要。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "长者做过哪些恶？",
+            "id": 1512
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "很喜欢长者但是讨厌共产党怎么办",
+            "id": 806
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T21:56:00.000Z",
+        "views": 481,
+        "concerns": 5
+    }
+}

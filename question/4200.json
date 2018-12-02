@@ -1,0 +1,63 @@
+{
+    "type": "question",
+    "id": 4200,
+    "tags": [
+        {
+            "tag-id": 40,
+            "tag-name": "膜乎用户"
+        },
+        {
+            "tag-id": 69,
+            "tag-name": "膜乎管理员"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "请无视，发重复了",
+        "body": "",
+        "author": 2040,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-12-02T00:00:00.000Z",
+        "modifyTime": "2018-12-02T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "为啥网卡的时候，在膜乎发东西会和复读机一样重复几十遍？是bug吗？",
+            "id": 1764
+        },
+        {
+            "title": "无视请无视",
+            "id": 1345
+        },
+        {
+            "title": "请无视，发重复了",
+            "id": 4203
+        },
+        {
+            "title": "请无视，发重复了",
+            "id": 4201
+        },
+        {
+            "title": "请无视，发重复了",
+            "id": 4202
+        },
+        {
+            "title": "网不吼发重复了，请忽略这个问题",
+            "id": 2258
+        },
+        {
+            "title": "网不吼发重复了，请忽略这个问题",
+            "id": 2259
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-12-01T22:16:00.000Z",
+        "views": 19,
+        "concerns": 1
+    }
+}

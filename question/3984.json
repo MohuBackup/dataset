@@ -1,0 +1,103 @@
+{
+    "type": "question",
+    "id": 3984,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 785,
+            "tag-name": "高雅创作"
+        }
+    ],
+    "detail": {
+        "title": "高雅创作之五包红旗",
+        "body": "<p style=\"text-align: center;\"><img src=\"/uploads/ueditor/20181029/1540808792590092.jpg\" title=\"1540808792590092.jpg\" alt=\"-1705aa003391c8db.jpg\"></p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-30T00:00:00.000Z",
+        "modifyTime": "2018-10-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2189,
+            "body": "再创作一个五轮红旗吼不吼啊",
+            "agree-by": [
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "<p>画包充饥</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-30T00:00:00.000Z",
+            "modifyTime": "2018-10-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价部分学者在论文中将低俗的量子力学和高雅的三个代表思想混为一谈？",
+            "id": 793
+        },
+        {
+            "title": "如何看待膜蛤文化基于淫梦元素的再创作作品？",
+            "id": 1389
+        },
+        {
+            "title": "高雅创作之普京拳交吸精平",
+            "id": 3495
+        },
+        {
+            "title": "高雅创作之清真包子4",
+            "id": 3676
+        },
+        {
+            "title": "你国房地产gdp占比专家说只有百分之五",
+            "id": 3025
+        },
+        {
+            "title": "高雅创作之双枪李田所",
+            "id": 3591
+        },
+        {
+            "title": "高雅创作之庆丰先辈",
+            "id": 4164
+        },
+        {
+            "title": "高雅创作之清真包子",
+            "id": 3671
+        },
+        {
+            "title": "高雅创作之清真包子3",
+            "id": 3674
+        },
+        {
+            "title": "高雅创作之习钞",
+            "id": 3599
+        },
+        {
+            "title": "高雅创作之包多芬",
+            "id": 3678
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-29T21:44:00.000Z",
+        "views": 200,
+        "concerns": 3
+    }
+}

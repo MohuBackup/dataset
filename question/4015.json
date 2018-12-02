@@ -1,0 +1,177 @@
+{
+    "type": "question",
+    "id": 4015,
+    "tags": [
+        {
+            "tag-id": 426,
+            "tag-name": "网络"
+        }
+    ],
+    "detail": {
+        "title": "百度搜索和谷歌搜索二选一，大家会选哪个？",
+        "body": "<p>排出百度不显示敏感网站搜索结果，动能上觉得哪个好哪个不好？</p><p>另，个人目前感觉搜图片，generally speaking谷歌比较好，也可能是本人用习惯了。</p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-31T00:00:00.000Z",
+        "modifyTime": "2018-10-31T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1888,
+            "body": "如果这两个选一个的话必须是Google, 但是Google自己也搞Google Analytics方便以后给你精准投送广告。你看你点任何一个Google的搜索结果，地址栏首先显示的不是这个网站，而是一个像乱码的东西，这个就是Google的大数据。<br>\n<br>\n如果实在不想让他们了解你的搜索习惯，用DuckDuckGo, 虽然这个的中文搜索不太智能吧",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2927,
+                    "user-name": "hls"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2423,
+            "body": "<p>现在的谷歌可能还不如百度，我用必应，感觉好一点，我不是说搜索效果。因为鸭鸭狗这个引擎由于时间不长，数据肯定是不如谷歌和百度的。</p><p>最好的应当是鸭鸭狗收购兼并或取得了谷歌的数据以及百度的中文分词方面的资产。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2927,
+                    "user-name": "hls"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2733,
+            "body": "手机百度的搜索结果直接不给你跳转到目标网页，而是让你看缓存在百度的页面，还美言曰原网站已由百度转码，然后整个页面都是百度广告",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2454,
+            "body": "外事问谷歌，内事也问谷歌",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1527,
+                    "user-name": "月莫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "百度啊，我觉得百度比谷歌好用多了。真的，谷歌中国区确实有时候搜索结果不是很好。这也可能是因为使用者不够多吧。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "如果让你二选一，你愿做一个沉迷二次元的废宅还是一个随时可能被枪毙的反动分子？",
+            "id": 984
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "大家希不希望祖国强大？",
+            "id": 3367
+        },
+        {
+            "title": "大家有没有这样的经历：“虵无处不在”？",
+            "id": 350
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-31T21:56:00.000Z",
+        "views": 365,
+        "concerns": 7
+    }
+}

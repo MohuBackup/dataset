@@ -1,0 +1,100 @@
+{
+    "type": "question",
+    "id": 4160,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "switch值得买吗？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 1,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>值得买</p><p>但是上面的游戏都太 “合家欢” 化 ，太喜剧化，表达深刻的话题的时候很吃亏。</p><p>PS4相比来说更值得买。原因就是它上面的游戏多种多样。有反映自由主义精髓的《女神异闻录5》、《底特律化身为人》（两个都重点推荐，都必玩），有史诗巨制《荒野大镖客2》，有优秀的多人对战游戏《神秘海域》，有没有外挂的《彩虹六号》，等等，非常有购买价值。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "小品作品可以试试，要是3a大作，fps那样的比较吃内存的东西，还是ps吧。其实任天堂一直以来局限在这个小格局里，总的来说还是很吃亏的",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>switch你可以买工作室啊，三平台都有的hhhhh<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "薄熙来有哪些值得我们学习的地方？",
+            "id": 490
+        },
+        {
+            "title": "有哪些值得关注的推特用户？",
+            "id": 1089
+        },
+        {
+            "title": "有哪些值得推荐的纪录片？",
+            "id": 1743
+        },
+        {
+            "title": "长者有哪些值得我们学习的地方？",
+            "id": 491
+        },
+        {
+            "title": "因为仇视中共去制造恐怖事件是什么样的心态？值得提倡吗？",
+            "id": 3397
+        },
+        {
+            "title": "除了pornhub和xvideo，还有什么学习网站值得推荐？",
+            "id": 953
+        },
+        {
+            "title": "长者身边有过哪些值得一说的女性人物？",
+            "id": 353
+        },
+        {
+            "title": "有哪些值得反复观看的采访（视频）？",
+            "id": 362
+        },
+        {
+            "title": "毛泽东有哪些值得我们学习的地方？",
+            "id": 692
+        },
+        {
+            "title": "有哪些值得访问的没有被墙的国外网站？",
+            "id": 1682
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:18:00.000Z",
+        "views": 113,
+        "concerns": 4
+    }
+}

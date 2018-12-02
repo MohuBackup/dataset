@@ -1,0 +1,122 @@
+{
+    "type": "question",
+    "id": 4121,
+    "tags": [
+        {
+            "tag-id": 316,
+            "tag-name": "品葱"
+        }
+    ],
+    "detail": {
+        "title": "我们一起来重建品葱吧",
+        "body": "<p>重建后的品葱要更加注重保护用户隐私，不记录用户敏感信息，访客能在网页上看到的内容就是全部数据，这样就不存在数据泄露的风险了</p><p><br></p><p>可以参考海盗湾模式，将数据公开，方便更多人建立镜像</p><p><br></p>",
+        "author": 1519,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-02T00:00:00.000Z",
+        "modifyTime": "2018-11-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2304,
+            "body": "<p>建立第一个基于区块链的论坛平台，直接把留言写在比特币交易区块链上，千古永存，流芳百世，想删都删不掉。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2903,
+            "body": "<p>想建一個政治性網站，你得經得起兲朝國安的考驗，然後再談資源技術這些小問題。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "暗网欢迎你（滑稽）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>帝国主义亡我之心不死。</p><p><br></p><p><img src=\"/uploads/ueditor/20181102/1541116215195481.jpg\" title=\"1541116215195481.jpg\" alt=\"aHR0cDovL2ltZzAuaW1ndG4uYmRpbWcuY29tL2l0L3U9NDI2NDA5NTk2MywzMjY4Njg4NTA5JmZtPTI2JmdwPTAuanBn.jpg\"></p><p><br></p><p><img src=\"/uploads/ueditor/20181102/1541116228277520.jpg\" title=\"1541116228277520.jpg\" alt=\"下载 (5).jpg\"></p><p><br></p><p><img src=\"/uploads/ueditor/20181102/1541116239376361.jpg\" title=\"1541116239376361.jpg\" alt=\"51052a25gb0ccfed47eff&amp;690.jpg\"></p><p><br></p><p><img src=\"/uploads/ueditor/20181102/1541116252798610.jpeg\" title=\"1541116252798610.jpeg\" alt=\"mp39514172_1446547541970_14.jpeg\"></p><p><br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "品葱为啥访问不了了，是被tg制裁了吗？",
+            "id": 4005
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "如何评价品葱的主流价值观？",
+            "id": 892
+        },
+        {
+            "title": "如何评价品葱倒下后膜乎突然活跃度大增的情况？",
+            "id": 4070
+        },
+        {
+            "title": "如何评价隔壁的另一个仿Quora的自由中文社区“品葱”？它和膜乎比起来如何？",
+            "id": 537
+        },
+        {
+            "title": "如何评价品葱混入以用户“红四姐”为首的粉红团队，而无人可奈何的现状？",
+            "id": 2513
+        },
+        {
+            "title": "膜乎热闹了，为什么我一点都高兴不起来？",
+            "id": 4152
+        },
+        {
+            "title": "如何在墙内用极其隐晦的方式膜起来？",
+            "id": 620
+        },
+        {
+            "title": "为何都钦点使用「Telegram」？和其他通讯软体（Skype，Discord，QQ，Wechat...）比起来有何优缺点？",
+            "id": 828
+        },
+        {
+            "title": "品葱不欢迎新用户注册吗？",
+            "id": 2367
+        },
+        {
+            "title": "膜乎是否品葱化了？",
+            "id": 3247
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T22:09:00.000Z",
+        "views": 777,
+        "concerns": 6
+    }
+}

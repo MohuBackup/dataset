@@ -1,0 +1,165 @@
+{
+    "type": "question",
+    "id": 4196,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "拥有一只鸭嘴兽是什么样的体验？",
+        "body": "",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>要弄一个小盒子装着它，还要每天用刀片刮，这是坠痛苦的</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 3066,
+                    "user-name": "zyc9920"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "鸭嘴兽既不属于哺乳动物，也不属于鸟类。<br>\n中国特色社会主义既不属于社会主义，也不属于资本主义。<br>\n因此可以将鸭嘴兽改名\"中国特色社会主义兽\"，作为天朝国兽。",
+            "agree-by": [
+                {
+                    "user-id": 2875,
+                    "user-name": "31night"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2189,
+            "body": "每生产一支鸭嘴笔，就有一只鸭嘴兽惨遭杀害，这是坠痛苦的",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "你们给我搞的这个鸭嘴兽啊，kawaii",
+            "agree-by": [
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-04T00:00:00.000Z",
+            "modifyTime": "2018-11-04T00:00:00.000Z"
+        },
+        {
+            "author": 2706,
+            "body": "我们开着它一起去北叙利亚扔大铁坨子吼不吼啊",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "车轮子碾到了一只蟾蜍，蟾蜍还能救活吗？",
+            "id": 468
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-03T16:18:00.000Z",
+        "views": 254,
+        "concerns": 7
+    }
+}

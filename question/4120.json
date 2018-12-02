@@ -1,0 +1,53 @@
+{
+    "type": "question",
+    "id": 4120,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何评价江本胜博士？",
+        "body": "水知道答案！",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-02T00:00:00.000Z",
+        "modifyTime": "2018-11-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2756,
+            "body": "伪科学。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价江主席的书法？",
+            "id": 754
+        },
+        {
+            "title": "如何评价江绵恒？",
+            "id": 262
+        },
+        {
+            "title": "如何评价江之永？",
+            "id": 389
+        },
+        {
+            "title": "如何评价江世俊？",
+            "id": 1595
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-01T22:09:00.000Z",
+        "views": 100,
+        "concerns": 2
+    }
+}

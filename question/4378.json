@@ -1,0 +1,41 @@
+{
+    "type": "question",
+    "id": 4378,
+    "tags": [
+        {
+            "tag-id": 87,
+            "tag-name": "历史"
+        }
+    ],
+    "detail": {
+        "title": "现在的中学课本是怎样的",
+        "body": "十几年前的课本里还有鲁迅的文章。现在的中学历史课本是怎样的，袁世凯称帝的内容、民国初的各种运动是不要被改甚至被删了。<br>\n以及，四大名著是不是又要成为禁书了。",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-06T00:00:00.000Z",
+        "modifyTime": "2018-11-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2999,
+            "body": "<p>數學課本也該改了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "长者究竟在哪里上的中学",
+            "id": 2048
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T07:25:00.000Z",
+        "views": 152,
+        "concerns": 2
+    }
+}

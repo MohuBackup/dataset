@@ -1,0 +1,263 @@
+{
+    "type": "question",
+    "id": 4028,
+    "tags": [
+        {
+            "tag-id": 69,
+            "tag-name": "膜乎管理员"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "如何保证膜乎的存续？",
+        "body": "<p>最近没有看见品葱的消息，但品葱上不去了，可能是被封杀了。如果这样，很多品葱的资料可能就此消失。</p><p>看品葱以前用的IP似乎是美国的服务器，但还是容易死。品葱九月流量可能约是膜乎的七、八倍，膜乎以后流量变多，就是下一个主要目标。</p><p>网络上thepiratebay一直没杀死，因为有很多备份，膜乎有没有考虑采用thepiratebay的模式，上传整个膜乎，让社群一些人共同来备份膜乎资料？</p><audio controls=\"controls\" style=\"display: none;\"></audio>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-01T00:00:00.000Z",
+        "modifyTime": "2018-11-01T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "品蔥並非硬件問題，更像是管理者的國內肉身被抓，整個網站被人為關閉，用戶數據也落到國安手裡。",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                },
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 1323,
+                    "user-name": "njc0125"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                },
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2174,
+            "body": "<p>挂上cdn高防应该就行了吧，基本就不会被爆破了，大不了换个域名继续办。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>膜乎一定要战到崛起，续到天明！</p><p>但是海盗湾我不会用啊！求大家教教我怎么搞？我们一起搞！</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1347,
+                    "user-name": "水工先生"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 1328,
+            "body": "管理员千万不要卖了我们啊...不行的话设置成数据只能保存一个月吧...我真的好恐慌",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2881,
+            "body": "<p>品葱的服务器似乎并不在国内，为何依然被爆掉？</p><p>就算gfw有什么不为人知的高妙手段使得定点封锁，普通代理手段失效，墙外的人能告诉我，品葱你们可以上吗？</p>",
+            "agree-by": [
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 20,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2150,
+            "body": "无解，之前就在品葱问过这个问题。tg当时不搞它是因为体量还小懒得搭理而已。<br>\n下一个就是你膜乎，谁也跑不了。",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>吼啊！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>区块链。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "辣需要土豪捐助服务器罢。如果需要比特币众筹，跟我说一声。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2733,
+            "body": "考虑一下上zeronet",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 2921,
+            "body": "<p>中共根本不用攻击网站什么的，直接抓管理员啊，抓到了还不是让你干啥就干啥<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 1015,
+            "body": "用ZetoNet技术来搭建网站？<br>\n这样子服务器不容易被封杀，因为每一个用户都是服务器，他使用的是P2P技术，跟种子的原理很像。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-01T00:00:00.000Z",
+            "modifyTime": "2018-11-01T00:00:00.000Z"
+        },
+        {
+            "author": 1519,
+            "body": "<p>我觉得&nbsp;thepiratebay的模式&nbsp;是可行的&nbsp;把除了用户信息以外的数据公开&nbsp; 方便建立镜像站</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-01T21:56:00.000Z",
+        "views": 920,
+        "concerns": 19
+    }
+}

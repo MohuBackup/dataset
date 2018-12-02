@@ -1,0 +1,99 @@
+{
+    "type": "question",
+    "id": 4163,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 694,
+            "tag-name": "音乐"
+        },
+        {
+            "tag-id": 87,
+            "tag-name": "历史"
+        }
+    ],
+    "detail": {
+        "title": "我的新作《新九九八十一·以史为鉴》发表啦！",
+        "body": "<p>原文已发送为链接/article/300大家都过来滋磁一下吼不吼蛙！</p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-03T00:00:00.000Z",
+        "modifyTime": "2018-11-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "请问这个事什么民间剧种或者曲艺？事扬州评弹吗？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>滋磁</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>李总属实有牌面，看来膜乎第一带文豪非你莫属了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "湖南一高校新生发表辱国言论 校方取消其入学资格",
+            "id": 2825
+        },
+        {
+            "title": "如何评价美国副总统彭斯在哈德逊研究院发表的对白宫中国政策的演讲？",
+            "id": 3168
+        },
+        {
+            "title": "新作转卐包卐轮，大家觉得我以后把乳包图片(原创)都分享到膜乎吼不吼蛙？",
+            "id": 1901
+        },
+        {
+            "title": "8年后的长者百年诞辰请长者本人发表讲话大家觉得吼不吼啊？",
+            "id": 678
+        },
+        {
+            "title": "如何看待美国驻华大使馆发表的人权报告",
+            "id": 1105
+        },
+        {
+            "title": "如何评价赵思运同志因发表要学生有道义担当的演讲而遭到处分？",
+            "id": 3458
+        },
+        {
+            "title": "如何看待中国民国前总统和现总统发表的声明",
+            "id": 1237
+        },
+        {
+            "title": "我的新作《大脑升级人》(原曲《恶魔人》)已经在膜乎发表为文章了，大家能不能来捧个场？",
+            "id": 3868
+        },
+        {
+            "title": "有没有现任知乎用户对膜乎发表评论？",
+            "id": 85
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-03T08:18:00.000Z",
+        "views": 198,
+        "concerns": 2
+    }
+}

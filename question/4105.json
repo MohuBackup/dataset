@@ -1,0 +1,99 @@
+{
+    "type": "question",
+    "id": 4105,
+    "tags": [
+        {
+            "tag-id": 251,
+            "tag-name": "动漫"
+        },
+        {
+            "tag-id": 510,
+            "tag-name": "外国友人"
+        }
+    ],
+    "detail": {
+        "title": "新加坡人是用什么软件看动漫的？",
+        "body": "",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-02T00:00:00.000Z",
+        "modifyTime": "2018-11-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2194,
+            "body": "<p>我不是新加坡人不清楚，不过有个大概是台湾的还不错</p><p><br></p><p>https://anime1.me/</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "在谷歌上用我的小学英语折腾了一会，找到了2个，Crunchyroll和Funimation，大概有些新加坡人用吧（心虚）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-02T00:00:00.000Z",
+            "modifyTime": "2018-11-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价「央视评B站存低俗动漫内容」？",
+            "id": 2002
+        },
+        {
+            "title": "你在动漫或游戏里见过哪些充满膜力的场景？",
+            "id": 326
+        },
+        {
+            "title": "有哪些聊天软件信息加密比较好适合聊敏感话题?",
+            "id": 429
+        },
+        {
+            "title": "有哪些反映自由主义精神的优秀动漫/电视剧作品？",
+            "id": 3974
+        },
+        {
+            "title": "如何评价国内聊天软件监控用户聊天记录？",
+            "id": 2198
+        },
+        {
+            "title": "如何评价西南铁路动漫形象致敬铁胆火车侠？",
+            "id": 3575
+        },
+        {
+            "title": "大惊喜!膜乎动漫资源《魔法禁书目录第三季》",
+            "id": 3185
+        },
+        {
+            "title": "如何看待南京市某程序员制作翻墙软件被抓事件？",
+            "id": 331
+        },
+        {
+            "title": "需要手机号码注册的VPN会不会是钓鱼软件？",
+            "id": 2788
+        },
+        {
+            "title": "墙外有哪些很好用的社交软件？",
+            "id": 1507
+        },
+        {
+            "title": "请问各位谁拥有目前有效的安卓改号软件？",
+            "id": 445
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-01T22:09:00.000Z",
+        "views": 201,
+        "concerns": 4
+    }
+}
