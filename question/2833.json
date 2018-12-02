@@ -1,0 +1,68 @@
+{
+    "type": "question",
+    "id": 2833,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "如何刪除問題",
+        "body": "<p>如何刪除問題<br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1561,
+            "body": "聽兒到這滿嘴兒京兒腔的歌兒詞兒，吐了兒",
+            "agree-by": [
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 1527,
+            "body": "上次体验到如此强烈的精神污染，是听 Lost rivers",
+            "agree-by": [
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "虽然不可否认这是今上御讳的来源，但是毕竟都过了好几年了，奥特了，现在时尚时尚最时尚的红歌应该是《跟着你就是跟着那太阳》",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T09:28:00.000Z",
+        "views": 205,
+        "concerns": 4
+    }
+}

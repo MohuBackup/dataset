@@ -1,0 +1,26 @@
+{
+    "type": "question",
+    "id": 3174,
+    "tags": [
+        {
+            "tag-id": 83,
+            "tag-name": "庆丰包子铺"
+        }
+    ],
+    "detail": {
+        "title": "一捅开.....喷的我........是.......",
+        "body": "<p><embed src=\"/oe_//ueditor/php/upload/video/20181005/1538733361933587.mp4\" width=\"420\" height=\"280\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" allowfullscreen=\"true\"></p>",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-05T00:00:00.000Z",
+        "modifyTime": "2018-10-05T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-05T09:56:00.000Z",
+        "views": 201,
+        "concerns": 1
+    }
+}

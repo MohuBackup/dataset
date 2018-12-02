@@ -1,0 +1,78 @@
+{
+    "type": "question",
+    "id": 3251,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "“捅”这个字读“tong”还是“tu”呢？",
+        "body": "",
+        "author": 1441,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-08T00:00:00.000Z",
+        "modifyTime": "2018-10-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>最后一tu开啊，溅得我满脸喷粪啊</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>tū，这是皇帝说的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "我光记着新成语\"满脸喷粪\"了，忘了这个字咋读了，kuī死了",
+            "agree-by": [
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>让我想起知乎用户捅主任二号机。。。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-08T13:43:00.000Z",
+        "views": 232,
+        "concerns": 4
+    }
+}

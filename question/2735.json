@@ -1,0 +1,93 @@
+{
+    "type": "question",
+    "id": 2735,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 721,
+            "tag-name": "理膜"
+        },
+        {
+            "tag-id": 755,
+            "tag-name": "Github"
+        },
+        {
+            "tag-id": 423,
+            "tag-name": "网站"
+        }
+    ],
+    "detail": {
+        "title": "如何看待这个超级暴力的ASCII字符画视频流网站？",
+        "body": "<p>据说可以实时转换视频到字符画</p><p><img src=\"https://raw.githubusercontent.com/Xmader/ascii_live/master/demo.gif\"></p><p>放大后看图片效果更吼<br></p><p><a href=\"https://github.com/Xmader/ascii_live\">https://github.com/Xmader/ascii_live</a><br></p><p><br></p>",
+        "author": null,
+        "link": "https://xmader.github.io/ascii_live/",
+        "comments": 0,
+        "publishTime": "2018-09-19T00:00:00.000Z",
+        "modifyTime": "2018-09-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1536,
+            "body": "<p>这种膜法字符画在Github上已经很多了，</p><p>但这个能够实时转换的还是第一次见到，</p><p><br></p><p>滋磁一个<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "暴力乳包的匿名废物们，你们敢不敢不匿名？",
+            "id": 3261
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-20T09:36:00.000Z",
+        "views": 365,
+        "concerns": 3
+    }
+}

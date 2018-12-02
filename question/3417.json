@@ -1,0 +1,80 @@
+{
+    "type": "question",
+    "id": 3417,
+    "tags": [
+        {
+            "tag-id": 711,
+            "tag-name": "恐怖主义"
+        },
+        {
+            "tag-id": 627,
+            "tag-name": "粉红蛆"
+        },
+        {
+            "tag-id": 196,
+            "tag-name": "粉红"
+        },
+        {
+            "tag-id": 197,
+            "tag-name": "兔杂"
+        }
+    ],
+    "detail": {
+        "title": "绝对的忠诚，是来自于绝对的恐惧吗？",
+        "body": "<p>我最近看了几个粉红小将的言论，尤其是比较忠诚的那种犬类。</p><p>我发现了一个共同点，那就是他们都很恐惧老大哥的审查，对自己的言论是否会被老大哥看到是坚信不疑，并且坚信老大哥的“无所不知”。所以我认为，绝对的忠诚来自于绝对的恐惧。</p><p>大家怎么看？粉红小将粉红的内在驱动因素 也包括恐惧吗？</p>",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-13T00:00:00.000Z",
+        "modifyTime": "2018-10-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>大犬比所有人都恐惧，最怕失去权利，因为树敌太多，一旦失去权力恐怕性命难保，所以才会通过不断地清洗来巩固自己的权利<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "我认为是包括的，组织了半天语言，发现还是专业的姿势有力<br>\nhttps://wiki.mbalib.com/wiki/%E5%BF%A0%E8%AF%9A%E5%9E%8B%E4%BA%BA%E6%A0%BC",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>任何人都无法同时拥有党性、智慧和忠诚，最多只能同时拥有其中两个</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "还有可能是来源于绝对的单纯、绝对的傻和绝对的狡猾。这就是#复杂中国，you'd better get used to it！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-13T08:02:00.000Z",
+        "views": 227,
+        "concerns": 4
+    }
+}

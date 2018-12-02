@@ -1,0 +1,74 @@
+{
+    "type": "question",
+    "id": 3838,
+    "tags": [
+        {
+            "tag-id": 846,
+            "tag-name": "包轮功"
+        },
+        {
+            "tag-id": 6,
+            "tag-name": "小熊维尼"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "如何打倒包轮功？",
+        "body": "",
+        "author": 2304,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-25T00:00:00.000Z",
+        "modifyTime": "2018-10-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "活摘习近平",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "活摘刁大犬",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "网传练了包轮功会出现智力退化等问题，是真的吗？",
+            "id": 2058
+        },
+        {
+            "title": "如何评价包轮功所提出的“人累命晕共痛体”？",
+            "id": 3638
+        },
+        {
+            "title": "我可以在这里传播包轮功吗？",
+            "id": 2053
+        },
+        {
+            "title": "如何评价包轮功？",
+            "id": 2055
+        },
+        {
+            "title": "如何评价包轮功？",
+            "id": 2056
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-24T21:36:00.000Z",
+        "views": 174,
+        "concerns": 2
+    }
+}

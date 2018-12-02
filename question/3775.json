@@ -1,0 +1,147 @@
+{
+    "type": "question",
+    "id": 3775,
+    "tags": [
+        {
+            "tag-id": 157,
+            "tag-name": "蛤丝"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 786,
+            "tag-name": "蛤卫兵"
+        }
+    ],
+    "detail": {
+        "title": "如何定义蛤卫兵？",
+        "body": "<p>算不算支持革命的民主派的一个分支？</p>",
+        "author": 500,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-23T00:00:00.000Z",
+        "modifyTime": "2018-10-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p><img src=\"/uploads/ueditor/20181023/1540265406111603.jpg\" title=\"1540265406111603.jpg\" alt=\"1528621547297329.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2634,
+                    "user-name": "魔法眼镜"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "蛤卫兵也不是铁板一块，政治倾向分化严重",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "只有拥护毛主席和他的精神儿子刁主席的才配叫X卫兵。",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2634,
+                    "user-name": "魔法眼镜"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>真正的粉丝，，，</p>",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "强烈建议提高新用户注册的准入门槛，防止包卫兵借尸还魂",
+            "id": 2375
+        },
+        {
+            "title": "“国耻”的正确定义是什么？",
+            "id": 651
+        },
+        {
+            "title": "如何评价知乎鹳卫兵John Sherry？",
+            "id": 45
+        },
+        {
+            "title": "以《烈士保护法》为定义，国民党烈士受不受该法律保护",
+            "id": 1961
+        },
+        {
+            "title": "粉红的定义是什么？",
+            "id": 1445
+        },
+        {
+            "title": "如何定义倒车行为",
+            "id": 4010
+        },
+        {
+            "title": "西方国家是如何定义言论自由?",
+            "id": 2306
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T03:47:00.000Z",
+        "views": 202,
+        "concerns": 4
+    }
+}

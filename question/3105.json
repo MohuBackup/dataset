@@ -1,0 +1,108 @@
+{
+    "type": "question",
+    "id": 3105,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        }
+    ],
+    "detail": {
+        "title": "大家觉得包帝可以执政多少年？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-02T00:00:00.000Z",
+        "modifyTime": "2018-10-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1365,
+            "body": "30年",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2456,
+                    "user-name": "bisհi"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>登基即灭亡</p>",
+            "agree-by": [
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "你觉得什么馅的包子比较好吃？为什么？",
+            "id": 185
+        },
+        {
+            "title": "如果继续由共产党执政，中国会成为发达国家吗",
+            "id": 2069
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "大家希不希望祖国强大？",
+            "id": 3367
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-02T12:51:00.000Z",
+        "views": 628,
+        "concerns": 4
+    }
+}

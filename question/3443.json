@@ -1,0 +1,172 @@
+{
+    "type": "question",
+    "id": 3443,
+    "tags": [
+        {
+            "tag-id": 141,
+            "tag-name": "薄熙来"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "请问学习伯希来语是否有利于研习《蛏经》（红宝书，又名《他改变了中国》）？",
+        "body": "<p>另外，研习伯希来语是否利于研究《萨格尔王传》？</p><p><br></p><p><br></p><p><br></p>",
+        "author": 1677,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-13T00:00:00.000Z",
+        "modifyTime": "2018-10-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "你写错了，应为习伯来语。习伯来语词典正在编纂中，不久将随《谈治国理政》第九十九卷单行本发售。下面是一些摘要<br>\n满脸喷粪：形容词，指容易使伟大领袖陷入兴奋状态的事物。<br>\n萨格尔王：名词。伟大领袖在梁家河时期熟读的文学宝库。形容词，形容伟大领袖非常博学。<br>\n梁家河：名词，指世界上藏书总量最丰富的图书馆，是美帝国会图书馆的114514倍。<br>\n维尼：不存在的动画角色，反华势力为了污蔑伟大领袖提前于1925年炮制出炉。",
+            "agree-by": [
+                {
+                    "user-id": 1655,
+                    "user-name": "曹丰泽"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2494,
+                    "user-name": "wangweilin"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 602,
+                    "user-name": "釭鐸鈱"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 2631,
+            "body": "<p>希伯来语不在这条加点线上，它是用来研习纳粹秘术和新世界秩序的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 1347,
+            "body": "你这个伯希来语可以的",
+            "agree-by": [
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 2706,
+            "body": "沪宁太师辛苦了别给包子编书了",
+            "agree-by": [
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "毛主席在位时，和平年代造成8000w中国人非正常死亡，为什么现在广大中国百姓依然怀念敬仰他呢",
+            "id": 2001
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-17T08:54:00.000Z",
+        "views": 398,
+        "concerns": 5
+    }
+}

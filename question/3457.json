@@ -1,0 +1,146 @@
+{
+    "type": "question",
+    "id": 3457,
+    "tags": [
+        {
+            "tag-id": 136,
+            "tag-name": "政治敏感"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 467,
+            "tag-name": "法律"
+        }
+    ],
+    "detail": {
+        "title": "朝鲜和厉害国的律师法律制度相比较有那些优缺点？",
+        "body": "先看图再回答\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181013/fb71e831fd5fe5671d01916971ec7ec1.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181013/fb71e831fd5fe5671d01916971ec7ec1.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181014_063212.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-14T00:00:00.000Z",
+        "modifyTime": "2018-10-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1561,
+            "body": "不得不說朝鮮語的用詞真是復古+惡臭，還在用漢字詞토론회(討論會)<br>\n南韓和日本絕大多數情況下會使用심포지엄(symposium)",
+            "agree-by": [
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>赵高和魏忠贤的性福生活研讨会</p>",
+            "agree-by": [
+                {
+                    "user-id": 2164,
+                    "user-name": "民立报"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>没有实质意义上的律师如何讨论？</p><p>一群太监上青楼？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么总有些人认为美帝的制度比中共的优秀",
+            "id": 1234
+        },
+        {
+            "title": "大家怎样看待“江蛤蟆是坠吼的”对于民主制度提出的批评？",
+            "id": 2670
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        },
+        {
+            "title": "如何看待朝鲜宣布改革开放？",
+            "id": 460
+        },
+        {
+            "title": "为何都钦点使用「Telegram」？和其他通讯软体（Skype，Discord，QQ，Wechat...）比起来有何优缺点？",
+            "id": 828
+        },
+        {
+            "title": "金正恩访华，坐在朝鲜一边的这个人是谁？",
+            "id": 725
+        },
+        {
+            "title": "央视记者大闹英国保守党算不算“搞大新闻”？同样是香港问题，其表现与当年教主张宝华相比熟高熟低？",
+            "id": 3096
+        },
+        {
+            "title": "大犬治下的西朝鲜是否会在将来成为威胁世界安全的军国主义国家？",
+            "id": 1667
+        },
+        {
+            "title": "为什么我国不采取对影视，游戏等的分级制度",
+            "id": 1922
+        },
+        {
+            "title": "如何看待波蘭議員認為維尼不男不女不穿內褲，是陰陽人，甚至計劃修改法律驅逐維尼？",
+            "id": 3078
+        },
+        {
+            "title": "怎样评价中国政治协商制度?",
+            "id": 2338
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-14T01:51:00.000Z",
+        "views": 201,
+        "concerns": 3
+    }
+}

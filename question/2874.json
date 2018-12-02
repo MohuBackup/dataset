@@ -1,0 +1,41 @@
+{
+    "type": "question",
+    "id": 2874,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "/Null/",
+        "body": "/Null/",
+        "author": 855,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-24T00:00:00.000Z",
+        "modifyTime": "2018-09-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2194,
+            "body": "<p>模仿爸爸不算乳滑</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-24T00:00:00.000Z",
+            "modifyTime": "2018-09-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-24T12:17:00.000Z",
+        "views": 213,
+        "concerns": 3
+    }
+}

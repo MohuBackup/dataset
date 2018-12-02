@@ -1,0 +1,107 @@
+{
+    "type": "question",
+    "id": 3256,
+    "tags": [
+        {
+            "tag-id": 10,
+            "tag-name": "知乎管理员"
+        }
+    ],
+    "detail": {
+        "title": "为什么英语有26个字母不是73个？",
+        "body": "",
+        "author": 2226,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-08T00:00:00.000Z",
+        "modifyTime": "2018-10-08T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "王73？？？？",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                },
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        },
+        {
+            "author": 868,
+            "body": "无可奉告。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "有哪些你以为不是敏感词的敏感词？",
+            "id": 482
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "英语名词的复数形式为什么要+上1个s？",
+            "id": 996
+        },
+        {
+            "title": "如何评价电影《我不是药神》？",
+            "id": 1866
+        },
+        {
+            "title": "[不是问题]以蛤文化为主题的游戏",
+            "id": 533
+        },
+        {
+            "title": "如何客观评价长者的英语水平？",
+            "id": 3058
+        },
+        {
+            "title": "如何评价搜狗输入法打出“zgdl”后首选词不是中国大陆而是自甘堕落？",
+            "id": 3924
+        },
+        {
+            "title": "如何看待Quora上小粉红飙英语膜包支持习近平第三个任期？",
+            "id": 1489
+        },
+        {
+            "title": "为什么江苏、浙江和福建缩写成「苏浙闽」而不是「江浙闽」？",
+            "id": 1079
+        },
+        {
+            "title": "怎么看这篇说习包子不是包子的文章？",
+            "id": 2753
+        },
+        {
+            "title": "如何评价7年级英语书？",
+            "id": 1858
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-08T15:28:00.000Z",
+        "views": 272,
+        "concerns": 4
+    }
+}

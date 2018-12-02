@@ -1,0 +1,54 @@
+{
+    "type": "question",
+    "id": 2691,
+    "tags": [
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "媛水解不了近渴2.0",
+        "body": "<p>彭丽媛后来回忆起这次一见钟情说：“<strong>当时我心里一动——这不就是我心目中理想的丈夫吗？人纯朴又很有思想。后来他也告诉我，和我相见不到40分钟，就认定我是他的妻子了</strong>。”</p><p>然而有一句歇后语：<strong>包米面做媛宵 ———— 捏不到一块儿</strong></p><p><br></p><p>所以，他们到底能在一起还是不能在一起呢？</p>",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-17T00:00:00.000Z",
+        "modifyTime": "2018-09-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "梦雪这种卑鄙的伎俩拆散不了我和阿彭的伟大友谊！",
+            "agree-by": [
+                {
+                    "user-id": 648,
+                    "user-name": "jiangzhuxi"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么援水解不了近渴？",
+            "id": 2651
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-17T13:03:00.000Z",
+        "views": 336,
+        "concerns": 3
+    }
+}

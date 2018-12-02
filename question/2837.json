@@ -1,0 +1,63 @@
+{
+    "type": "question",
+    "id": 2837,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "西朝鮮紅歌集",
+        "body": "<p><a href=\"https://www.youtube.com/watch?v=m_A6R13oZjU\">https://www.youtube.com/watch?v=m_A6R13oZjU</a>&nbsp;包子鋪</p><p><a href=\"https://www.youtube.com/watch?v=MxwX1lkNbGQ\">https://www.youtube.com/watch?v=MxwX1lkNbGQ</a>&nbsp;跟着你就是跟着那太阳</p><p><a href=\"https://www.youtube.com/watch?v=_qiRmcNkYXo\">https://www.youtube.com/watch?v=_qiRmcNkYXo</a>&nbsp;tg有點甜</p><p>畸形時代的產物，還有啥紅歌，歡迎大家補充~！<br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2164,
+            "body": "不知该怎么称呼你<br>\nhttps://youtu.be/F6xpKqrytDI<br>\n东方又红<br>\nhttps://youtu.be/N_3fy8_0EM0<br>\n56朵花版《大海航行靠舵手》<br>\nhttps://youtu.be/QOV2W3rGR0c",
+            "agree-by": [
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "靡靡之音",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T12:35:00.000Z",
+        "views": 187,
+        "concerns": 3
+    }
+}

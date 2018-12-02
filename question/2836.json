@@ -1,0 +1,45 @@
+{
+    "type": "question",
+    "id": 2836,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "如何刪除問題",
+        "body": "<p>如何刪除問題</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "人民就那点人，其他的都是居民",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "谁叫当初推着独轮车的农民选择了它们呢？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T12:41:00.000Z",
+        "views": 264,
+        "concerns": 2
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "type": "question",
+    "id": 3094,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "关于台湾问题",
+        "body": "大家支持湾湾以中华民国的形态独立，加入联合国么？就像朝鲜和韩国一样，同一民族不同国家",
+        "author": 1418,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-02T00:00:00.000Z",
+        "modifyTime": "2018-10-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "<p>滋瓷一个！毕竟那边是东亚第一民主国家，不能被支那毒害！</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 2341,
+            "body": "别的不说，就台湾民主基金会今年的调查，如果大陆武统，69%台湾青年人愿意参加战斗，至于大陆这边的年轻人怎么想那就不知道了，",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-02T00:35:00.000Z",
+        "views": 186,
+        "concerns": 3
+    }
+}

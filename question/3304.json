@@ -1,0 +1,120 @@
+{
+    "type": "question",
+    "id": 3304,
+    "tags": [
+        {
+            "tag-id": 353,
+            "tag-name": "媒体"
+        },
+        {
+            "tag-id": 435,
+            "tag-name": "自我审查"
+        },
+        {
+            "tag-id": 690,
+            "tag-name": "社交网络"
+        }
+    ],
+    "detail": {
+        "title": "如何看待“自我审查”？",
+        "body": "<p>&nbsp; &nbsp; &nbsp; &nbsp;审查长期存在着，现在则因“禁评”的缘故显得比以前更广泛，甚至有人认为，“当前对文化的审查和控制已达到新的极点。——（纽约时报）“&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp;对于“自我审查”一词进入公众的视野内的结果，国内的大小媒体显然“功不可没”，尽管可能是迫于压力，自我审查的确是自己所进行的，但它并非仅存于那些特殊政权下的媒体机构。&nbsp;<br></p><p>&nbsp; &nbsp; &nbsp; &nbsp;部分时候，西方国家媒体在发表某些议题时也会对着自身即将发表的议题进行思量。且事实证明，“自我审查”和“媒体乱象”是可以矛盾地做到相辅相成的，这并不难。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></p><p>&nbsp; &nbsp; &nbsp; &nbsp;“对于那些言论受到管制的国家，或者那些允许自由发表意见却要求政治正确的国家，“自我审查”成为公众的调侃用词。——（维基百科）”或许是对自我审查较为合适的描述吧。&nbsp; &nbsp; &nbsp; &nbsp;<br></p>",
+        "author": 1498,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-10T00:00:00.000Z",
+        "modifyTime": "2018-10-10T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>我还在用墙内社交媒体的时候经常自我审查，我现在能够自由地发言，很大程度上要感谢膜乎。</p><p><br></p><p>说到正题，如何看待“自我审查”呢？ 其实“自我审查”就是“思想罪”的初级阶段。</p><p>因为我国（共产党的赵国）现在的技术还达不到能检测人的脑内想法的程度，所以只能通过观察、限制人的言论自由来做到。由于长期地处在共产党的高压控制之下，人民（韭菜）们开始掌握了不使自己的言论被“和谐”的办法，这就是“自我审查”。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2052,
+                    "user-name": "ExcitingLuka"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-10T00:00:00.000Z",
+            "modifyTime": "2018-10-10T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "如图",
+            "agree-by": [
+                {
+                    "user-id": 2052,
+                    "user-name": "ExcitingLuka"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-10T21:11:00.000Z",
+        "views": 199,
+        "concerns": 4
+    }
+}

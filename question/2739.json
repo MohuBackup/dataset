@@ -1,0 +1,174 @@
+{
+    "type": "question",
+    "id": 2739,
+    "tags": [
+        {
+            "tag-id": 409,
+            "tag-name": "人性"
+        },
+        {
+            "tag-id": 152,
+            "tag-name": "生活"
+        },
+        {
+            "tag-id": 19,
+            "tag-name": "键盘政治局"
+        },
+        {
+            "tag-id": 426,
+            "tag-name": "网络"
+        }
+    ],
+    "detail": {
+        "title": "在网上营造完美人设的人在现实中都是loser吗？",
+        "body": "",
+        "author": 2294,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-20T00:00:00.000Z",
+        "modifyTime": "2018-09-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1498,
+            "body": "<p>这个“都”字不妙啊</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 1588,
+                    "user-name": "taekmin"
+                },
+                {
+                    "user-id": 1365,
+                    "user-name": "bigmogician"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "包子符合这个定律，但蛤蛤不符合。<br>\n故此定律不成立。",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 1588,
+                    "user-name": "taekmin"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": 648,
+            "body": "暗喻某面食",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>可能只代表一种追求，如果现实中不得志，不一定是自身的原因造成的，影响因素太多且许多不可控。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "不一定啦~",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 2226,
+            "body": "唉ԅ(¯ㅂ¯ԅ)",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "包子是不是看不到网上对他的评价？",
+            "id": 2345
+        },
+        {
+            "title": "是不是真的都是这样的",
+            "id": 1148
+        },
+        {
+            "title": "小粉红这种病，被现实强奸几次就好了。",
+            "id": 2263
+        },
+        {
+            "title": "中俄《北京条约》《瑷珲条约》《勘分西北界约记》《伊犁条约》是否和《中英联合声明》一样都是历史性文件，不具有现实意义，为何中国不收回外东北和外西北领土呢？",
+            "id": 3113
+        },
+        {
+            "title": "中国的年轻人是否应该关心政治？如果改变不了现实，关心政治有什么用？",
+            "id": 1715
+        },
+        {
+            "title": "反共的人都是法轮功的吗？",
+            "id": 2037
+        },
+        {
+            "title": "哪位大佬可以科普一下包子都是如何倒车的？",
+            "id": 525
+        },
+        {
+            "title": "“包九篇”指的都是哪几篇？有视频链接吗？",
+            "id": 541
+        },
+        {
+            "title": "如何看待膜乎中大多数都是政治内容，没有聊其他话题的吗？",
+            "id": 1092
+        },
+        {
+            "title": "反乌托邦小说中的情节有哪些已经变为现实？能否举几个例子？",
+            "id": 1086
+        },
+        {
+            "title": "如何评价目前的网上谣言？",
+            "id": 3229
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-20T23:16:00.000Z",
+        "views": 320,
+        "concerns": 7
+    }
+}

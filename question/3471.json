@@ -1,0 +1,53 @@
+{
+    "type": "question",
+    "id": 3471,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "怎麼刪除問題",
+        "body": "<p>如題</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-14T00:00:00.000Z",
+        "modifyTime": "2018-10-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>敢同恶犬争高下，不向包王让寸分！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "我們工廠裡進了一隻大青蛙，我該怎麼辦？",
+            "id": 1857
+        },
+        {
+            "title": "如何刪除問題？",
+            "id": 3198
+        },
+        {
+            "title": "如何刪除問題",
+            "id": 2833
+        },
+        {
+            "title": "如何刪除問題",
+            "id": 2836
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-14T09:59:00.000Z",
+        "views": 306,
+        "concerns": 3
+    }
+}

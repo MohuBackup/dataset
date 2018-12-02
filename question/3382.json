@@ -1,0 +1,105 @@
+{
+    "type": "question",
+    "id": 3382,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "什么样的话是废话？",
+        "body": "",
+        "author": 2226,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-12T00:00:00.000Z",
+        "modifyTime": "2018-10-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 879,
+            "body": "<p>金砖合作之所以得到快速发展，<strong>不仅在于找准了合作之道，关键是在于找准了合作之道</strong>。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1510,
+                    "user-name": "xu1s"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                },
+                {
+                    "user-id": 1044,
+                    "user-name": "筹光交错"
+                },
+                {
+                    "user-id": 1604,
+                    "user-name": "Alexstrasza"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 2052,
+            "body": "<p>平语近人</p><p><br></p><p>好吧，认真回答一下。以下这段问答可以算是标准的废话。</p><p><br></p><p>“云自何处冷起？峰自何处飞来？”“云自冷处冷起，峰自飞处飞来。”<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "你应该说什么样的书是废书。因为砥砺奋进的这几年牠说的话已经编了不知多少本书了。。。。。<br>\n<br>\n<br>\n<br>\n当然全送进村东头厕所当草纸了。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>萎大领袖的坠睾指示</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        },
+        {
+            "author": 648,
+            "body": "<p>PM二百五</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-12T12:24:00.000Z",
+        "views": 232,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "type": "question",
+    "id": 3272,
+    "tags": [
+        {
+            "tag-id": 800,
+            "tag-name": "工程制图"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "请问用鸭嘴笔画图的时候有什么需要注意的？",
+        "body": "<p><img src=\"/uploads/ueditor/20181009/1539056960813848.jpg\" title=\"1539056960813848.jpg\" alt=\"20061122223441146.jpg\"></p>",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-09T00:00:00.000Z",
+        "modifyTime": "2018-10-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>得了吧，一个初二的熊也压根不懂、也无法用熊掌抓住那么微小的鸭嘴的笔↑，熊掌用来tu沼气还可以。</p><p><br></p><p>抓东西最稳的还是蛤蟆的爪，能抓住任何东西，包括茶杯，保温杯盖，小纸条，能做出张牙舞爪的肢体语言，</p>",
+            "agree-by": [
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 2573,
+                    "user-name": "妙木山长者"
+                },
+                {
+                    "user-id": 2577,
+                    "user-name": "Northport"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1498,
+                    "user-name": "冴月麟"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        },
+        {
+            "author": 2573,
+            "body": "这是当年爷爷送我的全套工具，里面不仅有鸭嘴笔，还有圆规可替换成鸭嘴笔的头。用起来还是很痛苦的！",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1664,
+                    "user-name": "陈浩蓝"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>这个engineering drawing呢，我们就有几年用鸭嘴的笔，旁边一个小盒子。最痛苦的，就是鸭嘴笔把这个水弄到里面，描图的时候一下子就……然后就用刀片刮，这个就是描图最痛苦的，而且这个效率efficiency……</p><p><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2573,
+                    "user-name": "妙木山长者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "不要蘸粪，否则会满脸喷粪，十分naive",
+            "agree-by": [
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "请问除了山路麦子、倒车，包子还有还有什么公认的语录",
+            "id": 2224
+        },
+        {
+            "title": "在华莱士就餐有哪些续要注意的事项？",
+            "id": 2017
+        },
+        {
+            "title": "膜乎有哪些需要改进的地方？",
+            "id": 1108
+        },
+        {
+            "title": "请问现在的共朝末年和清朝末年有什么不同？",
+            "id": 3098
+        },
+        {
+            "title": "未来哪些事件，可以作为需要立即逃离中国的危险信号？",
+            "id": 3213
+        },
+        {
+            "title": "请问国内的红太阳号，邓碾平号，癞蛤蟆号，拉萨虎号，维尼熊号，以及国外的伊丽莎白号，卡斯特罗号，戈尔巴乔夫号，哪个更适合骑行？",
+            "id": 2365
+        },
+        {
+            "title": "我是90后，请问在我有生之年能看到墙倒吗，概率多大",
+            "id": 1173
+        },
+        {
+            "title": "请问你们谁有长者鬼畜？",
+            "id": 458
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-09T17:55:00.000Z",
+        "views": 346,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "type": "question",
+    "id": 2821,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 694,
+            "tag-name": "音乐"
+        }
+    ],
+    "detail": {
+        "title": "为什么昭和维新歌这么好听？",
+        "body": "<p>每次听都感觉浑身热血沸腾，我难道被注入了大和魂吗？</p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>你内心深处期待做维新志士投身革命，没办法忍受一直在网上打嘴仗，所以看到别人的革命有成的时候会感叹生不逢时，感慨自己虚度年华却还是壮志未酬，所以会有热血沸腾的感觉。我为什么这么了解这种心态？我就是这样的人。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                },
+                {
+                    "user-id": 1816,
+                    "user-name": "阿虚"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 1713,
+            "body": "<p>因为维新这种事情是中国人想干而办不到的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "国家主义民族主义狼奶没吐干净（暴论）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "因为中华正统在大和，在高丽，在台湾，就是不在胡化的滞纳。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "彭老师和祖英谁唱歌更好听？",
+            "id": 2328
+        },
+        {
+            "title": "如何评价鹿晗新歌 时间停了",
+            "id": 3087
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1702
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1695
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1698
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1699
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1703
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1705
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1707
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1709
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T05:35:00.000Z",
+        "views": 261,
+        "concerns": 2
+    }
+}

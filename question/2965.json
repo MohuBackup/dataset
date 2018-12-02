@@ -1,0 +1,45 @@
+{
+    "type": "question",
+    "id": 2965,
+    "tags": [
+        {
+            "tag-id": 152,
+            "tag-name": "生活"
+        }
+    ],
+    "detail": {
+        "title": "往后稍稍8",
+        "body": "呜呜呜",
+        "author": 2149,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-27T00:00:00.000Z",
+        "modifyTime": "2018-09-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "发错了，怎么删问题",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 2333,
+            "body": "<p>??&nbsp;你开始了¿</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-27T12:26:00.000Z",
+        "views": 197,
+        "concerns": 2
+    }
+}

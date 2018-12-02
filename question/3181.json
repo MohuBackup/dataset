@@ -1,0 +1,35 @@
+{
+    "type": "question",
+    "id": 3181,
+    "tags": [
+        {
+            "tag-id": 212,
+            "tag-name": "政府"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何辨别身份 以防误伤友军",
+        "body": "比如遇到钓鱼的友军",
+        "author": 2520,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-05T00:00:00.000Z",
+        "modifyTime": "2018-10-05T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何看待埃塞尔比亚总统在国内登记身份为地主？",
+            "id": 1003
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-05T13:57:00.000Z",
+        "views": 198,
+        "concerns": 1
+    }
+}

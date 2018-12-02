@@ -1,0 +1,148 @@
+{
+    "type": "question",
+    "id": 2662,
+    "tags": [
+        {
+            "tag-id": 451,
+            "tag-name": "膜法师"
+        }
+    ],
+    "detail": {
+        "title": "最近膜力衰弱，有什么补MP的好办法？",
+        "body": "<p>不知是不是因为最近总是在乳包，MP（Mogic Point）流失严重</p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-16T00:00:00.000Z",
+        "modifyTime": "2018-09-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2174,
+            "body": "<p>重温蛤三篇以寻找力量。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                },
+                {
+                    "user-id": 1792,
+                    "user-name": "hideoncaocong"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 12,
+                    "user-name": "蛤小将"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "去图书馆借长者文选挑灯夜读<br>\n尽量避免和新闻联播、日人民报、《包谈治国理政》有目光接触",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "裆燃是消耗HP(Hath Point)来为虵加上一秒来恢复啦",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>可以佩戴增加MP的装备，比如黑框眼镜和裤腰带</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+            "id": 1239
+        },
+        {
+            "title": "你在动漫或游戏里见过哪些充满膜力的场景？",
+            "id": 326
+        },
+        {
+            "title": "最近膜乎似乎有大批粉红注入啊？",
+            "id": 1447
+        },
+        {
+            "title": "65岁是学生，最近有在读书，喜欢萨格尔王乱宽衣，这样的我能交到女朋友吗？",
+            "id": 410
+        },
+        {
+            "title": "如何评价最近有关维尼患病的传闻",
+            "id": 2672
+        },
+        {
+            "title": "为什么最近这么多媒体都在作大死？",
+            "id": 3660
+        },
+        {
+            "title": "<图片>最近热热闹闹的镇江老兵维权事件最终有可能以什么样的结果收场？",
+            "id": 1674
+        },
+        {
+            "title": "这个时间点发生过什么膜力十足的事件？",
+            "id": 1465
+        },
+        {
+            "title": "扬州有哪些充满膜力的地点",
+            "id": 1216
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-17T00:51:00.000Z",
+        "views": 238,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "type": "question",
+    "id": 3053,
+    "tags": [
+        {
+            "tag-id": 316,
+            "tag-name": "品葱"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "在爱国主义革命纪念地教育基地里刷膜乎／品葱是什么样的体验？",
+        "body": "<p>如题。</p><p><br></p><p>为了防止头上三尺有国安被定位，地点就nu透露了。</p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-30T00:00:00.000Z",
+        "modifyTime": "2018-09-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>“我爱国无罪。”</p><p>我一边刷一边喊</p>",
+            "agree-by": [
+                {
+                    "user-id": 2341,
+                    "user-name": "happy"
+                },
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                },
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                },
+                {
+                    "user-id": 2194,
+                    "user-name": "野獣先輩"
+                },
+                {
+                    "user-id": 2575,
+                    "user-name": "anti"
+                },
+                {
+                    "user-id": 1014,
+                    "user-name": "Seismic"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>鉴 不 鉴 啊</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>那你真的很爱国</p>",
+            "agree-by": [
+                {
+                    "user-id": 2575,
+                    "user-name": "anti"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-07T00:00:00.000Z",
+            "modifyTime": "2018-10-07T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>太 鉴 了(确信)</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-08T00:00:00.000Z",
+            "modifyTime": "2018-10-08T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "品葱为啥访问不了了，是被tg制裁了吗？",
+            "id": 4005
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "如何评价品葱的主流价值观？",
+            "id": 892
+        },
+        {
+            "title": "如何看待菲律宾总统哪怕要饭，也要给菲律宾发展教育的行为？",
+            "id": 1400
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-08T00:14:00.000Z",
+        "views": 685,
+        "concerns": 6
+    }
+}

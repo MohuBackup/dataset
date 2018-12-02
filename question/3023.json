@@ -1,0 +1,142 @@
+{
+    "type": "question",
+    "id": 3023,
+    "tags": [],
+    "detail": {
+        "title": "中国有哪些'法律'有明文规定，但基本不执行？",
+        "body": "<p>虽然这些条文不是民众定的，但政府自己写的条款里，你遇到哪些'法律'基本不执行？<br></p><p><br></p><p>例：</p><p>劳动合同法</p><p>第九条　用人单位招用劳动者，不得扣押劳动者的居民身份证和其他证件，不得要求劳动者提供担保或者以其他名义向劳动者收取财物。</p><p><br></p><p>但实际上诸多事业单位，高校都要扣押从业职工护照等。</p><p><br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-29T00:00:00.000Z",
+        "modifyTime": "2018-09-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1441,
+            "body": "宪法",
+            "agree-by": [
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1922,
+                    "user-name": "无线寿の江"
+                },
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p style=\"text-indent: 0em;\">言论自由，游行自由，律师基本是个摆设，笑笑就好<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "外国有些国家，公司企业可以renunciate法律规定的。<br>\n中国的事业单位，高校只是renunciated了劳动合同法第九条 <br>\n（滑稽）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": 2136,
+            "body": "经过有关部门的报备以后可以游行",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "退休。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        },
+        {
+            "title": "如何看待波蘭議員認為維尼不男不女不穿內褲，是陰陽人，甚至計劃修改法律驅逐維尼？",
+            "id": 3078
+        },
+        {
+            "title": "如何评价百度贴吧中国梦吧被根据相关法律和法规暂不开放？",
+            "id": 3148
+        },
+        {
+            "title": "[图片]如何看待墨西哥总统候选人el bronco声称要改法律，把小偷的手砍断？",
+            "id": 1728
+        },
+        {
+            "title": "以《烈士保护法》为定义，国民党烈士受不受该法律保护",
+            "id": 1961
+        },
+        {
+            "title": "以后中国会不会出台法律，禁止移民到外国？",
+            "id": 3004
+        },
+        {
+            "title": "朝鲜和厉害国的律师法律制度相比较有那些优缺点？",
+            "id": 3457
+        },
+        {
+            "title": "怒斥篇里长者说到“连任也要按照香港的法律啊对不对？”时出现的微小音量音乐是手机铃声吗？",
+            "id": 1229
+        },
+        {
+            "title": "如何看待表意不明的\"颠覆国家政权罪\"在江泽民时代被写进法律?",
+            "id": 2090
+        },
+        {
+            "title": "中国要是执行君主立宪制好不好？",
+            "id": 3848
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-29T11:30:00.000Z",
+        "views": 257,
+        "concerns": 6
+    }
+}

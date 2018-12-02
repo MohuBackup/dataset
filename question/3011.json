@@ -1,0 +1,47 @@
+{
+    "type": "question",
+    "id": 3011,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "如何制作小麦大汤包？",
+        "body": "",
+        "author": 2304,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-29T00:00:00.000Z",
+        "modifyTime": "2018-09-29T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "怎样看待环球时报在今年毛泽东祭日发制作毛血旺的视频（前年发的蛋炒饭）？",
+            "id": 2596
+        },
+        {
+            "title": "膜曲是如何制作的？",
+            "id": 267
+        },
+        {
+            "title": "如何看待南京市某程序员制作翻墙软件被抓事件？",
+            "id": 331
+        },
+        {
+            "title": "如何制作腊肉大包？",
+            "id": 2749
+        },
+        {
+            "title": "“手撕鹳肉”这道菜是怎样制作出来的？",
+            "id": 8
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T20:13:00.000Z",
+        "views": 147,
+        "concerns": 1
+    }
+}

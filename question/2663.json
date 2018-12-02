@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 2663,
+    "tags": [
+        {
+            "tag-id": 3,
+            "tag-name": "长者"
+        }
+    ],
+    "detail": {
+        "title": "现代的艺术有点什么？",
+        "body": "<p>原标题：法国画家膜奈的光线透视？<br></p>",
+        "author": 673,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-16T00:00:00.000Z",
+        "modifyTime": "2018-09-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1984,
+            "body": "<p>我刚想夸奖一下膜乎终于出现专业性问题了。</p><p>结果，膜奈（微笑），嗯，膜奈。</p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1090,
+            "body": "夏威夷的尤克里里",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "大祭司膜奈早在上上个世纪就神预言，两百年后必有一膜",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "除了灭绝穆斯林，还有哪些保卫现代世俗文明的方法？",
+            "id": 2781
+        },
+        {
+            "title": "如何看待现代年轻人普遍不关心政治的现象？",
+            "id": 4095
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-16T08:11:00.000Z",
+        "views": 164,
+        "concerns": 5
+    }
+}

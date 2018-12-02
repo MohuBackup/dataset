@@ -1,0 +1,72 @@
+{
+    "type": "question",
+    "id": 2754,
+    "tags": [
+        {
+            "tag-id": 196,
+            "tag-name": "粉红"
+        },
+        {
+            "tag-id": 195,
+            "tag-name": "五毛"
+        },
+        {
+            "tag-id": 197,
+            "tag-name": "兔杂"
+        }
+    ],
+    "detail": {
+        "title": "抓不明生物上瘾了怎么办？",
+        "body": "<p>需要戒吗？</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180920/3b925e98cec1aae13c180f6cc219221f.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180920/3b925e98cec1aae13c180f6cc219221f.jpg\" class=\"img-thumbnail\" alt=\"2db4c7946cc38fd7.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180920/2563be528a603e553fa98ce771872cfd.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180920/2563be528a603e553fa98ce771872cfd.png\" class=\"img-thumbnail\" alt=\"-210bb81222fec253.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-20T00:00:00.000Z",
+        "modifyTime": "2018-09-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1488,
+            "body": "兔砸的一大可悲之处，就是始终没有认识到自己就是自己口中的屁民",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "兔杂大战日杂",
+            "agree-by": [
+                {
+                    "user-id": 1588,
+                    "user-name": "taekmin"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待表意不明的\"颠覆国家政权罪\"在江泽民时代被写进法律?",
+            "id": 2090
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-20T10:37:00.000Z",
+        "views": 167,
+        "concerns": 2
+    }
+}

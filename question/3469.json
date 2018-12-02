@@ -1,0 +1,153 @@
+{
+    "type": "question",
+    "id": 3469,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "河南某男子在微信群發佈諷刺言論被行拘14天",
+        "body": "<p>昨日，河南一男子在其微信群中称：“大家应该把自己的家业送给共产党，否则你就是政治觉悟不高，走资派，背离国家和人民，党要对你进行教育，把你送到新疆再教育集中营进行马克思主义教育，谁不服试试。”<br>\n被公安局网监大队发现，并处14日行政拘留。</p><p>https://pbs.twimg.com/media/DpX0CEpU8AA2Ce_.jpg</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-14T00:00:00.000Z",
+        "modifyTime": "2018-10-14T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>泄露国家机密，剧透罪。</p><p>正经点说，就是骂不行，反讽不行，赞也不行。新疆集中营是政治敏感关键字。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 2454,
+                    "user-name": "Starlord"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2174,
+                    "user-name": "Naiiiiiive"
+                },
+                {
+                    "user-id": 2314,
+                    "user-name": "timtam1"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "唉，天朝屁民真是生的计划，死的随机！各地不断有网友因言获罪的消息传来，同时某重度乳包论坛上还有人大惊小怪\"为什么你们都要匿名发言？\"",
+            "agree-by": [
+                {
+                    "user-id": 1705,
+                    "user-name": "kotri_lv146"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 2283,
+                    "user-name": "nikrim"
+                },
+                {
+                    "user-id": 2215,
+                    "user-name": "60Minutes"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 3,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>泄漏国家机密，才行拘十四天？太轻了！炮决，请！</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2174,
+                    "user-name": "Naiiiiiive"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>谁不服试试！</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 2454,
+            "body": "10号我在空间发了青天白日满地红旗，共狗大概是懒得理我",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "author": 2582,
+            "body": "<p>散播谣言，胡说八道，不抓留着过年？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-10-14T00:00:00.000Z",
+            "modifyTime": "2018-10-14T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待西安网友焚烧古兰经被行拘？",
+            "id": 3849
+        },
+        {
+            "title": "为什么这个黑框男子上面写着“xu”？",
+            "id": 640
+        },
+        {
+            "title": "如何看待男子造谣山东矿难9人死亡被拘，后来官方通报21人遇难？",
+            "id": 3990
+        },
+        {
+            "title": "如何评价一男子出售VPN获刑？",
+            "id": 3316
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-14T09:53:00.000Z",
+        "views": 365,
+        "concerns": 5
+    }
+}

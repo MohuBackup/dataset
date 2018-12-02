@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 2956,
+    "tags": [
+        {
+            "tag-id": 760,
+            "tag-name": "新闻"
+        }
+    ],
+    "detail": {
+        "title": "怎么删除自己提出的问题？",
+        "body": "<p>弄错了想删除发现找不到地方</p>",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-27T00:00:00.000Z",
+        "modifyTime": "2018-09-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "你可以改成别的问题。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 1020,
+            "body": "<p>进数据库删</p><p>delete from Sys_Question&nbsp;</p><p>where Sys_QuestionID = 'x'</p><p>--x指你的问题ID，此ID在你的URL后面那几位数字，比如这个是2956</p><p><br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": " 如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
+            "id": 599
+        },
+        {
+            "title": "如何评价江泽民贪污问题！",
+            "id": 743
+        },
+        {
+            "title": "有关马克思的问题，不要因人废言",
+            "id": 3734
+        },
+        {
+            "title": "关于膜乎的言论自由问题",
+            "id": 2386
+        },
+        {
+            "title": "如何评价长者时期中国丢掉海参崴、伯力、库页岛等地主权的问题",
+            "id": 1251
+        },
+        {
+            "title": "如何看待新疆集中营问题",
+            "id": 3067
+        },
+        {
+            "title": "大家怎样看待“江蛤蟆是坠吼的”对于民主制度提出的批评？",
+            "id": 2670
+        },
+        {
+            "title": "这是一个测试问题",
+            "id": 1
+        },
+        {
+            "title": "央视记者大闹英国保守党算不算“搞大新闻”？同样是香港问题，其表现与当年教主张宝华相比熟高熟低？",
+            "id": 3096
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-27T04:34:00.000Z",
+        "views": 146,
+        "concerns": 3
+    }
+}

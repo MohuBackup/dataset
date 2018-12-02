@@ -1,0 +1,89 @@
+{
+    "type": "question",
+    "id": 2999,
+    "tags": [
+        {
+            "tag-id": 212,
+            "tag-name": "政府"
+        }
+    ],
+    "detail": {
+        "title": "如何逃过外汇管制向境外转移资产？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-28T00:00:00.000Z",
+        "modifyTime": "2018-09-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1510,
+            "body": "<p>1) 地下钱庄</p><p>2) 境内信用卡境外套现</p><p>3) 虚拟货币</p>",
+            "agree-by": [
+                {
+                    "user-id": 24,
+                    "user-name": "连任吼不吼呀"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>首先你得有个姐夫</p>",
+            "agree-by": [
+                {
+                    "user-id": 1536,
+                    "user-name": "DengJiagui"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>用人民币结算的方式购买虚拟货币，然后再把虚拟货币卖掉，用美元结算的方式。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待淘寶全面嚴查境外出版物銷售？",
+            "id": 3860
+        },
+        {
+            "title": "如何评价诸如油管等境外网站评论区的无脑政治评论？（包括粉红、分裂等）",
+            "id": 2415
+        },
+        {
+            "title": "历史上的同盟会等革命党算不算境外反动势力？",
+            "id": 1117
+        },
+        {
+            "title": "我是邓家贵，我在境外洗黑钱被人发现了，怎么办？",
+            "id": 1882
+        },
+        {
+            "title": "如何防止境外中文问答网站被续？",
+            "id": 4086
+        },
+        {
+            "title": "如何评价两90后任资产千亿大型国有企业董事？",
+            "id": 4208
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T10:47:00.000Z",
+        "views": 596,
+        "concerns": 4
+    }
+}

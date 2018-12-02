@@ -1,0 +1,121 @@
+{
+    "type": "question",
+    "id": 2957,
+    "tags": [
+        {
+            "tag-id": 348,
+            "tag-name": "日本"
+        },
+        {
+            "tag-id": 573,
+            "tag-name": "中共"
+        }
+    ],
+    "detail": {
+        "title": "钓鱼岛属于中国吗？",
+        "body": "中共炒作钓鱼岛问题，但是钓鱼岛真的属于中国吗？明显是日本的领土！",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-27T00:00:00.000Z",
+        "modifyTime": "2018-09-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "日本在上面都好几十年了，突然插足说不是别人的",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 2333,
+            "body": "<p>太君里面请<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 2115,
+            "body": "<p><a href=\"https://zh.wikipedia.org/zh/%E9%87%A3%E9%AD%9A%E8%87%BA\" target=\"_blank\" title=\"钓鱼岛 - 维基百科\">https://zh.wikipedia.org/zh/%E9%87%A3%E9%AD%9A%E8%87%BA</a><br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 2254,
+            "body": "精日分子",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        },
+        {
+            "title": "毛主席在位时，和平年代造成8000w中国人非正常死亡，为什么现在广大中国百姓依然怀念敬仰他呢",
+            "id": 2001
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-27T12:30:00.000Z",
+        "views": 344,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "type": "question",
+    "id": 2981,
+    "tags": [
+        {
+            "tag-id": 156,
+            "tag-name": "知识水平"
+        }
+    ],
+    "detail": {
+        "title": "大家青年时代都真正读过哪些书？",
+        "body": "",
+        "author": 1888,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-28T00:00:00.000Z",
+        "modifyTime": "2018-09-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2189,
+            "body": "《他改变了中国》",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "《习近平谈治国理政》",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "萨格尔王传，已通读并背诵全文。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 1561,
+            "body": "《小熊維尼歷險記》",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2254,
+            "body": "《他改变了中国》我高三的时候在京东上买的，看完全文了，感觉长者确实是个有真才实学的人，而且书中对六四时间和华莱士访谈的描写也很详细",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2410,
+            "body": "余秋雨全套??",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "你们更喜欢哪个时代?",
+            "id": 1959
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        },
+        {
+            "title": "求大家推荐一款精准的狙击枪，我“精准扶贫”要用的",
+            "id": 2015
+        },
+        {
+            "title": "大家希不希望祖国强大？",
+            "id": 3367
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T04:28:00.000Z",
+        "views": 258,
+        "concerns": 6
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "type": "question",
+    "id": 2666,
+    "tags": [
+        {
+            "tag-id": 724,
+            "tag-name": "新闻自由"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "如何评价包子的这个新闻奖？",
+        "body": "<p><img src=\"/uploads/ueditor/20180916/1537092237512862.jpg\" title=\"1537092237512862.jpg\" alt=\"IMG_20180916_175744.jpg\"></p>",
+        "author": 2174,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-16T00:00:00.000Z",
+        "modifyTime": "2018-09-16T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2115,
+            "body": "<p><img src=\"/uploads/ueditor/20180916/1537096835529028.png\" title=\"1537096835529028.png\" alt=\"01.png\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 918,
+                    "user-name": "mohaha"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>名副其实“习闻”</p>",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>评价如题图所示</p>",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1888,
+            "body": "<p>庆丰：我感觉你们新闻界还要学习一个，但我看你们这样热情啊，这63个一等奖我全拿了也不好，这样吧，我就先拿9个谦虚一下</p><p><img src=\"/uploads/ueditor/20180916/1537105310968788.jpg\" title=\"1537105310968788.jpg\" alt=\"0.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "新闻自由是不可能新闻自由的，这辈子都不可能新闻自由的。贪赃枉法干太多，只能自欺欺人才能维持统治这样子",
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-16T00:00:00.000Z",
+            "modifyTime": "2018-09-16T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价习近平之歌",
+            "id": 712
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "如何评价宪法认为中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由？",
+            "id": 523
+        },
+        {
+            "title": "如何评价刁大犬画像遭人泼脏水？",
+            "id": 1820
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价王维林（螳臂当车的歹徒）？",
+            "id": 196
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-16T13:42:00.000Z",
+        "views": 327,
+        "concerns": 7
+    }
+}

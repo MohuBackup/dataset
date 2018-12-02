@@ -1,0 +1,80 @@
+{
+    "type": "question",
+    "id": 3859,
+    "tags": [
+        {
+            "tag-id": 512,
+            "tag-name": "二次元"
+        },
+        {
+            "tag-id": 348,
+            "tag-name": "日本"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "各种本子的汉化组们是怎么盈利的？",
+        "body": "<p><img src=\"/uploads/ueditor/20181025/1540466391746520.jpg\" title=\"1540466391746520.jpg\" alt=\"S81025-19185806.jpg\"></p>",
+        "author": 1393,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-25T00:00:00.000Z",
+        "modifyTime": "2018-10-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p>汉化组不盈利的。汉化这个事本来就不难，懂日语的翻译一下p个图就行了，谁上谁都行，本来就不值得盈利。并且本子是18+的，也没有合法的盈利方式。</p><p>不过那些翻译galgame的就很感人了hhh<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 2733,
+                    "user-name": "江沢"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                },
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 2136,
+            "body": "<p>大多数都是无偿的，你可以支付宝投食然后出新汉化会发你邮箱。小部分比较小众的是有偿汉化的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "知乎大V有哪些吸粉盈利的套路？",
+            "id": 690
+        },
+        {
+            "title": "膜乎是如何盈利的？",
+            "id": 3536
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-25T13:01:00.000Z",
+        "views": 219,
+        "concerns": 3
+    }
+}

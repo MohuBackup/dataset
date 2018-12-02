@@ -1,0 +1,107 @@
+{
+    "type": "question",
+    "id": 3740,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 364,
+            "tag-name": "维尼"
+        },
+        {
+            "tag-id": 270,
+            "tag-name": "电影"
+        }
+    ],
+    "detail": {
+        "title": "这张GIF图是源自哪部电影？",
+        "body": "<p><img src=\"/uploads/ueditor/20181021/1540124447784392.jpg\" title=\"1540124447784392.jpg\" alt=\"ce3d860f4bfbfbeda2682b7b75f0f736afc31f16.jpg\"></p>",
+        "author": 2645,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-21T00:00:00.000Z",
+        "modifyTime": "2018-10-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p><a href=\"/question/2426\" target=\"_self\" title=\"\">变身超人</a><br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1754,
+                    "user-name": "今日來看蛤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-21T00:00:00.000Z",
+            "modifyTime": "2018-10-21T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "《我恨维尼》",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-21T00:00:00.000Z",
+            "modifyTime": "2018-10-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何评价电影《变身超人》",
+            "id": 2426
+        },
+        {
+            "title": "如何评价电影《厉害了我的国》？",
+            "id": 147
+        },
+        {
+            "title": "如何看待这张图？镇反前兆？",
+            "id": 2647
+        },
+        {
+            "title": "如何评价这张画像，在未来会取代天安门那张腊肉吗",
+            "id": 2828
+        },
+        {
+            "title": "如何看待电影《挚友维尼》被禁止上映，然而《帕丁顿熊》没被禁？",
+            "id": 2227
+        },
+        {
+            "title": "如何评价电影《我不是药神》？",
+            "id": 1866
+        },
+        {
+            "title": "有哪些在中国大陆被禁止的电影/电视剧/电视节目？",
+            "id": 1533
+        },
+        {
+            "title": "如何评价这张照片？",
+            "id": 2660
+        },
+        {
+            "title": "如何评价这张图片",
+            "id": 1720
+        },
+        {
+            "title": "如何评价这张图片？",
+            "id": 2824
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-21T14:16:00.000Z",
+        "views": 332,
+        "concerns": 3
+    }
+}

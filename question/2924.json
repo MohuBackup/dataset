@@ -1,0 +1,35 @@
+{
+    "type": "question",
+    "id": 2924,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "趙國的車牌真的一言難盡",
+        "body": "<p><img src=\"/uploads/ueditor/20180926/1537946057697552.jpeg\" title=\"1537946057697552.jpeg\" alt=\"u=1388303012,429829510&amp;fm=173&amp;s=01C0E7A7C64034EEE385E63E03009053&amp;w=640&amp;h=779&amp;img.JPEG\"></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-26T00:00:00.000Z",
+        "modifyTime": "2018-09-26T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "如何評價趙國威脅澳大利亞，不要和美國站在一起，不然就面臨經濟制裁？",
+            "id": 3522
+        },
+        {
+            "title": "趙國是否趨向于《1984》的情節",
+            "id": 2816
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-26T07:14:00.000Z",
+        "views": 178,
+        "concerns": 1
+    }
+}

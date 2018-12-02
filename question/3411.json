@@ -1,0 +1,50 @@
+{
+    "type": "question",
+    "id": 3411,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "怎样tū沼气池？",
+        "body": "",
+        "author": 2633,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-12T00:00:00.000Z",
+        "modifyTime": "2018-10-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2304,
+            "body": "<p>多在脸上喷喷粪就行了，或者制作腊肉粪便馅大包！</p>",
+            "agree-by": [
+                {
+                    "user-id": 2633,
+                    "user-name": "ximingze"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 1519,
+            "body": "用嘴对着沼气池的导气管吹",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-10-13T10:22:00.000Z",
+        "views": 241,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 3388,
+    "tags": [
+        {
+            "tag-id": 304,
+            "tag-name": "中国共产党"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "应该禁止赌博吗？",
+        "body": "小赌怡情，大赌发财！",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-12T00:00:00.000Z",
+        "modifyTime": "2018-10-12T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>赌什么博，是博彩（真面目に</p>",
+            "agree-by": [
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-12T00:00:00.000Z",
+            "modifyTime": "2018-10-12T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "客车司机连续疲劳驾驶不换班，作为乘客应该怎么做？",
+            "id": 476
+        },
+        {
+            "title": "有哪些在大陆被禁止的歌曲？",
+            "id": 1531
+        },
+        {
+            "title": "汽车倒车应该挂哪个档？",
+            "id": 226
+        },
+        {
+            "title": "我想我应该去当教授，应该怎么办？",
+            "id": 134
+        },
+        {
+            "title": "民主化后的中国应该定都在哪里？",
+            "id": 3921
+        },
+        {
+            "title": "蛤丝应该爱国吗？",
+            "id": 1027
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-12T05:26:00.000Z",
+        "views": 81,
+        "concerns": 2
+    }
+}

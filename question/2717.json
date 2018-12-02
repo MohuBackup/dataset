@@ -1,0 +1,58 @@
+{
+    "type": "question",
+    "id": 2717,
+    "tags": [
+        {
+            "tag-id": 718,
+            "tag-name": "文艺"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何寻找笑风生剧本？",
+        "body": "<p>本人已制作《回二院》《大硬点》京剧片段。每次制作时都为剧本头疼。请问如何进一步寻找笑风生剧本？</p>",
+        "author": 2279,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-19T00:00:00.000Z",
+        "modifyTime": "2018-09-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2164,
+            "body": "b站搜中国京剧音配像系列",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-19T00:00:00.000Z",
+            "modifyTime": "2018-09-19T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "求《大硬点》《回二院》《笑风生》剧本全文",
+            "id": 1219
+        },
+        {
+            "title": "如何寻找新的文膜素材？",
+            "id": 276
+        },
+        {
+            "title": "寻找同城粉丝，我是大连的",
+            "id": 133
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-18T21:35:00.000Z",
+        "views": 135,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "type": "question",
+    "id": 3118,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "如何理解“欲戴王冠，必承其重”",
+        "body": "",
+        "author": 2189,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-03T00:00:00.000Z",
+        "modifyTime": "2018-10-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1488,
+            "body": "戴二百斤王冠，连任10届我不摘的",
+            "agree-by": [
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                },
+                {
+                    "user-id": 2421,
+                    "user-name": "Undead_Yang"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                },
+                {
+                    "user-id": 2047,
+                    "user-name": "boxilai"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-03T00:00:00.000Z",
+            "modifyTime": "2018-10-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何理解习在博鳌论坛的演讲中说的“中国不追求贸易逆差”？",
+            "id": 381
+        },
+        {
+            "title": "如何理解中国梦",
+            "id": 561
+        },
+        {
+            "title": "如何理解这道高深的物理问题？",
+            "id": 317
+        },
+        {
+            "title": "如何理解“君生吾未生，我死君未老”这句诗词？",
+            "id": 273
+        },
+        {
+            "title": "如何理解民族团结大于天",
+            "id": 999
+        },
+        {
+            "title": "如何理解“土包子”这个三字词？",
+            "id": 3297
+        },
+        {
+            "title": "如何理解社会主义核心价值观？",
+            "id": 607
+        },
+        {
+            "title": "“江上风流胜习家”这一句应该怎么理解？",
+            "id": 456
+        },
+        {
+            "title": "如何理解《蛏经》终末章“坠吼的审判”？",
+            "id": 3265
+        },
+        {
+            "title": "如何理解好汉歌中“路见不平一声吼啊”这句歌词？",
+            "id": 3675
+        },
+        {
+            "title": "如何理解腊肉说的“我在女人的体内清洗自己”？",
+            "id": 532
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-03T01:37:00.000Z",
+        "views": 260,
+        "concerns": 2
+    }
+}

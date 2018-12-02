@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 3103,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "如何看待新中国成立69周年？",
+        "body": "rt",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-02T00:00:00.000Z",
+        "modifyTime": "2018-10-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 673,
+            "body": "<p>69不是某个姿势么</p>",
+            "agree-by": [
+                {
+                    "user-id": 2387,
+                    "user-name": "ajax"
+                },
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 156,
+                    "user-name": "GD_Slime"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 2115,
+            "body": "<p><strong>我就什么话也不说,这是坠吼的!</strong></p><p><strong>这两张好图,足以说明一切!</strong><br></p><p><img src=\"/uploads/ueditor/20181002/1538458103387745.png\" title=\"1538458103387745.png\" alt=\"01.png\"></p><p><img src=\"/uploads/ueditor/20181002/1538458110461831.png\" title=\"1538458110461831.png\" alt=\"02.png\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1196,
+                    "user-name": "jizhou"
+                },
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        },
+        {
+            "author": 2333,
+            "body": "<p><img src=\"/uploads/ueditor/20181002/1538463422442383.jpg\" title=\"1538463422442383.jpg\" alt=\"DoZRntQUwAACsVO.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-02T06:58:00.000Z",
+        "views": 312,
+        "concerns": 4
+    }
+}

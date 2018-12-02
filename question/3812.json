@@ -1,0 +1,172 @@
+{
+    "type": "question",
+    "id": 3812,
+    "tags": [
+        {
+            "tag-id": 32,
+            "tag-name": "知乎用户"
+        },
+        {
+            "tag-id": 25,
+            "tag-name": "知乎小管家"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        },
+        {
+            "tag-id": 10,
+            "tag-name": "知乎管理员"
+        }
+    ],
+    "detail": {
+        "title": "如何看待知乎上被秒删回答，无备份，且无理由禁言某些正常用户账号的异常行为？",
+        "body": "<p>最近在知乎上看到有些用户抱怨，说自己好不容易打出来的答案，刚提交就被秒删了。而且没有任何理由，也<strong>没有备份</strong>，同时账号也被<strong>禁言</strong>了，理由是账号有异常行为，需要<strong>申请解封</strong>。</p><p><br></p><p>据这些用户描述，他们的账号都是正常手机注册的普通账号，没有任何广告推广和垃圾邮件行为，所以知乎管理员在后台莫名封禁这些账号是不是有什么猫腻和隐情？这反映了如今知乎出现了什么严重的问题？</p><p><br></p><p><a href=\"https://www.zhihu.com/question/267813399/answer/381441661\">https://www.zhihu.com/question/267813399/answer/381441661</a> </p><p><br></p><p><a href=\"https://www.v2ex.com/t/378411\">https://www.v2ex.com/t/378411</a> </p><p><br></p><p><br></p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-24T00:00:00.000Z",
+        "modifyTime": "2018-10-24T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1705,
+            "body": "<p>这时候就需要把答案预先复制好，来膜乎再回答一次，这样就不会被删了<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1020,
+                    "user-name": "江军"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 356,
+                    "user-name": "回忆丶给了笱"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        },
+        {
+            "author": 2194,
+            "body": "<p>在异常的国家发生什么异常的事情都不奇怪</p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "所以说墙里都一个鸟样啦，知乎的倒行逆施必然促使有识之士流亡墙外品葱膜乎",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>没有收到邮件备份吗？那很严重</p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 2356,
+                    "user-name": "霍格沃兹魔法师"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何评价知乎？",
+            "id": 1122
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T22:36:00.000Z",
+        "views": 182,
+        "concerns": 7
+    }
+}

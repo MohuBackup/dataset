@@ -1,0 +1,87 @@
+{
+    "type": "question",
+    "id": 3377,
+    "tags": [
+        {
+            "tag-id": 6,
+            "tag-name": "小熊维尼"
+        },
+        {
+            "tag-id": 83,
+            "tag-name": "庆丰包子铺"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 144,
+            "tag-name": "习近平"
+        },
+        {
+            "tag-id": 95,
+            "tag-name": "倒车"
+        }
+    ],
+    "detail": {
+        "title": "那位返祖归宗，相貌如豚之人何时驾崩？诸位观天象可否得知？",
+        "body": "<p>始皇腊肉亡前天坠陨石<img src=\"/uploads/ueditor/20181011/1539267794917249.png\" title=\"1539267794917249.png\" alt=\"044.PNG\"></p>",
+        "author": 2571,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-11T00:00:00.000Z",
+        "modifyTime": "2018-10-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "我会让坦克倒车。",
+            "agree-by": [
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "不会改变结局的拉杆有存在的必要吗（半恼）",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价中国历代领导人及其他官员的性格和相貌？",
+            "id": 702
+        },
+        {
+            "title": "轮子制造过哪些假新闻？可否举例？",
+            "id": 618
+        },
+        {
+            "title": "习大犬引用辛弃疾名句自取其辱可否被列为“包十篇”？",
+            "id": 1900
+        },
+        {
+            "title": "从沙特记者被杀这件事看来，特朗普是不是重利轻义之人？",
+            "id": 4055
+        },
+        {
+            "title": "膜乎大佬可否推荐一款电脑翻墙软件",
+            "id": 2704
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-11T14:41:00.000Z",
+        "views": 268,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "type": "question",
+    "id": 2718,
+    "tags": [
+        {
+            "tag-id": 378,
+            "tag-name": "娱乐"
+        }
+    ],
+    "detail": {
+        "title": "e站的使用方法？",
+        "body": "<p>窝不太常去 比较naive 想听听大家都是怎么用的。。。</p>",
+        "author": 898,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-19T00:00:00.000Z",
+        "modifyTime": "2018-09-19T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1713,
+            "body": "<p>墙外表示直接搜就行了</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "谁能告诉我e站的网址",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": 738,
+            "body": "https://media.weibo.cn/article?id=2309404251892615100433<br>\n可以看下。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": 2293,
+            "body": "e-heitai.org 墙外可以直接发链接，不用谢我",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": 1703,
+            "body": "一直在用客户端 觉得网页版有点麻烦",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-22T00:00:00.000Z",
+            "modifyTime": "2018-09-22T00:00:00.000Z"
+        },
+        {
+            "author": 2290,
+            "body": "<p>如果要上里站，chrome 和火狐可以装sad panda，safari可以直接打开不知道为什么...不过想进里站还需要一个注册满一个月的账号</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-22T17:26:00.000Z",
+        "views": 511,
+        "concerns": 6
+    }
+}

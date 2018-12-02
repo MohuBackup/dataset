@@ -1,0 +1,136 @@
+{
+    "type": "question",
+    "id": 3069,
+    "tags": [
+        {
+            "tag-id": 306,
+            "tag-name": "自由"
+        },
+        {
+            "tag-id": 584,
+            "tag-name": "未来"
+        },
+        {
+            "tag-id": 694,
+            "tag-name": "音乐"
+        }
+    ],
+    "detail": {
+        "title": "为什么Do You Hear the People Sing?会听得我泪流满面？",
+        "body": "",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-30T00:00:00.000Z",
+        "modifyTime": "2018-09-30T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>这是你对于祖国墙大的一种表达。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 2189,
+                    "user-name": "嘻嘻"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 295,
+                    "user-name": "邓小平"
+                },
+                {
+                    "user-id": 1862,
+                    "user-name": "Rguys"
+                },
+                {
+                    "user-id": 1748,
+                    "user-name": "Molinliangke"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2063,
+                    "user-name": "德兰尊蛤者"
+                },
+                {
+                    "user-id": 2215,
+                    "user-name": "60Minutes"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "author": 2189,
+            "body": "我听完也感觉说不出的难受。我想一方面是这首歌的歌词和曲调确实极富感染力，另一方面联想到我们自己的情况，确实会产生很大共鸣",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1748,
+                    "user-name": "Molinliangke"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "太监看到别人的性生活如此美满，留下了羡慕嫉妒恨的眼泪，旁边，太监总管挥起了手中的鞭子。。。。",
+            "agree-by": [
+                {
+                    "user-id": 1723,
+                    "user-name": "江涛平"
+                },
+                {
+                    "user-id": 1980,
+                    "user-name": "伟人xdd万岁"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-01T00:00:00.000Z",
+            "modifyTime": "2018-10-01T00:00:00.000Z"
+        },
+        {
+            "author": 295,
+            "body": "能哭死董卓否？",
+            "agree-by": [
+                {
+                    "user-id": 1748,
+                    "user-name": "Molinliangke"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-01T00:00:00.000Z",
+            "modifyTime": "2018-10-01T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "[网易云音乐备份] 上海文化广场剧院演出《悲惨世界》结束后，观众合唱《Do you hear the people sing》",
+            "id": 2910
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-01T08:35:00.000Z",
+        "views": 311,
+        "concerns": 7
+    }
+}

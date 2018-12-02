@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 3796,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 836,
+            "tag-name": "广告"
+        }
+    ],
+    "detail": {
+        "title": "沪民党靠广告建国起势了？",
+        "body": "<p style=\"text-align: center;\"><img src=\"/uploads/ueditor/20181023/1540276733947289.jpg\" title=\"1540276733947289.jpg\" alt=\"7ade1fb12aec0da4.jpg\"></p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-23T00:00:00.000Z",
+        "modifyTime": "2018-10-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>广告建国！造反创新！</p>",
+            "agree-by": [
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价苹果禁止他人评论自己的广告？",
+            "id": 3070
+        },
+        {
+            "title": "华人在中国之外独立建国，中国政府将怎么表态？",
+            "id": 479
+        },
+        {
+            "title": "如何看待这些小广告",
+            "id": 1875
+        },
+        {
+            "title": "向中国政府申请成立江泽民党，会不会被逮捕？",
+            "id": 2313
+        },
+        {
+            "title": "如果中国自1949年建国起就像一样正常的国家一样开放、民主、自由，现在应该是世界第一强国了吧？",
+            "id": 1825
+        },
+        {
+            "title": "如何看待知乎通过禁止旧版应用浏览图片来强制用户更新为有大量广告的新版本？",
+            "id": 605
+        },
+        {
+            "title": "建国前后的毛区别在哪",
+            "id": 730
+        },
+        {
+            "title": "［图片］如何评价江西财经大学的这篇海外招生广告？",
+            "id": 1934
+        },
+        {
+            "title": "为什么中国梦作为宣传广告没问题，举着牌子上街宣传就显得滑稽可笑了呢？",
+            "id": 3863
+        },
+        {
+            "title": "如何评价井柏然出演的『中国梦』广告？",
+            "id": 1203
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T16:33:00.000Z",
+        "views": 327,
+        "concerns": 0
+    }
+}

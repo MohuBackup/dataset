@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 2832,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "枸杞泡水的时候加蜂蜜是一种什么样的体验",
+        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180923/4445918c6555daa67e63be89da10d5ea.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180923/4445918c6555daa67e63be89da10d5ea.jpg\" class=\"img-thumbnail\" alt=\"f5f781dae2a04a898219ec6ab553b95b.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180923/1a91df5166ede54d1ed0c805b636bbb6.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180923/1a91df5166ede54d1ed0c805b636bbb6.jpg\" class=\"img-thumbnail\" alt=\"mmexport1537689317332.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 1141,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1578,
+            "body": "<p>喝一口，满嘴江湖习气</p>",
+            "agree-by": [
+                {
+                    "user-id": 1141,
+                    "user-name": "图样"
+                },
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "友情提示，蜂蜜是管制物资，皇家特供，您疑似犯投机倒把罪，请迅速去派出所自首",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>枸杞有延年益寿功效，但是加了蜂蜜会变年轻</p>",
+            "agree-by": [
+                {
+                    "user-id": 2040,
+                    "user-name": "FlappyHath"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "上课看膜乎是怎样的体验?",
+            "id": 817
+        },
+        {
+            "title": "当小粉红是怎样一种体验？",
+            "id": 1302
+        },
+        {
+            "title": "驾鹳西去是一种怎样的体验？",
+            "id": 108
+        },
+        {
+            "title": "阅读《萨格尔王传》是一种怎样的体验？",
+            "id": 148
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T10:10:00.000Z",
+        "views": 197,
+        "concerns": 4
+    }
+}

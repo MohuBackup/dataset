@@ -1,0 +1,110 @@
+{
+    "type": "question",
+    "id": 2894,
+    "tags": [
+        {
+            "tag-id": 784,
+            "tag-name": "洋文吼的"
+        },
+        {
+            "tag-id": 112,
+            "tag-name": "膜"
+        },
+        {
+            "tag-id": 132,
+            "tag-name": "文膜"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 78,
+            "tag-name": "膜法"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "你们听过坠好听的外文演讲是哪几篇？",
+        "body": "<p>外文演讲<br></p><p>镜像问题<a href=\"/question/1702\" target=\"_blank\" title=\"\">你们听过的最好听的外文歌是哪几首？</a></p>",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-25T00:00:00.000Z",
+        "modifyTime": "2018-09-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "虵的俄语演讲",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": 2039,
+            "body": "Gettysburg Address",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价美国副总统彭斯在哈德逊研究院发表的对白宫中国政策的演讲？",
+            "id": 3168
+        },
+        {
+            "title": "如何理解习在博鳌论坛的演讲中说的“中国不追求贸易逆差”？",
+            "id": 381
+        },
+        {
+            "title": "彭老师和祖英谁唱歌更好听？",
+            "id": 2328
+        },
+        {
+            "title": "“包九篇”指的都是哪几篇？有视频链接吗？",
+            "id": 541
+        },
+        {
+            "title": "如何评价阿道夫·希特勒的演讲？",
+            "id": 1950
+        },
+        {
+            "title": "如何看待YouTube川普直播演讲过程中被土共黑掉？",
+            "id": 3803
+        },
+        {
+            "title": "如何评价赵思运同志因发表要学生有道义担当的演讲而遭到处分？",
+            "id": 3458
+        },
+        {
+            "title": "如何评价演讲《膜的新世界》",
+            "id": 2679
+        },
+        {
+            "title": "你们听过的最好听的外文歌是哪几首？",
+            "id": 1702
+        },
+        {
+            "title": "“30岁以下可以洗洗睡了”？如何评价这段演讲？",
+            "id": 2380
+        },
+        {
+            "title": "习近平的演讲到底激情在哪里？",
+            "id": 3409
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-25T09:47:00.000Z",
+        "views": 208,
+        "concerns": 3
+    }
+}

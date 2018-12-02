@@ -1,0 +1,140 @@
+{
+    "type": "question",
+    "id": 2942,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "有人支持毛新宇同志吗？",
+        "body": "<p>我就支持尊敬的<strong>毛新宇</strong>委员长同志！请问大家支持他吗？</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-26T00:00:00.000Z",
+        "modifyTime": "2018-09-26T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 915,
+            "body": "<p>这个毛孙也许可以拿来做种花家的吉祥物……</p>",
+            "agree-by": [
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-26T00:00:00.000Z",
+            "modifyTime": "2018-09-26T00:00:00.000Z"
+        },
+        {
+            "author": 430,
+            "body": "裆燃啦，他来领导中国那就直接是穿越时空了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-26T00:00:00.000Z",
+            "modifyTime": "2018-09-26T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>不滋辞，理由：长得不好看</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-26T00:00:00.000Z",
+            "modifyTime": "2018-09-26T00:00:00.000Z"
+        },
+        {
+            "author": 1441,
+            "body": "不是已经死在朝鲜了么",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 1527,
+            "body": "<p>那画面不敢想象，要犯急性尴尬症</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "看长相和言谈，可以当个君主立宪制元首了。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>不滋磁</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-27T00:00:00.000Z",
+            "modifyTime": "2018-09-27T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "支持少数民族地区独立吗",
+            "id": 994
+        },
+        {
+            "title": "如何评价「顾客买包子多付14万」？这是不是在暗中支持习近平？",
+            "id": 710
+        },
+        {
+            "title": "台灣已經解放惹！統促黨同志辦國慶慶典只被舉牌警告，毫髮無傷，爽歪歪",
+            "id": 3822
+        },
+        {
+            "title": "膜乎的反贼好像越来越多了？各种支持桂枝解体的言论频出",
+            "id": 3243
+        },
+        {
+            "title": "大家对大一统持怎样的看法？是否支持各地自治（甚至独立）？",
+            "id": 3172
+        },
+        {
+            "title": "大家会拥护毛新宇主席 把习近平这个叛徒工贼内奸赶下台吗？",
+            "id": 3024
+        },
+        {
+            "title": "为何会有人支持新疆集中营模式？",
+            "id": 3735
+        },
+        {
+            "title": "实名支持围城！红卫兵们，请不要用小号伤害我们！",
+            "id": 1448
+        },
+        {
+            "title": "现在支持LGBT和反对LGBT哪个是政治正确？",
+            "id": 887
+        },
+        {
+            "title": "各位同志现在来讨论一下你们是左派hath还是右派hath",
+            "id": 1963
+        },
+        {
+            "title": "问社区内的爱党人士，如果你们生于清末或民国，你们是否也会和现在一样无条件支持政府？",
+            "id": 1246
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-27T00:34:00.000Z",
+        "views": 484,
+        "concerns": 8
+    }
+}

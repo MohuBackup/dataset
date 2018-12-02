@@ -1,0 +1,135 @@
+{
+    "type": "question",
+    "id": 2978,
+    "tags": [
+        {
+            "tag-id": 260,
+            "tag-name": "洗脑"
+        }
+    ],
+    "detail": {
+        "title": "中国官方媒体没有造过哪些谣？",
+        "body": "镜像问题",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-27T00:00:00.000Z",
+        "modifyTime": "2018-09-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p>【环球网综合报道】据美国有线电视新闻网(CNN)27日报道，尼日利亚官员表示，几次洪水已造成该国近200人死亡，约176万人被迫流离失所</p><p><br></p><p>说的是真的</p>",
+            "agree-by": [
+                {
+                    "user-id": 1561,
+                    "user-name": "ま蛤ろす"
+                },
+                {
+                    "user-id": 2254,
+                    "user-name": "bishi"
+                },
+                {
+                    "user-id": 607,
+                    "user-name": "Срутра"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "还真没有，特别是日人民报合订本，看都没法看，辣眼睛！",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2136,
+            "body": "<p>我国现在处于并将长期处于社会主义初级阶段。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2276,
+            "body": "<p>毛选第五卷，和大义觉迷录异曲同工。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "如何评价法轮功、法轮功学员及其媒体？",
+            "id": 213
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T07:31:00.000Z",
+        "views": 506,
+        "concerns": 5
+    }
+}

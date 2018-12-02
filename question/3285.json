@@ -1,0 +1,146 @@
+{
+    "type": "question",
+    "id": 3285,
+    "tags": [
+        {
+            "tag-id": 253,
+            "tag-name": "推特"
+        },
+        {
+            "tag-id": 76,
+            "tag-name": "作死"
+        }
+    ],
+    "detail": {
+        "title": "twitter乱填年龄被冻结",
+        "body": "<p>因为之前在改twitter个人信息的时候将出生日期改成了2017年，导致twitter被锁，应该如何申诉？申诉时是否需要个人真实信息？</p><p>而且我发现现在注册twitter还要语音信息验证，是否可以跳过？若不能，用+86手机能否有使其收到验证讯息的方法（个人知道这很作死但推上的世界确实有意思，又氪不起外国卡，搞不定虚拟手机号，只能铤而走险）？</p><p>如果都不能解决就只能退推了QWQ，再问一下有什么除膜乎外的低门槛膜蛤社交网站可以逛呢</p>",
+        "author": 1606,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-09T00:00:00.000Z",
+        "modifyTime": "2018-10-09T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>推特冻结的标准挺乱的，我试过好几个账号莫名其妙被封，也肯定没违反任何规则，申诉也没任何反应，再注册个账号吧</p>",
+            "agree-by": [
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "推特居然支持天朝手机验证码了，是不是因为最近有个我党女同志打入了推特内部呢？<br>\n<br>\n<br>\n<br>\n这样我就更不敢玩推特了。",
+            "agree-by": [
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 65,
+                    "user-name": "萝莉保护协会"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 2,
+            "publishTime": "2018-10-10T00:00:00.000Z",
+            "modifyTime": "2018-10-10T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>土匪可以查看任何推特号所绑定的手机号的。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                },
+                {
+                    "user-id": 1418,
+                    "user-name": "傻傻的杨杨"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-10-10T00:00:00.000Z",
+            "modifyTime": "2018-10-10T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "蛤乎",
+            "agree-by": [
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        },
+        {
+            "author": 1140,
+            "body": "<p>如果注册的话语音验证其实很简单的，语速非常慢。+86手机可以解决，推特又不是共匪的，谈不上作死。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1606,
+                    "user-name": "苟利于民"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-10-09T00:00:00.000Z",
+            "modifyTime": "2018-10-09T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待先Twitter等论坛上也有不少中国人在使用“支那人”这个词汇？",
+            "id": 3667
+        },
+        {
+            "title": "twitter上有什麽值得推薦的群嗎，膜蛤日常階可",
+            "id": 1730
+        },
+        {
+            "title": "如何看待美国冻结中国13位高管资金？",
+            "id": 1064
+        },
+        {
+            "title": "如何评价Twitter用户@PeterKong？",
+            "id": 1738
+        },
+        {
+            "title": "twitter上的胡锡进到底是不是他本人？",
+            "id": 3813
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-10T10:10:00.000Z",
+        "views": 378,
+        "concerns": 7
+    }
+}

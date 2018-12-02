@@ -1,0 +1,144 @@
+{
+    "type": "question",
+    "id": 3856,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 40,
+            "tag-name": "膜乎用户"
+        }
+    ],
+    "detail": {
+        "title": "我发现了一个有趣的现象",
+        "body": "<p>大家的头像要么是二次元萌妹，要么是高雅创作，最不济也是个默认头像，就我顶着一个轮子，实在是太违和了，谁能帮我弄一个娘化李洪志的头像？不胜感激！</p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-25T00:00:00.000Z",
+        "modifyTime": "2018-10-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2226,
+            "body": "人人有功练！",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 1393,
+            "body": "<p>我的头像是三次元萌妹，咋样好看不？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 1020,
+            "body": "<p>就用这个，我都习惯了，甚至还有权威性些。你之前好像弄过五官乱序版的李洪志头像。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 1606,
+            "body": "<p>原生长者滑稽脸飘过</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-25T00:00:00.000Z",
+            "modifyTime": "2018-10-25T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "我的头像是三次元美少女，好看吗？",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "？？？？？本报表示没有随大流",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 356,
+            "body": "我的是萨格尔王",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "你是什么时候发现刁大犬是个危险的倒车歹徒的？",
+            "id": 2449
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "如何看待精日等一类现象?",
+            "id": 527
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        },
+        {
+            "title": "如果让你二选一，你愿做一个沉迷二次元的废宅还是一个随时可能被枪毙的反动分子？",
+            "id": 984
+        },
+        {
+            "title": "膜乎会不会是一个钓鱼执法网站",
+            "id": 767
+        },
+        {
+            "title": "膜蛤现象是否体现了中国人“五行缺爹”的特性，总是要给自己找个主人来膜拜？",
+            "id": 4063
+        },
+        {
+            "title": "Bilibili还是不是一个纯粹的娱乐社区",
+            "id": 2413
+        },
+        {
+            "title": "在饭局上谈笑风生以后发现有人是党员怎么办",
+            "id": 791
+        },
+        {
+            "title": "如果有一辆刹车坏了的电车，有可能撞死一个法轮功学员或者一个共产党员，你选择救谁？理由是什么？",
+            "id": 4178
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-26T03:18:00.000Z",
+        "views": 402,
+        "concerns": 9
+    }
+}

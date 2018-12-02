@@ -1,0 +1,90 @@
+{
+    "type": "question",
+    "id": 3025,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        }
+    ],
+    "detail": {
+        "title": "你国房地产gdp占比专家说只有百分之五",
+        "body": "<p>至於你信不信，我反正是信了(迫真)</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-29T00:00:00.000Z",
+        "modifyTime": "2018-09-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>這只能說明專家過於優秀，在算術上面，有黨性的算術。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1664,
+                    "user-name": "陈浩蓝"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": 1488,
+            "body": "没毛病啊，我国人均gdp8000万美元，买套房子才多少钱？",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 1918,
+                    "user-name": "kuī然不动"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": 2074,
+            "body": "<p>你说是，那就是，不和你争，反正也没用，彼此心知肚明。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>你懂什么，这叫中国特色统计学，哪轮到别人指手画脚。（滑稽）</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "高雅创作之五包红旗",
+            "id": 3984
+        },
+        {
+            "title": "红色理财专家——郑义斋（为了民族复兴·英雄烈士谱）",
+            "id": 3761
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-29T08:24:00.000Z",
+        "views": 179,
+        "concerns": 5
+    }
+}

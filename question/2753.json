@@ -1,0 +1,130 @@
+{
+    "type": "question",
+    "id": 2753,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "怎么看这篇说习包子不是包子的文章？",
+        "body": "<p><a href=\"https://cn.nytimes.com/opinion/20180919/why-the-liberals-get-it-wrong/\">https://cn.nytimes.com/opinion/20180919/why-the-liberals-get-it-wrong/</a><br></p><p>文章中心观点就是，习包子其实不是包子，是个遵循毛精神的独裁者，没那么蠢。</p><p>tg也一时半会儿倒不了，海外的这些人姿势水平比较低，只会乳包然后觉得tg明天就倒台了。<br> </p>",
+        "author": 2174,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-20T00:00:00.000Z",
+        "modifyTime": "2018-09-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2194,
+            "body": "<p>毛也不蠢，还不是照样能整死几千万韭菜？真正像毛新宇那样真蠢也爬不到今天这个位置了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>因为“习在上台后不久即掌控大权，变胡锦涛时期“九龙治水”的领导体制。对于一个在上台前没有军功和政绩的人来说，取得如此权力和权威，简直是一个奇迹”，所以“他治国毫无章法，东一榔西一锤的观点绝对是错误的。”</p><p>让我们先问问慈禧太后为什么站起来了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 2276,
+            "body": "<p>人蠢不行吗？只要够坏就行了啊，有胆量在历史车流里开倒车，这哪里是普通人在高速公路上敢作的事啊。人只有傻了才会以为作坏是没有报应的啊。<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "有哪些你以为不是敏感词的敏感词？",
+            "id": 482
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-20T10:16:00.000Z",
+        "views": 466,
+        "concerns": 4
+    }
+}

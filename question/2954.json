@@ -1,0 +1,122 @@
+{
+    "type": "question",
+    "id": 2954,
+    "tags": [
+        {
+            "tag-id": 262,
+            "tag-name": "九评共产党"
+        },
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        }
+    ],
+    "detail": {
+        "title": "hath是否应该三退？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-27T00:00:00.000Z",
+        "modifyTime": "2018-09-27T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p>很有趣的问题，我认为这个不应该强制三退，要蛤丝们自己撅腚。</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2140,
+                    "user-name": "Renaissance"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": 1705,
+            "body": "<p>这个三退本身就是个先入为主的概念，一般人都不会去入吧，不入怎么退……<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "到时候自己就垮了，还用退？再说，把个人信息交给一个邪教组织你放心吗？",
+            "agree-by": [
+                {
+                    "user-id": 2140,
+                    "user-name": "Renaissance"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "应该活摘恶习身体的哪个部位，莱献给长者？",
+            "id": 1418
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "外出就餐不慎将菜点多了应该怎么办？",
+            "id": 789
+        },
+        {
+            "title": "蛤丝是否应该资兹中国共产党？",
+            "id": 499
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "知乎管理员是否属于没有经过大脑升级的野蛮人？",
+            "id": 48
+        },
+        {
+            "title": "客车司机连续疲劳驾驶不换班，作为乘客应该怎么做？",
+            "id": 476
+        },
+        {
+            "title": "汽车倒车应该挂哪个档？",
+            "id": 226
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-02T16:42:00.000Z",
+        "views": 259,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "type": "question",
+    "id": 3693,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 131,
+            "tag-name": "香港记者"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        }
+    ],
+    "detail": {
+        "title": "如何看待穆加贝怒斥记者？",
+        "body": "<p>英国《卫报》５日报道，听到这个提问后，穆加贝连续反问：“为什么我还在任就要谈继任者的事？为什么你想要（看到）继任者……你是不是想让我揍你一顿，才会认识到我还在任上？”这名全球年纪最大的国家元首说：“接班不是我们文化的一部分。”</p><p>（这是2016年的旧闻。）</p><p>接班人是谁？</p>",
+        "author": 2493,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-20T00:00:00.000Z",
+        "modifyTime": "2018-10-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1347,
+            "body": "<p>别看他以前闹的欢，今天已经拉清单。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-20T00:00:00.000Z",
+            "modifyTime": "2018-10-20T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>穆加贝还是要学习一个</p>",
+            "agree-by": [
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-20T00:00:00.000Z",
+            "modifyTime": "2018-10-20T00:00:00.000Z"
+        },
+        {
+            "author": 2164,
+            "body": "万里长城今犹在，不见当年穆加倍！",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-10-20T00:00:00.000Z",
+            "modifyTime": "2018-10-20T00:00:00.000Z"
+        },
+        {
+            "author": 2728,
+            "body": "<p>Make Zimbabwe Rhodesia again<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-21T00:00:00.000Z",
+            "modifyTime": "2018-10-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-20T22:09:00.000Z",
+        "views": 272,
+        "concerns": 5
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "type": "question",
+    "id": 3203,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "如何看待关于习近平的一系列书籍，尤其是他的知青岁月",
+        "body": "",
+        "author": 2145,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-06T00:00:00.000Z",
+        "modifyTime": "2018-10-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1441,
+            "body": "他也配自称知青？？？<br>\n改成文盲岁月得了",
+            "agree-by": [
+                {
+                    "user-id": 2266,
+                    "user-name": "刁犬犬"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-06T00:00:00.000Z",
+            "modifyTime": "2018-10-06T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>满脸喷粪的岁月</p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-07T00:00:00.000Z",
+            "modifyTime": "2018-10-07T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>如果这也算知青的话那么我十年前就是知青了</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-07T00:00:00.000Z",
+            "modifyTime": "2018-10-07T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "\"多印点吧，村东头厕所又没纸了\"",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-07T00:00:00.000Z",
+            "modifyTime": "2018-10-07T00:00:00.000Z"
+        },
+        {
+            "author": 1020,
+            "body": "我不知道他懂得哪些知识",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-07T00:00:00.000Z",
+            "modifyTime": "2018-10-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何评价书籍《习近平谈治国理政》？",
+            "id": 1562
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-07T01:48:00.000Z",
+        "views": 436,
+        "concerns": 6
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "type": "question",
+    "id": 3867,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "为什么包子不让人民币贬值？",
+        "body": "外汇管制、减少海外投资？日本的日元贬值塑造了一个繁荣的日本，包子反对人民币贬值就是为了让老百姓过苦日子？",
+        "author": 2226,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-26T00:00:00.000Z",
+        "modifyTime": "2018-10-26T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2558,
+            "body": "<p>人民币贬值：不可替代进口原料成本上升，制造业利润降低，制造业成本压力转嫁消费者，消费者消费压力增加，怨声载道，维稳形势紧张，party over风险增加。<br></p><p>人民币升值：出口产品受挫，国内出口企业规模萎缩，大量失业，怨声载道，维稳形势紧张，中产阶级移民，大量贪官卷款外逃，国有资产流失，party over风险增加。</p><p>以上是个人看法。</p>",
+            "agree-by": [
+                {
+                    "user-id": 2039,
+                    "user-name": "习特勒real"
+                },
+                {
+                    "user-id": 2143,
+                    "user-name": "续da命"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1376,
+                    "user-name": "提安东瑞"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 2212,
+            "body": "<p>好不容易骗你进了土匪窝，哪有那么轻易地让你开溜？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1674,
+                    "user-name": "二百斤"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2174,
+                    "user-name": "Naiiiiiive"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "共克时艰，自力更生",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>“共”克时艰(意味深)</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "<p>中国不以追求贸易逆差为目标</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-26T00:00:00.000Z",
+            "modifyTime": "2018-10-26T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价这张人民币上的字?",
+            "id": 1225
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "怎么把包子赶下台？",
+            "id": 1099
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "包子对中国有哪些功劳？",
+            "id": 2209
+        },
+        {
+            "title": "吃包子应该怎么吃？搭配什么更好吃？",
+            "id": 421
+        },
+        {
+            "title": "包子说：我最牵挂的还是困难群众啊！ 时心里是怎么想的？",
+            "id": 2385
+        },
+        {
+            "title": "发现一篇14年包子的文章，现在看真是滑稽",
+            "id": 2111
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-26T05:15:00.000Z",
+        "views": 335,
+        "concerns": 7
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 3042,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        }
+    ],
+    "detail": {
+        "title": "暗喻当今......",
+        "body": "<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180929/49f8c6effd997f4855bf473c624d4156.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180929/49f8c6effd997f4855bf473c624d4156.jpg\" class=\"img-polaroid\" title=\"30d214162f460712.jpg\" alt=\"30d214162f460712.jpg\"></a>\n</div>\n<br>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "author": 648,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-29T00:00:00.000Z",
+        "modifyTime": "2018-09-29T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1393,
+            "body": "<p><img src=\"/uploads/ueditor/20180929/1538233402964872.jpg\" title=\"1538233402964872.jpg\" alt=\"IMG_20180831_215656.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 2304,
+                    "user-name": "42A"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p><img src=\"/uploads/ueditor/20180930/1538264581990111.jpeg\" title=\"1538264581990111.jpeg\" alt=\"46DDDB05-86B5-43C9-A513-2A1BA9352F99.jpeg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 11,
+                    "user-name": "你们有一个好"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "初中肄业文化程度看不懂，不过阴阳怪气的，还是先抓再说吧！",
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-30T00:00:00.000Z",
+            "modifyTime": "2018-09-30T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待当今人们普遍膜蛤，乳包却没人膜胡的情况呢",
+            "id": 1231
+        },
+        {
+            "title": "如果毛泽东和邓小平穿越到今天，会如何评价当今的中国？",
+            "id": 1545
+        },
+        {
+            "title": "如何看待各种动画片中暗喻64的事情？",
+            "id": 334
+        },
+        {
+            "title": "如果当今圣上宣布回到封建制，在公告发出后的前三天中国会发生什么？",
+            "id": 1789
+        },
+        {
+            "title": "1997年发行的歌曲《走进新时代》中的“新时代”与当今的“习近平新时代”有什么不同？",
+            "id": 2443
+        },
+        {
+            "title": "如何看待当今墙外中文圈的风气？",
+            "id": 1450
+        },
+        {
+            "title": "如何评价当今中国政治局势？",
+            "id": 459
+        },
+        {
+            "title": "当今皇后跟政治有关吗",
+            "id": 563
+        },
+        {
+            "title": "当今共产党员如何面对共产主义？",
+            "id": 166
+        },
+        {
+            "title": "如何评价当今膜乎百家争鸣的局面",
+            "id": 1100
+        },
+        {
+            "title": "当今小粉红如果回到清朝 会不会在当时支持拥护清国？",
+            "id": 1176
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-30T00:03:00.000Z",
+        "views": 413,
+        "concerns": 5
+    }
+}

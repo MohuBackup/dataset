@@ -1,0 +1,85 @@
+{
+    "type": "question",
+    "id": 3442,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "有没有必要入乡随俗？",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-13T00:00:00.000Z",
+        "modifyTime": "2018-10-13T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2601,
+            "body": "不必完全模仿学习，但要给予基本的尊重理解，当然你本身也要判断，不要见得风，是得雨",
+            "agree-by": [
+                {
+                    "user-id": 1677,
+                    "user-name": "ChakTheFrog"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "谷歌：乡我也入了，俗我也随了，可是还是被人渣阴了退出厉害国了。<br>\n脸书：我比你还惨，我老板办公室里摆习语录都没用，至今不能进入厉害国市场。",
+            "agree-by": [
+                {
+                    "user-id": 631,
+                    "user-name": "Too_Simple"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        },
+        {
+            "author": 1677,
+            "body": "<p>共产党员进入寺庙上香。。。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-13T00:00:00.000Z",
+            "modifyTime": "2018-10-13T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "膜乎是否有必要设置一个尬膜专用贴？",
+            "id": 1020
+        },
+        {
+            "title": "这么臭的膜乎，还有存在的必要吗？",
+            "id": 897
+        },
+        {
+            "title": "物业公司是否有存在必要？",
+            "id": 2998
+        },
+        {
+            "title": "大家觉得膜乎有没有必要设立一个女装专栏？",
+            "id": 2169
+        },
+        {
+            "title": "知乎的“恶意对抗行为”是否有必要引入膜乎？",
+            "id": 94
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-13T12:06:00.000Z",
+        "views": 132,
+        "concerns": 4
+    }
+}

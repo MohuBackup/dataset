@@ -1,0 +1,67 @@
+{
+    "type": "question",
+    "id": 3334,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "地震可以预测吗？",
+        "body": "赵国地震局是不是是个搞笑角色？",
+        "author": 2226,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-11T00:00:00.000Z",
+        "modifyTime": "2018-10-11T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2573,
+            "body": "可以，虵在就可以预测！",
+            "agree-by": [
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        },
+        {
+            "author": 2194,
+            "body": "<p>不会谷歌会必应吗？能不能别问些小学文化水平的问题？</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-11T00:00:00.000Z",
+            "modifyTime": "2018-10-11T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "有哪些未被墙内媒体报道的512大地震的事实？",
+            "id": 776
+        },
+        {
+            "title": "大家预测下中共会以何种方式倒台？",
+            "id": 2636
+        },
+        {
+            "title": "未来两个月中国要发生的地震是真的吗？",
+            "id": 3759
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-11T02:55:00.000Z",
+        "views": 140,
+        "concerns": 4
+    }
+}

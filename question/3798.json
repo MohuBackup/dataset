@@ -1,0 +1,187 @@
+{
+    "type": "question",
+    "id": 3798,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 496,
+            "tag-name": "习特勒"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 732,
+            "tag-name": "恶习"
+        }
+    ],
+    "detail": {
+        "title": "究竟是“习以为常”还是“习已为常”",
+        "body": "",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-23T00:00:00.000Z",
+        "modifyTime": "2018-10-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1385,
+            "body": "<p>习以为(自己的统治时间会很)长</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1441,
+                    "user-name": "傻个儿王"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 2601,
+            "body": "<p>习蚁围肠（指大肠）</p>",
+            "agree-by": [
+                {
+                    "user-id": 1519,
+                    "user-name": "恶习"
+                },
+                {
+                    "user-id": 1662,
+                    "user-name": "dqyht"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 2749,
+            "body": "<p>习已入常</p>",
+            "agree-by": [
+                {
+                    "user-id": 2781,
+                    "user-name": "江和故人"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 2149,
+            "body": "习已废常",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>习在位长</p>",
+            "agree-by": [
+                {
+                    "user-id": 2781,
+                    "user-name": "江和故人"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 2276,
+            "body": "<p>刁..长<br></p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "中国内战究竟是谁先发动的",
+            "id": 2085
+        },
+        {
+            "title": "如何回答女朋友提出的问题【你究竟是爱我还是爱膜】？",
+            "id": 89
+        },
+        {
+            "title": "习近平究竟是不是由长者隔代指定的？",
+            "id": 1518
+        },
+        {
+            "title": "如何解释“习以为常”？",
+            "id": 573
+        },
+        {
+            "title": "究竟是“蛤蟆将死”还是“蛤蟆江死”？",
+            "id": 3963
+        },
+        {
+            "title": "究竟是蛤蟆屌大还是大犬屌大？",
+            "id": 4122
+        },
+        {
+            "title": "禁止民间拥有私人武装究竟是好是坏",
+            "id": 4213
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T09:48:00.000Z",
+        "views": 388,
+        "concerns": 5
+    }
+}

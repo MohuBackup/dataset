@@ -1,0 +1,76 @@
+{
+    "type": "question",
+    "id": 2687,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        }
+    ],
+    "detail": {
+        "title": "關於共產黨",
+        "body": "我罵共產黨<br>\n我朋友說:你也吃共產黨的飯長大的，有什麼資格說他不好？<br>\n我該怎麼回復？<br>\n<br>\n我相信這個問題大家也會多多少少想過或者碰到過",
+        "author": 1418,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-17T00:00:00.000Z",
+        "modifyTime": "2018-09-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1488,
+            "body": "不好意思我是吃我爹我妈饭长大的，什么时候老百姓劳动换来的粮食都成共产党的了？<br>\n人民养政府，不是政府养人民",
+            "agree-by": [
+                {
+                    "user-id": 2025,
+                    "user-name": "MASON"
+                },
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2226,
+                    "user-name": "revolt"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        },
+        {
+            "author": 2130,
+            "body": "我是吃屎长大的，我发现屎真他妈恶心，不想再吃了，想吃肉，我同学却说你也是吃屎长大的，凭什么说屎恶心？<br>\n道德绑架这种低级逻辑错误到现在还有，我只能说赵党牛逼(",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 1418,
+                    "user-name": "傻傻的杨杨"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        },
+        {
+            "author": 2136,
+            "body": "<p>人民不应该惧怕政府，而政府应该惧怕人民。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-17T00:00:00.000Z",
+            "modifyTime": "2018-09-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-17T11:52:00.000Z",
+        "views": 124,
+        "concerns": 4
+    }
+}

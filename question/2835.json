@@ -1,0 +1,118 @@
+{
+    "type": "question",
+    "id": 2835,
+    "tags": [
+        {
+            "tag-id": 617,
+            "tag-name": "龙蛤前辈"
+        }
+    ],
+    "detail": {
+        "title": "老咸鱼出来冒个泡，还有人记得我吗？",
+        "body": "马上就溜，，，",
+        "author": 915,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-23T00:00:00.000Z",
+        "modifyTime": "2018-09-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 430,
+            "body": "嗯呐嗯呐~管家怎么会忘了呢ヘ(￣ω￣ヘ)♪",
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>前辈也时常在嘛（滑稽）</p>",
+            "agree-by": [
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        },
+        {
+            "author": 2290,
+            "body": "<p>让人印象深刻的高精头像，，，</p>",
+            "agree-by": [
+                {
+                    "user-id": 915,
+                    "user-name": "龙蛤前辈"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-23T00:00:00.000Z",
+            "modifyTime": "2018-09-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "谁能举一些官方膜或公开膜的案例出来",
+            "id": 1991
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "如何评价“膜蛤是江派成员创造出来美化江泽民”的观点？",
+            "id": 1893
+        },
+        {
+            "title": "如何评价在百度上搜索\"王维林\"弹出来的联想？",
+            "id": 1253
+        },
+        {
+            "title": "大家还记得百度羊村吧和华莱士吧的回忆？",
+            "id": 3436
+        },
+        {
+            "title": "如何看待奔驰车失控问题，中央媒体站出来说是司机失控？",
+            "id": 1052
+        },
+        {
+            "title": "有哪些非蛤丝看不出来的膜法图片？",
+            "id": 1748
+        },
+        {
+            "title": "翻出来以后大家交流还应不应该再用“TG”这种自造词？",
+            "id": 2527
+        },
+        {
+            "title": "突然冒出来的学校社团",
+            "id": 3549
+        },
+        {
+            "title": "泼墨事件中董瑶琼还能活着出来吗？",
+            "id": 4153
+        },
+        {
+            "title": "如何评价老人将遗嘱写进软盘内，导致家人读不出来遗嘱？",
+            "id": 3481
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-23T10:44:00.000Z",
+        "views": 173,
+        "concerns": 3
+    }
+}

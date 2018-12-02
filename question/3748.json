@@ -1,0 +1,55 @@
+{
+    "type": "question",
+    "id": 3748,
+    "tags": [
+        {
+            "tag-id": 149,
+            "tag-name": "包子（广义的）"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 463,
+            "tag-name": "学习"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 732,
+            "tag-name": "恶习"
+        },
+        {
+            "tag-id": 496,
+            "tag-name": "习特勒"
+        }
+    ],
+    "detail": {
+        "title": "武松豆沙习门庆是怎么一回事？",
+        "body": "<p>请历史好的朋友解释一下</p>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-22T00:00:00.000Z",
+        "modifyTime": "2018-10-22T00:00:00.000Z"
+    },
+    "answers": [],
+    "relatedQuestions": [
+        {
+            "title": "曼德拉效应是怎么一回事？",
+            "id": 3182
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-21T21:24:00.000Z",
+        "views": 178,
+        "concerns": 2
+    }
+}

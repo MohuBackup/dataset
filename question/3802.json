@@ -1,0 +1,125 @@
+{
+    "type": "question",
+    "id": 3802,
+    "tags": [
+        {
+            "tag-id": 729,
+            "tag-name": "日常"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 40,
+            "tag-name": "膜乎用户"
+        }
+    ],
+    "detail": {
+        "title": "这到底是什么情况？",
+        "body": "<p style=\"text-align: left;\">有神必壬冒充我？<img src=\"/uploads/ueditor/20181023/1540287431999923.png\" title=\"1540287431999923.png\" alt=\"Screenshot_2018-10-23-17-20-08-1587102822.png\"></p><p style=\"text-align: center;\"><img src=\"/uploads/ueditor/20181023/1540287446975747.png\" title=\"1540287446975747.png\" alt=\"Screenshot_2018-10-23-17-20-19-0814771329.png\"><img src=\"/uploads/ueditor/20181023/1540287476551079.png\" title=\"1540287476551079.png\" alt=\"Screenshot_2018-10-23-17-20-28-0802856789.png\"><img src=\"/uploads/ueditor/20181023/1540287486268536.png\" title=\"1540287486268536.png\" alt=\"Screenshot_2018-10-23-17-20-37-0823346173.png\"></p>",
+        "author": 1385,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-23T00:00:00.000Z",
+        "modifyTime": "2018-10-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2143,
+            "body": "<p><img src=\"/uploads/ueditor/20181023/1540288810981798.gif\" title=\"1540288810981798.gif\" alt=\"dou_chengyu_3_si_dong_fei_dong_jiang_xin_jiang_yi.gif\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>记得之前也有个人注册了一个江蛤坠吼的……</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "<p>你有粉丝了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "明明匿名就可以搞定的事情非要注册个id，摊手",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-24T00:00:00.000Z",
+            "modifyTime": "2018-10-24T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "做中国梦的正确姿势是什么？",
+            "id": 855
+        },
+        {
+            "title": "各位的政治立场是什么",
+            "id": 1024
+        },
+        {
+            "title": "如果hath见到膜蛤又膜包的小粉红会是什么反应？",
+            "id": 1464
+        },
+        {
+            "title": "下一版百元大钞会是什么样子？",
+            "id": 2236
+        },
+        {
+            "title": "反习不反共是什么感觉",
+            "id": 1321
+        },
+        {
+            "title": "在膜乎暴力辱包，最有可能带来的麻烦是什么？",
+            "id": 1714
+        },
+        {
+            "title": "天安门事件到底是谁的错？",
+            "id": 1095
+        },
+        {
+            "title": "膜乎建立的初衷是什么？",
+            "id": 1241
+        },
+        {
+            "title": "家里摆这个的是什么人？",
+            "id": 2537
+        },
+        {
+            "title": "说到底，习到底想要怎样？",
+            "id": 3262
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-24T08:29:00.000Z",
+        "views": 404,
+        "concerns": 4
+    }
+}

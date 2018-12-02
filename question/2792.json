@@ -1,0 +1,41 @@
+{
+    "type": "question",
+    "id": 2792,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        }
+    ],
+    "detail": {
+        "title": "关于辛灏年",
+        "body": "大家如何评价辛灏年教授所讲关于中共的内容，他现在过得还好么",
+        "author": 1418,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-21T00:00:00.000Z",
+        "modifyTime": "2018-09-21T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1020,
+            "body": "<p>他的设想太理想了，就是不现实。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-21T13:33:00.000Z",
+        "views": 196,
+        "concerns": 4
+    }
+}

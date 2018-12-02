@@ -1,0 +1,126 @@
+{
+    "type": "question",
+    "id": 2737,
+    "tags": [
+        {
+            "tag-id": 383,
+            "tag-name": "公务员"
+        },
+        {
+            "tag-id": 304,
+            "tag-name": "中国共产党"
+        },
+        {
+            "tag-id": 206,
+            "tag-name": "共产党"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "“副处级”算权贵吗？什么级别才算权贵？",
+        "body": "",
+        "author": 2294,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-20T00:00:00.000Z",
+        "modifyTime": "2018-09-20T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 1159,
+            "body": "不算，最低也得是到正厅级，而且是政府部门不能是事业单位或国企。",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "当然不算了，必须是资产足以登上福布斯富豪榜的才算。<br>\n<br>\n<br>\n比如传说中的五百家庭。",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 2242,
+            "body": "<p>权贵这个，不能算官职，不能算财产，貌似是看血缘，也有可能看帮里的话语权。</p>",
+            "agree-by": [
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 1385,
+            "body": "<p>我爸是副处级军官(已离休)，上次老兵维权就有他参加</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 2063,
+            "body": "起码得是改开前高干那个级别，副厅级以上吧",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-20T00:00:00.000Z",
+            "modifyTime": "2018-09-20T00:00:00.000Z"
+        },
+        {
+            "author": 893,
+            "body": "看你具体在什么地方和站在什么角度看了。<br>\n处级干部算国家干部（最低级，科级已经不算了），对应的职位通常是县团级，即县长（县级市市长）、团长。<br>\n<br>\n作为一个小县里的p民，副处级相当于副县长，上面不来人的话就他最大，你说算不算。<br>\n<br>\n但要是在个更大的地级市，或者省会，那上面还有厅局级，省部级的。<br>\n<br>\n从整个国家看，处级干部满地都是，确实算不上权贵。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-21T00:00:00.000Z",
+            "modifyTime": "2018-09-21T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>感觉处级不是很大</p><p>我爹副厅级（东部某省），也没感觉家里吃的多好住的多好，还住在市区老房子里，无非就是可以吃吃食堂，很便宜味道也不错，饭卡永远刷不完</p><p>不过依照能送我出来上学这点我觉得还算收入体面</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-22T00:00:00.000Z",
+            "modifyTime": "2018-09-22T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "对一定级别以上的官员进行化学阉割是否有利于国家社会？",
+            "id": 2931
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-22T03:00:00.000Z",
+        "views": 513,
+        "concerns": 7
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "type": "question",
+    "id": 3797,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 157,
+            "tag-name": "蛤丝"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 496,
+            "tag-name": "习特勒"
+        },
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 732,
+            "tag-name": "恶习"
+        }
+    ],
+    "detail": {
+        "title": "谁能一统江胡？谁能习卷江胡？",
+        "body": "<p>习卷江胡是什么意思？</p>",
+        "author": 2749,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-23T00:00:00.000Z",
+        "modifyTime": "2018-10-23T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "都督",
+            "agree-by": [
+                {
+                    "user-id": 2706,
+                    "user-name": "反包复国"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                },
+                {
+                    "user-id": 2056,
+                    "user-name": "通商宽农"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-23T00:00:00.000Z",
+            "modifyTime": "2018-10-23T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "谁能举一些官方膜或公开膜的案例出来",
+            "id": 1991
+        },
+        {
+            "title": "包主席将于2018年6月8日颁授首枚中共国“友谊勋章”，你认为谁能获此殊荣？",
+            "id": 1284
+        },
+        {
+            "title": "谁能讲讲品葱倒闭经历了什么？",
+            "id": 4146
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-23T08:11:00.000Z",
+        "views": 216,
+        "concerns": 2
+    }
+}

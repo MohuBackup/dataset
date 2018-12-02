@@ -1,0 +1,164 @@
+{
+    "type": "question",
+    "id": 3004,
+    "tags": [
+        {
+            "tag-id": 579,
+            "tag-name": "移民"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "以后中国会不会出台法律，禁止移民到外国？",
+        "body": "禁止40岁以下移民外国。禁止跳车。",
+        "author": 1664,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-28T00:00:00.000Z",
+        "modifyTime": "2018-09-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "维尼：小伙子，你很有想法！不过有一个问题，能不能把年龄限制改成0岁以上？",
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 1685,
+                    "user-name": "习仲勋"
+                },
+                {
+                    "user-id": 1664,
+                    "user-name": "陈浩蓝"
+                },
+                {
+                    "user-id": 2038,
+                    "user-name": "miHAHA"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2143,
+            "body": "<p>蛇头变成了很有前途的职业<br></p>",
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                },
+                {
+                    "user-id": 2038,
+                    "user-name": "miHAHA"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 881,
+            "body": "<p>闭关锁国？</p>",
+            "agree-by": [
+                {
+                    "user-id": 1586,
+                    "user-name": "邓小平和蒋经国"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 673,
+            "body": "会的。但是那个时候大犬绑架着中国已经把全世界折腾、占领了，然后出了这个法律也没外国可移民。。",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2356,
+            "body": "<p>立法禁止移民到外星比较可行。</p><p><br></p><p>反正地球也快玩球了。</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-29T00:00:00.000Z",
+            "modifyTime": "2018-09-29T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-29T09:59:00.000Z",
+        "views": 440,
+        "concerns": 6
+    }
+}

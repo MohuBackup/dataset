@@ -1,0 +1,107 @@
+{
+    "type": "question",
+    "id": 2986,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 173,
+            "tag-name": "胡锦涛"
+        }
+    ],
+    "detail": {
+        "title": "大家对比一下现在与涛哥时代",
+        "body": "有什么区别",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-28T00:00:00.000Z",
+        "modifyTime": "2018-09-28T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2149,
+            "body": "以前叫他面瘫，现在叫涛哥，有什么区别？",
+            "agree-by": [
+                {
+                    "user-id": 1,
+                    "user-name": "EzawaNico"
+                },
+                {
+                    "user-id": 2212,
+                    "user-name": "膜膜糊糊的包子"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        },
+        {
+            "author": 2304,
+            "body": "宽衣了",
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-28T00:00:00.000Z",
+            "modifyTime": "2018-09-28T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "这网站被关的那天 大家会不会被送到夹边沟啊",
+            "id": 1134
+        },
+        {
+            "title": "你们更喜欢哪个时代?",
+            "id": 1959
+        },
+        {
+            "title": "大家试试这个对对联网页都能念出来哪些诗？",
+            "id": 2377
+        },
+        {
+            "title": "请问一下大家对于赵国的态度：是逃离还是拯救？如何看待图片中的两个针锋相对的观点呢？",
+            "id": 3129
+        },
+        {
+            "title": "如果是长者时期，大家会不会资瓷TG",
+            "id": 1592
+        },
+        {
+            "title": "大家希不希望习近平总书记下台？",
+            "id": 2285
+        },
+        {
+            "title": "求大家推荐一款精准的狙击枪，我“精准扶贫”要用的",
+            "id": 2015
+        },
+        {
+            "title": "大家有没有这样的经历：“虵无处不在”？",
+            "id": 350
+        },
+        {
+            "title": "大家一起更多脑洞，哪些内容可以成为“政治敏感”？",
+            "id": 1006
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-28T03:50:00.000Z",
+        "views": 398,
+        "concerns": 3
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "type": "question",
+    "id": 2905,
+    "tags": [
+        {
+            "tag-id": 201,
+            "tag-name": "小粉红"
+        },
+        {
+            "tag-id": 196,
+            "tag-name": "粉红"
+        }
+    ],
+    "detail": {
+        "title": "如果台湾要加入俄罗斯联邦，小将们还会不会说一根毛都不能少？",
+        "body": "<p><img src=\"/uploads/ueditor/20180925/1537879407212725.jpg\" title=\"1537879407212725.jpg\" alt=\"images.jpg\"></p>",
+        "author": 2143,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-25T00:00:00.000Z",
+        "modifyTime": "2018-09-25T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": 2115,
+            "body": "<p><strong>我就什么也不说,这是坠吼的!</strong><br></p><p><img src=\"/uploads/ueditor/20180925/1537881841249934.png\" title=\"1537881841249934.png\" alt=\"01.png\"><img src=\"/uploads/ueditor/20180925/1537881851104926.png\" title=\"1537881851104926.png\" alt=\"02.png\"><img src=\"/uploads/ueditor/20180925/1537881884526917.png\" title=\"1537881884526917.png\" alt=\"03.png\"><img src=\"/uploads/ueditor/20180925/1537881970762557.jpg\" title=\"1537881970762557.jpg\" alt=\"04.jpg\"></p>",
+            "agree-by": [
+                {
+                    "user-id": 2266,
+                    "user-name": "刁犬犬"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "<p>他们会说：大家都是兄弟何分彼此</p>",
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-09-25T00:00:00.000Z",
+            "modifyTime": "2018-09-25T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
+            "id": 2559
+        },
+        {
+            "title": "如果长者死了，膜蛤文化还会继续吗？",
+            "id": 543
+        },
+        {
+            "title": "如果萨格尔王收复了台湾，对他的历史评价会超过虵吗？",
+            "id": 1162
+        },
+        {
+            "title": "如何评价包政府成功强迫全球航空公司将“台湾”改成“中国台湾”？",
+            "id": 2099
+        },
+        {
+            "title": "如果长者在某一天正式加入了膜乎，是否应该给牠一个特殊钦定账号？享受钦定特效和特殊权限？",
+            "id": 1402
+        },
+        {
+            "title": "同志们哪！好消息，武统台湾之日来了！！",
+            "id": 3559
+        },
+        {
+            "title": "如果中国未来陷入了长时间大规模的饥荒或战乱，台湾能否成为大陆华人的第二家园？",
+            "id": 2883
+        },
+        {
+            "title": "长者会不会在某一天正式加入膜乎？",
+            "id": 1398
+        },
+        {
+            "title": "如何评价台湾地区彰化县政府拆除悬挂五星旗的违法建筑碧云禅寺？",
+            "id": 3020
+        },
+        {
+            "title": "有关台湾的问题",
+            "id": 2481
+        },
+        {
+            "title": "目前官宣都说中国在日益开放，免签国家增多，还可以自助通关，为何还会让人感觉到国门越收越紧？",
+            "id": 4018
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-09-25T13:27:00.000Z",
+        "views": 269,
+        "concerns": 3
+    }
+}
