@@ -20,6 +20,7 @@
         {
             "author": 1328,
             "body": "的确，不知道为什么",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2039,
@@ -42,6 +43,7 @@
         {
             "author": null,
             "body": "<p>好好的，能打开，我正在看呢</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -51,6 +53,7 @@
         {
             "author": 2150,
             "body": "嗯嗯，目前可以上了。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -60,6 +63,7 @@
         {
             "author": 2410,
             "body": "的确打不开了??",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

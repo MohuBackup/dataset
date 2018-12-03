@@ -32,6 +32,7 @@
         {
             "author": 1498,
             "body": "<p>这个“都”字不妙啊</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -58,6 +59,7 @@
         {
             "author": null,
             "body": "包子符合这个定律，但蛤蛤不符合。<br>\n故此定律不成立。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,
@@ -76,6 +78,7 @@
         {
             "author": 648,
             "body": "暗喻某面食",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1643,
@@ -90,6 +93,7 @@
         {
             "author": null,
             "body": "<p>可能只代表一种追求，如果现实中不得志，不一定是自身的原因造成的，影响因素太多且许多不可控。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,
@@ -104,6 +108,7 @@
         {
             "author": 430,
             "body": "不一定啦~",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -113,6 +118,7 @@
         {
             "author": 2226,
             "body": "唉ԅ(¯ㅂ¯ԅ)",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

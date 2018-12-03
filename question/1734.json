@@ -20,6 +20,7 @@
         {
             "author": 1234,
             "body": "谣言吧，但是在消息封锁，不透明的中国，谣言满天飞也能理解",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 347,
@@ -34,6 +35,7 @@
         {
             "author": 673,
             "body": "原来在xx，坦克的用途是用来碾人的",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

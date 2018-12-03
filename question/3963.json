@@ -52,6 +52,7 @@
         {
             "author": null,
             "body": "邪教媒体又来造谣言了，guna！",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 11,
@@ -74,6 +75,7 @@
         {
             "author": null,
             "body": "<p>蛤蟆江都被死了多少次了，哪次死成了</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

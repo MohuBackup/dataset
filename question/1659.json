@@ -24,6 +24,7 @@
         {
             "author": 1087,
             "body": "<p>DID YOU ADMIRE HIS COURAGE?</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -42,6 +43,7 @@
         {
             "author": 881,
             "body": "<p>是问是否佩服坦克人的问题吧，长者在这个问题里闷声发大财还是很聪明的</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -56,6 +58,7 @@
         {
             "author": 673,
             "body": "<p>I know how I am admiring this young man's courage, but what I want to emphasize is I don't want to express something that is not in my script</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 9,

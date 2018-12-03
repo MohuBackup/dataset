@@ -20,6 +20,7 @@
         {
             "author": 1,
             "body": "用于折叠不友善，正经讨论下文不对题和过度灌水的回答",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 167,
@@ -54,6 +55,7 @@
         {
             "author": -1,
             "body": "说不定就有回答被折叠了呢。比如说：<br>\n习近平万岁！江泽民是个傻屌！蛤丝吔屎！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -80,6 +82,7 @@
         {
             "author": 461,
             "body": "把过于民显的舔苞的答案折叠起来。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -106,6 +109,7 @@
         {
             "author": 881,
             "body": "膜包，轮子",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 188,

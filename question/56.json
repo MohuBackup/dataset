@@ -20,6 +20,7 @@
         {
             "author": 35,
             "body": "<a href=\"/people/%E8%96%84%E7%86%99%E6%9D%A5\" class=\"aw-user-name\" data-id=\"1637\">@薄熙来</a>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 42,
@@ -54,6 +55,7 @@
         {
             "author": 3,
             "body": "刚学了这篇（",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 42,

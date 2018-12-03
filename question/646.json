@@ -36,6 +36,7 @@
         {
             "author": 56,
             "body": "敢同管家争高下，不向鹳狸让寸分",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 4,
@@ -66,6 +67,7 @@
         {
             "author": 673,
             "body": "<p>就是要有这种精神</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -75,6 +77,7 @@
         {
             "author": 881,
             "body": "<p>这两个人都是谁啊？</p>",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,
@@ -84,6 +87,7 @@
         {
             "author": 1096,
             "body": "<p>没听说过。</p><p>有没有知识水平高的告诉我一点人生经验？</p>",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,

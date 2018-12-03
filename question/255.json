@@ -32,6 +32,7 @@
         {
             "author": 353,
             "body": "24岁，是学生",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -62,6 +63,7 @@
         {
             "author": 422,
             "body": "我永远喜欢薄荷.jpg",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -84,6 +86,7 @@
         {
             "author": 86,
             "body": "这样不好吧",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -93,6 +96,7 @@
         {
             "author": -1,
             "body": "膜乎红脸",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -102,6 +106,7 @@
         {
             "author": 430,
             "body": "比较喜欢，是个很与众不同的hath，认真负责，今天的膜乎有他的一份功劳",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -111,6 +116,7 @@
         {
             "author": 665,
             "body": "不知道高到哪里去了。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

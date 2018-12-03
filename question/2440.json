@@ -24,6 +24,7 @@
         {
             "author": 881,
             "body": "<p>包子可以去做一下</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1974,
@@ -58,6 +59,7 @@
         {
             "author": 1974,
             "body": "<p>小粉红们也可以去做一下</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2040,
@@ -92,6 +94,7 @@
         {
             "author": 1816,
             "body": "高级野蛮人(指tg),做错事不必向中级野蛮人(指人民)谢罪，，，",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

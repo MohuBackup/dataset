@@ -24,6 +24,7 @@
         {
             "author": 1414,
             "body": "<p>你这不是翻出来了嘛……</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -38,6 +39,7 @@
         {
             "author": 56,
             "body": "膜乎页面坠底下就有梯子啊",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -52,6 +54,7 @@
         {
             "author": 1536,
             "body": "<p>https://github.com/Xmader/mohu<br></p><p>github上的下载不了吗？<br></p><p><br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 3,

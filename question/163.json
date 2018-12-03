@@ -24,6 +24,7 @@
         {
             "author": -1,
             "body": "1.他确实不贪<br>\n2.他家人确实贪",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 333,
@@ -46,6 +47,7 @@
         {
             "author": 297,
             "body": "吃相难看",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 415,

@@ -24,6 +24,7 @@
         {
             "author": 881,
             "body": "<p>你告诉我网址是什么，我就可以帮你删掉（蛤稽）</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -46,6 +47,7 @@
         {
             "author": 673,
             "body": "<p>I think you have very poor Github advanced skill, but anyway you dare to ask us for help. This is very important.</p><p><br></p><p>告诉我们在哪里，我们帮你删。得唔得？吼唔吼？</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -68,6 +70,7 @@
         {
             "author": 430,
             "body": "裆燃是要发出来让广大粉丝一起帮你删啦(●･◡･●)ﾉ♥",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -86,6 +89,7 @@
         {
             "author": 1765,
             "body": "<p>發出來吧，我們會幫你刪的（滑稽）<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -104,6 +108,7 @@
         {
             "author": 1467,
             "body": "求仓库地址",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -118,6 +123,7 @@
         {
             "author": 1087,
             "body": "<p>把repo删了就好</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -127,6 +133,7 @@
         {
             "author": 1178,
             "body": "<p>git clone 一下就好了</p><p>手动滑稽</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

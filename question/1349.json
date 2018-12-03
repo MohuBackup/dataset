@@ -28,6 +28,7 @@
         {
             "author": 1103,
             "body": "<p>中国梦没有做醒</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 927,
@@ -50,6 +51,7 @@
         {
             "author": 927,
             "body": "<p>他是一个呼风唤雨式的大人物，在叫人来怼我方面。<img src=\"/uploads/ueditor/20180610/1528630214267828.jpg\" title=\"1528630214267828.jpg\" alt=\"S80610-19235249(1).jpg\"></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1103,
@@ -72,6 +74,7 @@
         {
             "author": 669,
             "body": "有人要评价我啊?",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,

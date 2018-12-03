@@ -28,6 +28,7 @@
         {
             "author": 1234,
             "body": "这个人确实有bing，感觉是个小粉红",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1377,
@@ -46,6 +47,7 @@
         {
             "author": 640,
             "body": "我当时是在点艹围城<br>\n我不得不说小号多就是可以为所欲为的",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 2,

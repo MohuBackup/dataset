@@ -40,6 +40,7 @@
         {
             "author": 1393,
             "body": "<p>这小偷的名字是不是叫彭丽媛？摸包</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 631,
@@ -98,6 +99,7 @@
         {
             "author": 1522,
             "body": "你的包里是不是有200斤麦子",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -136,6 +138,7 @@
         {
             "author": 430,
             "body": "不需去理会，一会小偷就会摸的满手粪的",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 631,
@@ -170,6 +173,7 @@
         {
             "author": 631,
             "body": "<p>尬乳？</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1522,
@@ -188,6 +192,7 @@
         {
             "author": 1090,
             "body": "打他",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -202,6 +207,7 @@
         {
             "author": 1496,
             "body": "别看他今天闹得欢",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -216,6 +222,7 @@
         {
             "author": 673,
             "body": "<p>他偷的时候是不是三只手合力？如果是的话你也三只手合力把他逮住。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

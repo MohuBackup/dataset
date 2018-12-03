@@ -20,6 +20,7 @@
         {
             "author": null,
             "body": "你可以改成别的问题。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -29,6 +30,7 @@
         {
             "author": 1020,
             "body": "<p>进数据库删</p><p>delete from Sys_Question&nbsp;</p><p>where Sys_QuestionID = 'x'</p><p>--x指你的问题ID，此ID在你的URL后面那几位数字，比如这个是2956</p><p><br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,

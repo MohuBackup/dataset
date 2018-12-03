@@ -24,6 +24,7 @@
         {
             "author": 35,
             "body": "每分钟变成了61秒，为他+1s后还有60秒！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 40,
@@ -62,6 +63,7 @@
         {
             "author": 56,
             "body": "你江是这个网站的拓荒者+首批用户",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 40,
@@ -92,6 +94,7 @@
         {
             "author": 2,
             "body": "比起知乎太安逸了",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

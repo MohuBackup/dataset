@@ -28,6 +28,7 @@
         {
             "author": 1438,
             "body": "<p>有这事吗？</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -37,6 +38,7 @@
         {
             "author": 881,
             "body": "<p>没听说过这个事情</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

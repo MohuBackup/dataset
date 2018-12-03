@@ -32,6 +32,7 @@
         {
             "author": 9,
             "body": "你这个让我想起以前我们的房东<br>\n有人来看房子时他们把邋遢的地方都藏起来",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -110,6 +111,7 @@
         {
             "author": 3,
             "body": "就是啊",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -156,6 +158,7 @@
         {
             "author": 20,
             "body": "就是啊（",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 42,
@@ -190,6 +193,7 @@
         {
             "author": 52,
             "body": "就是啊",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,

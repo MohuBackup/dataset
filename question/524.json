@@ -20,6 +20,7 @@
         {
             "author": 56,
             "body": "问题被折叠/被删就有可能会减少，不过你什么都不干的话威望是不会凭空变少的",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 631,
@@ -58,6 +59,7 @@
         {
             "author": 631,
             "body": "随着你寿命的减少一并减少了。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -92,6 +94,7 @@
         {
             "author": 881,
             "body": "时间为什么会减少？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 640,
@@ -106,6 +109,7 @@
         {
             "author": 834,
             "body": "我甚至不知道怎么设置头像和个签",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,

@@ -52,6 +52,7 @@
         {
             "author": 709,
             "body": "<p>这个歌曲是坠吼的</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -61,6 +62,7 @@
         {
             "author": 1627,
             "body": "<p>推荐一下另一首歌</p><p><br></p><p><br></p><p>情定扬州</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -70,6 +72,7 @@
         {
             "author": 881,
             "body": "<p>滋磁一个</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

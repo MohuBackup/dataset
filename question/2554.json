@@ -24,6 +24,7 @@
         {
             "author": null,
             "body": "<p>秦爱纷奢，人亦念其家。奈何取之尽锱铢，用之如泥沙</p>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 2063,
@@ -58,6 +59,7 @@
         {
             "author": 1655,
             "body": "<p>人有恶眼想要急速发财，却不知穷乏必临到他身(著名膜蛤本篇)。</p><p>不要逃税，我们共建新中国(总输妓并感)。</p><p><img src=\"/uploads/ueditor/20180910/1536580876264269.png\" title=\"1536580876264269.png\" alt=\"Google 翻譯.png\"></p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -72,6 +74,7 @@
         {
             "author": null,
             "body": "包子爱菜，取汁有刀。。。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,
@@ -81,6 +84,7 @@
         {
             "author": 1090,
             "body": "从暗偷到明抢，肆无忌惮",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

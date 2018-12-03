@@ -24,6 +24,7 @@
         {
             "author": 430,
             "body": "里面不但有毒菜，还有过期腊肉，甚至还有书，还有200斤小麦，还有粪呢",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1098,
@@ -58,6 +59,7 @@
         {
             "author": 673,
             "body": "<p>店以馅有问题，用来暗示某包子的“里面”有问题。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1098,
@@ -76,6 +78,7 @@
         {
             "author": null,
             "body": "苏州人表示：没听说过",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1098,
@@ -94,6 +97,7 @@
         {
             "author": 1347,
             "body": "<p>可能是屎做的，吃完会满脸喷粪。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

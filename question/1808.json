@@ -20,6 +20,7 @@
         {
             "author": 1471,
             "body": "<p>VOA，RFA（好像也有轮子），苹果日报，BBC，RFI。</p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -42,6 +43,7 @@
         {
             "author": 1414,
             "body": "<p>文茜世界周报</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -60,6 +62,7 @@
         {
             "author": 1328,
             "body": "米国之音",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -74,6 +77,7 @@
         {
             "author": 881,
             "body": "<p>美国之音，bbc，德国之音，fnn（手动蛤稽）</p><p>像共匪和轮子的新闻可以看，但自己本身也要判断</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -88,6 +92,7 @@
         {
             "author": 1523,
             "body": "<p>紐約時報</p><p>法廣</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -97,6 +102,7 @@
         {
             "author": 1444,
             "body": "CNN Education",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

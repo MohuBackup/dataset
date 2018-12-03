@@ -24,6 +24,7 @@
         {
             "author": -1,
             "body": "题主应该是手机端吧？这是 WeCenter系统在手机浏览器端的 Bug，解决方法：拉到最下面，访问桌面版网站。<br>\nTips：桌面版网站是自适应的，除了小部分 Bug 以外，基本和手机网页版保持一致。而且桌面版的东西比手机版的全（比如还有发文章功能）。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 167,
@@ -46,6 +47,7 @@
         {
             "author": 167,
             "body": "为什么每次返回的时候往下拉的好多东西都要重新加载？",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

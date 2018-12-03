@@ -20,6 +20,7 @@
         {
             "author": 1414,
             "body": "<p>裤子已脱</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 631,
@@ -38,6 +39,7 @@
         {
             "author": 430,
             "body": "吼哇吼哇，管家最喜欢看大哥哥的女装照啦ヽ(=^･ω･^=)丿",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -52,6 +54,7 @@
         {
             "author": 1498,
             "body": "<p>快点发上来吧，已经等不及了（嗯？）</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -66,6 +69,7 @@
         {
             "author": 1562,
             "body": "天了噜",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -75,6 +79,7 @@
         {
             "author": 1627,
             "body": "<p>此贴为证&nbsp;</p><p><br></p><p>不发是小狗</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -84,6 +89,7 @@
         {
             "author": 881,
             "body": "<p>赶紧发</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

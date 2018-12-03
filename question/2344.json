@@ -36,6 +36,7 @@
         {
             "author": 1655,
             "body": "<p>27岁，是个长者(确信)</p><p>草到心肺停止</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -45,6 +46,7 @@
         {
             "author": 881,
             "body": "<p>长者27岁单身</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -54,6 +56,7 @@
         {
             "author": 1393,
             "body": "<p>你的圖片看不了</p>",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -63,6 +66,7 @@
         {
             "author": 1044,
             "body": "看不了图片 有点安轨",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

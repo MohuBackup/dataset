@@ -20,6 +20,7 @@
         {
             "author": 1578,
             "body": "<p>喝一口，满嘴江湖习气</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1141,
@@ -42,6 +43,7 @@
         {
             "author": null,
             "body": "友情提示，蜂蜜是管制物资，皇家特供，您疑似犯投机倒把罪，请迅速去派出所自首",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -60,6 +62,7 @@
         {
             "author": 673,
             "body": "<p>枸杞有延年益寿功效，但是加了蜂蜜会变年轻</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2040,

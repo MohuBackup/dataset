@@ -20,6 +20,7 @@
         {
             "author": 1234,
             "body": "Google+",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 10,
@@ -38,6 +39,7 @@
         {
             "author": 1103,
             "body": "<p>line，whatsapp，Skype</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 10,
@@ -52,6 +54,7 @@
         {
             "author": 10,
             "body": "<p>Antox 加密性强<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -61,6 +64,7 @@
         {
             "author": 1022,
             "body": "<p>pixiv,reddit,instagram,twitch,niconico,line,维基百科youtube的APP版</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -70,6 +74,7 @@
         {
             "author": 54,
             "body": "<p style=\"text-align: center;\">我钦点Skype<img src=\"/uploads/ueditor/20180615/1529069675553999.png\" title=\"1529069675553999.png\" alt=\"未命名.png\"></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

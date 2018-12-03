@@ -24,6 +24,7 @@
         {
             "author": 56,
             "body": "<a href=\"https://nova.xyz/\" rel=\"nofollow\" target=\"_blank\">https://nova.xyz</a>&nbsp;现成的绝赞推荐<br>\n如果你要自搭。。我用的就是vultr啊，一下子买几台机子，一个一个ping，哪台能用就哪台",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 997,
@@ -42,6 +43,7 @@
         {
             "author": null,
             "body": "表示vultr的2.5刀用的不错。<br>\n有卡建议直接GCP捞一年再说",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -51,6 +53,7 @@
         {
             "author": 997,
             "body": "其实lantern虽然现在被骂但测试版的也不错，不过钱是题主的所以我觉得你还是慎重。github上issue很多人说lantern用不了了，我换了最新版就能用了。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

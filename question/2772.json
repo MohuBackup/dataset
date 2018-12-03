@@ -20,6 +20,7 @@
         {
             "author": 1662,
             "body": "<p>感觉刁爆了</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1510,
@@ -46,6 +47,7 @@
         {
             "author": null,
             "body": "最新消息，该鸟犯现行反革命，已被革命委员会判处枪决，人民群众无不拍手称快。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1510,
@@ -68,6 +70,7 @@
         {
             "author": 673,
             "body": "<p>还以为发生了这样的真实事件</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

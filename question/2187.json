@@ -24,6 +24,7 @@
         {
             "author": 1,
             "body": "<p>matomo记录的数据只用于统计，不会和登陆的用户信息关联起来。为了安全，我们不敢使用国内的第三方平台，只能自己搭建。</p><p>-------------------------------</p><p>关于matomo记录用户ip地址的解决方案:</p><p>在/core/IP.php中第83行与84行之间加入以下代码</p><p>$proxyHeaders = array('REMOTE_ADDR');<br></p>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -62,6 +63,7 @@
         {
             "author": 56,
             "body": "在tg群里看见这个的我，特地登上号来bb几句。<br>\n事情是这样的，我们团队几个人在一个月前想搞个站内统计，但是国内的我们敢用？google的话，站长说国内无法访问，于是我们自己搭建了一个。<br>\n到现在为止，我没有看到任何直接的用户ip，后台的最后登录ip与注册ip都是cloudflare的，如果谁ip被我们记录了，而且并非使用在统计上，或者提交给别人，我直播日五档电风扇谢罪好吧。<br>\n如果题主有不记录ip的解决方案，欢迎在tele群里找管理员提交代码，谢谢茄子。",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1,
@@ -92,6 +94,7 @@
         {
             "author": 881,
             "body": "<p>难道这是个钓鱼网站？</p>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -122,6 +125,7 @@
         {
             "author": 1691,
             "body": "这段代码应该不仅仅只记录ip，还会记录设备类型、浏览器版本等信息。<br>\n希望站长能够删除这段代码。",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -148,6 +152,7 @@
         {
             "author": 1536,
             "body": "<p>在站长删除这段代码之前，我建议可以使用Adblock Plus等浏览器插件屏蔽统计代码，或者使用Header Editor浏览器插件导入如下规则阻止请求：</p><blockquote><pre>{<br>\n<br>\n\t\"request\":&nbsp;[<br>\n<br>\n\t\t{<br>\n<br>\n\t\t\t\"enable\":&nbsp;0,<br>\n<br>\n\t\t\t\"name\":&nbsp;\"阻止膜乎上的matomo(piwik)统计代码\",<br>\n<br>\n\t\t\t\"ruleType\":&nbsp;\"cancel\",<br>\n<br>\n\t\t\t\"matchType\":&nbsp;\"regexp\",<br>\n<br>\n\t\t\t\"pattern\":&nbsp;\"https://(www\\\\.)?mohu\\\\d?\\\\..+/matomo/piwik\\\\.js\",<br>\n<br>\n\t\t\t\"exclude\":&nbsp;\"\",<br>\n<br>\n\t\t\t\"isFunction\":&nbsp;false,<br>\n<br>\n\t\t\t\"action\":&nbsp;\"cancel\",<br>\n<br>\n\t\t\t\"id\":&nbsp;1<br>\n<br>\n\t\t}<br>\n<br>\n\t],<br>\n<br>\n\t\"sendHeader\":&nbsp;[],<br>\n<br>\n\t\"receiveHeader\":&nbsp;[]<br>\n}</pre><p><br></p></blockquote>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -166,6 +171,7 @@
         {
             "author": 1414,
             "body": "<p>我靠，老子慌得一笔</p>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1627,
@@ -184,6 +190,7 @@
         {
             "author": 1393,
             "body": "<p>拆你自淫對此事表示密切關注。</p>",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1426,
@@ -198,6 +205,7 @@
         {
             "author": null,
             "body": "这。。大陆不都是翻墙上的吗，用的ip也不是自己的",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,
@@ -207,6 +215,7 @@
         {
             "author": null,
             "body": "<p>按我说，站长就应该改成CNZZ统计，反正被统计的是这群歹徒，不想被统计的用tor就够了！</p>",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,
@@ -216,6 +225,7 @@
         {
             "author": 631,
             "body": "<p>这都是客户端的代码，服务器端的代码是执行完再发出的，因此浏览器里不会被显示的。。。换句话说就是即使记录了你也不知道</p>",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

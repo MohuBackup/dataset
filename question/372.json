@@ -20,6 +20,7 @@
         {
             "author": 1,
             "body": "写着玩的，没啥意义(〃'▽'〃)",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 167,
@@ -50,6 +51,7 @@
         {
             "author": 56,
             "body": "用爱发电。<br>\n灵感来源于某ssr网站：https://nova.xyz",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,
@@ -59,6 +61,7 @@
         {
             "author": null,
             "body": "暗示网站幕后是盗国贼?",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

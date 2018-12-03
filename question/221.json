@@ -32,6 +32,7 @@
         {
             "author": 1,
             "body": "喵喵喵?",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 546,
@@ -46,6 +47,7 @@
         {
             "author": 353,
             "body": "然后命没了",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -55,6 +57,7 @@
         {
             "author": 430,
             "body": "关注了很久才发现，其实小管家更可爱",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

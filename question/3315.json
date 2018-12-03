@@ -24,6 +24,7 @@
         {
             "author": 2226,
             "body": "炸，炸，炸！",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1662,
@@ -42,6 +43,7 @@
         {
             "author": null,
             "body": "据说这是大鸟家的摇钱树和提款机？是不是真的",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,
@@ -56,6 +58,7 @@
         {
             "author": 2143,
             "body": "<p>炸掉了以后失去的也回不来了</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

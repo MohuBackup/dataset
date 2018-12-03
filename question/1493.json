@@ -28,6 +28,7 @@
         {
             "author": 1414,
             "body": "<p>有一个用户没有账号，据我所知也没上过这个网站，却是这个网站坠活跃的用户，不断而且反复的被提起。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -54,6 +55,7 @@
         {
             "author": 1090,
             "body": "第三个",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 414,
@@ -68,6 +70,7 @@
         {
             "author": 915,
             "body": "<p>首先，排除掉我自己。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,
@@ -77,6 +80,7 @@
         {
             "author": 500,
             "body": "<p>然后，排除掉我。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -86,6 +90,7 @@
         {
             "author": 834,
             "body": "现在，再排除掉我",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -95,6 +100,7 @@
         {
             "author": 640,
             "body": "所以，再排除掉我",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -104,6 +110,7 @@
         {
             "author": 902,
             "body": "我是维尼，我为自己除名",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -113,6 +120,7 @@
         {
             "author": 1377,
             "body": "我人在夹边沟，我肯定不是",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -122,6 +130,7 @@
         {
             "author": 204,
             "body": "<p>我开法拉利已经到秦城了&nbsp;</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -131,6 +140,7 @@
         {
             "author": 567,
             "body": "我肯定不是",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -140,6 +150,7 @@
         {
             "author": 1092,
             "body": "<p>车间工作忙，无暇上膜乎</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -149,6 +160,7 @@
         {
             "author": 1087,
             "body": "<p>omit me</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

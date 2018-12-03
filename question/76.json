@@ -20,6 +20,7 @@
         {
             "author": 1,
             "body": "目前好像有六七个吧",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -42,6 +43,7 @@
         {
             "author": 27,
             "body": "好几百个管理员",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 48,
@@ -56,6 +58,7 @@
         {
             "author": 11,
             "body": "到那个时候我们会表态的。",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -70,6 +73,7 @@
         {
             "author": 204,
             "body": "就是豪迈！",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 145,
@@ -84,6 +88,7 @@
         {
             "author": 56,
             "body": "十万甚至九万",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

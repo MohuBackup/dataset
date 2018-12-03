@@ -28,6 +28,7 @@
         {
             "author": 1414,
             "body": "<p>靡靡之音，轻歌曼舞，长大了都没出息</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -42,6 +43,7 @@
         {
             "author": 1511,
             "body": "<p>孙哥，我着火啦</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 546,

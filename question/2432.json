@@ -20,6 +20,7 @@
         {
             "author": 1974,
             "body": "<p>exciting！</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2040,
@@ -42,6 +43,7 @@
         {
             "author": 1792,
             "body": "吼哇！！！青年们，大家起来",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1438,
@@ -56,6 +58,7 @@
         {
             "author": 673,
             "body": "<p>你们给扬州搞得这个比赛：亦可赛艇。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1438,

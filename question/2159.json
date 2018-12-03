@@ -28,6 +28,7 @@
         {
             "author": 1414,
             "body": "<p>新蛤社需要你</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1536,
@@ -46,6 +47,7 @@
         {
             "author": 1536,
             "body": "<p>我看了一下WeCenter的源代码，在 <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"0e626169614e3c76207e6069\">[email&nbsp;protected]</a>。在屏幕分辨率超过 192dpi 时，logo图标会自动切换为<a href=\"//cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a3cfccc4cce391db8dd3cdc4\">[email&nbsp;protected]</a> （<a href=\"/uploads/ueditor/20180807/1533637105626863.png\" title=\"1533637105626863.png\" alt=\"屏幕截图(1564).png\"></a></p><p><a href=\"/uploads/ueditor/20180807/1533637105626863.png\" title=\"1533637105626863.png\" alt=\"屏幕截图(1564).png\">建议删掉</a><a href=\"/static/css/default/common.css\">/static/css/default/common.css</a>&nbsp; &nbsp;第995行 background-size: 60px auto;</p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 631,

@@ -28,6 +28,7 @@
         {
             "author": 430,
             "body": "www.fbi.gov",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -42,6 +43,7 @@
         {
             "author": 1201,
             "body": "<p><a href=\"http://www.github.com/\">www.github.com</a></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,

@@ -40,6 +40,7 @@
         {
             "author": 1705,
             "body": "<p>加起来共有31人遇难。<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2304,
@@ -54,6 +55,7 @@
         {
             "author": 2880,
             "body": "<p>绕得我头疼<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -63,6 +65,7 @@
         {
             "author": 2571,
             "body": "<p>dd</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

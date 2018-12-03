@@ -20,6 +20,7 @@
         {
             "author": 1,
             "body": "这个bug是如何触发的？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1128,
@@ -46,6 +47,7 @@
         {
             "author": 881,
             "body": "<p>是我的文章耶！</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 918,
@@ -68,6 +70,7 @@
         {
             "author": 673,
             "body": "那个多出来的+1赞难道是无处不在的虵。。。。。。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -82,6 +85,7 @@
         {
             "author": 1377,
             "body": "可能是长者注册了膜乎帐号，扭曲了我们与服务器之间的时空，甚至创造了新的位面。。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -96,6 +100,7 @@
         {
             "author": 1377,
             "body": "可能是长者注册了膜乎帐号，扭曲了我们与服务器之间的时空，甚至创造了新的位面。。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -110,6 +115,7 @@
         {
             "author": 640,
             "body": "这bug 。。。。。。<br>\n你们仔细找找，一堆",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

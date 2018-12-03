@@ -20,6 +20,7 @@
         {
             "author": null,
             "body": "应该是美元",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1911,
@@ -34,6 +35,7 @@
         {
             "author": 1709,
             "body": "政府是党的爪牙",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1911,

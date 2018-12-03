@@ -24,6 +24,7 @@
         {
             "author": 54,
             "body": "<p>尬膜枪毙<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1052,
@@ -46,6 +47,7 @@
         {
             "author": 669,
             "body": "枪毙",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -60,6 +62,7 @@
         {
             "author": 934,
             "body": "<p>确实是尬膜。不过这回是新华网官方尬膜，我只是搬运工，哈哈。。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -74,6 +77,7 @@
         {
             "author": 1138,
             "body": "<p>新蛤网，和新蛤社什么关系啊</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,

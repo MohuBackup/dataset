@@ -24,6 +24,7 @@
         {
             "author": 2136,
             "body": "此山是我开,此树是我栽。要想过此路,留下买路财。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -46,6 +47,7 @@
         {
             "author": 1488,
             "body": "天朝政府一贯作风，这就跟放羊一样，不给你们草吃又养不肥，先放养你们一波，这片地你们随便撒欢随便吃，然后等你们吃肥了<br>\n就是出栏的时间了。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -68,6 +70,7 @@
         {
             "author": null,
             "body": "代购赚的少么？一次能赚多少自己心里清楚。",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,

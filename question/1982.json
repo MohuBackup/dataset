@@ -32,6 +32,7 @@
         {
             "author": 1561,
             "body": "看什么病？脑膜炎？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -58,6 +59,7 @@
         {
             "author": 881,
             "body": "<p>这家医院已经有九十多年的历史了，历史悠久，身经百战。并且媒体认为这家医院还可以继续开下去。</p><p>但是它也有缺点，因为只能治疗脑膜炎，受到了广泛的批评。此外消耗时间过长，导致efficiency下降也是个问题。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -80,6 +82,7 @@
         {
             "author": 1507,
             "body": "吼啊！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1090,
@@ -94,6 +97,7 @@
         {
             "author": 1414,
             "body": "<p>吃枣?</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -103,6 +107,7 @@
         {
             "author": 673,
             "body": "门诊什么啊？",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

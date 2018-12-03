@@ -24,6 +24,7 @@
         {
             "author": 6,
             "body": "<p>自问自答。另外，谢绝不懂这在技术上是怎么一回事的壬强行黑屁。</p><p>这可以看出 GFW 的屏蔽更进一步了，不妙啊不妙。</p><p>那天我想上汉文维百，发现中奖了，可能我是第一批发现这个的。</p><p>附（不太完整的）受影响网站名单：</p><ul style=\"list-style-type: disc;\"><li><p>部分维基媒体</p></li><li><p>亚马逊日本（但是，为什么？）</p></li><li><p>Quora</p></li><li><p>Reddit</p></li><li><p>Telegram Bot API（其实屏蔽真没什么用这个）<br></p></li><li><p>Pixiv（啊啊啊其实一开始还没检测的，有天我想看的时候突然发现被检测了，，，被我毒奶的可能性微レ存？虽然迟早……）</p></li></ul><p>关于 Telegram Bot API，莉莉白已紧急添加改变请求 root 的功能，内地用户可以把 root 改为 IP，这样不会遭到 SNI 检测。</p><p>Sauketu 就应用了这次莉莉白的紧急更新，得以在内地继续运作。</p><p>再来看 Pixiv，这是我在骨折群发表的观察记录：</p><p><img src=\"/uploads/ueditor/20180921/1537535873629397.png\" title=\"1537535873629397.png\" alt=\"C_QAP[LUS}DW7SMUKCLYU0H.png\"></p><p>（啊啊 8 月 26 日发的那张图被脆炸镰鼬吐槽口味重了，所以请随意愿无视这个）</p><p>而 Pixiv 我大概是 2018 年 9 月 15 日早晨想看 Kemono 图的时候，发现被重置了。</p><p>[Tsuzuku]</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -38,6 +39,7 @@
         {
             "author": 1116,
             "body": "<p>可以理解为加强版的dns污染，但是现在很少有人改host上网了吧...</p><p><br></p><p>能翻的还是能翻，不能翻的小粉红们留在墙内也好。GFW到目前为止都是在不断提高翻墙的技术门槛，所以我觉得门槛变高没什么好大惊小怪的。如果有一天ZF提高翻墙的法律门槛或者直接切断海底光缆，wcnmlgb<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1888,
@@ -52,6 +54,7 @@
         {
             "author": 1705,
             "body": "<p>记得以前去quora，还有个讨论quora为什么没被gfw的帖子hh<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1888,
@@ -66,6 +69,7 @@
         {
             "author": 2290,
             "body": "<p>那么我用酸酸乳有影响吗，，，</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,
@@ -75,6 +79,7 @@
         {
             "author": 2100,
             "body": "<p>有趣的是&nbsp;GFW&nbsp;开始 SNI&nbsp;检测的日期距 TLS 1.3&nbsp;正式版推出的日期不久。一旦 TLS 1.3&nbsp;普及，GFW&nbsp;现有的&nbsp;SNI&nbsp;检测方法将会失效。其实很多年前可以实行&nbsp;SNI&nbsp;检测，偏偏等到 TLS 1.3&nbsp;正式版出来之后才开始实行&nbsp;SNI&nbsp;检测。所以有理由猜测 GFW&nbsp;的程序员平时磨洋工，这次趁着 TLS 1.3&nbsp;还没有普及，赶紧进行一次技术“升级”，骗一波经费。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 2,

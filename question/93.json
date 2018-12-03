@@ -20,6 +20,7 @@
         {
             "author": 26,
             "body": "我",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 11,
@@ -62,6 +63,7 @@
         {
             "author": 4,
             "body": "我创建了话题“鹳”。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 27,

@@ -20,6 +20,7 @@
         {
             "author": 54,
             "body": "<p><a href=\"/people/EzawaNico\" class=\"aw-user-name\" data-id=\"1\">@EzawaNico</a> <br></p><p>默认关注，不过我就是取关了。<br></p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1428,
@@ -34,6 +35,7 @@
         {
             "author": 915,
             "body": "当蓝是站长EzawaNico啦",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 2,

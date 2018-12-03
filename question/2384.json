@@ -20,6 +20,7 @@
         {
             "author": 1627,
             "body": "<p>别害怕&nbsp;</p><p><br></p><p>名单很长&nbsp;</p><p><br></p><p>值得等待</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1792,
@@ -102,6 +103,7 @@
         {
             "author": 2052,
             "body": "<p>没有绝对的安全，墙内墙外都一样。个人能做的无非是还要学习一个，努力提高自己的网络安全姿势水平；不要too young too simple，闷声大发财，这是坠吼滴<br></p><p><br></p><p>编程随想的博客上有很多相关的姿势（这里声明一点，在下和该博客的博主没有任何利益关系，对博主的政治观点也并非一律赞同），概述一下有：多重代理隐藏IP、虚拟机隔离身份、谨防天朝流氓软件泄露信息、用Linux系统做敏感操作、做好社会工程学的防护，等等<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 607,
@@ -148,6 +150,7 @@
         {
             "author": 2063,
             "body": "醒醒，赵家人的钱还要用于吃喝玩乐，奢靡腐化呢，哪有闲钱抓你（滑稽）",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -190,6 +193,7 @@
         {
             "author": 1701,
             "body": "说实话我也有点方，兔子逼急了还咬人呢，更何况是有蘑菇蛋的流氓兔，说不准真的世界核平了怎么办？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1426,
@@ -220,6 +224,7 @@
         {
             "author": 2100,
             "body": "<p>还是要提高自己的安全意识</p><p><br></p><p>用临时邮箱注册</p><p><br></p><p>不要用自己的邮箱注册，就算站方不公开你的信息，也无法保证网站不会被入侵<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -234,6 +239,7 @@
         {
             "author": 2164,
             "body": "防范国产黑客网军对贵站发动的包括但不限于ddos的网络攻击，防范盗取网站用户名密码库的行为。如果服务器在海外，发生攻击时，尽快与所在国法务部门联系。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -243,6 +249,7 @@
         {
             "author": 1,
             "body": "<p>/question/120</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -252,6 +259,7 @@
         {
             "author": 1753,
             "body": "<p>既然没有办法翻过去 那就架个梯子<br></p><p>实在不行我们就给墙开个洞</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -261,6 +269,7 @@
         {
             "author": 2520,
             "body": "你看这名单长又长 不差破绽的这点体量",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -270,6 +279,7 @@
         {
             "author": 2174,
             "body": "<p>像我就比较机智tempmail注册，现编一个秘码，vps代理访问，也就能查到个我的vps的ip地址，就不用怕被查水表了。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 2,

@@ -32,6 +32,7 @@
         {
             "author": 2143,
             "body": "<p><a href=\"/question/2426\" target=\"_self\" title=\"\">变身超人</a><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1754,
@@ -46,6 +47,7 @@
         {
             "author": null,
             "body": "《我恨维尼》",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

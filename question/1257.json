@@ -36,6 +36,7 @@
         {
             "author": 673,
             "body": "<p>红衣，眼镜</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -54,6 +55,7 @@
         {
             "author": 1103,
             "body": "这是最吼的",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -63,6 +65,7 @@
         {
             "author": 881,
             "body": "<p>就是一群吃饱了没事干的外国人</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

@@ -24,6 +24,7 @@
         {
             "author": 600,
             "body": "腾讯这个安全联盟和谷歌浏览器的标准不一样，这个标记必须通过给腾讯交保护费的方式来去除，如果不在腾讯白名单里，即使是HTTPS也会被标注为恶意网站。<br>\n总的来说，就是腾讯既想通过这个安全标识向网站站长要钱，也想利用自己庞大的用户基数，通过这种虚假的、主观的、公正性几乎没有的安全认证，向用户推销自己的防毒软件（毕竟大部分用户都是小白，看到这种“安全”标识就秒怂了，势必会使网站流量出现一定程度的下降）",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 40,
@@ -158,6 +159,7 @@
         {
             "author": 295,
             "body": "有使生命减少的危险，难道还不粘重吗？？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 595,
@@ -244,6 +246,7 @@
         {
             "author": 167,
             "body": "“下载手机管家”一项是默认勾选，记得取消掉……",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -314,6 +317,7 @@
         {
             "author": -1,
             "body": "管家并没有把网站屏蔽掉，墙在网站的面前还是停了下来。<br>\n从下面的这张图片中可以看出，腾讯铁骑保持了<a href=\"//cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e88c808c8a8ca89e9b9b\">[email&nbsp;protected]</a>:s;skwk庆丰@;@;a/s;wa万xnznamalkss岁(;);:<a href=\"//cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"c7e687\">[email&nbsp;protected]</a>习主@;~ks*dnm(p席!/!k(*@)))万岁！<br>\n同志，早点认错不就好了吗。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 546,
@@ -352,6 +356,7 @@
         {
             "author": 40,
             "body": "貌似是因为免费域名ml导致的，因为以前很多人都用这些免费域名搞一些刷钻网站。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 327,
@@ -378,6 +383,7 @@
         {
             "author": 430,
             "body": "应该是检测到关键词了吧",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 327,
@@ -404,6 +410,7 @@
         {
             "author": 297,
             "body": "一派胡言，我感到非常气愤",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 295,
@@ -430,6 +437,7 @@
         {
             "author": 1,
             "body": "据说腾讯会对QQ浏览器(包括QQ/微信自带的浏览器)访问的网站进行关键词检测，检测到某些关键词次数足够后会自动标记为危险网站，甚至向GFW上报枪毙名单",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 872,
@@ -452,6 +460,7 @@
         {
             "author": 887,
             "body": "一派胡言，腾讯明明是思想江化",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -461,6 +470,7 @@
         {
             "author": 1312,
             "body": "<p>可以去管家申请解除</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

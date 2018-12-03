@@ -20,6 +20,7 @@
         {
             "author": 1234,
             "body": "<p>我记得当年是赵紫阳和英国女王签的协议</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1225,

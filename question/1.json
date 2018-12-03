@@ -20,6 +20,7 @@
         {
             "author": 56,
             "body": "这是一个测试答案",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 167,
@@ -74,6 +75,7 @@
         {
             "author": 27,
             "body": "折叠测试，快来折叠我！",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": -1,
@@ -108,6 +110,7 @@
         {
             "author": 1051,
             "body": "【InternetExplorer新闻快报】今天，我们宣布在膜乎开设官方账号，并为广大膜友进行新闻快报，此举江有助于他们了解新时代的大事，更好地参与到膜类运动中去。目前，我们已经让膜乎副站长rowingbohe安排上了。（2018年5月5日）",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -142,6 +145,7 @@
         {
             "author": 9,
             "body": "嘿嘿，以后那些我在主站不敢发的好问答就发这里",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 3,
@@ -164,6 +168,7 @@
         {
             "author": 389,
             "body": "假装是元老（没错那个新来的，就是在对你说这句话）",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 333,
@@ -186,6 +191,7 @@
         {
             "author": 915,
             "body": "这是一个带图片的测试答案",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 640,
@@ -204,6 +210,7 @@
         {
             "author": 881,
             "body": "<p>滋磁</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 669,
@@ -218,6 +225,7 @@
         {
             "author": 640,
             "body": "这是一个带声音的测试答案<br>\n『嗯...啊...yea...I'm fucking coming...deep dark fantasy』",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2421,
@@ -232,6 +240,7 @@
         {
             "author": 669,
             "body": "这可是坠吼的啊！",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -241,6 +250,7 @@
         {
             "author": 1385,
             "body": "恶民猛膜命秒没",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

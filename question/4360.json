@@ -20,6 +20,7 @@
         {
             "author": 3115,
             "body": "<p>打着xx反xx，早有这个说法了好吧。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -38,6 +39,7 @@
         {
             "author": 1705,
             "body": "<p>肉身翻墙，然后在墙内发帖。<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2880,
@@ -52,6 +54,7 @@
         {
             "author": 2601,
             "body": "内容的姿势水平一定要比包子高",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -66,6 +69,7 @@
         {
             "author": 2999,
             "body": "<p>用gpg加密，然後發到網上</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2880,

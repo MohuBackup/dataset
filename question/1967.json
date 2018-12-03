@@ -24,6 +24,7 @@
         {
             "author": 1,
             "body": "<p>无可奉告！</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 604,
@@ -58,6 +59,7 @@
         {
             "author": 673,
             "body": "<p>不管是女装还是少女，只要是和妮可有关就萌</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 604,
@@ -80,6 +82,7 @@
         {
             "author": 56,
             "body": "是不是不确定，but我知道我们团队新来了一个小姐姐@膜乎员工的日常",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -98,6 +101,7 @@
         {
             "author": 915,
             "body": "事",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -112,6 +116,7 @@
         {
             "author": 604,
             "body": "假的，如果是女的简介会写程序媛",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,

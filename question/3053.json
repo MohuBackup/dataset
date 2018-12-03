@@ -24,6 +24,7 @@
         {
             "author": 1393,
             "body": "<p>“我爱国无罪。”</p><p>我一边刷一边喊</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2341,
@@ -70,6 +71,7 @@
         {
             "author": 2143,
             "body": "<p>鉴 不 鉴 啊</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -88,6 +90,7 @@
         {
             "author": null,
             "body": "<p>那你真的很爱国</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2575,
@@ -102,6 +105,7 @@
         {
             "author": 1385,
             "body": "<p>太 鉴 了(确信)</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

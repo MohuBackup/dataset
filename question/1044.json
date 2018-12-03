@@ -24,6 +24,7 @@
         {
             "author": 1192,
             "body": "<p>因为要把时间续给他 所以换头像的这个时间效率啊 出现了偏差</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -50,6 +51,7 @@
         {
             "author": 669,
             "body": "我也是，站长解释一下啊??",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -68,6 +70,7 @@
         {
             "author": 430,
             "body": "cdn的问题，cloudflare貌似不会自动清空缓存",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -82,6 +85,7 @@
         {
             "author": 546,
             "body": "我TM笑爆这个问题",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 669,

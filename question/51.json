@@ -36,6 +36,7 @@
         {
             "author": 11,
             "body": "He knows nothing, but he dares to delete everything, this is very important.",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 4,

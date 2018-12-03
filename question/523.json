@@ -28,6 +28,7 @@
         {
             "author": 611,
             "body": "那玩意儿就是个文档，是之前的架构师觉得应该有这个模块，后来的程序员发现实现这个功能要改的代码太多了，就干脆只留个空函数，编译还是可以通过的，但是像89年有人去调用这个函数，就会死机，最后还是强行清内存解决掉的。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 612,
@@ -306,6 +307,7 @@
         {
             "author": 188,
             "body": "只是给了你这些自由，但并没有保证你这样之后不被抓",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -428,6 +430,7 @@
         {
             "author": 56,
             "body": "说明我们的政府马上又要改宪法了！！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 10,
@@ -530,6 +533,7 @@
         {
             "author": 500,
             "body": "倒车路上的一个障碍，改了就好。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -628,6 +632,7 @@
         {
             "author": 956,
             "body": "游行的时候要去政府申请 也就是说 那会儿重庆反日货游行 砸车那会儿 都是政府批准的。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -718,6 +723,7 @@
         {
             "author": 833,
             "body": "游行是要去跟政府申请的，要说明游行地点，时间，人数，而且全程都要有警方带路，其实合法的游行就是个摆设",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -804,6 +810,7 @@
         {
             "author": 461,
             "body": "你去天安门前游行一个试试？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -886,6 +893,7 @@
         {
             "author": 881,
             "body": "习：才看到还有泽条宪法，快改快改",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -956,6 +964,7 @@
         {
             "author": 416,
             "body": "<p>宪法(只)是一张写着人民权利的纸。</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ——列宁</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 872,
@@ -1026,6 +1035,7 @@
         {
             "author": 671,
             "body": "期待明年的两会！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -1076,6 +1086,7 @@
         {
             "author": 887,
             "body": "谢谢楼上的评价，你们已经享受了权利，拉出去续了吧",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -1126,6 +1137,7 @@
         {
             "author": 765,
             "body": "所有动物一律自由，只是有些动物更加自由而已。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 188,
@@ -1172,6 +1184,7 @@
         {
             "author": 834,
             "body": "最后一块遮羞布",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -1218,6 +1231,7 @@
         {
             "author": 412,
             "body": "<h1>中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由</h1><p>但没有那之后的自由……</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -1260,6 +1274,7 @@
         {
             "author": 1578,
             "body": "<p>宪法就是个大笑话，中纪委的存在还直接违宪呢不照样大肆抓人。</p><p><br></p><p>其实你要较真的话，宪法第一句“一切权利属于人民”就已经站不住脚了。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -1302,6 +1317,7 @@
         {
             "author": 54,
             "body": "确实有啊，只不过要批准。我们当年这里有反对日本侵占钓鱼岛的游行。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -1340,6 +1356,7 @@
         {
             "author": 872,
             "body": "去天安门豪迈一下？",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 412,
@@ -1378,6 +1395,7 @@
         {
             "author": 542,
             "body": "仅仅只是认为而已",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 444,
@@ -1404,6 +1422,7 @@
         {
             "author": 1046,
             "body": "需要经过政府同意的，看过《天安门》纪录片的就应该知道。<br>\n现在仍然是，游行示威需要经过政府同意。",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -1430,6 +1449,7 @@
         {
             "author": 1020,
             "body": "可能是有要向外国做宣传的需要，毕竟在外交部答问时是可以从法理上说我国是XX自由的国家的。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1115,
@@ -1456,6 +1476,7 @@
         {
             "author": 1393,
             "body": "<p>有 自由？自由个屁！！</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -1482,6 +1503,7 @@
         {
             "author": 1103,
             "body": "中国作为人权大国，我们保障人民的言论自由",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -1504,6 +1526,7 @@
         {
             "author": 1069,
             "body": "bullshit",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -1526,6 +1549,7 @@
         {
             "author": 2276,
             "body": "<p>谁是公民？没有人是公民，都是屁民，所以这句话没问题。<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -1544,6 +1568,7 @@
         {
             "author": null,
             "body": "<p>实际上有配套的行政法规限制此类自由，是某次戒严的延续</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,

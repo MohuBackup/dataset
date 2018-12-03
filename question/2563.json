@@ -20,6 +20,7 @@
         {
             "author": 2143,
             "body": "<p>老马识途</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2039,
@@ -94,6 +95,7 @@
         {
             "author": 1090,
             "body": "马云：反正我不做螳臂当车的歹徒，我可扛不起麦子跑五公里",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -124,6 +126,7 @@
         {
             "author": 881,
             "body": "<p>平易禁人</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 430,
@@ -150,6 +153,7 @@
         {
             "author": 1880,
             "body": "<p>明哲保身。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -164,6 +168,7 @@
         {
             "author": 1328,
             "body": "<p>抢救无效</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1643,
@@ -178,6 +183,7 @@
         {
             "author": 2136,
             "body": "<p>习以为常，近乎平壤</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -192,6 +198,7 @@
         {
             "author": 868,
             "body": "身不由己",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -206,6 +213,7 @@
         {
             "author": 1418,
             "body": "前车之鉴",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

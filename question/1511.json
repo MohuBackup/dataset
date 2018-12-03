@@ -24,6 +24,7 @@
         {
             "author": 902,
             "body": "<p>餐厅老板维尼熊说：“有些吃饱了没事干的顾客，对我们的食物指手画脚。饭店一不许剩菜，二必须吃完，三吃不完就不要点，还有什么好说的。”</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -70,6 +71,7 @@
         {
             "author": 1347,
             "body": "吃饱了没事干，打什么包。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1087,
@@ -92,6 +94,7 @@
         {
             "author": 1157,
             "body": "裆燃啦！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -106,6 +109,7 @@
         {
             "author": 934,
             "body": "<p>这问题以前膜乎问过一次。当时的结论是，要打“包”，而且要狠狠的打</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -120,6 +124,7 @@
         {
             "author": 1377,
             "body": "要腔调就不要包<br>\n要里子，包必须打<br>\n要是遇上没良心的，就不给你打包",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

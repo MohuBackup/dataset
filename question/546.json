@@ -20,6 +20,7 @@
         {
             "author": 902,
             "body": "1、膜乎上的“收藏”功能形同虚设，查看不了（已解决）<br>\n2、在“编辑回复”中也添加自动保存草稿的功能，以免手滑关掉<br>\n3、关于“发布文章”的建议同上<br>\n4、“分享”功能也如同虚设，建议在子选项再增一栏”复制链接“，指向自己的答案<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\" class=\"img-polaroid\" title=\"360截图-239810781.jpg\" alt=\"360截图-239810781.jpg\"></a>\n</div>\n<br>\n5、对于已发表的未匿名的答案，可以选择重新匿名",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": -1,
@@ -42,6 +43,7 @@
         {
             "author": 1385,
             "body": "滋磁emoji才是坠吼的",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -64,6 +66,7 @@
         {
             "author": 673,
             "body": "似乎用不了emoji？在我这里emoji显示的是一个半角问号。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -86,6 +89,7 @@
         {
             "author": 445,
             "body": "登录的时候输入邮箱感觉太长了，改成输入用户名吼不吼蛙<br>\n以及我现在连自己的uid在哪看都不知道<br>\n————————————————<br>\nemmmmmm…重新登陆了一遍发现原来能用用户名登录，看来我是naive了<br>\n—————————————————<br>\n觉得可以把用户列表改成枪毙名单，这样更恰当",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 640,
@@ -100,6 +104,7 @@
         {
             "author": -1,
             "body": "文章有评论时能滚上来，手机版能发文章",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -114,6 +119,7 @@
         {
             "author": 834,
             "body": "所有人都可以新建主题。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 3,
@@ -123,6 +129,7 @@
         {
             "author": 56,
             "body": "https://mohu1.tk/question/126",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -132,6 +139,7 @@
         {
             "author": 997,
             "body": "页面设计可以改善一下下，等我学会前端后希望能贡献一点微小的工作。还有就是不知道这样的网站那里有开源的代码。<br>\n&nbsp;",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 2,
@@ -141,6 +149,7 @@
         {
             "author": 1002,
             "body": "没有浏览历史记忆，点进一个问题再出来又得往下翻半天，就很难受。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -150,6 +159,7 @@
         {
             "author": 868,
             "body": "刚才我在膜乎看到一个膜乎问题的链接，但是不能点，我也懒得复制到地址栏。那么，膜乎能不能像bilibili一样，bilibili能通过av号转到视频，膜乎能不能通过问题号（或者其它的惟一确定一个问题的字符串）转到问题（或文章等）？",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,
@@ -159,6 +169,7 @@
         {
             "author": 1467,
             "body": "手机浏览器不能上传图片，上传了不显示",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

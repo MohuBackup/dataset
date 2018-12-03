@@ -20,6 +20,7 @@
         {
             "author": null,
             "body": "<p>这是&nbsp;cloudflare cdn&nbsp;的锅，cf&nbsp;对&nbsp;tor&nbsp;流量不友好</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1888,
@@ -38,6 +39,7 @@
         {
             "author": 2052,
             "body": "<p>我倒觉得这样挺好。看到人机身份验证，说明Tor工作正常。<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2596,
@@ -52,6 +54,7 @@
         {
             "author": 2304,
             "body": "<p><a href=\"/uploads/ueditor/20181023/1540230653225636.png\" title=\"1540230653225636.png\" alt=\"Screen Shot 2018-10-22 at 1.50.27 PM.png\"></a></p><a href=\"/uploads/ueditor/20181023/1540230653225636.png\" title=\"1540230653225636.png\" alt=\"Screen Shot 2018-10-22 at 1.50.27 PM.png\">\t\t\t\t\t\t\t\t\t\t</a>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -61,6 +64,7 @@
         {
             "author": 2174,
             "body": "<p>我用就没用这个问题，也许你需要ctrl shift L 换一条新线路。<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

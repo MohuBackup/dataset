@@ -24,6 +24,7 @@
         {
             "author": 1,
             "body": "标签就是答案系列",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -62,6 +63,7 @@
         {
             "author": 673,
             "body": "这一点啊，差不多我把许多的采访视频，包括bilibili上的中配采访视频，",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 9,

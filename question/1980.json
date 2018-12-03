@@ -36,6 +36,7 @@
         {
             "author": 1527,
             "body": "<p>这样一位元老级人物如果不在，我就要质疑膜乎的姿势水平了。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1414,
@@ -54,6 +55,7 @@
         {
             "author": 2014,
             "body": "<p>你猜？</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -72,6 +74,7 @@
         {
             "author": 1414,
             "body": "<p>咳咳咳，大家都不知道这位传奇的圣膜导师吗？</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -86,6 +89,7 @@
         {
             "author": 881,
             "body": "<p>应该不在吧</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

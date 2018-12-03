@@ -24,6 +24,7 @@
         {
             "author": 1157,
             "body": "<p>他已经连任四届了</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1316,
@@ -38,6 +39,7 @@
         {
             "author": 881,
             "body": "<p>是那个他还是那个虵？</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 1,

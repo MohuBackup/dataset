@@ -40,6 +40,7 @@
         {
             "author": 1414,
             "body": "<p>他不会用电脑和手机</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -62,6 +63,7 @@
         {
             "author": 881,
             "body": "<p>包子找不到回车键</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1862,

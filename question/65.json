@@ -20,6 +20,7 @@
         {
             "author": 3,
             "body": "人家的人生经验肯定比你丰富，就乖乖挨骂罢",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -46,6 +47,7 @@
         {
             "author": 35,
             "body": "再学习一个，认真听取人生经验，不要想搞个大新闻",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 3,
@@ -72,6 +74,7 @@
         {
             "author": 673,
             "body": "<p>你要落观一点，听取长辈经验的时候要让气氛更加轻松一点，最后不要忘了说一句“屑屑爷爷！”<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 54,

@@ -20,6 +20,7 @@
         {
             "author": 1586,
             "body": "<p>我们愿与他一起灭亡！</p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2955,
@@ -34,6 +35,7 @@
         {
             "author": 2955,
             "body": "<h1>太陽王</h1><p><br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

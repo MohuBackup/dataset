@@ -36,6 +36,7 @@
         {
             "author": null,
             "body": "轮儿功捧刁臭脚的软文，不看也罢！",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 1561,
@@ -54,6 +55,7 @@
         {
             "author": 2304,
             "body": "<p>只是想宽衣而已。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2955,
@@ -68,6 +70,7 @@
         {
             "author": 2903,
             "body": "<p>作者身在牆內，目前已經翻不成牆了。</p><p>對習撒幣後知後覺，嚴酷事實證明其期待是完全落空。<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

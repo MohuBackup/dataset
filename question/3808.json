@@ -24,6 +24,7 @@
         {
             "author": 2143,
             "body": "<p>就都不知道了！<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -38,6 +39,7 @@
         {
             "author": 1705,
             "body": "<p>先问有没有，再问有哪些。<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

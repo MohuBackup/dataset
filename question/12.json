@@ -20,6 +20,7 @@
         {
             "author": 22,
             "body": "465个，全都是学生",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -78,6 +79,7 @@
         {
             "author": 35,
             "body": "+1個",
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 3,
@@ -96,6 +98,7 @@
         {
             "author": 17,
             "body": "你吼啊",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -105,6 +108,7 @@
         {
             "author": 16,
             "body": "你吼呀",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -114,6 +118,7 @@
         {
             "author": 9,
             "body": "这么早就说有33人是学生是不是有种...的感觉，抑或是恶臭不堪呢",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

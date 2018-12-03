@@ -24,6 +24,7 @@
         {
             "author": 881,
             "body": "<p>我觉得阿拉伯世界更需要和平</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1643,
@@ -38,6 +39,7 @@
         {
             "author": 2143,
             "body": "<p>地球上有两个癌症肿瘤可能随时会发作毁了人类，绿教是其中之一</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -52,6 +54,7 @@
         {
             "author": 1385,
             "body": "<p>放心好了，只要有绿教就不会有言论自由的</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -66,6 +69,7 @@
         {
             "author": null,
             "body": "\"你要自由干什么？\"",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

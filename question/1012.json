@@ -24,6 +24,7 @@
         {
             "author": 669,
             "body": "英特尔x86架构处理器，简称中央处理器，186意思就是第一代中央，如此类推",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -46,6 +47,7 @@
         {
             "author": 673,
             "body": "<p>来源于CPU x86更新换代，<strong>x86</strong>泛指一系列由<a href=\"https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E7%88%BE\">英特尔</a>公司开发处理器的<a href=\"https://zh.wikipedia.org/wiki/%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%A7%8B\">架构</a>。</p><p><br></p><p>8088/86, 80286, 80386, 80486, 80586</p><p><br></p><p>才发现有80186，很惭愧<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 54,

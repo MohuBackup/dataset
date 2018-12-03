@@ -32,6 +32,7 @@
         {
             "author": null,
             "body": "我不但穿过还被家里人发现过",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1,
@@ -46,6 +47,7 @@
         {
             "author": 168,
             "body": "大佬啊",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

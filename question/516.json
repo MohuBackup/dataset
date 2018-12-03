@@ -20,6 +20,7 @@
         {
             "author": 27,
             "body": "因为知乎程序员比较垃圾，本来点不同意应该跳转到别的页面，但是他们不知道应该怎么写了，所以只好让“不同意”变成不可用的。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 4,
@@ -74,6 +75,7 @@
         {
             "author": 445,
             "body": "可能知乎的程序猿和给人大制作表决器的人是同一个人",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 841,
@@ -112,6 +114,7 @@
         {
             "author": 56,
             "body": "不会写跳转代码的知乎程序员是程序员之屑",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 312,
@@ -142,6 +145,7 @@
         {
             "author": 414,
             "body": "响应国家号召呗",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 188,
@@ -164,6 +168,7 @@
         {
             "author": 1,
             "body": "向党中央学习",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 312,
@@ -186,6 +191,7 @@
         {
             "author": 671,
             "body": "这一点没啥。你如果不接受人家的隐私条款，你也没有用的必要啊<br>\n--正经答",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

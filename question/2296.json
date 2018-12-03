@@ -28,6 +28,7 @@
         {
             "author": 1,
             "body": "<p>刚才确实被攻击了，现在已经解决了。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1128,
@@ -62,6 +63,7 @@
         {
             "author": 430,
             "body": "嗯呐，初步推断应该是政府势力",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1627,
@@ -96,6 +98,7 @@
         {
             "author": 1496,
             "body": "天朝认证。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,

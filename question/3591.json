@@ -28,6 +28,7 @@
         {
             "author": 2601,
             "body": "我 抗 我 自 己",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -46,6 +47,7 @@
         {
             "author": null,
             "body": "矢 野 浩 二",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,

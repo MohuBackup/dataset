@@ -28,6 +28,7 @@
         {
             "author": 1377,
             "body": "不知道能不能借鉴来搞死包子",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1379,
@@ -42,6 +43,7 @@
         {
             "author": null,
             "body": "<p>十分恐怖</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -51,6 +53,7 @@
         {
             "author": 881,
             "body": "<p>可惜包子没被炸死</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -60,6 +63,7 @@
         {
             "author": 347,
             "body": "七九爆炸案是什么？",
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,

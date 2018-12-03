@@ -20,6 +20,7 @@
         {
             "author": 927,
             "body": "<p>我的看法和你一致</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1377,
@@ -46,6 +47,7 @@
         {
             "author": 1103,
             "body": "必须得全票通过",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1398,
@@ -72,6 +74,7 @@
         {
             "author": 1347,
             "body": "<p>硬点自己当下一任</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

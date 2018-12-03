@@ -20,6 +20,7 @@
         {
             "author": 881,
             "body": "<p>你 打 字 带 空 格 啊</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -38,6 +39,7 @@
         {
             "author": 1393,
             "body": "<p>如果你要提问题，那按照基本法，你要加上问号。<br></p><p>而本文章应该发在文章区域。</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

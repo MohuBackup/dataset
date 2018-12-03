@@ -24,6 +24,7 @@
         {
             "author": 1918,
             "body": "<p>典型的爸爸和儿子分不清</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1888,
@@ -54,6 +55,7 @@
         {
             "author": 881,
             "body": "<p>五毛大军即将到来</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1393,
@@ -68,6 +70,7 @@
         {
             "author": null,
             "body": "是用机翻的吧？而且一定是百度翻译（滑稽）",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

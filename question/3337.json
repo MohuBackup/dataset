@@ -20,6 +20,7 @@
         {
             "author": 1510,
             "body": "<p>可能的原因：TCP阻断。<br></p><p>可能的解决方案： 购置域名，使用CDN中转</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 546,
@@ -42,6 +43,7 @@
         {
             "author": 2454,
             "body": "换个端口试试",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -51,6 +53,7 @@
         {
             "author": 868,
             "body": "https://blog.codingnow.com/2017/07/antidpi.html<br>\n如果流量很多，用这个方法试试。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

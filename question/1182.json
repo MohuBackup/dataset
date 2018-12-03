@@ -32,6 +32,7 @@
         {
             "author": 297,
             "body": "禁评了",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -46,6 +47,7 @@
         {
             "author": 602,
             "body": "<p><img src=\"/uploads/ueditor/20180603/1527988734743364.png\" title=\"1527988734743364.png\" alt=\"布基纳法索.PNG\"></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -60,6 +62,7 @@
         {
             "author": 673,
             "body": "<p>伊朗那个。 知乎和编程随想都有登过<br></p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

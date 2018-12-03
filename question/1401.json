@@ -20,6 +20,7 @@
         {
             "author": 1157,
             "body": "<p>网易不把他们放在眼里，迟早药丸。</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -46,6 +47,7 @@
         {
             "author": 881,
             "body": "<p>第一张：会减少系统使用寿命，不能用</p><p>第二张：太丑了，不能用</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1234,
@@ -72,6 +74,7 @@
         {
             "author": 1395,
             "body": "<p>换我的照片试试</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

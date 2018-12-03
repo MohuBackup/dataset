@@ -40,6 +40,7 @@
         {
             "author": 54,
             "body": "这是黑框吗？不要见的风是的雨！",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -54,6 +55,7 @@
         {
             "author": 297,
             "body": "闷声大发财，这是坠吼的。",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

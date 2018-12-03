@@ -48,6 +48,7 @@
         {
             "author": 2149,
             "body": "<p>是毛病，不是恶习</p><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2728,
@@ -66,6 +67,7 @@
         {
             "author": 1385,
             "body": "<p>你这个样子啊，，，会没有江来的！</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

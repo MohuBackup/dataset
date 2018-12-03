@@ -28,6 +28,7 @@
         {
             "author": 54,
             "body": "<p>浪费时间的功能。<br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1377,
@@ -46,6 +47,7 @@
         {
             "author": 1414,
             "body": "<p>这个验证码啊！boring！连着输入好几遍都不对！</p><p>I AM 安格瑞！</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1377,
@@ -60,6 +62,7 @@
         {
             "author": 855,
             "body": "老旧的技术，现在一些先进网站已采用图片或自动人机验证",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1377,

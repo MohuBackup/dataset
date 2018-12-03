@@ -56,6 +56,7 @@
         {
             "author": 1414,
             "body": "<p>包子自己都一坨事情</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -74,6 +75,7 @@
         {
             "author": null,
             "body": "<p>不要见风是雨!</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1454,

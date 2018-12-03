@@ -20,6 +20,7 @@
         {
             "author": 1,
             "body": "可以和管理员谈笑风生",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2,
@@ -70,6 +71,7 @@
         {
             "author": 259,
             "body": "提高姿势水平",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -79,6 +81,7 @@
         {
             "author": 353,
             "body": "我想管理员(那个年轻人)并没有事后处理",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,

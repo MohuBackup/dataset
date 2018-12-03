@@ -40,6 +40,7 @@
         {
             "author": 2817,
             "body": "<p>说实话，我觉得洋葱新闻的可信度比苹果日报高</p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,
@@ -58,6 +59,7 @@
         {
             "author": 1385,
             "body": "<p>这种人尽皆知的事情，还有什么大张旗鼓宣传的必要吗？</p>",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,

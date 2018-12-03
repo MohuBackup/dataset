@@ -24,6 +24,7 @@
         {
             "author": 204,
             "body": "习以为常",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 640,
@@ -38,6 +39,7 @@
         {
             "author": 297,
             "body": "这公司不是已经被腾讯收购了吗",
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
