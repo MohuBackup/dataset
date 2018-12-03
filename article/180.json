@@ -1,0 +1,99 @@
+{
+    "type": "article",
+    "id": 180,
+    "tags": [
+        {
+            "tag-id": 751,
+            "tag-name": "高雅創作"
+        },
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        },
+        {
+            "tag-id": 461,
+            "tag-name": "乳蛤"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "对于维尼被喷粪悠有什么深意?",
+            "id": 1892
+        },
+        {
+            "title": "胡锦涛被蛤蛤架空是真的吗？",
+            "id": 700
+        },
+        {
+            "title": "蛤蛤念过那么多诗，为什么“苟”是坠有名的？",
+            "id": 983
+        },
+        {
+            "title": "如果港漫画包子蛤蛤漫画，会有什么脑洞大开的情节？",
+            "id": 3528
+        },
+        {
+            "title": "包子打击江派，蛤蛤还安全吗？",
+            "id": 2042
+        }
+    ],
+    "detail": {
+        "title": "習習蛤蛤",
+        "body": "<p><img src=\"/uploads/ueditor/20180815/1534309179497829.jpg\" title=\"1534309179497829.jpg\" alt=\"PicsArt_08-15-10.30.07.jpg\"></p>",
+        "author": 915,
+        "voters": [
+            {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
+            {
+                "user-id": 1454,
+                "user-name": "脑虫达苟斯"
+            }
+        ],
+        "publishTime": "2018-08-15T00:00:00.000Z",
+        "modifyTime": "2018-08-15T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "胡搞毛搞",
+            "publishTime": "2018-08-15T05:37:00.000Z",
+            "modifyTime": "2018-08-15T05:37:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "要 素 过 多",
+            "publishTime": "2018-08-15T06:51:00.000Z",
+            "modifyTime": "2018-08-15T06:51:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1498,
+                "user-name": "冴月麟"
+            },
+            "body": "站在巨人的肩膀上",
+            "publishTime": "2018-08-15T12:14:00.000Z",
+            "modifyTime": "2018-08-15T12:14:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1498,
+                "user-name": "冴月麟"
+            },
+            "body": "牛顿风评被害",
+            "publishTime": "2018-08-15T12:14:00.000Z",
+            "modifyTime": "2018-08-15T12:14:00.000Z"
+        }
+    ]
+}

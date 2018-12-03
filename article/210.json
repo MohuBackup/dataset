@@ -1,0 +1,34 @@
+{
+    "type": "article",
+    "id": 210,
+    "tags": [
+        {
+            "tag-id": 191,
+            "tag-name": "辱包"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "对于维尼被喷粪悠有什么深意?",
+            "id": 1892
+        }
+    ],
+    "detail": {
+        "title": "1",
+        "body": "<p>1</p>",
+        "author": 2386,
+        "voters": [
+            {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
+            {
+                "user-id": 673,
+                "user-name": "藻葉"
+            }
+        ],
+        "publishTime": "2018-09-26T00:00:00.000Z",
+        "modifyTime": "2018-09-26T00:00:00.000Z"
+    },
+    "comments": []
+}

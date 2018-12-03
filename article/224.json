@@ -1,0 +1,35 @@
+{
+    "type": "article",
+    "id": 224,
+    "tags": [
+        {
+            "tag-id": 426,
+            "tag-name": "网络"
+        }
+    ],
+    "relatedQuestions": [],
+    "detail": {
+        "title": "IPv6-PD",
+        "body": "<p><img src=\"/uploads/ueditor/20181010/1539174345574461.png\" title=\"1539174345574461.png\" alt=\"2COQF[N`P(Y[CRG_[CQA2JQ.png\"></p><p>现在我地运营商会下发 IPv6-PD 了，于是 OpenWrt 可以自动把前缀分配给 LAN，不需要 NAT 或 Relay 了。</p>",
+        "author": 6,
+        "voters": [
+            {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            }
+        ],
+        "publishTime": "2018-10-10T00:00:00.000Z",
+        "modifyTime": "2018-10-10T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
+            "body": "看不懂，有大佬解释一下？",
+            "publishTime": "2018-10-10T12:41:00.000Z",
+            "modifyTime": "2018-10-10T12:41:00.000Z"
+        }
+    ]
+}

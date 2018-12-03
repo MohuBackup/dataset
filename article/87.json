@@ -1,0 +1,81 @@
+{
+    "type": "article",
+    "id": 87,
+    "tags": [
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 312,
+            "tag-name": "美国"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待沪独行为？",
+            "id": 2253
+        },
+        {
+            "title": "如何看待P2P融资受害者组织8月6日进京抗议？",
+            "id": 2122
+        },
+        {
+            "title": "怎么看待日本超能力女孩御坂美琴（炮姐）在长者面前装逼，结果被揍了",
+            "id": 1914
+        },
+        {
+            "title": "如何看待国保敢于在华涌YouTube直播的过程中无证抓人？",
+            "id": 1908
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        }
+    ],
+    "detail": {
+        "title": "浅谈中美关系",
+        "body": "最新发现！中美关系居然是兄妹关系！\n                                                                <div class=\"aw-upload-img-list\">\n                                                                                                    <a href=\"/uploads/article/20180509/4e349fd2a2b1e6652780b62fd0fa233c.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180509/4e349fd2a2b1e6652780b62fd0fa233c.jpg\" class=\"img-polaroid\" alt=\"S80510-01145754.jpg\"></a>\n                                                                                                </div>\n                                \n                                                                <ul class=\"aw-upload-file-list\">\n                                                                                                                                            </ul>",
+        "author": 617,
+        "voters": [
+            {
+                "user-id": 412,
+                "user-name": "Sager"
+            }
+        ],
+        "publishTime": "2018-05-10T00:00:00.000Z",
+        "modifyTime": "2018-05-10T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
+            "body": "吼蛙",
+            "publishTime": "2018-05-10T01:59:00.000Z",
+            "modifyTime": "2018-05-10T01:59:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 412,
+                "user-name": "Sager"
+            },
+            "body": "九键盘日常。你还要提高一下自己的姿势水平！",
+            "publishTime": "2018-05-16T07:45:00.000Z",
+            "modifyTime": "2018-05-16T07:45:00.000Z"
+        }
+    ]
+}

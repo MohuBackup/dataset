@@ -1,0 +1,188 @@
+{
+    "type": "article",
+    "id": 139,
+    "tags": [
+        {
+            "tag-id": 707,
+            "tag-name": "Firefox"
+        },
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        },
+        {
+            "tag-id": 111,
+            "tag-name": "翻墙"
+        },
+        {
+            "tag-id": 21,
+            "tag-name": "GFW（中国网络防火墙）"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价大陆特供版 Flash Player 的流氓行为？",
+            "id": 1916
+        },
+        {
+            "title": "【膜乎基本法】Ver18.06.13-膜乎团队（草案）",
+            "id": 127
+        },
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "【公告】稍后江开始膜乎第一次问题整顿+内容分类",
+            "id": 48
+        },
+        {
+            "title": "【公告】温馨提醒，提问题时候请带上问号",
+            "id": 44
+        },
+        {
+            "title": "【公告】恭喜下面三位用户威望达到50",
+            "id": 41
+        },
+        {
+            "title": "【公告】膜乎江限制威望小于50的用户创建新话题",
+            "id": 38
+        },
+        {
+            "title": "【公告】关于膜乎严禁恶意宣群的公告",
+            "id": 31
+        },
+        {
+            "title": "【公告】关于对膜乎部分用户未验证邮箱的提醒",
+            "id": 28
+        },
+        {
+            "title": "【模糊小管家说】热烈欢迎共青团中央入驻膜乎",
+            "id": 4
+        },
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        },
+        {
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
+        },
+        {
+            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
+            "id": 1340
+        }
+    ],
+    "detail": {
+        "title": "通过 Firefox DoH （DNS over HTTPS 加密解析）功能直连膜乎",
+        "body": "<p style=\"text-align: center;\"><strong>通过 Firefox DoH （DNS over HTTPS 加密解析）功能直连膜乎</strong></p><p>&nbsp;</p><p>各位蛤丝你们吼哇~，今天给大家介绍一种几百个教授一致通过的直连膜乎的方法！</p><p>（同样的方法也可以用来解决只污染DNS但没有墙IP的网站，例如维基百科中文和<a></a>Pixiv ）</p><p>首先准备：</p><p>1. Firefox 60 以上版本（手机版或电脑版皆可，但一定要60以上版本）</p><p>&nbsp;&nbsp;&nbsp;&nbsp; <strong>注意：Firefox手机版请使用Nigthly版本，稳定版经实测有</strong><strong>Bug……</strong></p><p>2.已连接到中国局域网或国际互联网（新疆局域网不保证有效及你不会被喝茶）</p><p>3.不要听得风就是雨，要提高姿势水平</p><p>&nbsp;</p><p><strong>×Start Lesson×</strong></p><p>&nbsp;</p><p>1. 打开Firefox，在地址栏中输入 “ about:config ” 并打开</p><p>&nbsp;</p><p>2. 在上方的搜索框中输入“ network.trr ”</p><p>&nbsp;</p><p>3. 找到“ network.trr.mode ”,双击打开，将值修改为3</p><p><img width=\"643\" height=\"376\" src=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">提示：设置为 2表示使用 DNS over HTTPS 作为浏览器的 DNS 查询首选项，但也将常规 DNS 查询作为后备。设置为 1，则让 Firefox 选择更快的模式；3 仅使用 DNS over HTTPS 进行浏览器DNS 查询，或者使用 0 来禁用该功能。这里由于我们身处中国大陆，所以选择第三种。</p><p>&nbsp;</p><p>4.找到“ network.trr.uri ”,双击打开，将值修改为 “ <a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\"></a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">提示：这里使用Cloudflare的DoH服务，其实Google 也有提供这种服务，但是Google被墙了嘛…</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">&nbsp;</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">5.找到“ network.trr.bootstrapAddress ”,双击打开，将值修改为 “1.0.0.1”</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\"><img width=\"643\" height=\"376\" src=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">提示：这里输入的IP 作用是作为初始解析，即最开始时向这个IP 发送普通的DNS 查询以获取 “ cloudflare-dns.com ” 对应的IP 地址来进行后续的DoH 解析。这里仍然使用了 Cloudflare的DNS服务，但是很多教程上都是使用1.1.1.1 ，这个IP国内很多地方都用不了（电信把这个IP作为自己的内部网络设备使用的IP了，并不知道这个IP 是有用的 …… ）</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">&nbsp;</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">×推荐可选项：安装 HTTPS Everywhere 插件，能有效避免部分网页跳转时由于采用未加密连接而出现“连接已重置”现象</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">&nbsp;</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">&nbsp;至此，教程结束！重启Firefox，试试膜乎之类的网站能否直连吧～</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">&nbsp;</a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\"><strong>特别提示：Chrome及其他浏览器暂不资瓷此方法。</strong></a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\"><br></a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\"><span style=\"text-decoration: none;\">文件下载地址：</span></a></p><p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">https://mega.nz/#!7gREBQ4A!HBQBpl9HH0754gomQW292QCJYmfQLLRHw9eM5qj7J6c<br></a></p><a href=\"/ueditor/php/upload/image/20180629/1530265033345873.gif\">\n                                \n                                                            </a>",
+        "author": 1,
+        "voters": [
+            {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
+            {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            {
+                "user-id": 100,
+                "user-name": "膜务院总理"
+            },
+            {
+                "user-id": 65,
+                "user-name": "萝莉保护协会"
+            },
+            {
+                "user-id": 1477,
+                "user-name": "维尼休斯"
+            },
+            {
+                "user-id": 1044,
+                "user-name": "筹光交错"
+            }
+        ],
+        "publishTime": "2018-06-29T00:00:00.000Z",
+        "modifyTime": "2018-06-29T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "吼！Firefox党路过！",
+            "publishTime": "2018-06-29T08:19:00.000Z",
+            "modifyTime": "2018-06-29T08:19:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1477,
+                "user-name": "维尼休斯"
+            },
+            "body": "excited!",
+            "publishTime": "2018-06-29T10:42:00.000Z",
+            "modifyTime": "2018-06-29T10:42:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
+            "body": "在 OpenWrt 测试了一下，非常成功，今天写个在 OpenWrt 部署的教程（",
+            "publishTime": "2018-07-05T01:04:00.000Z",
+            "modifyTime": "2018-07-05T01:04:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
+            "body": "orfox能不能用呢？",
+            "publishTime": "2018-07-16T02:06:00.000Z",
+            "modifyTime": "2018-07-16T02:06:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": -1,
+                "user-name": "rin4096"
+            },
+            "body": "Android P都可以上這個車了已經",
+            "publishTime": "2018-10-23T06:08:00.000Z",
+            "modifyTime": "2018-10-23T06:08:00.000Z"
+        }
+    ]
+}

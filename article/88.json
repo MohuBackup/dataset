@@ -1,0 +1,82 @@
+{
+    "type": "article",
+    "id": 88,
+    "tags": [],
+    "relatedQuestions": [],
+    "detail": {
+        "title": "晨风",
+        "body": "晨风<br>\n<br>\n晨风穿帘卷赤楼<br>\n黎雨除纱扫诸侯<br>\n奸凶佞幸终必定<br>\n晓光将至君莫愁<br>\n<br>\n酱油<br>\n戊戌年三月廿五晨作",
+        "author": 617,
+        "voters": [
+            {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
+            {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
+            {
+                "user-id": 872,
+                "user-name": "小能维尼"
+            },
+            {
+                "user-id": 640,
+                "user-name": "男孩为何穿红衣"
+            },
+            {
+                "user-id": 430,
+                "user-name": "小管家"
+            }
+        ],
+        "publishTime": "2018-05-10T00:00:00.000Z",
+        "modifyTime": "2018-05-10T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
+            "body": "哇大佬真厉害",
+            "publishTime": "2018-05-10T01:58:00.000Z",
+            "modifyTime": "2018-05-10T01:58:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 63,
+                "user-name": "新蛤社"
+            },
+            "body": "请不要随便发文章占据首页，膜乎以后会推出类似知乎的想法功能，谢谢合作",
+            "publishTime": "2018-05-10T04:53:00.000Z",
+            "modifyTime": "2018-05-10T04:53:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 617,
+                "user-name": "酱油"
+            },
+            "body": "在膜乎推出想法功能是画蛇添足，应该和B站一样设置文章专栏区，和公告专栏分离",
+            "publishTime": "2018-05-11T05:25:00.000Z",
+            "modifyTime": "2018-05-11T05:25:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 412,
+                "user-name": "Sager"
+            },
+            "body": "管理员大大的意思是，你这文章离题了，不够辱，完全可以发到支乎去。",
+            "publishTime": "2018-05-16T07:46:00.000Z",
+            "modifyTime": "2018-05-16T07:46:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 617,
+                "user-name": "酱油"
+            },
+            "body": "看不懂就一派胡言的管理员是屑（确信）",
+            "publishTime": "2018-05-16T08:16:00.000Z",
+            "modifyTime": "2018-05-16T08:16:00.000Z"
+        }
+    ]
+}

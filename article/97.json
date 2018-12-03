@@ -1,0 +1,187 @@
+{
+    "type": "article",
+    "id": 97,
+    "tags": [
+        {
+            "tag-id": 89,
+            "tag-name": "新蛤社"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "［知乎备份］知乎备份类问题的模板是什么样的？",
+            "id": 2461
+        },
+        {
+            "title": "怎么看待日本超能力女孩御坂美琴（炮姐）在长者面前装逼，结果被揍了",
+            "id": 1914
+        },
+        {
+            "title": "对于维尼被喷粪悠有什么深意?",
+            "id": 1892
+        },
+        {
+            "title": "全球第一个落地的区块链时间众筹项目来了",
+            "id": 1719
+        },
+        {
+            "title": "【膜乎基本法】Ver18.06.13-膜乎团队（草案）",
+            "id": 127
+        },
+        {
+            "title": "大家一般如何写“zici”？",
+            "id": 1005
+        },
+        {
+            "title": "如何以“野兽先辈知乎小管家说”为题写作？",
+            "id": 609
+        },
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "关于新蛤社app的设计",
+            "id": 318
+        },
+        {
+            "title": "新蛤社夏日诗词大赏诗词征集令",
+            "id": 520
+        },
+        {
+            "title": "怎么看待新蛤社建立海外b站？",
+            "id": 2073
+        },
+        {
+            "title": "如何评价新蛤社",
+            "id": 114
+        },
+        {
+            "title": "介于目前小粉红太多，美国大学是不是应该出台一个政策，强制中国留学生参加政治、哲学或者法律史课程",
+            "id": 2248
+        },
+        {
+            "title": "开发膜乎App上架Google Play吼不吼啊？",
+            "id": 834
+        },
+        {
+            "title": "目前官宣都说中国在日益开放，免签国家增多，还可以自助通关，为何还会让人感觉到国门越收越紧？",
+            "id": 4018
+        },
+        {
+            "title": "目前大陆最大的反共组织是蛤啊？",
+            "id": 2642
+        },
+        {
+            "title": "如何评价目前的网上谣言？",
+            "id": 3229
+        },
+        {
+            "title": "全球有有没有国家曾经或者在目前真正实现了马克思所设想的真正的共产主义社会？为何很难实现？",
+            "id": 4019
+        },
+        {
+            "title": "怎么看待 我的世界 开发工作室 MOJANG",
+            "id": 1603
+        }
+    ],
+    "detail": {
+        "title": "新蛤社app的目前开发状况",
+        "body": "好像之前那个提问淹没在了历史的行程中。。。重开一贴。<br>\n更新日志有点长<br>\nBeta20<br>\n<br>\n正式放弃对4.4的支持<br>\n修复了教程板块的调用问题(一些条目还没写，别点)<br>\n<br>\n<br>\nBeta19<br>\n<br>\n更换了文膜板块UI<br>\n新增了教程（完善ing）<br>\n<br>\n<br>\nBeta18<br>\n<br>\n增强了app的安全性<br>\n修复了activity的多余申明<br>\n<br>\n<br>\nBeta17<br>\n<br>\n彻底地更换了加密算法，efficiency++<br>\n创建了函数库，调用更方便<br>\n<br>\n<br>\nBeta16<br>\n<br>\n更改了设置项目<br>\n<br>\n<br>\nBeta15<br>\n<br>\n适配了加密算法<br>\n修改了音乐板块的显示方式<br>\n新增部分文膜条目<br>\n<br>\n<br>\nBeta14<br>\n<br>\n优化了音乐板块布局<br>\n改善了加密算法<br>\n<br>\n<br>\nBeta13<br>\n<br>\n新增了禁用启动图&amp;登录功能<br>\n<br>\n<br>\nBeta12<br>\n<br>\n添加了17种主题色<br>\n<br>\n<br>\nBeta11<br>\n<br>\n移除了内置游戏界面<br>\n美化了登陆界面<br>\n美化了设置界面<br>\n<br>\n<br>\nBeta10<br>\n<br>\n新增了数据清除功能<br>\n<br>\n<br>\nBeta9<br>\n<br>\n更换了侧滑顶栏的颜色<br>\n更换了进入时跳过按钮的颜色<br>\n新增了设置功能<br>\n添加了两种主题色<br>\n<br>\n<br>\nBeta8<br>\n<br>\n更换了启动图<br>\n完善了登录页面<br>\n膜乎支持保存图片了（需要sd卡读写权限，未适配完成）<br>\n<br>\n<br>\nBeta7<br>\n<br>\n暂时续走了启动图<br>\n新增了登录页面<br>\n<br>\n<br>\nBeta6<br>\n<br>\n新增了图片上传功能（这玩意搞了n久还十分可能存在bug，请微小地使用此功能。目前只给膜乎和主页加入了此功能）<br>\n<br>\n<br>\nBeta5<br>\n<br>\n新增了启动图<br>\n新增了启动图倒计时<br>\n新增了淡入淡出动画<br>\n<br>\n<br>\nBeta4<br>\n<br>\n优化了浏览器加载动画<br>\n<br>\n<br>\nBeta3<br>\n<br>\n修复了游戏界面的bug<br>\n<br>\n<br>\nBeta2<br>\n<br>\n优化了游戏界面<br>\n<br>\n<br>\nBeta1<br>\n<br>\n新增了文膜 音乐 主页 膜乎 iXuming 小游戏 新蛤社 更新日志板块<br>\n新增了彩蛋<br>\n添加了一堆压制过的歌曲<br>\n添加了部分文膜条目<br>\n<br>\n另外暂时有一些bug<br>\n膜乎无法正常复制粘贴(因为保存图片的适配器好像没这条。。。)<br>\n选择图片点取消无法再次选择(适配器代码太长了，整理以后再改吧)<br>\n返回键可能会抽风(有可能是内存泄漏，这个优化啊。。。)<br>\n教程使用viewpager，载入图片时极卡。。。<br>\n<br>\n还有就是post为什么对膜乎不管用。。。所以登录时的判定依然很奇怪，建议在WiFi环境下登录。如果有解决该问题的方法请第一时间告诉我，谢谢。\n                                                                <div class=\"aw-upload-img-list\">\n                                                                                                    <a href=\"/uploads/article/20180516/e073fd161cc47ec5cb42813657998f55.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180516/e073fd161cc47ec5cb42813657998f55.png\" class=\"img-polaroid\" alt=\"Screenshot_20180516-235718.png\"></a>\n                                                                                                                                    <a href=\"/uploads/article/20180516/10ab7a19b9159ab98f9d6a0150a482f8.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180516/10ab7a19b9159ab98f9d6a0150a482f8.png\" class=\"img-polaroid\" alt=\"Screenshot_20180516-235711.png\"></a>\n                                                                                                                                    <a href=\"/uploads/article/20180516/aebf2af7127227c5eae01110b76e6e0d.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180516/aebf2af7127227c5eae01110b76e6e0d.png\" class=\"img-polaroid\" alt=\"Screenshot_20180516-235706.png\"></a>\n                                                                                                                                    <a href=\"/uploads/article/20180516/28b6f118a7b4c30b079df8407a9b1d74.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180516/28b6f118a7b4c30b079df8407a9b1d74.png\" class=\"img-polaroid\" alt=\"Screenshot_20180516-235650.png\"></a>\n                                                                                                                                    <a href=\"/uploads/article/20180516/12e39e51ab392797a828c7a4d6c6a89f.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/article/20180516/12e39e51ab392797a828c7a4d6c6a89f.png\" class=\"img-polaroid\" alt=\"Screenshot_20180516-235617.png\"></a>\n                                                                                                </div>\n                                \n                                                                <ul class=\"aw-upload-file-list\">\n                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>",
+        "author": 297,
+        "voters": [
+            {
+                "user-id": 1,
+                "user-name": "EzawaNico"
+            },
+            {
+                "user-id": 872,
+                "user-name": "小能维尼"
+            }
+        ],
+        "publishTime": "2018-05-17T00:00:00.000Z",
+        "modifyTime": "2018-05-17T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "不支援4.4了啊.....<br>\n我打算学习如何开发塞班和WP软体，做一个塞班和WP上的类似软体，因为还没人做过而我正好有一堆塞班/WP7.5，WP8，WP8.1，Win10M的设备。",
+            "publishTime": "2018-05-16T16:16:00.000Z",
+            "modifyTime": "2018-05-16T16:16:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
+            "body": "不支持4.4的主要原因是卡片视图。我到时候可以试着做两个视图，当然这个比较耗时间，而且ui需要重新设计。因为手头没有4.4的机子，所以这个问题可能要到公测的时候才能解决。",
+            "publishTime": "2018-05-16T16:20:00.000Z",
+            "modifyTime": "2018-05-16T16:20:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "介面可以做的逊一点，能支援2.3最好，我手上一堆旧版本系统的洋垃圾。想发挥全部作用。",
+            "publishTime": "2018-05-16T16:23:00.000Z",
+            "modifyTime": "2018-05-16T16:23:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
+            "body": "2.3的话理论上可以实现，但由于一些优化上的问题，剩余运行内存最好&gt;150mb，即手机总运存为512mb以上才可以保证不闪退",
+            "publishTime": "2018-05-16T16:45:00.000Z",
+            "modifyTime": "2018-05-16T16:45:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
+            "body": "重大突破，重新支持4.4了。理论上可以一直续到3.0",
+            "publishTime": "2018-05-20T15:30:00.000Z",
+            "modifyTime": "2018-05-20T15:30:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1049,
+                "user-name": "DerPobl"
+            },
+            "body": "在哪里下载",
+            "publishTime": "2018-05-21T01:28:00.000Z",
+            "modifyTime": "2018-05-21T01:28:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
+            "body": "暂定于6月发布，敬请期待",
+            "publishTime": "2018-05-21T10:01:00.000Z",
+            "modifyTime": "2018-05-21T10:01:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1522,
+                "user-name": "江某膜"
+            },
+            "body": "7月报道",
+            "publishTime": "2018-07-08T10:01:00.000Z",
+            "modifyTime": "2018-07-08T10:01:00.000Z"
+        }
+    ]
+}

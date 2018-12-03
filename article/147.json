@@ -1,0 +1,127 @@
+{
+    "type": "article",
+    "id": 147,
+    "tags": [
+        {
+            "tag-id": 7,
+            "tag-name": "包子"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待P2P融资受害者组织8月6日进京抗议？",
+            "id": 2122
+        },
+        {
+            "title": "怎么看待日本超能力女孩御坂美琴（炮姐）在长者面前装逼，结果被揍了",
+            "id": 1914
+        },
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "扛两百斤麦子走十里山路不换肩是一种什么样的体验？",
+            "id": 206
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "信仰马克思主义却不入党甚至反中共是一种什么样的体验？",
+            "id": 626
+        },
+        {
+            "title": "在庆丰包子铺吃饭是怎样一种体验？",
+            "id": 178
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "男生穿丝袜是一种什么体验？",
+            "id": 249
+        },
+        {
+            "title": " 如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
+            "id": 599
+        },
+        {
+            "title": "政府为什么要向民众隐瞒64事件",
+            "id": 695
+        },
+        {
+            "title": "无脑反共是种什么体验？",
+            "id": 1309
+        },
+        {
+            "title": "如何评价包政府成功强迫全球航空公司将“台湾”改成“中国台湾”？",
+            "id": 2099
+        },
+        {
+            "title": "如果有一天，刁大犬及其政府垮台了，自干五和小粉红会作何反应？",
+            "id": 1794
+        }
+    ],
+    "detail": {
+        "title": "Windows 10 神州网信政府版 体验报告",
+        "body": "<p>看到膜乎上面有<a href=\"/question/1921\" target=\"_self\" title=\"如何评价最近发布的Windows10神州网信政府版？\">/question/1921</a>的提问，虽然这个系统去年年底就发布了，但是我还没有玩过，于是立刻下载了一份来体验一下。</p><p>首先在VMware Workstation 12里创建一个虚拟机。</p><p>（我CPU太老，14不兼容</p><p><img src=\"/uploads/ueditor/20180716/1531688024441139.png\" title=\"1531688024441139.png\" alt=\"圖片.png\"></p><p>貌似没啥差别，继续<br></p><p><img src=\"/uploads/ueditor/20180716/1531688111218085.png\" title=\"1531688111218085.png\" alt=\"圖片.png\"></p><p>果然，不出意料，协议肯定是改了。<br></p><p><img src=\"/uploads/ueditor/20180716/1531688209258213.png\" title=\"1531688209258213.png\" alt=\"圖片.png\"></p><p>好可怕<br></p><p><img src=\"/uploads/ueditor/20180716/1531688294444215.png\" title=\"1531688294444215.png\" alt=\"圖片.png\"></p><p>你们是批量替换网站的吧？</p><p><img src=\"/uploads/ueditor/20180716/1531688353375082.png\" title=\"1531688353375082.png\" alt=\"圖片.png\"></p><p>批量替换，太强了<br></p><p><img src=\"/uploads/ueditor/20180716/1531688373355287.png\" title=\"1531688373355287.png\" alt=\"圖片.png\"></p><p><br></p><p><strong>坐&nbsp;&nbsp; 和&nbsp;&nbsp; 放&nbsp;&nbsp; 宽</strong></p><p><strong><img src=\"/uploads/ueditor/20180716/1531688426856344.png\" title=\"1531688426856344.png\" alt=\"圖片.png\"><br></strong></p><p><strong>继续<br></strong></p><p><strong><img src=\"/uploads/ueditor/20180716/1531693312398837.png\" title=\"1531693312398837.png\" alt=\"圖片.png\"><br></strong></p><p><strong>密码要求是三种不同的字符</strong></p><p><strong>例如ABCabc123</strong></p><p><strong>或者QWEqwe！@#</strong></p><p><strong><img src=\"/uploads/ueditor/20180716/1531693399424059.png\" title=\"1531693399424059.png\" alt=\"圖片.png\"><br></strong></p><p><strong>密码是必须键入的</strong></p><p><strong><img src=\"/uploads/ueditor/20180716/1531693459742247.png\" title=\"1531693459742247.png\" alt=\"圖片.png\"><br></strong></p><p><strong>根据「已知Bug」中的说明，小娜无论选择「是」还是「否」均为「否」。</strong></p><p><strong>所以我们这里没有开启小娜（忘记截图了）<img src=\"/uploads/ueditor/20180716/1531693546506975.png\" title=\"1531693546506975.png\" alt=\"圖片.png\"><br></strong></p><p><strong>继续坐和放宽</strong></p><p><strong>这就是桌面了，有一个莫名其妙的「系统激活」</strong><strong><br></strong></p><p><strong><br></strong></p><p><strong><img src=\"/uploads/ueditor/20180716/1531693661703164.png\" title=\"1531693661703164.png\" alt=\"圖片.png\"><br></strong></p><p><strong>关闭了插入U盘和光碟的「自动播放」功能</strong><br></p><p>先装Vmware Tools</p><p><img src=\"/uploads/ueditor/20180716/1531693867346874.png\" title=\"1531693867346874.png\" alt=\"圖片.png\"></p><p><br></p><p>开机要组合键解锁</p><p><img src=\"/uploads/ueditor/20180716/1531694013526349.png\" title=\"1531694013526349.png\" alt=\"圖片.png\"></p><p>所有地方都有「神州网信政府版」的字样</p><p>版本1703，单独的SKU。<br></p><p><img src=\"/uploads/ueditor/20180716/1531694118411528.png\" title=\"1531694118411528.png\" alt=\"圖片.png\"></p><p>我有配置KMS激活服务在我的路由器上，不过这个还是「未激活」</p><p><img src=\"/uploads/ueditor/20180716/1531694186521939.png\" title=\"1531694186521939.png\" alt=\"圖片.png\"></p><p>点击「激活 Windows」无法正确跳转。</p><p>试试看这个？</p><p><img src=\"/uploads/ueditor/20180716/1531694273249980.png\" title=\"1531694273249980.png\" alt=\"圖片.png\"></p><p>emmm</p><p>根据神州网信的说明，这是连线到他们的伺服器以进行激活的。<br></p><p><img src=\"/uploads/ueditor/20180716/1531694297688255.png\" title=\"1531694297688255.png\" alt=\"圖片.png\"></p><p>这种奇怪的东西一看就知道是自己开发整的。</p><p><br></p><p><img src=\"/uploads/ueditor/20180716/1531694348618968.png\" title=\"1531694348618968.png\" alt=\"圖片.png\"></p><p><br></p><p>不管激活了，看看砍了多少东西。</p><p><img src=\"/uploads/ueditor/20180716/1531694413189251.png\" title=\"1531694413189251.png\" alt=\"圖片.png\"></p><p>「虚拟现实门户」没有砍掉，我挺惊讶的。</p><p>不过点进去只显示这个，不知道是怎么回事，也许砍掉了。</p><p><img src=\"/uploads/ueditor/20180716/1531694474244805.png\" title=\"1531694474244805.png\" alt=\"圖片.png\"></p><p>系统自动的WD杀软被砍，点进去闪退。</p><p>「许可如下用户使用本产品」不可更改<br></p><p><img src=\"/uploads/ueditor/20180716/1531694607341744.png\" title=\"1531694607341744.png\" alt=\"圖片.png\"></p><p>没有Windows Insider</p><p>更新应该都是特定并且筛选好的，应该会比其他版本慢很多。<br></p><p><img src=\"/uploads/ueditor/20180716/1531694774245834.png\" title=\"1531694774245834.png\" alt=\"圖片.png\"><br></p><p><br></p><p>不好玩，准备删。</p><p>如果你们有什么要我在这个系统里面试试看的话，在下方留言。</p><p><img src=\"/uploads/ueditor/20180716/1531694857278641.png\" title=\"1531694857278641.png\" alt=\"圖片.png\"></p>",
+        "author": 54,
+        "voters": [
+            {
+                "user-id": 295,
+                "user-name": "邓小平"
+            }
+        ],
+        "publishTime": "2018-07-16T00:00:00.000Z",
+        "modifyTime": "2018-07-16T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 546,
+                "user-name": "谈闹觉余"
+            },
+            "body": "能翻墙吗",
+            "publishTime": "2018-07-16T00:32:00.000Z",
+            "modifyTime": "2018-07-16T00:32:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "VPN功能可以使用",
+            "publishTime": "2018-07-16T02:00:00.000Z",
+            "modifyTime": "2018-07-16T02:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1467,
+                "user-name": "习远平"
+            },
+            "body": "能装独显驱动打游戏吗",
+            "publishTime": "2018-07-16T08:04:00.000Z",
+            "modifyTime": "2018-07-16T08:04:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "可以",
+            "publishTime": "2018-07-16T08:55:00.000Z",
+            "modifyTime": "2018-07-16T08:55:00.000Z"
+        }
+    ]
+}

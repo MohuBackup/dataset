@@ -1,0 +1,174 @@
+{
+    "type": "article",
+    "id": 151,
+    "tags": [
+        {
+            "tag-id": 4,
+            "tag-name": "膜蛤"
+        },
+        {
+            "tag-id": 721,
+            "tag-name": "理膜"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "［知乎备份］知乎备份类问题的模板是什么样的？",
+            "id": 2461
+        },
+        {
+            "title": "怎么看待日本超能力女孩御坂美琴（炮姐）在长者面前装逼，结果被揍了",
+            "id": 1914
+        },
+        {
+            "title": "全球第一个落地的区块链时间众筹项目来了",
+            "id": 1719
+        },
+        {
+            "title": "大家一般如何写“zici”？",
+            "id": 1005
+        },
+        {
+            "title": "立刻放出手机/电脑里坠暴力的图片，是哪张？",
+            "id": 560
+        },
+        {
+            "title": "你们身边膜蛤的人有多少？",
+            "id": 496
+        },
+        {
+            "title": "江主席是否知道有蛤丝这一群体？",
+            "id": 420
+        },
+        {
+            "title": "如何把宿舍装修成膜法风格？",
+            "id": 299
+        },
+        {
+            "title": "思想江化是一种什么样的体验？",
+            "id": 3
+        },
+        {
+            "title": "有哪些你以为不是敏感词的敏感词？",
+            "id": 482
+        },
+        {
+            "title": "如何以“我___就算___，___，___，也不会___”造句？",
+            "id": 608
+        },
+        {
+            "title": "蛤丝们反党反包是否仅仅因为自己不是既得利益者？",
+            "id": 2239
+        },
+        {
+            "title": "都说蛤三篇，其实真正可膜的是不是只有两篇",
+            "id": 919
+        },
+        {
+            "title": "有哪些图片是只有真正的粉丝才能看董的？",
+            "id": 448
+        },
+        {
+            "title": "如何评价知乎程序员的洋文水平？",
+            "id": 602
+        },
+        {
+            "title": "检验你是否是真正的粉丝的时候到了，请解释下文中的膜点。",
+            "id": 1025
+        },
+        {
+            "title": "如何评价电影《我不是药神》？",
+            "id": 1866
+        },
+        {
+            "title": "假如中国是已经实现民主现代化转型的国家，那么真正适合长者、都督、维尼的职业是什么",
+            "id": 3982
+        },
+        {
+            "title": "[不是问题]以蛤文化为主题的游戏",
+            "id": 533
+        },
+        {
+            "title": "全球有有没有国家曾经或者在目前真正实现了马克思所设想的真正的共产主义社会？为何很难实现？",
+            "id": 4019
+        }
+    ],
+    "detail": {
+        "title": "真正的粉丝，就算不是程序员，也能看懂这行代码",
+        "body": "<p>运行环境: Python 2.7<br></p><p><br></p><p>l=(lambda t:(lambda: _).func_code.co_lnotab.join([unichr(int(i,0x10)) for i in eval(t.decode(True.__class__.__name__[0]+().__iter__().__class__.__name__[-4]+{1}.__class__.__name__[:2]+str(0x40)))]))(\"WycweDVmODgnLCAnMHg2MGVkJywgJzB4NjEyNycsICcweGZmMGMnLCAnMHg1YzMxJywgJzB4NTA1YScsICcweDRlODYnLCAnMHg0ZTAwJywgJzB4NzBiOScsICcweDVmYWUnLCAnMHg1YzBmJywgJzB4NzY4NCcsICcweDVkZTUnLCAnMHg0ZjVjJywgJzB4ZmYwYycsICcweDhjMjInLCAnMHg4YzIyJywgJzB4NTkyNycsICcweDViYjYnLCAnMHgyMCdd\");exec (1,2).__class__.__name__[2]+(lambda: _).func_code.co_lnotab.__class__.__name__[-1]+type(1).__name__+chr(0x20)+unichr.__name__[0]+str(type(type))[-2]+l+str(True.__class__).__getitem__(-2)</p><p><br></p><p><br></p><p><br></p>",
+        "author": 1536,
+        "voters": [
+            {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            }
+        ],
+        "publishTime": "2018-07-19T00:00:00.000Z",
+        "modifyTime": "2018-07-19T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 1559,
+                "user-name": "AF421"
+            },
+            "body": "很惭愧，就做了一点微小的工作，谢谢大家",
+            "publishTime": "2018-07-19T06:22:00.000Z",
+            "modifyTime": "2018-07-19T06:22:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "这个就没看懂了.. 放到知乎会政治敏感吗",
+            "publishTime": "2018-07-19T08:03:00.000Z",
+            "modifyTime": "2018-07-19T08:03:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
+            "body": "IOError: File not open for writing",
+            "publishTime": "2018-07-19T08:18:00.000Z",
+            "modifyTime": "2018-07-19T08:18:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1536,
+                "user-name": "DengJiagui"
+            },
+            "body": "之前的代码确实在Linux中无法运行，现在修改过的应该可以了",
+            "publishTime": "2018-07-19T09:02:00.000Z",
+            "modifyTime": "2018-07-19T09:02:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
+            "body": "我没装过python2.7，在网页上运行的，可能有偏差，我在试试看",
+            "publishTime": "2018-07-19T09:10:00.000Z",
+            "modifyTime": "2018-07-19T09:10:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
+            "body": "excited！！！！！！！！！！！",
+            "publishTime": "2018-07-19T09:11:00.000Z",
+            "modifyTime": "2018-07-19T09:11:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "python3用户瑟瑟发抖",
+            "publishTime": "2018-07-19T10:12:00.000Z",
+            "modifyTime": "2018-07-19T10:12:00.000Z"
+        }
+    ]
+}

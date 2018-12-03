@@ -1,0 +1,103 @@
+{
+    "type": "article",
+    "id": 123,
+    "tags": [
+        {
+            "tag-id": 635,
+            "tag-name": "globalHe(膜乎用户)"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价某论坛网友声称的，学校被断网一周的现象？",
+            "id": 1187
+        }
+    ],
+    "detail": {
+        "title": "退圈一周",
+        "body": "<p>一个月之后期末考，这几天也没上膜乎了，放暑假了我再来~</p>",
+        "author": 56,
+        "voters": [
+            {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            }
+        ],
+        "publishTime": "2018-06-08T00:00:00.000Z",
+        "modifyTime": "2018-06-08T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
+            "body": "两岸蛙声啼不住，有媛千里再相会！",
+            "publishTime": "2018-06-08T06:07:00.000Z",
+            "modifyTime": "2018-06-08T06:07:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1096,
+                "user-name": "江水滔滔"
+            },
+            "body": "naive!",
+            "publishTime": "2018-06-08T06:21:00.000Z",
+            "modifyTime": "2018-06-08T06:21:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
+            "body": "闷声大发财，这是坠吼的！",
+            "publishTime": "2018-06-08T07:47:00.000Z",
+            "modifyTime": "2018-06-08T07:47:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "再见～",
+            "publishTime": "2018-06-08T08:04:00.000Z",
+            "modifyTime": "2018-06-08T08:04:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
+            "body": "今日拂袖随云去，明朝金榜题名来！",
+            "publishTime": "2018-06-08T09:29:00.000Z",
+            "modifyTime": "2018-06-08T09:29:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
+            "body": "这个啊，就是得豪迈！",
+            "publishTime": "2018-06-08T09:34:00.000Z",
+            "modifyTime": "2018-06-08T09:34:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 927,
+                "user-name": "围城1923"
+            },
+            "body": "祝金榜题名",
+            "publishTime": "2018-06-09T05:53:00.000Z",
+            "modifyTime": "2018-06-09T05:53:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 898,
+                "user-name": "江来"
+            },
+            "body": "期末考尬膜法师窝也退圈一周 最近就不搅和了",
+            "publishTime": "2018-06-10T15:26:00.000Z",
+            "modifyTime": "2018-06-10T15:26:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "type": "article",
+    "id": 195,
+    "tags": [
+        {
+            "tag-id": 241,
+            "tag-name": "膜乎公告"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "【膜乎基本法】Ver18.06.13-膜乎团队（草案）",
+            "id": 127
+        },
+        {
+            "title": "【公告】稍后江开始膜乎第一次问题整顿+内容分类",
+            "id": 48
+        },
+        {
+            "title": "【公告】温馨提醒，提问题时候请带上问号",
+            "id": 44
+        },
+        {
+            "title": "【公告】恭喜下面三位用户威望达到50",
+            "id": 41
+        },
+        {
+            "title": "管理员回来了吗？",
+            "id": 3941
+        },
+        {
+            "title": "如何评价电影《希特勒回来了》？",
+            "id": 3969
+        }
+    ],
+    "detail": {
+        "title": "鉴于 @Will 开新号回来了",
+        "body": "<p>出台新规：威望在-10以下，且行为严重违反膜乎基本法的，江会被永久封禁。</p><p>如果本条规定有超过5个人触犯（计小号），膜乎江改为邀请注册膜式。</p>",
+        "author": 1572,
+        "voters": [
+            {
+                "user-id": 1128,
+                "user-name": "怒而蛤斥"
+            },
+            {
+                "user-id": 1052,
+                "user-name": "膜法禁书目录"
+            },
+            {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            {
+                "user-id": 1729,
+                "user-name": "naive1sinred"
+            },
+            {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
+            {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
+            {
+                "user-id": 1426,
+                "user-name": "hei544n"
+            },
+            {
+                "user-id": 1537,
+                "user-name": "丶萨嗝儿王"
+            }
+        ],
+        "publishTime": "2018-08-29T00:00:00.000Z",
+        "modifyTime": "2018-08-29T00:00:00.000Z"
+    },
+    "comments": [
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "这个规定吼啊，维护膜乎的讨论环境是hēn重要的！",
+            "publishTime": "2018-08-29T07:00:00.000Z",
+            "modifyTime": "2018-08-29T07:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
+            "body": "还是希望能像B站一样搞答题注册。",
+            "publishTime": "2018-08-29T11:58:00.000Z",
+            "modifyTime": "2018-08-29T11:58:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
+            "body": "目前已经是邮箱注册了",
+            "publishTime": "2018-08-29T12:32:00.000Z",
+            "modifyTime": "2018-08-29T12:32:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
+            "body": "邀请注册的话会失去我这样蠢萌的新人的啊！",
+            "publishTime": "2018-08-30T08:52:00.000Z",
+            "modifyTime": "2018-08-30T08:52:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1816,
+                "user-name": "阿虚"
+            },
+            "body": "兹磁！",
+            "publishTime": "2018-09-07T16:13:00.000Z",
+            "modifyTime": "2018-09-07T16:13:00.000Z"
+        }
+    ]
+}
