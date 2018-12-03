@@ -17,16 +17,19 @@
     ],
     "detail": {
         "title": "如何评价膜乎APP?",
-        "body": "<p><a href=\"https://github.com/Xmader/mohu\">https://github.com/Xmader/mohu</a><br></p><p><br></p><p>据说可以免fanqiang上膜乎<br></p>",
+        "body": "<p><a href=\"https://archive.is/o/gGB6k/https://github.com/Xmader/mohu\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://github.com/Xmader/mohu</a><br></p><p><br></p><p>据说可以免fanqiang上膜乎<br></p>",
         "author": null,
-        "link": "https://github.com/Xmader/mohu",
+        "link": "https://archive.is/o/gGB6k/https://github.com/Xmader/mohu",
         "comments": 0,
         "publishTime": "2018-07-12T00:00:00.000Z",
         "modifyTime": "2018-07-12T00:00:00.000Z"
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>说明程序员的水平工作做的太好了。免翻墙膜乎APP让世界变成了“蛤包之声相闻”的暴力村，相隔万里的粉丝们不再“老死不相往来”。</p>",
             "folded": false,
             "agree-by": [
@@ -73,7 +76,10 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "我们的程序员是身经百战了，西方的github哪里没看过？",
             "folded": false,
             "agree-by": [
@@ -112,7 +118,10 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>作为一个正在用App “膜盒” 看膜乎的hath, 我不得不说，你们给我搞的这个App啊, excited!</p>",
             "folded": false,
             "agree-by": [
@@ -143,7 +152,10 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "<p>为什么不发布到Google Play里？<br></p>",
             "folded": false,
             "agree-by": [
@@ -170,7 +182,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1178,
+            "author": {
+                "user-id": 1178,
+                "user-name": "efficiency"
+            },
             "body": "<p>太吼了，正好学习一个 python</p><p>挡盐啦，如果有bug 的时候 我们会表态的<br></p>",
             "folded": false,
             "agree-by": [
@@ -193,7 +208,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "<p>此项目已被膜乎官方Github mohuwang 钦点，+1 star</p><p>我们的官方程序员马上就来学习一个了</p>",
             "folded": false,
             "agree-by": [
@@ -216,7 +234,10 @@
             "modifyTime": "2018-07-15T00:00:00.000Z"
         },
         {
-            "author": 1536,
+            "author": {
+                "user-id": 1536,
+                "user-name": "DengJiagui"
+            },
             "body": "<p>吼啊，如果有手机端就更吼了。<br></p>",
             "folded": false,
             "agree-by": [
@@ -239,7 +260,10 @@
             "modifyTime": "2018-07-19T00:00:00.000Z"
         },
         {
-            "author": 6,
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
             "body": "<p>泻药。</p><p>这个可以有！</p><p>粗略看了一下，其对抗污染的方式是 Hosts。</p>",
             "folded": false,
             "agree-by": [
@@ -258,7 +282,10 @@
             "modifyTime": "2018-07-16T00:00:00.000Z"
         },
         {
-            "author": 1572,
+            "author": {
+                "user-id": 1572,
+                "user-name": "艇艇QwQ"
+            },
             "body": "膜乎官方Gayhub https://github.com/mohuwang<br>\n新蛤社官方Gayhub https://github.com/XinhaNewsAgency<br>\n<br>\nHosts对抗的方式是坠吼的！",
             "folded": false,
             "agree-by": [
@@ -321,7 +348,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-30T12:24:00.000Z",
-        "views": 1430,
+        "views": 1431,
         "concerns": 10
     }
 }

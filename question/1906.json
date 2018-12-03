@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "如何看待腾讯员工说的：“等到时机成熟，steam中国将不复存在”？",
-        "body": "<p>/uploads/ueditor/20180713/1531493690554279.jpg\" title=\"1531493690554279.jpg\" alt=\"S80713-225147(1).jpg\"/&gt;</p>",
-        "author": 1393,
+        "body": "<p>https://gledos.science/wegame-steam.html<br></p><p><a href=\"https://archive.is/hxgnc/a367ebe72838f5c949aa113d854e71ea83972ac8.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"S80713-225147(1).jpg\" src=\"https://archive.is/hxgnc/a367ebe72838f5c949aa113d854e71ea83972ac8.jpg\" title=\"1531493690554279.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-13T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>等到时机成熟，地球上的发达民主自由国家将不复存在</p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "等到时机成熟，就和朝鲜一个样了，有steam朝鲜吗？",
             "folded": false,
             "agree-by": [
@@ -108,7 +117,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "<p>我们大庆帝国地大物博，科技高度发达，按如今走势，游戏产业登上世界之巅指日可待，为避免洋人窃取我国核心科技，我们要未雨绸缪，当闭关锁国，无需外交！</p>",
             "folded": false,
             "agree-by": [
@@ -139,7 +151,10 @@
             "modifyTime": "2018-07-14T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "<p>因为等到时机成熟，中国江改国号为庆丰<br></p>",
             "folded": false,
             "agree-by": [
@@ -166,7 +181,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>等到时机成熟，中国江不复存在</p>",
             "folded": false,
             "agree-by": [
@@ -193,7 +211,10 @@
             "modifyTime": "2018-07-14T00:00:00.000Z"
         },
         {
-            "author": 546,
+            "author": {
+                "user-id": 546,
+                "user-name": "谈闹觉余"
+            },
             "body": "等到时机成熟，世界上江不存在虵会煮亿中国",
             "folded": false,
             "agree-by": [
@@ -212,7 +233,10 @@
             "modifyTime": "2018-07-14T00:00:00.000Z"
         },
         {
-            "author": 1015,
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
             "body": "什么？steam厉害？<br>\n快！多少钱？收购了它！<br>\n<br>\nTX遇到打不过对手就收购！",
             "folded": false,
             "agree-by": [
@@ -275,7 +299,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-15T21:31:00.000Z",
-        "views": 414,
+        "views": 415,
         "concerns": 8
     }
 }

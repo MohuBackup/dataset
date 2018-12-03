@@ -5,7 +5,10 @@
     "detail": {
         "title": "穿衣服是怎样一种体验？",
         "body": "真的不知道呀，是怎样的一种体验呢（池沼）",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -13,7 +16,10 @@
     },
     "answers": [
         {
-            "author": 4,
+            "author": {
+                "user-id": 4,
+                "user-name": "知乎小管家"
+            },
             "body": "我是一个衣民，只知道穿农服的体验。",
             "folded": false,
             "agree-by": [
@@ -44,7 +50,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "每次穿衣服都要先拿衣服，感覺自己變年輕了",
             "folded": false,
             "agree-by": [
@@ -71,7 +80,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 2312,
+            "author": {
+                "user-id": 2312,
+                "user-name": "quarkoon"
+            },
             "body": "泻药，不干衣活，没穿过衣服。",
             "folded": false,
             "agree-by": [
@@ -86,7 +98,10 @@
             "modifyTime": "2018-09-24T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我只知道穿农服</p>",
             "folded": false,
             "agree-by": [],
@@ -96,7 +111,10 @@
             "modifyTime": "2018-09-24T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "他们说他们是织工。他们说，他们能织出谁也想象不到的最美丽的布。这种布的色彩和图案不仅是非常好看，而且用它缝出来的衣服还有一种奇异的作用，那就是凡是不称职的人或者愚蠢的人，都看不见这衣服。<br>\n“那正是我最喜欢的衣服！”皇帝心里想。“我穿了这样的衣服，就可以看出我的王国里哪些人不称职；我就可以辨别出哪些人是聪明人，哪些人是傻子。是的，我要叫他们马上织出这样的布来！”<br>\n<br>\n<br>\n“可是他什么衣服也没有穿呀！”一个小孩子最后叫出声来。<br>\n——《皇帝的新装》",
             "folded": false,
             "agree-by": [],
@@ -154,7 +172,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-24T00:13:00.000Z",
-        "views": 279,
+        "views": 280,
         "concerns": 6
     }
 }

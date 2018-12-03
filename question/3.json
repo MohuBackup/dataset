@@ -14,7 +14,10 @@
     "detail": {
         "title": "思想江化是一种什么样的体验？",
         "body": "思想江化是一种什么样的体验",
-        "author": 1,
+        "author": {
+            "user-id": 1,
+            "user-name": "EzawaNico"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 115,
+            "author": {
+                "user-id": 115,
+                "user-name": "圆周率的史诗"
+            },
             "body": "你注册了膜乎就是思想江化的体现",
             "folded": false,
             "agree-by": [
@@ -153,7 +159,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 134,
+            "author": {
+                "user-id": 134,
+                "user-name": "山路十里不换肩"
+            },
             "body": "感时伤国，一句一膜",
             "folded": false,
             "agree-by": [
@@ -232,7 +241,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "看到两个圆就想到黑框眼镜，看到华莱士炸鸡店就想到谈笑风生，看到青蛙就想到暴力……",
             "folded": false,
             "agree-by": [
@@ -295,8 +307,11 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 6,
-            "body": "玩 Gyakuten Saiban 的时候也会把「長者ラジオ」故意误解。<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180310/f55777e65ed73e47709e07c467ac7f35.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180310/f55777e65ed73e47709e07c467ac7f35.png\" class=\"img-polaroid\" title=\"QQ图片20180305170306.png\" alt=\"QQ图片20180305170306.png\"></a>\n</div>",
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
+            "body": "玩 Gyakuten Saiban 的时候也会把「長者ラジオ」故意误解。<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/rYno5/https://www.mohu.club/uploads/answer/20180310/f55777e65ed73e47709e07c467ac7f35.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"QQ图片20180305170306.png\" src=\"https://archive.is/rYno5/dfc09cdc77f6c71f4f725d58ba53b5d2a604b0bf.png\" title=\"QQ图片20180305170306.png\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180310/f55777e65ed73e47709e07c467ac7f35.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -358,7 +373,10 @@
             "modifyTime": "2018-03-05T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "这是最痛苦的，而且这个江化的速度 Effi……",
             "folded": false,
             "agree-by": [
@@ -417,7 +435,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "對關鍵詞超級敏感<br>\n很多時候對方沒有這個意思我都能聽出這個意思",
             "folded": false,
             "agree-by": [
@@ -472,7 +493,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 27,
+            "author": {
+                "user-id": 27,
+                "user-name": "纸糊小管家"
+            },
             "body": "一直在思考，究竟是*还是老的辣，还是*不怕辣？",
             "folded": false,
             "agree-by": [
@@ -527,9 +551,12 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 10,
+            "author": {
+                "user-id": 10,
+                "user-name": "Guest"
+            },
             "body": "就是你每次说话都会下意识的找膜点",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 3,
@@ -578,7 +605,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 133,
+            "author": {
+                "user-id": 133,
+                "user-name": "维尼熊"
+            },
             "body": "不知道为了社会主义向后开车",
             "folded": false,
             "agree-by": [
@@ -629,7 +659,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 614,
+            "author": {
+                "user-id": 614,
+                "user-name": "恶膜某民命秒没"
+            },
             "body": "思想江化，顾名思义，你的思想犹如江水滔滔不绝，当你的思想得到了完美的江化之后，你每一次思考，都犹如在江边赛艇一般，踏着水花，乘风破浪。<br>\n如何分辨自己思想有江化的征兆？<br>\n当你每次看到两个环状物并列时，你开始了对该图形的联想；<br>\n当你见到三点水字旁的汉字时，会联想到两个并列的环状物时；<br>\n当你看3D电影时，会把嫌弃眼镜框不够粗大、并且会主动拆卸镜片时；<br>\n特别关心港澳台新闻的传播速度；<br>\n……<br>\n如何判断思想江化倒了炉火纯青的地步？<br>\n当你学习日语时，见到“えざわたみ”这一串日文字符时，有强烈的时间流逝感；<br>\n当你见到文工团的美女歌唱家时，会希望与她共度良宵；<br>\n在喝“依云”牌子的水时，会感觉到时间的流逝；<br>\n……太多太多，不能详细列举<br>\n&nbsp;<br>\n你一旦思想得到了极致的江化时，你甚至可以与某位能与时间赛跑的巨人一并分享他汲取到的人生经验。<br>\n&nbsp;<br>\n&nbsp;",
             "folded": false,
             "agree-by": [
@@ -676,7 +709,10 @@
             "modifyTime": "2018-04-25T00:00:00.000Z"
         },
         {
-            "author": 52,
+            "author": {
+                "user-id": 52,
+                "user-name": "潘DY"
+            },
             "body": "笑的时候故意打虫合虫合",
             "folded": false,
             "agree-by": [
@@ -719,7 +755,10 @@
             "modifyTime": "2018-03-05T00:00:00.000Z"
         },
         {
-            "author": 11,
+            "author": {
+                "user-id": 11,
+                "user-name": "你们有一个好"
+            },
             "body": "会在膣户不断转世，无穷匮也。",
             "folded": false,
             "agree-by": [
@@ -754,8 +793,11 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 64,
-            "body": "唔...知乎号被小黑屋好多次了\n<img src=\"/uploads/answer/20180401/f72945d7a08ce03793d63cdf70e8d759.png\">",
+            "author": {
+                "user-id": 64,
+                "user-name": "狂人日港记"
+            },
+            "body": "唔...知乎号被小黑屋好多次了\n<img src=\"https://archive.is/rYno5/91cb13e2339b2114f351c2247f66fd792fe03fc0.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -789,8 +831,11 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 595,
-            "body": "。\n<img src=\"/uploads/answer/20180402/afaef918c43b1154c55e8559f5f47277.jpg\">",
+            "author": {
+                "user-id": 595,
+                "user-name": "洛水"
+            },
+            "body": "。\n<img src=\"https://archive.is/rYno5/d8370a7b2551784802810ec3b615c68d5fc37e60.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -824,7 +869,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "真正的粉丝总能找到月莫点",
             "folded": false,
             "agree-by": [
@@ -851,7 +899,10 @@
             "modifyTime": "2018-03-29T00:00:00.000Z"
         },
         {
-            "author": 262,
+            "author": {
+                "user-id": 262,
+                "user-name": "kaeru教信者"
+            },
             "body": "可能就是把自己的用户名设置为“kaeru教信者”或者“カエル教信者”吧",
             "folded": false,
             "agree-by": [
@@ -874,7 +925,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 384,
+            "author": {
+                "user-id": 384,
+                "user-name": "时间的朋友"
+            },
             "body": "真正的粉丝是不管在何时何地，都可以膜得起来",
             "folded": false,
             "agree-by": [
@@ -897,7 +951,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 98,
+            "author": {
+                "user-id": 98,
+                "user-name": "协和机长"
+            },
             "body": "在Bilibili有两个ID因政治被封",
             "folded": false,
             "agree-by": [
@@ -920,7 +977,10 @@
             "modifyTime": "2018-04-18T00:00:00.000Z"
         },
         {
-            "author": 546,
+            "author": {
+                "user-id": 546,
+                "user-name": "谈闹觉余"
+            },
             "body": "能在一堆不知道膜为何物的同学面前说一大堆，看着他们渴望知识的眼神，开心",
             "folded": false,
             "agree-by": [
@@ -939,7 +999,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 80,
+            "author": {
+                "user-id": 80,
+                "user-name": "linkhoo"
+            },
             "body": "我只能跟你说:无可奉告！",
             "folded": false,
             "agree-by": [
@@ -954,7 +1017,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 86,
+            "author": {
+                "user-id": 86,
+                "user-name": "没有任何意思"
+            },
             "body": "能+1s，这是最吼的",
             "folded": false,
             "agree-by": [],
@@ -964,7 +1030,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 219,
+            "author": {
+                "user-id": 219,
+                "user-name": "扬州1926"
+            },
             "body": "坠痛苦的",
             "folded": false,
             "agree-by": [],
@@ -974,17 +1043,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": -1,
-            "body": "长……长……好长！",
-            "folded": true,
-            "agree-by": [],
-            "using-mobile-phone": true,
-            "comments": 0,
-            "publishTime": "2018-04-03T00:00:00.000Z",
-            "modifyTime": "2018-04-03T00:00:00.000Z"
-        },
-        {
-            "author": 1365,
+            "author": {
+                "user-id": 1365,
+                "user-name": "bigmogician"
+            },
             "body": "蛤蛤大笑",
             "folded": false,
             "agree-by": [],
@@ -994,7 +1056,10 @@
             "modifyTime": "2018-06-08T00:00:00.000Z"
         },
         {
-            "author": 1810,
+            "author": {
+                "user-id": 1810,
+                "user-name": "苟蛤于世"
+            },
             "body": "<p>时刻准备着一套红衣，为长者贡献自己一秒的生命</p>",
             "folded": false,
             "agree-by": [],
@@ -1004,7 +1069,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 862,
+            "author": {
+                "user-id": 862,
+                "user-name": "小蛤蟆穿花衣"
+            },
             "body": "任何膜点都能高潮的感觉",
             "folded": false,
             "agree-by": [],
@@ -1014,7 +1082,10 @@
             "modifyTime": "2018-08-21T00:00:00.000Z"
         },
         {
-            "author": 1444,
+            "author": {
+                "user-id": 1444,
+                "user-name": "gfw98k"
+            },
             "body": "<p>绘梨衣是怎么死的？</p><p>答：巫女服在身，想不续都难！<br></p>",
             "folded": false,
             "agree-by": [],
@@ -1022,6 +1093,19 @@
             "comments": 0,
             "publishTime": "2018-06-27T00:00:00.000Z",
             "modifyTime": "2018-06-27T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
+            "body": "长……长……好长！",
+            "folded": true,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-03T00:00:00.000Z",
+            "modifyTime": "2018-04-03T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -1068,7 +1152,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-21T09:39:00.000Z",
-        "views": 2945,
+        "views": 2947,
         "concerns": 30
     }
 }

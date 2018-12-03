@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "难道不是成了苏联的殖民地？（虽然后来闹翻了）",
             "folded": false,
             "agree-by": [
@@ -33,7 +36,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "回族笑而不语，清真寺和拉面馆已经成了俺们的租界！",
             "folded": false,
             "agree-by": [],
@@ -53,7 +59,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "是的，就是这样",
             "folded": false,
             "agree-by": [],
@@ -121,7 +130,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-19T15:15:00.000Z",
-        "views": 247,
+        "views": 248,
         "concerns": 7
     }
 }

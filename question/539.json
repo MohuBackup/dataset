@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 983,
+            "author": {
+                "user-id": 983,
+                "user-name": "奉壹"
+            },
             "body": "喜欢改馅。",
             "folded": false,
             "agree-by": [
@@ -61,7 +64,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 204,
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
             "body": "想方设法让它说出“声乐有几种唱法”这句话<br>\n这样它会四十分钟之内变得欲求不满 想上了你",
             "folded": false,
             "agree-by": [
@@ -80,7 +86,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 370,
+            "author": {
+                "user-id": 370,
+                "user-name": "冮泽民"
+            },
             "body": "他的学历和亲戚关系（诸侯）",
             "folded": false,
             "agree-by": [
@@ -99,7 +108,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "喜欢背书名，有时还会背错；找不着回车键；不知道声乐有几种唱法。",
             "folded": false,
             "agree-by": [
@@ -118,7 +130,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 834,
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
             "body": "他很自负，也很自卑",
             "folded": false,
             "agree-by": [
@@ -133,7 +148,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 984,
+            "author": {
+                "user-id": 984,
+                "user-name": "windigo"
+            },
             "body": "最害怕蒙古英雄萨格尔王",
             "folded": false,
             "agree-by": [
@@ -151,7 +169,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-05-01T00:47:00.000Z",
-        "views": 328,
+        "views": 329,
         "concerns": 5
     }
 }

@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价自由亚洲电台",
         "body": "",
-        "author": 1471,
+        "author": {
+            "user-id": 1471,
+            "user-name": "TungCheehwa"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-28T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 295,
+            "author": {
+                "user-id": 295,
+                "user-name": "邓小平"
+            },
             "body": "<p>考虑到混入轮子，总体不够可信（小于VOA），不过有趣的是《参考消息》倒也引用过，作为消息源还是可行的。</p>",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-07-02T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>我没听过不知道，我爸上大学的时候倒是整天听(他那个时候搞学运，貌似还当过一个小头目)</p>",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>比CCAV不知高到哪里去了</p>",
             "folded": false,
             "agree-by": [
@@ -99,7 +111,10 @@
             "modifyTime": "2018-07-04T00:00:00.000Z"
         },
         {
-            "author": 2645,
+            "author": {
+                "user-id": 2645,
+                "user-name": "子弹尖名单长"
+            },
             "body": "<p>和博讯一样，都是民运人士大本营</p>",
             "folded": false,
             "agree-by": [
@@ -129,7 +144,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>很优秀，是共匪的眼中钉肉中刺。</p>",
             "folded": false,
             "agree-by": [
@@ -144,7 +162,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 2497,
+            "author": {
+                "user-id": 2497,
+                "user-name": "sunjinxiang"
+            },
             "body": "节目有的好有的坏，我特别喜欢陈文昭和宋鲁郑辩论那期，还有那个主持人。",
             "folded": false,
             "agree-by": [
@@ -207,7 +228,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-16T11:15:00.000Z",
-        "views": 827,
+        "views": 828,
         "concerns": 8
     }
 }

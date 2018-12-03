@@ -9,8 +9,11 @@
     ],
     "detail": {
         "title": "网易云上有哪些可以膜的歌？",
-        "body": "<p>本问题意在对网易云的可膜歌曲做一个汇总。</p><p>可留下歌名。</p><p>相关问题：</p><p><a href=\"/question/1329\" target=\"_blank\" title=\"\">B站上有哪些视频能看到江主席，而且没有禁评？</a></p><p><a href=\"/question/1330\" target=\"_blank\" title=\"哪些B站的视频有膜点？\">哪些B站的视频有膜点？</a><br></p><p>如果回答较多我可能会出一篇文章</p>",
-        "author": 866,
+        "body": "<p>本问题意在对网易云的可膜歌曲做一个汇总。</p><p>可留下歌名。</p><p>相关问题：</p><p><a href=\"https://archive.is/o/PCfEM/https://www.mohu.club/question/1329\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">B站上有哪些视频能看到江主席，而且没有禁评？</a></p><p><a href=\"https://archive.is/o/PCfEM/https://www.mohu.club/question/1330\" title=\"哪些B站的视频有膜点？\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">哪些B站的视频有膜点？</a><br></p><p>如果回答较多我可能会出一篇文章</p>",
+        "author": {
+            "user-id": 866,
+            "user-name": "黑框长者"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-09T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>毕业歌, aloha oe, one second，too simple, 1926, 扬州</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>搜索“祂”</p><p>搜索“jzm”</p><p>搜索“苟”</p><p>有一堆膜蛤的</p><p>补充：还有一首董先生，泽是坠吼的！</p>",
             "folded": false,
             "agree-by": [
@@ -72,7 +81,10 @@
             "modifyTime": "2018-06-10T00:00:00.000Z"
         },
         {
-            "author": 1234,
+            "author": {
+                "user-id": 1234,
+                "user-name": "winnie97"
+            },
             "body": "长安街，碾，恶习，苟，难再续，长者，倒车，维尼，包子铺，跑得快。。。。",
             "folded": false,
             "agree-by": [
@@ -95,7 +107,10 @@
             "modifyTime": "2018-06-10T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "搜索“宋祖英”",
             "folded": false,
             "agree-by": [
@@ -118,8 +133,11 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": 1444,
-            "body": "<p>铁骑，关系，aloha oe，枸杞红了，红衣落尽，Frog，蛇，angry，naive，excited，一致団结，1926，恶习，</p><p>车臣总统为足球大发雷霆，ＮＨＫ记者免职处分，</p><p>还有这个<a href=\"http://music.163.com/#/song?id=507794118\" target=\"_blank\" title=\"\">蛤 - 安那 - 单曲 - 网易云音乐</a>这是坠吼的！</p>",
+            "author": {
+                "user-id": 1444,
+                "user-name": "gfw98k"
+            },
+            "body": "<p>铁骑，关系，aloha oe，枸杞红了，红衣落尽，Frog，蛇，angry，naive，excited，一致団结，1926，恶习，</p><p>车臣总统为足球大发雷霆，ＮＨＫ记者免职处分，</p><p>还有这个<a href=\"https://archive.is/o/PCfEM/music.163.com/%23/song?id=507794118\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">蛤 - 安那 - 单曲 - 网易云音乐</a>这是坠吼的！</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -133,7 +151,10 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 1447,
+            "author": {
+                "user-id": 1447,
+                "user-name": "今日不知我是我"
+            },
             "body": "<p>有个歌手叫蛤小蟆</p>",
             "folded": false,
             "agree-by": [
@@ -148,7 +169,10 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 204,
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
             "body": "<p>奖学金 法拉利 豪迈 靡靡之音</p>",
             "folded": false,
             "agree-by": [],
@@ -161,7 +185,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-06-22T14:57:00.000Z",
-        "views": 559,
+        "views": 560,
         "concerns": 7
     }
 }

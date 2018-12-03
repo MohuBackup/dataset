@@ -14,7 +14,10 @@
     "detail": {
         "title": "吃元宵是一种什么样的体验？",
         "body": "",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "有的人吃元宵会地震",
             "folded": false,
             "agree-by": [],
@@ -80,7 +86,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-04T03:03:00.000Z",
-        "views": 173,
+        "views": 174,
         "concerns": 2
     }
 }

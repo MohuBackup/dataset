@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何评价supercell下属游戏在聊天窗口屏蔽simple/naive等民敢茨",
         "body": "supercell在其最近游戏皇室战争和部落冲突更新后和谐了诸如“simple”，“naive”长者姓名及类似长者姓名缩写的拼音和英文，各位如何评价？",
-        "author": 954,
+        "author": {
+            "user-id": 954,
+            "user-name": "timefrog"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-30T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 204,
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
             "body": "习以为常",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 297,
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
             "body": "这公司不是已经被腾讯收购了吗",
             "folded": false,
             "agree-by": [],
@@ -95,7 +104,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-30T11:59:00.000Z",
-        "views": 194,
+        "views": 195,
         "concerns": 3
     }
 }

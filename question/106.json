@@ -14,7 +14,10 @@
     "detail": {
         "title": "拥有知乎账号最多的人是谁？",
         "body": "",
-        "author": 11,
+        "author": {
+            "user-id": 11,
+            "user-name": "你们有一个好"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-08T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 120,
+            "author": {
+                "user-id": 120,
+                "user-name": "与君永相望"
+            },
             "body": "拥有最多账号的我可能不知道是谁，但我一定知道拥有粉丝最多的人。",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 4,
+            "author": {
+                "user-id": 4,
+                "user-name": "知乎小管家"
+            },
             "body": "Antonio Peng 有69个。",
             "folded": false,
             "agree-by": [
@@ -95,7 +104,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-03-18T11:10:00.000Z",
-        "views": 363,
+        "views": 364,
         "concerns": 4
     }
 }

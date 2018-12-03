@@ -10,7 +10,10 @@
     "detail": {
         "title": "你们说的“鹳”是什么意思？",
         "body": "尴尬，我以为是“鹤”字，原来是“鹳”字。",
-        "author": 40,
+        "author": {
+            "user-id": 40,
+            "user-name": "江边沼泽的村民"
+        },
         "link": null,
         "comments": 2,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 1,
-            "body": "是雏鹤爱吗\n<img src=\"/uploads/answer/20180303/f58742af75d0676c9212c6d995decea3.jpg\">",
+            "author": {
+                "user-id": 1,
+                "user-name": "EzawaNico"
+            },
+            "body": "是雏鹤爱吗\n<img src=\"https://archive.is/zR64N/5c3a83e04d3427e293ed42693b3bcdfcb686b936.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -53,7 +59,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "草<br>\n话说题主是……？",
             "folded": false,
             "agree-by": [
@@ -76,7 +85,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "论“鹳”与“鹤”的区别。。。。。<br>\n题主是外国友人？",
             "folded": false,
             "agree-by": [],
@@ -134,7 +146,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-03T16:58:00.000Z",
-        "views": 361,
+        "views": 364,
         "concerns": 4
     }
 }

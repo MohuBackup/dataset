@@ -10,7 +10,10 @@
     "detail": {
         "title": "品葱打不开了么？",
         "body": "https://www.pin-cong.com/<br>\n这个网站",
-        "author": 2150,
+        "author": {
+            "user-id": 2150,
+            "user-name": "razor_sharp"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-08T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "的确，不知道为什么",
             "folded": false,
             "agree-by": [
@@ -51,7 +57,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 2150,
+            "author": {
+                "user-id": 2150,
+                "user-name": "razor_sharp"
+            },
             "body": "嗯嗯，目前可以上了。",
             "folded": false,
             "agree-by": [],
@@ -61,7 +70,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 2410,
+            "author": {
+                "user-id": 2410,
+                "user-name": "xyggdd_bd"
+            },
             "body": "的确打不开了??",
             "folded": false,
             "agree-by": [],
@@ -118,8 +130,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-31T10:34:00.000Z",
-        "views": 1606,
+        "last-active-time": "2018-11-03T10:39:00.000Z",
+        "views": 1607,
         "concerns": 4
     }
 }

@@ -26,7 +26,10 @@
     "detail": {
         "title": "如何看待维尼写文革，十年浩劫变艰难探索",
         "body": "习大犬现在是不是也在艰难探索？",
-        "author": 2063,
+        "author": {
+            "user-id": 2063,
+            "user-name": "德兰尊蛤者"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-10T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 1561,
+            "author": {
+                "user-id": 1561,
+                "user-name": "ま蛤ろす"
+            },
             "body": "維尼寫史，維尼禁止<br>\n維尼做不可能的事",
             "folded": false,
             "agree-by": [
@@ -85,7 +91,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 2174,
+            "author": {
+                "user-id": 2174,
+                "user-name": "Naiiiiiive"
+            },
             "body": "<p>江来报导上出了偏差，他是要负责的。</p>",
             "folded": false,
             "agree-by": [
@@ -128,7 +137,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>做了皇帝什么都可以做</p><p>先是改文革下次就可以抹杀掉革命先辈和今古伟人</p><p>之后就编写习经。起初，习创造红色天地。太初有道，道与习同在，道就是习。耶稣习督</p>",
             "folded": false,
             "agree-by": [
@@ -171,7 +183,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "习大犬：我觉得文革太棒啦",
             "folded": false,
             "agree-by": [
@@ -202,7 +217,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "华国锋同志在向大大亲切招手",
             "folded": false,
             "agree-by": [
@@ -217,7 +235,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>“凡是习主席制定的政策，我们都要执行，凡是习主席的思想，我们都要拥护。”</p>",
             "folded": false,
             "agree-by": [
@@ -232,8 +253,11 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 2960,
-            "body": "<p>套用一下《人民日报》的逻辑：如此荒唐之举，进一步暴露了XX政府在历史问题上颠倒黑白、欺世盗名的形象。然而，历史事实并不会因XX的强行歪曲而改变。XX在历史教科书问题上制造的任何谎言，都是对公理正义的挑衅。国际社会理当对此予以严正谴责并保持高度警惕。</p><p><br></p><p>reference：<a href=\"https://baijiahao.baidu.com/s?id=1559590087008510\" target=\"_blank\" title=\"\">人民日报批日本用教科书歪曲历史：是丑陋的挑衅</a></p>",
+            "author": {
+                "user-id": 2960,
+                "user-name": "柳絮飞"
+            },
+            "body": "<p>套用一下《人民日报》的逻辑：如此荒唐之举，进一步暴露了XX政府在历史问题上颠倒黑白、欺世盗名的形象。然而，历史事实并不会因XX的强行歪曲而改变。XX在历史教科书问题上制造的任何谎言，都是对公理正义的挑衅。国际社会理当对此予以严正谴责并保持高度警惕。</p><p><br></p><p>reference：<a href=\"https://archive.is/o/ePqTy/https://baijiahao.baidu.com/s?id=1559590087008510\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">人民日报批日本用教科书歪曲历史：是丑陋的挑衅</a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -247,7 +271,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "\"前进道路不bi可xu能yao一jian帆nan风tan顺suo，越是取得成绩的时候，越是要有如sang履xing薄bing冰kuang的（*地）谨zuo慎si，越是要有居bu安gu思yi危qie的（*地）忧dao患che，绝不dui能yao犯战略性、颠覆性错误\"<br>\n呱咕~",
             "folded": false,
             "agree-by": [],
@@ -304,8 +331,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T11:19:00.000Z",
-        "views": 1267,
+        "last-active-time": "2018-11-03T11:23:00.000Z",
+        "views": 1268,
         "concerns": 9
     }
 }

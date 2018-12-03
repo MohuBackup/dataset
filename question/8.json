@@ -10,7 +10,10 @@
     "detail": {
         "title": "“手撕鹳肉”这道菜是怎样制作出来的？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1677,
+            "author": {
+                "user-id": 1677,
+                "user-name": "ChakTheFrog"
+            },
             "body": "<p>參考廣東名菜“龍虎風”當中“鳳凰肉”的處理方式</p>",
             "folded": false,
             "agree-by": [
@@ -81,7 +87,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-02T03:04:00.000Z",
-        "views": 396,
+        "views": 397,
         "concerns": 4
     }
 }

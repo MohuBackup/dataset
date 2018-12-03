@@ -18,15 +18,21 @@
     "detail": {
         "title": "如何評價中國人與Frostpunk？",
         "body": "<p>Frostpunk在steam上的中國人評價體現出中國人與外國人的價值觀不同，甚至崇尚法西斯</p><p>面對最後製作組的問題「值不值得」，都說值得。</p><p>那麼今年貿易戰，外國撤資，西方價值與人道主義紛紛撤退，美國甚至退出世界人權組織的情況下，為什麼中國人不繼續持有Frostpunk的價值觀？亦或是自己成為Frostpunk裡面的小民眾就不行了？習近平做這些事，難道不值得嗎？文革30年，憋出核彈，「這一切值得嗎？」</p><p>是否普遍的中國人都具有雙想（Doublethink）？</p>",
-        "author": 2999,
-        "link": "https://www.zhihu.com/question/274746086",
+        "author": {
+            "user-id": 2999,
+            "user-name": "幹乾干"
+        },
+        "link": "https://archive.is/o/WP0pG/https://www.zhihu.com/question/274746086",
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
         "modifyTime": "2018-11-03T00:00:00.000Z"
     },
     "answers": [
         {
-            "author": 2869,
+            "author": {
+                "user-id": 2869,
+                "user-name": "winniethefool"
+            },
             "body": "<p>知乎上也是的，一群人游戏水平太差，玩不出最佳方案，只好专制独裁，然后就开始骂游戏工作室。他们抱怨说游戏工作室太白左了，人家最终评价都没有用一个肯定语气就说人家白做圣母。他们不知道如果按照真白左的方法玩游戏根本无法通关，评价更加差。说白了就是被洗脑的小粉红不会动脑子，还反过来诬陷工作室</p>",
             "folded": false,
             "agree-by": [
@@ -96,8 +102,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-02T22:09:00.000Z",
-        "views": 170,
+        "last-active-time": "2018-11-03T22:18:00.000Z",
+        "views": 171,
         "concerns": 3
     }
 }

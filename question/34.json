@@ -10,7 +10,10 @@
     "detail": {
         "title": "鹳的屠宰场是否存在？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -65,7 +68,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-03T12:54:00.000Z",
-        "views": 245,
+        "views": 246,
         "concerns": 7
     }
 }

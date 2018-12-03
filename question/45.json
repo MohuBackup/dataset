@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价知乎鹳卫兵John Sherry？",
         "body": "",
-        "author": 42,
+        "author": {
+            "user-id": 42,
+            "user-name": "周源"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 11,
+            "author": {
+                "user-id": 11,
+                "user-name": "你们有一个好"
+            },
             "body": "John Sherry 今次咁劳气，系佢挺鹳心切，抑或是针对蛤丝呢？",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "迫真吴语版<br>\nJohn Sherry（琼•歇里）箇回介生气，是伊挺鹳心切，抑或是针对蛤丝呢？<br>\nDzjon Sjiqli Geqwwe ka santshji, zz jji thinkuoe sjintshjiq, jiqwweqzz tsente keqsy neq?",
             "folded": false,
             "agree-by": [
@@ -128,7 +137,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-04T07:28:00.000Z",
-        "views": 243,
+        "views": 244,
         "concerns": 6
     }
 }

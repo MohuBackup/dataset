@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价央视驻英记者大闹保守党年会会场？",
         "body": "据称此记者已携子女移居伦敦",
-        "author": 1159,
+        "author": {
+            "user-id": 1159,
+            "user-name": "默然"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-02T00:00:00.000Z",
@@ -41,7 +44,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2115,
+            "author": {
+                "user-id": 2115,
+                "user-name": "无限连任的包子"
+            },
             "body": "<p>吃饱了没事干的央视妓者,对英国的事情指手画脚。人家英国,一不输出革命、二不输出战乱和贫困、三不输出廉价的假冒伪劣商品、四不来折腾咱们,还有什么好说的?</p>",
             "folded": false,
             "agree-by": [
@@ -56,7 +62,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>（新闻透视主题曲: 636731323137356...you are liar！you want to separate china...（转换镜头）...this is killing！kill me now...1232 1232 #123---）</p><p><br></p><p>央视记者寻日系参加英国保守党年会，激动甘打左在场志愿者几巴掌。中国人系国外大发雷霆，9月2日曾先生系瑞典讲旅馆问题时试过一次。央视记者甘劳气，系佢挺习心切，抑或系转移国内矛盾呢？</p><p>It's like a aitriot（碍国），Xi did one&nbsp;</p><p>more，She did one more.</p>",
             "folded": false,
             "agree-by": [
@@ -71,7 +80,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 1662,
+            "author": {
+                "user-id": 1662,
+                "user-name": "dqyht"
+            },
             "body": "<p>奉旨闹事</p>",
             "folded": false,
             "agree-by": [],
@@ -81,7 +93,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "我大庆慈习太后宣战西方十一国指日可待！",
             "folded": false,
             "agree-by": [],
@@ -91,7 +106,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 1677,
+            "author": {
+                "user-id": 1677,
+                "user-name": "ChakTheFrog"
+            },
             "body": "<p>搞個大新聞</p><p>習訪的哪一個國家她沒有去過？</p><p>對於分裂天朝的naive行為要保持巋kui然不動的堅定立場</p><p>在習近平新時代中國特色社會主義理論體系的指導下維護國家統一與民族團結</p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -149,7 +167,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-02T06:32:00.000Z",
-        "views": 465,
+        "views": 466,
         "concerns": 7
     }
 }

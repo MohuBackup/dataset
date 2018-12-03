@@ -1,0 +1,197 @@
+{
+    "type": "question",
+    "id": 681,
+    "tags": [
+        {
+            "tag-id": 391,
+            "tag-name": "民主自由"
+        },
+        {
+            "tag-id": 336,
+            "tag-name": "民主"
+        },
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        },
+        {
+            "tag-id": 328,
+            "tag-name": "政治制度"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        },
+        {
+            "tag-id": 325,
+            "tag-name": "革命"
+        }
+    ],
+    "detail": {
+        "title": "一个国家怎样保证民主革命的果实不被窃取？",
+        "body": "辛亥革命后出了袁世凯，法国大革命后君主复辟，类似的例子还有很多，怎样避免革命果实被窃取？革命会不会成为改朝换代的工具？",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-07T00:00:00.000Z",
+        "modifyTime": "2018-05-07T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
+            "body": "蜂蜜的味道，尝过了就再也放不下了。",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 167,
+                    "user-name": "玛里苟斯"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "一直讨论革命怕不是要被……",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1056,
+                "user-name": "中兴安岭"
+            },
+            "body": "在生产力和社会总体思想都满足条件之后再进行民主革命，足够的生产力保证社会不会自然倒退，社会群体思想保证无人进行复辟。<br>\n如果你想说中国，目前这两条都不够格。<br>\n如果非要超前革命，只会在未来造成严重的混乱和社会倒退。",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
+            "body": "首先，要保证革命者革命的目的是为了国家的民主；其次，人民的知识水平要提高，能够保证想要扭曲革命的人不会成功。",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-08T00:00:00.000Z",
+            "modifyTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
+            "body": "有军队就行",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-07T00:00:00.000Z",
+            "modifyTime": "2018-05-07T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "同学们都认为习近平当主席好，治理国家好，我该怎么办？（见补充）",
+            "id": 2448
+        },
+        {
+            "title": "乳包群体由于维尼的苛政而逐渐壮大，现已成为一个“泼聚力量”的群体。那么什么词适合做乳包者的简称？",
+            "id": 1940
+        },
+        {
+            "title": "如何参加中国国家主席选举？",
+            "id": 469
+        },
+        {
+            "title": "长者为什么说要学“习”一个？",
+            "id": 571
+        },
+        {
+            "title": "你愿意为中国的民主革命献出自己的生命吗？",
+            "id": 686
+        },
+        {
+            "title": "如何反驳“那些天天骂国家骂党的人真没脑子，没中国和共产党你能活动那么好？”的观点？",
+            "id": 2175
+        },
+        {
+            "title": "各位未出国的膜友假如获得了出国的机会最想去哪个国家？",
+            "id": 1798
+        },
+        {
+            "title": "如果让你二选一，你愿做一个沉迷二次元的废宅还是一个随时可能被枪毙的反动分子？",
+            "id": 984
+        },
+        {
+            "title": "Bilibili还是不是一个纯粹的娱乐社区",
+            "id": 2413
+        },
+        {
+            "title": "如何看待某国家政府网站说“从下个月起工资少了但钱还是你的”这句话？难道包包大人喜欢吃嫩韭菜？",
+            "id": 2418
+        },
+        {
+            "title": "膜乎会不会是一个钓鱼执法网站",
+            "id": 767
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-08T15:22:00.000Z",
+        "views": 289,
+        "concerns": 5
+    }
+}

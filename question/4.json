@@ -10,7 +10,10 @@
     "detail": {
         "title": "思想鹳化是一种怎样的体验？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1572,
+            "author": {
+                "user-id": 1572,
+                "user-name": "艇艇QwQ"
+            },
             "body": "<p>权利让人迷失自我的喵。</p>",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-08-03T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "成为第一个帖子的第一条回复是怎样的体验",
             "folded": false,
             "agree-by": [],
@@ -51,7 +60,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>以为自己职位里有个guan发音就以为自己是官，可以为所欲为封禁用户了。knife！</p>",
             "folded": false,
             "agree-by": [],
@@ -109,7 +121,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-03T04:34:00.000Z",
-        "views": 354,
+        "views": 355,
         "concerns": 8
     }
 }

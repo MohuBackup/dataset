@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价这张图片？",
-        "body": "<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/questions/20180917/f0bc17b4aa9e3b761a358fba449f9d30.jpeg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180917/f0bc17b4aa9e3b761a358fba449f9d30.jpeg\" class=\"img-polaroid\" title=\"D89D00E1-FCD4-4A52-827B-E8613430A5C1-3584-000004FCA738C577.jpeg\" alt=\"D89D00E1-FCD4-4A52-827B-E8613430A5C1-3584-000004FCA738C577.jpeg\"></a>\n</div>\n<br>\n是否说明英国皇室粗鲁无礼？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "<br>\n<div>\n<a href=\"https://archive.is/o/L8ILH/https://www.mohu.club/uploads/questions/20180917/f0bc17b4aa9e3b761a358fba449f9d30.jpeg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"D89D00E1-FCD4-4A52-827B-E8613430A5C1-3584-000004FCA738C577.jpeg\" src=\"https://archive.is/L8ILH/5bda85885f96ff5ddc49c684720c8acea55c60e5.jpeg\" title=\"D89D00E1-FCD4-4A52-827B-E8613430A5C1-3584-000004FCA738C577.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n是否说明英国皇室粗鲁无礼？ <div>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "主要是大犬的演讲实在太好了，让他们岿然不动的提前进入了中国梦",
             "folded": false,
             "agree-by": [
@@ -53,7 +56,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "冲过来一群习卫兵，给这帮“白皮猪“剃阴阳头戴高帽批斗一下，准保精神",
             "folded": false,
             "agree-by": [
@@ -84,7 +90,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "背的这些书名我一个也不想听",
             "folded": false,
             "agree-by": [
@@ -111,7 +120,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>刁自我感觉良好得背书，苦死了同声翻译</p>",
             "folded": false,
             "agree-by": [
@@ -178,7 +190,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-18T00:46:00.000Z",
-        "views": 418,
+        "views": 419,
         "concerns": 5
     }
 }

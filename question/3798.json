@@ -38,7 +38,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>习以为(自己的统治时间会很)长</p>",
             "folded": false,
             "agree-by": [
@@ -65,7 +68,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "<p>习蚁围肠（指大肠）</p>",
             "folded": false,
             "agree-by": [
@@ -88,7 +94,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2749,
+            "author": {
+                "user-id": 2749,
+                "user-name": "江续之"
+            },
             "body": "<p>习已入常</p>",
             "folded": false,
             "agree-by": [
@@ -107,7 +116,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "习已废常",
             "folded": false,
             "agree-by": [
@@ -126,7 +138,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>习在位长</p>",
             "folded": false,
             "agree-by": [
@@ -145,7 +160,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2276,
+            "author": {
+                "user-id": 2276,
+                "user-name": "htc"
+            },
             "body": "<p>刁..长<br></p>",
             "folded": false,
             "agree-by": [],
@@ -187,7 +205,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-23T09:48:00.000Z",
-        "views": 388,
+        "views": 389,
         "concerns": 5
     }
 }

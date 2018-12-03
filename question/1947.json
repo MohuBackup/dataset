@@ -10,7 +10,10 @@
     "detail": {
         "title": "维尼为什么不穿裤子？",
         "body": "",
-        "author": 1477,
+        "author": {
+            "user-id": 1477,
+            "user-name": "维尼休斯"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-17T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 855,
+            "author": {
+                "user-id": 855,
+                "user-name": "齐奥塞斯库"
+            },
             "body": "<p>有人送给它一条聪明人才能看见的裤子</p>",
             "folded": false,
             "agree-by": [
@@ -109,7 +115,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>因为通商宽衣啊，宽衣宽衣，它的裤子宽到了覆盖了全中国，裆燃看不见啦</p>",
             "folded": false,
             "agree-by": [
@@ -188,7 +197,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "这样强奸民意和千古一帝自慰都方便一些",
             "folded": false,
             "agree-by": [
@@ -251,8 +263,11 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 915,
-            "body": "①可以更好地雷普屁民②皇帝的新装，狗腿子们煽动个人崇拜。\n<img src=\"/uploads/answer/20180718/4f5946051fe9607a43ab17e06a5d92df.jpg\">\n<img src=\"/uploads/answer/20180718/f1b9998319b4bb51d6f9acb115636c6f.jpg\">",
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
+            "body": "①可以更好地雷普屁民②皇帝的新装，狗腿子们煽动个人崇拜。\n<img src=\"https://archive.is/aeDil/216858109918c05c76ec4f98a993cb3149368b44.jpg\">\n<img src=\"https://archive.is/aeDil/e8162e525be466d8aabfcdffebebf5a4a9ae5b33.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -314,7 +329,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>方便用下面随时播种中国梦<br></p><br>",
             "folded": false,
             "agree-by": [
@@ -365,9 +383,12 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "<p>方便随时喷粪</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -408,7 +429,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>皇帝改了穿衣的规定，禁止穿裤子了，屁民只能服从</p>",
             "folded": false,
             "agree-by": [
@@ -447,7 +471,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1418,
+            "author": {
+                "user-id": 1418,
+                "user-name": "傻傻的杨杨"
+            },
             "body": "因为撸起裤子加油干",
             "folded": false,
             "agree-by": [
@@ -486,7 +513,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1374,
+            "author": {
+                "user-id": 1374,
+                "user-name": "233kun"
+            },
             "body": "因为没有生殖器，所以不用穿",
             "folded": false,
             "agree-by": [
@@ -517,7 +547,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "皇帝的新农",
             "folded": false,
             "agree-by": [
@@ -544,7 +577,10 @@
             "modifyTime": "2018-07-24T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "周杰倫：哎喲不錯這個屌",
             "folded": false,
             "agree-by": [
@@ -567,7 +603,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1778,
+            "author": {
+                "user-id": 1778,
+                "user-name": "xxzxg"
+            },
             "body": "<p>裤子的松紧会夹住衣服，让宽衣不彻底，所以不如不穿裤子<br></p>",
             "folded": false,
             "agree-by": [
@@ -590,7 +629,10 @@
             "modifyTime": "2018-08-21T00:00:00.000Z"
         },
         {
-            "author": 857,
+            "author": {
+                "user-id": 857,
+                "user-name": "江主席小号"
+            },
             "body": "皇帝的新衣",
             "folded": false,
             "agree-by": [
@@ -653,7 +695,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-21T06:38:00.000Z",
-        "views": 1316,
+        "views": 1317,
         "concerns": 14
     }
 }

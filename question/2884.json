@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>牺牲一个不文明的国家。<br></p>",
             "folded": false,
             "agree-by": [
@@ -61,7 +64,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "裆燃是包子啦",
             "folded": false,
             "agree-by": [
@@ -88,7 +94,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 1527,
+            "author": {
+                "user-id": 1527,
+                "user-name": "月莫"
+            },
             "body": "<p>如果只是希望生活在一个文明的国家，不用任何牺牲。最多牺牲下脑细胞学好外语走人就行了。</p><p><br></p><p>至于不文明的国家本身，不是任何个人可以改造的——上面的人昏庸腐败，而升官发财的理念在底层亦深入人心；上面的人沆瀣一气，而民众亦懂得托关系傍权势；上面的人独裁专制搞文字狱，而大部分人亦不能容忍不同的意见。这个前后到底谁是因，谁是果？很多人不愿意回答这个问题。</p><p><br></p><p>五千年遗毒绝非朝夕可破。我能做的，只有坚持上膜乎、感化我身边的人来膜乎、将来告诉我的后代曾经有膜乎，让姿势水平一代一代地提高起来。</p>",
             "folded": false,
             "agree-by": [
@@ -111,7 +120,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>我愿意牺牲一个共产党<br></p>",
             "folded": false,
             "agree-by": [
@@ -130,7 +142,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "牺牲一个野蛮的国家，就这么简单。",
             "folded": false,
             "agree-by": [
@@ -149,7 +164,10 @@
             "modifyTime": "2018-09-26T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>我的时间</p>",
             "folded": false,
             "agree-by": [
@@ -164,7 +182,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>作为世界上最文明的文明人，创主杨帆应当为我们而死，，，</p>",
             "folded": false,
             "agree-by": [
@@ -179,7 +200,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "苟利国家生死以，岂因祸福避趋之",
             "folded": false,
             "agree-by": [],
@@ -189,9 +213,12 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "这不跟“打台湾你捐不捐一头牛”的笑话差不多吗？<br>\n<br>\n所以，我的回答很简单，不换。因为我真有财产，真有工作，真有文凭，真有寿命。",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -247,7 +274,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-26T05:24:00.000Z",
-        "views": 517,
+        "views": 518,
         "concerns": 10
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "如果我给他续了一秒，我损失的是哪一秒？这一秒会被他在什么时候使用？",
         "body": "",
-        "author": 868,
+        "author": {
+            "user-id": 868,
+            "user-name": "GUT412454"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-10T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 297,
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
             "body": "取之于民，用之于民",
             "folded": false,
             "agree-by": [
@@ -92,7 +98,10 @@
             "modifyTime": "2018-05-10T00:00:00.000Z"
         },
         {
-            "author": 1056,
+            "author": {
+                "user-id": 1056,
+                "user-name": "中兴安岭"
+            },
             "body": "这个问题我们曾经有过深刻的物理学研究(笑)<br>\n一般来说，你完成续命动作后的一秒时间会消失，而被续命者会立即使用这一秒。",
             "folded": false,
             "agree-by": [
@@ -163,7 +172,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-10T16:32:00.000Z",
-        "views": 430,
+        "views": 431,
         "concerns": 2
     }
 }

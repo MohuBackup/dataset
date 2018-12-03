@@ -14,7 +14,10 @@
     "detail": {
         "title": "问一下各位有没有什么好用的免费手机vpn?",
         "body": "我用的是besline，非常不稳定，想换一个了。",
-        "author": 915,
+        "author": {
+            "user-id": 915,
+            "user-name": "龙蛤前辈"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-13T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "SSR是可以的，新蛤社发过详细教程<br>\n<br>\nGreen很稳定但是略麻烦，付费25一个月，但是可以免费试用半小时，半小时后清楚数据继续试用",
             "folded": false,
             "agree-by": [
@@ -53,9 +59,12 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 918,
+            "author": {
+                "user-id": 918,
+                "user-name": "mohaha"
+            },
             "body": "<p>我不能说，我怕我说了被粉红看到，之后就被续了，毕竟我用过的好几个都被续了</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1379,
@@ -72,7 +81,10 @@
             "modifyTime": "2018-06-12T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "我还是用我的bestline吧",
             "folded": false,
             "agree-by": [
@@ -87,7 +99,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 1103,
+            "author": {
+                "user-id": 1103,
+                "user-name": "开着59压维尼"
+            },
             "body": "我用的是novalive的vpn，13块一个月，免费好像有一g的",
             "folded": false,
             "agree-by": [
@@ -102,7 +117,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 1369,
+            "author": {
+                "user-id": 1369,
+                "user-name": "NiceBuddy888"
+            },
             "body": "蛤丝需要VPN?记得不要用国内公司或者免费的，容易被监控!",
             "folded": false,
             "agree-by": [
@@ -117,7 +135,10 @@
             "modifyTime": "2018-06-13T00:00:00.000Z"
         },
         {
-            "author": 872,
+            "author": {
+                "user-id": 872,
+                "user-name": "小能维尼"
+            },
             "body": "outline",
             "folded": false,
             "agree-by": [],
@@ -127,7 +148,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 1069,
+            "author": {
+                "user-id": 1069,
+                "user-name": "庆丰帝"
+            },
             "body": "Hotspot",
             "folded": false,
             "agree-by": [],
@@ -137,7 +161,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "lantern",
             "folded": false,
             "agree-by": [],
@@ -147,7 +174,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 1022,
+            "author": {
+                "user-id": 1022,
+                "user-name": "红衣维尼开倒车"
+            },
             "body": "百度miaoss吧置顶3楼，你值得拥有",
             "folded": false,
             "agree-by": [],
@@ -157,7 +187,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 887,
+            "author": {
+                "user-id": 887,
+                "user-name": "虵改变了中国"
+            },
             "body": "VPN CHINA",
             "folded": false,
             "agree-by": [],
@@ -167,8 +200,11 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 1056,
-            "body": "Super VPN   <br>\n广告多但免费，在后台时没有广告。<br>\n不足之处是需要在谷歌Play上找到，这意味着你首先需要另一个梯子。",
+            "author": {
+                "user-id": 1056,
+                "user-name": "中兴安岭"
+            },
+            "body": "Super VPN <br>\n广告多但免费，在后台时没有广告。<br>\n不足之处是需要在谷歌Play上找到，这意味着你首先需要另一个梯子。",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
@@ -177,7 +213,10 @@
             "modifyTime": "2018-05-13T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "蓝灯，虽然有些人说这个和tg有关(的确，香港服务器的IDC是首都在线，这个名字听起来都和种秧有关)，但是速度比较快",
             "folded": false,
             "agree-by": [],
@@ -187,7 +226,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 1044,
+            "author": {
+                "user-id": 1044,
+                "user-name": "筹光交错"
+            },
             "body": "当蓝是wumaVPN啦！节点极多而且完全免费！",
             "folded": false,
             "agree-by": [],
@@ -197,17 +239,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 1385,
-            "body": "wuma貌似被续了",
-            "folded": true,
-            "agree-by": [],
-            "using-mobile-phone": true,
-            "comments": 1,
-            "publishTime": "2018-06-12T00:00:00.000Z",
-            "modifyTime": "2018-06-12T00:00:00.000Z"
-        },
-        {
-            "author": 1377,
+            "author": {
+                "user-id": 1377,
+                "user-name": "VanWinnieLing"
+            },
             "body": "（码了一段但是删了）<br>\n还是不希望你们来挤占我的带宽资源。。<br>\n更怕小粉红搞事炸梯子<br>\n所以你们要不去用Atom吧？",
             "folded": false,
             "agree-by": [],
@@ -217,7 +252,10 @@
             "modifyTime": "2018-06-12T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "在Google play上多弄几个排名靠前的，比啥单独的软件都强。",
             "folded": false,
             "agree-by": [],
@@ -225,6 +263,19 @@
             "comments": 0,
             "publishTime": "2018-06-13T00:00:00.000Z",
             "modifyTime": "2018-06-13T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
+            "body": "wuma貌似被续了",
+            "folded": true,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 1,
+            "publishTime": "2018-06-12T00:00:00.000Z",
+            "modifyTime": "2018-06-12T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -275,7 +326,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-13T08:35:00.000Z",
-        "views": 714,
+        "views": 715,
         "concerns": 15
     }
 }

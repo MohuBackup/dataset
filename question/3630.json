@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2631,
+            "author": {
+                "user-id": 2631,
+                "user-name": "清洗委员会"
+            },
             "body": "<p>我想了想，应该还是没几个人会去的吧。</p>",
             "folded": false,
             "agree-by": [],
@@ -38,7 +41,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "你想让咱们在手机上用TOR吗",
             "folded": false,
             "agree-by": [],
@@ -48,7 +54,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 2558,
+            "author": {
+                "user-id": 2558,
+                "user-name": "李鸿章"
+            },
             "body": "<p>可以有</p>",
             "folded": false,
             "agree-by": [],
@@ -106,7 +115,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-18T12:53:00.000Z",
-        "views": 315,
+        "views": 316,
         "concerns": 6
     }
 }

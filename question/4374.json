@@ -22,7 +22,10 @@
     "detail": {
         "title": "哪种过河的方法比较好",
         "body": "1、让大哥背你过河(煮鹰妹妹)<br>\n2、摸着石头过河(广场车神)<br>\n3、游一千米游过去<br>\n4、开着红色法拉利豪迈地冲过去<br>\n5、让姐夫替你过河(巴拿马运河)",
-        "author": 2189,
+        "author": {
+            "user-id": 2189,
+            "user-name": "嘻嘻"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-06T00:00:00.000Z",
@@ -69,7 +72,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "<p>无论怎么过河都要先宽衣</p>",
             "folded": false,
             "agree-by": [
@@ -92,7 +98,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "1.过河too simple了，应该拔河! 啊，拔河! 咱们比量比量!我经济赶不上你们，我身体比你们棒!<br>\n<br>\n2.广大军民，努力地过河，与急流搏斗。我们要发扬不怕疲劳，不怕艰险，连续过河的精神。",
             "folded": false,
             "agree-by": [
@@ -115,7 +124,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>会不会被老婆拉下水？</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 1606,
+            "author": {
+                "user-id": 1606,
+                "user-name": "苟利于民"
+            },
             "body": "<p>用游过太平洋的方式</p>",
             "folded": false,
             "agree-by": [
@@ -153,7 +168,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>駕自由之鷹，乘民主之風過河。實乃上策！</p>",
             "folded": false,
             "agree-by": [
@@ -168,7 +186,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "年轻人啊，就是得豪迈！我选4",
             "folded": false,
             "agree-by": [],
@@ -178,7 +199,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 2725,
+            "author": {
+                "user-id": 2725,
+                "user-name": "Garrry"
+            },
             "body": "开坦克过更吼啊",
             "folded": false,
             "agree-by": [],
@@ -188,7 +212,10 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": 2759,
+            "author": {
+                "user-id": 2759,
+                "user-name": "dark♂膜头"
+            },
             "body": "<p>当然是骑蛤蟆过河啊</p>",
             "folded": false,
             "agree-by": [],
@@ -241,8 +268,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-06T08:05:00.000Z",
-        "views": 238,
+        "last-active-time": "2018-11-06T14:24:00.000Z",
+        "views": 243,
         "concerns": 9
     }
 }

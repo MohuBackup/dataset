@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价中共裆菊推行无神论？",
         "body": "",
-        "author": 2226,
+        "author": {
+            "user-id": 2226,
+            "user-name": "revolt"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-17T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>它们推行的并不是无神论，而是企图与五千年来一样，把它们的领导人推上神的地位。<br></p>",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2174,
+            "author": {
+                "user-id": 2174,
+                "user-name": "Naiiiiiive"
+            },
             "body": "<p>无神论本身没有特别大的问题，然而裆菊现在是打着无神论的幌子，把裆变成神教，把包子变成神，要求韭菜们都感谢裆而不能感谢上帝，本质上是政教合一而不是无神论。</p>",
             "folded": false,
             "agree-by": [
@@ -115,7 +124,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "无神论可以，但一个无神论世俗政府能不能不要老插手神圣事物，政教分离不仅意味着教权不插手政权，也意味着政权不插手教权",
             "folded": false,
             "agree-by": [
@@ -130,7 +142,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "无神论可以，但一个无神论世俗政府能不能不要老插手神圣事物，政教分离不仅意味着教权不插手政权，也意味着政权不插手教权",
             "folded": false,
             "agree-by": [
@@ -145,7 +160,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "无神论可以，但一个无神论世俗政府能不能不要老插手神圣事物，政教分离不仅意味着教权不插手政权，也意味着政权不插手教权",
             "folded": false,
             "agree-by": [
@@ -160,7 +178,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 1561,
+            "author": {
+                "user-id": 1561,
+                "user-name": "ま蛤ろす"
+            },
             "body": "不是「頭上三尺有神明」嗎？？",
             "folded": false,
             "agree-by": [],
@@ -170,7 +191,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 1701,
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
             "body": "无神论吼啊我资词无神论",
             "folded": false,
             "agree-by": [],
@@ -180,7 +204,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 1570,
+            "author": {
+                "user-id": 1570,
+                "user-name": "firefly"
+            },
             "body": "<p>用造新神的方式灭旧神，TG那个说抛开共产党暴政的无神论中国就会美好的，就像说抛开古兰经的伊斯兰教就会美好一样幼稚，那些和政教合一国家一样的暴政本来就是中国特色共产教不可分割的一部分。</p>",
             "folded": false,
             "agree-by": [],
@@ -190,7 +217,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "无神论本身是和马列一样只是一种工具没啥太大毛病，但是tg通过推到旧神造新的习神就很恶心了。",
             "folded": false,
             "agree-by": [],
@@ -200,7 +230,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>头上三尺有神明</p>",
             "folded": false,
             "agree-by": [],
@@ -210,7 +243,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>自身出事，大难临头了就信神明了。</p><p><br></p><p>风平浪静，自我骄傲时就无神论</p>",
             "folded": false,
             "agree-by": [],
@@ -220,7 +256,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2254,
+            "author": {
+                "user-id": 2254,
+                "user-name": "bishi"
+            },
             "body": "结合上面提到的问题，我想说明一点：<br>\n宗教所崇拜的神是人类想象出的理想形象，实际上不存在，但还要被崇拜<br>\n而现今的包子却是实际存在的。",
             "folded": false,
             "agree-by": [],
@@ -278,7 +317,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-17T12:25:00.000Z",
-        "views": 393,
+        "views": 394,
         "concerns": 15
     }
 }

@@ -14,7 +14,10 @@
     "detail": {
         "title": "求Flappy Frog游戏中 青蛙的LOGO一枚",
         "body": "<p>求Flappy Frog游戏中 青蛙的LOGO一枚 用作Line WhatsApp头像</p>",
-        "author": 2862,
+        "author": {
+            "user-id": 2862,
+            "user-name": "FreeDOS"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-30T00:00:00.000Z",
@@ -22,8 +25,11 @@
     },
     "answers": [
         {
-            "author": 1705,
-            "body": "<p><a href=\"https://hahaxixi.github.io/FlappyFrog/icons/Icon-App-60x60@2x.png\">https://hahaxixi.github.io/FlappyFrog/icons/<span class=\"__cf_email__\" data-cfemail=\"5c153f3332711d2c2c716a6c246a6c1c6e24722c323b\">[email&nbsp;protected]</span></a>&nbsp;</p>",
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
+            "body": "<p><a href=\"https://archive.is/o/UPYNA/https://hahaxixi.github.io/FlappyFrog/icons/Icon-App-60x60@2x.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://hahaxixi.github.io/FlappyFrog/icons/Icon-App-60x60@2x.png</a>&nbsp;</p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -79,8 +85,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-29T21:44:00.000Z",
-        "views": 118,
+        "last-active-time": "2018-11-03T21:51:00.000Z",
+        "views": 119,
         "concerns": 2
     }
 }

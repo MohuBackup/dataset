@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "练什么内功？葵花宝典还是包轮功",
             "folded": false,
             "agree-by": [
@@ -41,7 +44,10 @@
             "modifyTime": "2018-09-28T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "包轮大法好",
             "folded": false,
             "agree-by": [
@@ -56,7 +62,10 @@
             "modifyTime": "2018-09-28T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "包轮大法好",
             "folded": false,
             "agree-by": [],
@@ -114,7 +123,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-28T03:43:00.000Z",
-        "views": 476,
+        "views": 477,
         "concerns": 4
     }
 }

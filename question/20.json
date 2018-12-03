@@ -10,7 +10,10 @@
     "detail": {
         "title": "刽子手被判处自己执行的刑罚是什么体验？",
         "body": "",
-        "author": 4,
+        "author": {
+            "user-id": 4,
+            "user-name": "知乎小管家"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 6,
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
             "body": "Anosa，因为鹳往往自己就是违规人士的其中一员。<br>\n鹳们大概有 S+M 的快感罢（",
             "folded": false,
             "agree-by": [
@@ -93,7 +99,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-04T08:47:00.000Z",
-        "views": 235,
+        "views": 236,
         "concerns": 7
     }
 }

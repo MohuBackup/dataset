@@ -1,0 +1,141 @@
+{
+    "type": "question",
+    "id": 4282,
+    "tags": [
+        {
+            "tag-id": 760,
+            "tag-name": "新闻"
+        }
+    ],
+    "detail": {
+        "title": "如何看待德国总理默克尔放弃连任，2021年将卸任总理？",
+        "body": "<p>10月29日，在德国柏林，德国总理默克尔在基督教民主联盟党内发布会上讲话并宣布，在12月举行的党代表大会上她将不再参与党主席竞选。她同时表示，自己将继续干满本届总理任期至2021年，此后不再继续竞选总理或联邦议员。</p>",
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-05T00:00:00.000Z",
+        "modifyTime": "2018-11-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
+            "body": "<p>这位莱比锡大学博士的姿势水平比某清华大学“博士”不知道高到哪里去了！</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                },
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                },
+                {
+                    "user-id": 2806,
+                    "user-name": "Prestiger"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 2,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p>早就该下台了</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 2812,
+                "user-name": "huangkangfu"
+            },
+            "body": "<p>自己下台总比赶下台有面子多了，德国因为难民问题她早该引咎辞职了</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 673,
+                    "user-name": "藻葉"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "习主席连任吼不吼啊？",
+            "id": 5
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "假如张宝华现在还是香港记者，采访包子问他是否打算无限连任，会发生什么？",
+            "id": 1252
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T13:08:00.000Z",
+        "views": 345,
+        "concerns": 5
+    }
+}

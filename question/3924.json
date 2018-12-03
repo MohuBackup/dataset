@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价搜狗输入法打出“zgdl”后首选词不是中国大陆而是自甘堕落？",
         "body": "<p>RT</p>",
-        "author": 648,
+        "author": {
+            "user-id": 648,
+            "user-name": "jiangzhuxi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-27T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>中国大陆自甘堕落中国道路醉鬼捣乱中共堕落祖国丢了治国低龄做官毒辣</p>",
             "folded": false,
             "agree-by": [
@@ -77,7 +83,10 @@
             "modifyTime": "2018-10-27T00:00:00.000Z"
         },
         {
-            "author": 2494,
+            "author": {
+                "user-id": 2494,
+                "user-name": "wangweilin"
+            },
             "body": "这个点了，自甘堕落这个道理中国大陆走过的路（还不能说明这个问题吗？）（按照首选词顺序打出来的）",
             "folded": false,
             "agree-by": [
@@ -92,7 +101,10 @@
             "modifyTime": "2018-10-27T00:00:00.000Z"
         },
         {
-            "author": 2861,
+            "author": {
+                "user-id": 2861,
+                "user-name": "infiniteholic"
+            },
             "body": "<p>这个点了中国大陆自甘堕落走过的路这个道理</p>",
             "folded": false,
             "agree-by": [],
@@ -149,8 +161,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-29T19:46:00.000Z",
-        "views": 233,
+        "last-active-time": "2018-11-03T19:55:00.000Z",
+        "views": 234,
         "concerns": 3
     }
 }

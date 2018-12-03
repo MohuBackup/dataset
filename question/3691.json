@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待b站所有关于包子的视频锁评论区",
         "body": "",
-        "author": 2145,
+        "author": {
+            "user-id": 2145,
+            "user-name": "共党毛泽东"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-20T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1578,
+            "author": {
+                "user-id": 1578,
+                "user-name": "特朗普"
+            },
             "body": "“所有”这个词不是很确切,还是有不少可以评论可以乳的。<br>\n生活中不是缺少乳,而是缺少发现乳的眼睛。",
             "folded": false,
             "agree-by": [
@@ -96,7 +102,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>没去逼站，是习近平的视频被锁评论区还是其他和食品包子、动画figure小熊维尼的视频被锁？</p><p>如果是后者包子维尼视频被锁，那牠们才是要首先拉清单的——自认为包子维尼=习近平。</p><p>识得唔识得啊？</p>",
             "folded": false,
             "agree-by": [
@@ -119,7 +128,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "各位，周厉王的故事有没有听说过，你以为捂上别人的嘴别人就不会恨你了，这不是和掩耳盗铃一样吗？殊不知，这样做只会让人们的怨恨进一步加深。现在“包子”、“维尼”这些梗已经到了众人皆知的地步了，包厉王的末日应该也不远了",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>这说明了：</p><p>天&nbsp; 下&nbsp; 包&nbsp; 敌</p><p>傻包已经到了人人得而诛（乳）之的地步</p>",
             "folded": false,
             "agree-by": [
@@ -153,7 +168,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "<p>有的还没锁<br></p>",
             "folded": false,
             "agree-by": [],
@@ -163,7 +181,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2728,
+            "author": {
+                "user-id": 2728,
+                "user-name": "蓝黑之珠"
+            },
             "body": "<p>包藏祸心</p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -231,7 +252,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-20T22:24:00.000Z",
-        "views": 527,
+        "views": 528,
         "concerns": 9
     }
 }

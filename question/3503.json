@@ -21,8 +21,11 @@
     ],
     "detail": {
         "title": "如何评价崔永元的偷税清单（最新版）包含吴京？",
-        "body": "<p><img src=\"/uploads/ueditor/20181015/1539576442173134.jpg\" title=\"1539576442173134.jpg\" alt=\"IMG_20181015_120709.jpg\"></p>",
-        "author": 1393,
+        "body": "<p><a href=\"https://archive.is/FA7Ko/0d9bf6087446a817927cdfe0b6f6f34c79caf375.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181015_120709.jpg\" src=\"https://archive.is/FA7Ko/0d9bf6087446a817927cdfe0b6f6f34c79caf375.jpg\" title=\"1539576442173134.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-15T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "厚颜吴耻，我爱国无税",
             "folded": false,
             "agree-by": [
@@ -97,7 +103,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>免税是我对祖国强大的一种表达</p>",
             "folded": false,
             "agree-by": [
@@ -144,7 +153,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>京 慌 失 措<br></p>",
             "folded": false,
             "agree-by": [
@@ -175,7 +187,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "京彩万分，让人吃京，京持不住",
             "folded": false,
             "agree-by": [
@@ -206,7 +221,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>不交税有什么关系？我爱国无罪！</p>",
             "folded": false,
             "agree-by": [
@@ -229,7 +247,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>偷我国税者，忠党不诛！<br></p>",
             "folded": false,
             "agree-by": [
@@ -244,7 +265,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "去收美国人的税去",
             "folded": false,
             "agree-by": [
@@ -274,7 +298,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>我偷税无罪，这是我对祖国强大的一种表达，爱慕Chinese</p>",
             "folded": false,
             "agree-by": [
@@ -289,7 +316,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "我爱国不交税无罪",
             "folded": false,
             "agree-by": [],
@@ -299,7 +329,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 2610,
+            "author": {
+                "user-id": 2610,
+                "user-name": "quit"
+            },
             "body": "我们战狼要的就是刺头，不是刺头我们还不要呢",
             "folded": false,
             "agree-by": [],
@@ -357,7 +390,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-15T14:51:00.000Z",
-        "views": 726,
+        "views": 727,
         "concerns": 9
     }
 }

@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>不兹词，这里本来就没什么人<br></p><p>应该清关易道通商宽衣，调整每页显示内容的数量，目前每页只显示10条内容，太少了，建议改为每页显示30~50条内容</p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +40,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "吼哇。可是膜乎管理员不发声。这是坠痛苦的",
             "folded": false,
             "agree-by": [
@@ -52,7 +58,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2039,
+            "author": {
+                "user-id": 2039,
+                "user-name": "习特勒real"
+            },
             "body": "<p>吼啊，威望&lt;0禁止发帖</p>",
             "folded": false,
             "agree-by": [],
@@ -119,8 +128,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T22:02:00.000Z",
-        "views": 90,
+        "last-active-time": "2018-11-03T22:10:00.000Z",
+        "views": 91,
         "concerns": 5
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "关于翻墙，有什么特殊的技巧？",
         "body": "或者软件，可以分享的。<br>\n已熟读蛤三篇，有独立思考能力者可见本贴。",
-        "author": 372,
+        "author": {
+            "user-id": 372,
+            "user-name": "知名记者张宝华"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-20T00:00:00.000Z",
@@ -49,9 +52,12 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 65,
+            "author": {
+                "user-id": 65,
+                "user-name": "萝莉保护协会"
+            },
             "body": "1.普通VPN<br>\n2.SS/SSR<br>\n3.自建服务器<br>\n4.买翻墙路由<br>\n5.肉身翻墙（出国移民留学）",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 56,
@@ -76,7 +82,10 @@
             "modifyTime": "2018-03-23T00:00:00.000Z"
         },
         {
-            "author": 295,
+            "author": {
+                "user-id": 295,
+                "user-name": "邓小平"
+            },
             "body": "没有一个完全保险的方法，服务的稳定和隐私还是个概率问题。越小众的方式当然风险越低，但小到无人维护当然也不行。虽说据传ssr已被特征识别，但似乎流量只要不过于异常就好，还是首推。然后就是v2ray。有时候anyconnect也有奇效。传统vpn不建议使用。最好自己买服务器搭建梯子，相比商业vpn也不贵，除非用expressvpn这种整个宇宙都有服务器的变态提供商。自己学习基础linux知识，根据预算在搬瓦工、vultr、do等地方购买服务器（推荐顺序：hk&gt;日本&gt;新加坡&gt;美西），软件服务端可用来源可靠的一键脚本搭建。慎用流量翻墙/ssr免流。一个服务器使用人数越少越好，ip等注意保密，不要在墙内明目张胆地讨论/买卖。",
             "folded": false,
             "agree-by": [
@@ -103,7 +112,10 @@
             "modifyTime": "2018-03-29T00:00:00.000Z"
         },
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "ssr吧，各大蛤群都有，武膜空间有过傻瓜教学",
             "folded": false,
             "agree-by": [
@@ -122,7 +134,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "ShadowSocksR。<br>\nShadowSocksR（简称ssr）是坠吼的加密代理软件之一。既可以拿来免流量，也可以拿来翻墙，知名度较高。<br>\nbut，ssr不是像蓝灯、赛风那种一点就能用的梯子，它的自带线路不可用，需要用户手动添加能用的。<br>\n这里推荐一家：https://nova.xyz/<br>\n知乎惯例利益相关：和站长认识，有过合作，用户群里可以找到我；从这个链接注册你会拿到新人流量，同时你氪金我也会有提成。（捂脸逃）<br>\n优势：速度很快，有些节点能看 8K 视频，免费节点最多有⑤个（有时候会增减），每天签到就能续流量。而且付费物品相对其他ssr比较良心，性价比较高。",
             "folded": false,
             "agree-by": [
@@ -141,7 +156,10 @@
             "modifyTime": "2018-03-29T00:00:00.000Z"
         },
         {
-            "author": 384,
+            "author": {
+                "user-id": 384,
+                "user-name": "时间的朋友"
+            },
             "body": "Google play store上面很多，一半会选择好用的留下来，不好的删掉，要钱的便宜就将就着用",
             "folded": false,
             "agree-by": [
@@ -156,7 +174,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 298,
+            "author": {
+                "user-id": 298,
+                "user-name": "Tami_EZAWA"
+            },
             "body": "注册国外 App Store 账号（我注册的是日本的）<br>\n在国外的 App Store 里搜 VPN",
             "folded": false,
             "agree-by": [
@@ -171,7 +192,10 @@
             "modifyTime": "2018-03-24T00:00:00.000Z"
         },
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "当然是移民了",
             "folded": false,
             "agree-by": [],
@@ -181,7 +205,10 @@
             "modifyTime": "2018-03-23T00:00:00.000Z"
         },
         {
-            "author": 920,
+            "author": {
+                "user-id": 920,
+                "user-name": "Khalil"
+            },
             "body": "谷歌的project fi，永远不会被墙。你需要的是海淘的经验",
             "folded": false,
             "agree-by": [],
@@ -235,7 +262,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-27T02:51:00.000Z",
-        "views": 735,
+        "views": 736,
         "concerns": 9
     }
 }

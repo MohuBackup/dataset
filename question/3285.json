@@ -14,7 +14,10 @@
     "detail": {
         "title": "twitter乱填年龄被冻结",
         "body": "<p>因为之前在改twitter个人信息的时候将出生日期改成了2017年，导致twitter被锁，应该如何申诉？申诉时是否需要个人真实信息？</p><p>而且我发现现在注册twitter还要语音信息验证，是否可以跳过？若不能，用+86手机能否有使其收到验证讯息的方法（个人知道这很作死但推上的世界确实有意思，又氪不起外国卡，搞不定虚拟手机号，只能铤而走险）？</p><p>如果都不能解决就只能退推了QWQ，再问一下有什么除膜乎外的低门槛膜蛤社交网站可以逛呢</p>",
-        "author": 1606,
+        "author": {
+            "user-id": 1606,
+            "user-name": "苟利于民"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-09T00:00:00.000Z",
@@ -45,7 +48,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "推特居然支持天朝手机验证码了，是不是因为最近有个我党女同志打入了推特内部呢？<br>\n<br>\n<br>\n<br>\n这样我就更不敢玩推特了。",
             "folded": false,
             "agree-by": [
@@ -68,7 +74,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>土匪可以查看任何推特号所绑定的手机号的。</p>",
             "folded": false,
             "agree-by": [
@@ -91,7 +100,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "蛤乎",
             "folded": false,
             "agree-by": [
@@ -106,7 +118,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 1140,
+            "author": {
+                "user-id": 1140,
+                "user-name": "不敢换肩"
+            },
             "body": "<p>如果注册的话语音验证其实很简单的，语速非常慢。+86手机可以解决，推特又不是共匪的，谈不上作死。</p>",
             "folded": false,
             "agree-by": [
@@ -145,7 +160,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-10T10:10:00.000Z",
-        "views": 378,
+        "views": 379,
         "concerns": 7
     }
 }

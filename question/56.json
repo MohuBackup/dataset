@@ -10,7 +10,10 @@
     "detail": {
         "title": "「晚了一步，就進不去了」是一種怎樣的體驗？",
         "body": "就像楊絳先生筆下的老王一樣，這是一種怎樣的體驗呢？",
-        "author": 20,
+        "author": {
+            "user-id": 20,
+            "user-name": "立花琴子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 35,
-            "body": "<a href=\"/people/%E8%96%84%E7%86%99%E6%9D%A5\" class=\"aw-user-name\" data-id=\"1637\">@薄熙来</a>",
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
+            "body": "<a href=\"https://archive.is/o/AUL5u/https://www.mohu.club/people/%E8%96%84%E7%86%99%E6%9D%A5\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;line-height:20px;font-weight:400;color:rgb(102, 102, 102);font-size:14px;\">@薄熙来</a>",
             "folded": false,
             "agree-by": [
                 {
@@ -53,7 +59,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "刚学了这篇（",
             "folded": false,
             "agree-by": [
@@ -104,7 +113,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-03T16:59:00.000Z",
-        "views": 262,
+        "views": 263,
         "concerns": 4
     }
 }

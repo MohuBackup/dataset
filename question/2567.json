@@ -9,8 +9,11 @@
     ],
     "detail": {
         "title": "如何看待包包实锤自己只有小学学历？",
-        "body": "<p><a href=\"https://wxn.qq.com/cmsid/WXN2018091004990600\">https://wxn.qq.com/cmsid/WXN2018091004990600</a> </p><p><br></p><p>他只回了小学和初中，是不是刚好可以为他小学结业初中肄业提供一小条线索？</p>",
-        "author": 2179,
+        "body": "<p><a href=\"https://archive.is/o/SJwVa/https://wxn.qq.com/cmsid/WXN2018091004990600\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://wxn.qq.com/cmsid/WXN2018091004990600</a>\n</p><p><br></p><p>他只回了小学和初中，是不是刚好可以为他小学结业初中肄业提供一小条线索？</p>",
+        "author": {
+            "user-id": 2179,
+            "user-name": "weinikuanyi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-10T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 2115,
-            "body": "<p>如何看待?</p><p>当然是脱了衣服看啊!<br></p><p><img src=\"/uploads/ueditor/20180910/1536566796366448.gif\" title=\"1536566796366448.gif\" alt=\"01.gif\"></p>",
+            "author": {
+                "user-id": 2115,
+                "user-name": "无限连任的包子"
+            },
+            "body": "<p>如何看待?</p><p>当然是脱了衣服看啊!<br></p><p><a href=\"https://archive.is/SJwVa/e4f90040f279e3a31826c123efad6fd44ce86136.gif\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"01.gif\" src=\"https://archive.is/SJwVa/e4f90040f279e3a31826c123efad6fd44ce86136.gif\" title=\"1536566796366448.gif\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -49,7 +55,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 2180,
+            "author": {
+                "user-id": 2180,
+                "user-name": "Charlie_Y_Hurt"
+            },
             "body": "<p>博士知青理万机，轻关易道欲宽衣。玉言金口无寻处，辞海明朝改是非。——《中兴闲气口号》其一</p>",
             "folded": false,
             "agree-by": [
@@ -76,7 +85,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "七八年前他还觉得有必要装一下服众，现在已经肆无忌惮了",
             "folded": false,
             "agree-by": [
@@ -139,7 +151,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-10T08:43:00.000Z",
-        "views": 595,
+        "views": 596,
         "concerns": 4
     }
 }

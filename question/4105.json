@@ -14,7 +14,10 @@
     "detail": {
         "title": "新加坡人是用什么软件看动漫的？",
         "body": "",
-        "author": 1393,
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-02T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "<p>我不是新加坡人不清楚，不过有个大概是台湾的还不错</p><p><br></p><p>https://anime1.me/</p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "在谷歌上用我的小学英语折腾了一会，找到了2个，Crunchyroll和Funimation，大概有些新加坡人用吧（心虚）",
             "folded": false,
             "agree-by": [],
@@ -94,8 +103,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T22:09:00.000Z",
-        "views": 201,
+        "last-active-time": "2018-11-03T22:12:00.000Z",
+        "views": 202,
         "concerns": 4
     }
 }

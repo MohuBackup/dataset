@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看到部分小粉红乳蛤膜包的现象？",
         "body": "一个合格的小粉红应该是坚持两个凡是，对西朝鲜的领导人照单全收一律膜，为何在与蛤丝论战时会出现乳蛤言论？",
-        "author": 1441,
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-04T00:00:00.000Z",
@@ -22,8 +25,11 @@
     },
     "answers": [
         {
-            "author": 1458,
-            "body": "乳虾乳包自由派，乳碾膜腊马教徒，膜虾膜包小pinky<br>\n <br>\n乳虾膜包emmmmm<br>\n <br>\n……庆丰维新志士吧\n<img src=\"/uploads/answer/20180804/cb69e034594092f4b50e08ff17870560.jpg\">",
+            "author": {
+                "user-id": 1458,
+                "user-name": "厉恩虞"
+            },
+            "body": "乳虾乳包自由派，乳碾膜腊马教徒，膜虾膜包小pinky<br>\n<br>\n乳虾膜包emmmmm<br>\n<br>\n……庆丰维新志士吧\n<img src=\"https://archive.is/GJneA/61cce8b47c493acd6f22d4111077f11fdd6babbb.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -49,7 +55,10 @@
             "modifyTime": "2018-08-04T00:00:00.000Z"
         },
         {
-            "author": 1586,
+            "author": {
+                "user-id": 1586,
+                "user-name": "邓小平和蒋经国"
+            },
             "body": "<p>我说句正经话，有的粉红认为邓江是走资派</p>",
             "folded": false,
             "agree-by": [
@@ -68,7 +77,10 @@
             "modifyTime": "2018-08-04T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>统统拖出去续了。</p>",
             "folded": false,
             "agree-by": [],
@@ -78,7 +90,10 @@
             "modifyTime": "2018-08-04T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "没有姿势水平就是这样的",
             "folded": false,
             "agree-by": [],
@@ -88,7 +103,10 @@
             "modifyTime": "2018-08-04T00:00:00.000Z"
         },
         {
-            "author": 1627,
+            "author": {
+                "user-id": 1627,
+                "user-name": "Rain900"
+            },
             "body": "<p>因为他们感受不到自己生命正在-1s-1s-1s-1s-1s的流失</p>",
             "folded": false,
             "agree-by": [],
@@ -156,7 +174,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-07T11:41:00.000Z",
-        "views": 451,
+        "views": 452,
         "concerns": 6
     }
 }

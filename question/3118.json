@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何理解“欲戴王冠，必承其重”",
         "body": "",
-        "author": 2189,
+        "author": {
+            "user-id": 2189,
+            "user-name": "嘻嘻"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "戴二百斤王冠，连任10届我不摘的",
             "folded": false,
             "agree-by": [
@@ -105,7 +111,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-03T01:37:00.000Z",
-        "views": 260,
+        "views": 261,
         "concerns": 2
     }
 }

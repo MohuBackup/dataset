@@ -18,7 +18,10 @@
     "detail": {
         "title": "鉴于现在膜乎五毛文刷屏泛滥，大家觉得设置一个发文时间间隔吼不吼啊？",
         "body": "<p>考虑到言论自由，但是一打开膜乎密密麻麻就是五毛的刷屏文章的情况，能不能设置一个发文的时间间隔，即每篇文章发布之后一个半小时或两个小时后才能再次发文，防止五毛刷屏文霸屏，大家觉得吼不吼啊？</p>",
-        "author": 2212,
+        "author": {
+            "user-id": 2212,
+            "user-name": "膜膜糊糊的包子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>我看了下以前妮可站长的发帖记录，她说“已经把网站管理权移交给国外负泽人了”，也就是说可以试试找新蛤社提议一下，XinHaNewsAgency的推特去@一下试试。</p><p>很蟾愧本人目前没可用的推特账号<br></p>",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2903,
+            "author": {
+                "user-id": 2903,
+                "user-name": "viewer"
+            },
             "body": "估計是個五毛機器人啦，任勞任怨沒臉沒皮的，根本沒有人類的意識和反映。",
             "folded": false,
             "agree-by": [
@@ -84,7 +93,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2812,
+            "author": {
+                "user-id": 2812,
+                "user-name": "huangkangfu"
+            },
             "body": "<p>我建议可以自己设置屏蔽某人就行了。。。眼不见为净</p>",
             "folded": false,
             "agree-by": [
@@ -99,7 +111,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>其实他也没发多少，只是膜乎1屏只显示10个问题/文章</p>",
             "folded": false,
             "agree-by": [],
@@ -109,7 +124,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>很好f，发文时间限制很好。</p>",
             "folded": false,
             "agree-by": [],
@@ -166,8 +184,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-02T22:09:00.000Z",
-        "views": 266,
+        "last-active-time": "2018-11-03T22:18:00.000Z",
+        "views": 267,
         "concerns": 5
     }
 }

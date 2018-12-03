@@ -18,7 +18,10 @@
     "detail": {
         "title": "中国怎么才能建立多党制",
         "body": "",
-        "author": 1630,
+        "author": {
+            "user-id": 1630,
+            "user-name": "习文盲"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-30T00:00:00.000Z",
@@ -61,7 +64,10 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": 1015,
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
             "body": "将利益集团给打破，把高层换血，或者借由共产党的内部斗争来结束共产党的生命。<br>\n<br>\n要么就是革命了。",
             "folded": false,
             "agree-by": [
@@ -80,7 +86,10 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": 2736,
+            "author": {
+                "user-id": 2736,
+                "user-name": "王江民"
+            },
             "body": "<p>不可能，绝对养不起。</p>",
             "folded": false,
             "agree-by": [
@@ -114,7 +123,10 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": 1778,
+            "author": {
+                "user-id": 1778,
+                "user-name": "xxzxg"
+            },
             "body": "<p>我大天朝，自5000年来就是皇帝当道，怎能容许异端分子出现？（大雾）</p><p>我大天朝可是“多党制”！</p><p>以共产党为领导的多党制度！</p>",
             "folded": false,
             "agree-by": [
@@ -129,7 +141,10 @@
             "modifyTime": "2018-10-31T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "规定党员人数最多的2个党不准执政。每个党执政后最多5年之后连续10年不准再次上台。",
             "folded": false,
             "agree-by": [],
@@ -139,7 +154,10 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "<p>多党制 多此一举</p>",
             "folded": false,
             "agree-by": [],
@@ -196,8 +214,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-30T21:44:00.000Z",
-        "views": 454,
+        "last-active-time": "2018-11-03T21:51:00.000Z",
+        "views": 456,
         "concerns": 10
     }
 }

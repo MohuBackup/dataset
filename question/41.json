@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何理解“恶膜某民命秒没”这句话？",
         "body": "",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "恶膜某民=emmm=思考<br>\n命秒没→生命<br>\n思考+生命=对生命的思考",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "所以不拉名單直接續？",
             "folded": false,
             "agree-by": [
@@ -64,7 +73,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 20,
+            "author": {
+                "user-id": 20,
+                "user-name": "立花琴子"
+            },
             "body": "就是ဧမ်မ်မ်မ်မ်မ်的意思",
             "folded": false,
             "agree-by": [],
@@ -122,7 +134,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-04T12:04:00.000Z",
-        "views": 724,
+        "views": 726,
         "concerns": 3
     }
 }

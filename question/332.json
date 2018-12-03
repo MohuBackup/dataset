@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何评价尼古拉•齐奥塞斯库？",
         "body": "人罗的那位",
-        "author": 262,
+        "author": {
+            "user-id": 262,
+            "user-name": "kaeru教信者"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-08T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "“人类的星辰”、“喀尔巴阡山的天才”、“思想的多瑙河”、“工人阶级的英雄”、“最杰出的、无与伦比的战略家”、“举世尊敬的伟大领袖和政治活动家”、“抵抗所有敌人的罗马尼亚捍卫者”、“掌握国家面临的所有问题的答案的领导人”、“贯彻党的马列主义政策的化身”、“民族英雄中的伟大英雄”、“人道主义精神的共产主义者”、“当代世界的杰出人物和光辉战士”、“杰出的马列主义领袖、热忱的爱国者和国际主义者”<br>\n逮捕<br>\n枪毙<br>\n齐奥塞斯库和古往今来的独裁者并没有什么两样，只因他的制度自信，10万罗马尼亚人推翻之。",
             "folded": false,
             "agree-by": [
@@ -66,8 +72,8 @@
         },
         {
             "author": null,
-            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180427/50e0a4f8fb78e239e837108ba37a5041.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180427/50e0a4f8fb78e239e837108ba37a5041.jpg\" class=\"img-polaroid\" title=\"习奥塞斯库.jpg\" alt=\"习奥塞斯库.jpg\"></a>\n</div>\n<br>\n&nbsp;",
-            "folded": true,
+            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/fGWjd/https://www.mohu.club/uploads/answer/20180427/50e0a4f8fb78e239e837108ba37a5041.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"习奥塞斯库.jpg\" src=\"https://archive.is/fGWjd/6f82bbf8dd986612ec784c26490e29141101b245.jpg\" title=\"习奥塞斯库.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n&nbsp;\n<img src=\"/uploads/answer/20180427/50e0a4f8fb78e239e837108ba37a5041.jpg\">",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 722,
@@ -104,9 +110,12 @@
             "modifyTime": "2018-04-27T00:00:00.000Z"
         },
         {
-            "author": 679,
+            "author": {
+                "user-id": 679,
+                "user-name": "习大犬"
+            },
             "body": "楼上作死哈哈哈",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 1,
@@ -162,7 +171,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-27T20:36:00.000Z",
-        "views": 543,
+        "views": 544,
         "concerns": 4
     }
 }

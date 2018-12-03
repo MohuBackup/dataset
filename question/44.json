@@ -10,7 +10,10 @@
     "detail": {
         "title": "这里可以乳包吗？",
         "body": "大家好我是头像为宫永照的知乎用户",
-        "author": 39,
+        "author": {
+            "user-id": 39,
+            "user-name": "蛤尼玛"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "送去夹边沟",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "https://www.mohu.ml/article/3",
             "folded": false,
             "agree-by": [
@@ -64,7 +73,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "以前不行，现在可以了",
             "folded": false,
             "agree-by": [
@@ -86,7 +98,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-04-07T13:37:00.000Z",
-        "views": 410,
+        "views": 411,
         "concerns": 3
     }
 }

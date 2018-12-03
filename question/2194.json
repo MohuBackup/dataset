@@ -10,7 +10,10 @@
     "detail": {
         "title": "一个人是否应为自己的国家拥有核武器而自豪？",
         "body": "",
-        "author": 855,
+        "author": {
+            "user-id": 855,
+            "user-name": "齐奥塞斯库"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-07T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "你会因为顶在你头上的枪口而感到自豪吗？",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "那么问题来了：当你辛苦付出却得不到回报，各种人权惨遭剥夺，教育，住房，医疗甚至生育权毫无保证的时候，你凭什么觉得自己是这个有核国家的主人？既然不是主人，有凭什么骄傲？",
             "folded": false,
             "agree-by": [
@@ -104,7 +113,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "那么问题来了：当你辛苦付出却得不到回报，各种人权惨遭剥夺，教育，住房，医疗甚至生育权毫无保证的时候，你凭什么觉得自己是这个有核国家的主人？既然不是主人，有凭什么骄傲？",
             "folded": false,
             "agree-by": [
@@ -123,7 +135,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 1643,
+            "author": {
+                "user-id": 1643,
+                "user-name": "人克坦"
+            },
             "body": "<p>“自己”的国家</p>",
             "folded": false,
             "agree-by": [
@@ -142,7 +157,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>如果这个国家不会把核武器用在你身上的话……</p>",
             "folded": false,
             "agree-by": [
@@ -157,7 +175,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "<p>首先你要有自己的国家</p>",
             "folded": false,
             "agree-by": [
@@ -172,7 +193,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 1662,
+            "author": {
+                "user-id": 1662,
+                "user-name": "dqyht"
+            },
             "body": "<p>真赵来临……</p>",
             "folded": false,
             "agree-by": [
@@ -187,7 +211,10 @@
             "modifyTime": "2018-08-07T00:00:00.000Z"
         },
         {
-            "author": 1536,
+            "author": {
+                "user-id": 1536,
+                "user-name": "DengJiagui"
+            },
             "body": "<p>如果是在一个正常的国家，那裆燃了，</p><p>如果是在东西两朝鲜，那当我没说<br></p>",
             "folded": false,
             "agree-by": [
@@ -202,7 +229,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 1570,
+            "author": {
+                "user-id": 1570,
+                "user-name": "firefly"
+            },
             "body": "<p>纳粹曾经有当时世界上最先进的坦克导弹喷气式战机，苏联曾经有世界上威力最大的核弹。</p>",
             "folded": false,
             "agree-by": [
@@ -217,7 +247,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "假如哪天世界上爆发了疫情，我觉得中国会对人民使用核武器",
             "folded": false,
             "agree-by": [
@@ -232,7 +265,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "一本道<br>\n弄那么多核武器应该拿去军售，但是呢军队又一律不得经商，那怎么办？",
             "folded": false,
             "agree-by": [
@@ -262,7 +298,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>of &nbsp;course</p>",
             "folded": false,
             "agree-by": [],
@@ -272,7 +311,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 1627,
+            "author": {
+                "user-id": 1627,
+                "user-name": "Rain900"
+            },
             "body": "<p>三胖说：Of course! Why not ???</p>",
             "folded": false,
             "agree-by": [],
@@ -330,7 +372,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-29T13:49:00.000Z",
-        "views": 398,
+        "views": 399,
         "concerns": 10
     }
 }

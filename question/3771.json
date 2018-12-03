@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何做一名高端人口？",
         "body": "<p>要练包轮功吗？</p>",
-        "author": 2304,
+        "author": {
+            "user-id": 2304,
+            "user-name": "42A"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-23T00:00:00.000Z",
@@ -37,7 +40,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>学会宽衣吃包，最好要会背书名</p>",
             "folded": false,
             "agree-by": [
@@ -56,7 +62,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>这辈子想变成高端人口是不可能的，要下辈子。</p>",
             "folded": false,
             "agree-by": [
@@ -119,7 +128,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-23T01:09:00.000Z",
-        "views": 244,
+        "views": 245,
         "concerns": 4
     }
 }

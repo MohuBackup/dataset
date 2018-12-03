@@ -14,7 +14,10 @@
     "detail": {
         "title": "习近平的演讲到底激情在哪里？",
         "body": "一点都不excited，还不如向隔壁元首学习一个",
-        "author": 2130,
+        "author": {
+            "user-id": 2130,
+            "user-name": "icedfool"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-12T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "不仅在于听黄色故事，关键在于做改病句题。",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "演讲不知道，习近平的8个妙喻可太生草了",
             "folded": false,
             "agree-by": [],
@@ -59,7 +68,10 @@
             "modifyTime": "2018-10-13T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我记得很久以前“激情”是可以代指“色情”的吧？</p><p>那么习包子在演讲的时候在线宽衣，还不够“激情”吗？你还想要看什么？看通商？这就已经不能播出了。通商是不能播出的！</p>",
             "folded": false,
             "agree-by": [],
@@ -117,7 +129,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T16:26:00.000Z",
-        "views": 381,
+        "views": 382,
         "concerns": 4
     }
 }

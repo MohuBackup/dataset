@@ -73,7 +73,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>学习戒赌吧老哥，跑到五六县城市劳工市场什么的当日结工，岂不美哉</p>",
             "folded": false,
             "agree-by": [],
@@ -83,7 +86,10 @@
             "modifyTime": "2018-09-21T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>这个文笔让我想起以前的公知速成手册美分版</p>",
             "folded": false,
             "agree-by": [],
@@ -141,7 +147,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-21T02:50:00.000Z",
-        "views": 402,
+        "views": 403,
         "concerns": 3
     }
 }

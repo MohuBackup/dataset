@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价联合国？",
         "body": "如今联合国是否和原先的国际联盟一样？",
-        "author": 2226,
+        "author": {
+            "user-id": 2226,
+            "user-name": "revolt"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-09T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2163,
+            "author": {
+                "user-id": 2163,
+                "user-name": "江湖夜雨"
+            },
             "body": "小国与小国发生冲突，联合国调停，冲突没了。<br>\n<br>\n小国与大国发生冲突，联合国调停，小国没了。<br>\n<br>\n大国与大国发生冲突，联合国调停，联合国没了。<br>\n<br>\n我赌一包辣条，川普任期内必将退出联合国重新建立符合美国利益的国际组织。",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "60年代,一位联合国代表说:“小国管理着东河岸边美丽的建筑物(联合国总部),两个大国管理着世界其他地方。\"现在还不如40年前。",
             "folded": false,
             "agree-by": [
@@ -52,7 +61,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2356,
+            "author": {
+                "user-id": 2356,
+                "user-name": "霍格沃兹魔法师"
+            },
             "body": "<p>再来一场中美俄之间的世界大战，联合国就没了。</p>",
             "folded": false,
             "agree-by": [
@@ -67,7 +79,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2052,
+            "author": {
+                "user-id": 2052,
+                "user-name": "ExcitingLuka"
+            },
             "body": "<p>苟逼白左官僚机构<br></p>",
             "folded": false,
             "agree-by": [
@@ -82,7 +97,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>对啊！又被控制 力 ！</p><p>以后联合国还是交给外星人管吧XD</p><p>因为被人类管总被黑恶势力控制XD</p>",
             "folded": false,
             "agree-by": [],
@@ -140,7 +158,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-09T18:52:00.000Z",
-        "views": 229,
+        "views": 230,
         "concerns": 7
     }
 }

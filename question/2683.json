@@ -26,7 +26,10 @@
     "detail": {
         "title": "请问有哪些可以借古讽今的乳包或政治讽刺诗词？",
         "body": "<p>就是一些古代的诗词，也可以是古代名著里的原句，放到现在来看有乳包或者政治讽刺意味，比如：</p><p>“清风不识字，何故乱翻书”（这句最经典）</p><p>“轻关易道，通商宽农”（这类句子不算）</p><p>“黑云压城天不开，长安市上驱车来。”</p><p>“不觉初秋夜渐长，清风习习重凄凉。”</p><p>“长安街上狂歌起，不是升平是国殇。”<br></p><p>“登堂方再月，已许庆丰年。”</p>",
-        "author": 2040,
+        "author": {
+            "user-id": 2040,
+            "user-name": "FlappyHath"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-17T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>江上风流胜习家</p>",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "三十四年，王益严，国人莫敢言，道路以目。<br>\n（我知道不太对题，折叠了吧）",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>宋祖昔日皆憎习</p><p><br></p><p>（为了使江来报道不出现偏差避免负泽任，这里说明一下:原字是曾，故意改成憎，然后就把习批判一番，谢谢大家)</p><p><br></p><p><br></p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -143,7 +155,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-17T09:58:00.000Z",
-        "views": 334,
+        "views": 335,
         "concerns": 5
     }
 }

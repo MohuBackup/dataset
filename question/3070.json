@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价苹果禁止他人评论自己的广告？",
-        "body": "<p><img src=\"/uploads/ueditor/20180930/1538318806137281.jpg\" title=\"1538318806137281.jpg\" alt=\"S80930-224308(1).jpg\"></p>",
+        "body": "<p><a href=\"https://archive.is/xzC6A/1a43eef1fd6fe85a6f777aa8ce931d4456101593.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"S80930-224308(1).jpg\" src=\"https://archive.is/xzC6A/1a43eef1fd6fe85a6f777aa8ce931d4456101593.jpg\" title=\"1538318806137281.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>库克：</p><p>有一些饿醒了没事干的外国人啊，对我们苹果的事情指指点点…</p><p>我们苹果一不输出稳定，二不输出温饱和富裕，三不去帮助你们，还有什么可说的？</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +72,10 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "<p>我禁评无罪，这是我对于品牌强大的一种表现。</p>",
             "folded": false,
             "agree-by": [
@@ -104,7 +110,10 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>苹果的苹又不是习近平的平，为什么要禁评？你要当平果吗</p>",
             "folded": false,
             "agree-by": [
@@ -139,7 +148,10 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "制度自信，体制自信，宽衣自信",
             "folded": false,
             "agree-by": [
@@ -158,7 +170,10 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>禁评的结果，简称苹(评)果</p>",
             "folded": false,
             "agree-by": [
@@ -177,7 +192,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "沾染了江胡习气",
             "folded": false,
             "agree-by": [
@@ -196,7 +214,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "一方水土养一方人。橘生淮南则为橘，生淮北则为枳。<br>\n向中国人民的好干儿子库克，扎克伯格，劈柴致敬！！",
             "folded": false,
             "agree-by": [
@@ -211,7 +232,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>平果</p>",
             "folded": false,
             "agree-by": [
@@ -226,7 +250,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 648,
+            "author": {
+                "user-id": 648,
+                "user-name": "jiangzhuxi"
+            },
             "body": "爱慕拆你死（确信），我禁评无罪",
             "folded": false,
             "agree-by": [],
@@ -284,7 +311,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-01T03:32:00.000Z",
-        "views": 353,
+        "views": 354,
         "concerns": 8
     }
 }

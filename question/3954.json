@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "这张游行通知事否违反了我国《集会游行示威法》？大家评评理。",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181028/656fc1743c7efc4834106dffd4638198.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181028/656fc1743c7efc4834106dffd4638198.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181028_210805.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "<div>\n<a href=\"https://archive.is/o/6BYZz/https://www.mohu.club/uploads/questions/20181028/656fc1743c7efc4834106dffd4638198.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181028_210805.jpg\" src=\"https://archive.is/6BYZz/792df535ec492c98f2a2472b99b9c4d826054379.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "奉旨发疯(确信)",
             "folded": false,
             "agree-by": [
@@ -41,7 +44,10 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "同志们，上级要求我们来游行，口号是支持修改宪法，要求总书记连任！注意不要说错了，说错了就枪毙了！",
             "folded": false,
             "agree-by": [
@@ -56,7 +62,10 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": 2356,
+            "author": {
+                "user-id": 2356,
+                "user-name": "霍格沃兹魔法师"
+            },
             "body": "<p>中日友好？和谁友好？<br></p><p><br></p><p>2003年起单方面开放日本人赴华免签15天，而国人赴日仍须申请繁琐的日本签证。</p><p><br></p><p>2008年的北京奥运会期间，官方暂停了新加坡人赴华免签几个月，奥运会结束后，免签政策恢复。但是却对日本人（还有文莱人）免签，再奥运会期间仍然一直维持不变。</p><p><br></p><p>难道新加坡人比日本鬼子还可恨么？荒谬。</p><p><br></p><p>这么快就忘了日军侵华，殖民东北15年和台湾半个世纪，以及旅顺大屠杀和南京大屠杀了？</p><p><br></p><p>提醒某些国人：忘记历史就意味着背叛。</p>",
             "folded": false,
             "agree-by": [],
@@ -113,8 +122,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-28T21:44:00.000Z",
-        "views": 389,
+        "last-active-time": "2018-11-03T21:51:00.000Z",
+        "views": 390,
         "concerns": 3
     }
 }

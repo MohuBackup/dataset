@@ -25,8 +25,11 @@
     ],
     "detail": {
         "title": "蛤乎仍有（仅可浏览的）网页快照？",
-        "body": "<p><a href=\"https://archive.is/El8hu\">https://archive.is/El8hu</a></p><p>这个网站的档案工作做的太吼了，滋磁一个。</p>",
-        "author": 881,
+        "body": "<p><a href=\"https://archive.is/El8hu\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://archive.is/El8hu</a></p><p>这个网站的档案工作做的太吼了，滋磁一个。</p>",
+        "author": {
+            "user-id": 881,
+            "user-name": "江蛤蟆是坠吼的"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-20T00:00:00.000Z",
@@ -34,8 +37,11 @@
     },
     "answers": [
         {
-            "author": 1117,
-            "body": "<p>Of course, 不知是哪位热心的蛤丝当时保存了一个快照，excited!</p><p>另外还有西方妓者作的一篇报导：</p><p><a href=\"http://foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/\" rel=\"nofollow\" target=\"_blank\">http://foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/</a><br></p>",
+            "author": {
+                "user-id": 1117,
+                "user-name": "skygate"
+            },
+            "body": "<p>Of course, 不知是哪位热心的蛤丝当时保存了一个快照，excited!</p><p>另外还有西方妓者作的一篇报导：</p><p><a href=\"https://archive.is/o/i8aor/foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">http://foreignpolicy.com/2015/11/13/china-internet-jiang-zemin-censorship-communist-party-satire/</a><br></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -89,7 +95,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-21T11:59:00.000Z",
-        "views": 502,
+        "views": 1165,
         "concerns": 3
     }
 }

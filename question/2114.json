@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待vice的中文翻译是“恶习”？",
         "body": "本问题由某位膜乎群内的 Telegram 用户提供",
-        "author": 56,
+        "author": {
+            "user-id": 56,
+            "user-name": "globalHe"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-30T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 1572,
-            "body": "Voice 是声音，去掉 o 等于没了嘴巴，发不出声音了，这都是恶“习”在作怪。很惭愧，做了一个微小的推理，谢谢。<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180730/f9df8d1772830a536ea7b5a6051caea2.JPG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180730/f9df8d1772830a536ea7b5a6051caea2.JPG\" class=\"img-polaroid\" title=\"IMG_5518.JPG\" alt=\"IMG_5518.JPG\"></a>\n</div>",
+            "author": {
+                "user-id": 1572,
+                "user-name": "艇艇QwQ"
+            },
+            "body": "Voice 是声音，去掉 o 等于没了嘴巴，发不出声音了，这都是恶“习”在作怪。很惭愧，做了一个微小的推理，谢谢。<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/5SjnC/https://www.mohu.club/uploads/answer/20180730/f9df8d1772830a536ea7b5a6051caea2.JPG\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_5518.JPG\" src=\"https://archive.is/5SjnC/456a84611615444973357f588f361c41734bd366.JPG\" title=\"IMG_5518.JPG\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180730/f9df8d1772830a536ea7b5a6051caea2.JPG\">",
             "folded": false,
             "agree-by": [
                 {
@@ -81,7 +87,10 @@
             "modifyTime": "2018-07-30T00:00:00.000Z"
         },
         {
-            "author": 1178,
+            "author": {
+                "user-id": 1178,
+                "user-name": "efficiency"
+            },
             "body": "<p>vice 作为形容词 还可以表示 代替的、代理的<br></p><p>说明其只是一个暂时的代替品。</p><p>挡盐啦，到那个时候我们会表态的</p>",
             "folded": false,
             "agree-by": [
@@ -120,7 +129,10 @@
             "modifyTime": "2018-07-30T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "vice还有罪恶的意思",
             "folded": false,
             "agree-by": [
@@ -143,7 +155,10 @@
             "modifyTime": "2018-07-31T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "vi 维尼？ce 厕所？<br>\n自然而然想到恶习",
             "folded": false,
             "agree-by": [
@@ -162,7 +177,10 @@
             "modifyTime": "2018-07-31T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>尬乳</p>",
             "folded": false,
             "agree-by": [
@@ -225,7 +243,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-30T17:55:00.000Z",
-        "views": 444,
+        "views": 445,
         "concerns": 5
     }
 }

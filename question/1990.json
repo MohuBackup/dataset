@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价 github 上的这个乳包指南？",
         "body": "<p>https://github.com/Xmader/rubao_manual<br></p>",
-        "author": 1536,
+        "author": {
+            "user-id": 1536,
+            "user-name": "DengJiagui"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-19T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "不错，希望收集收集与进一步完善完善更多内容，很快这里拉清单的列表人数就人山人海了了。",
             "folded": false,
             "agree-by": [
@@ -33,7 +39,10 @@
             "modifyTime": "2018-07-19T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>别看你今天闹的欢，小心啊，今后拉清单</p>",
             "folded": false,
             "agree-by": [],
@@ -43,7 +52,10 @@
             "modifyTime": "2018-07-20T00:00:00.000Z"
         },
         {
-            "author": 1178,
+            "author": {
+                "user-id": 1178,
+                "user-name": "efficiency"
+            },
             "body": "<p>他们搞的这个啊，excited！</p><p>hath也要学习一个，文乳也需要按照基本法；爱</p>",
             "folded": false,
             "agree-by": [],
@@ -101,7 +113,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-20T03:00:00.000Z",
-        "views": 535,
+        "views": 536,
         "concerns": 4
     }
 }

@@ -1,0 +1,136 @@
+{
+    "type": "question",
+    "id": 4287,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "殖民统治好还是封建专制好？",
+        "body": "由于中国人的劣根性，民主难以开展，倒不如开展殖民。",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-05T00:00:00.000Z",
+        "modifyTime": "2018-11-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
+            "body": "<p>两个都不好。中国人的劣根性可以通过参考国父最初设计的“军政、训政、宪政”道路来根除。引狼入室和倒车对中国人来说都是极其的不好的。</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
+            "body": "<p>两个当然都不好。但是殖民统治的弱点在于它控制力弱，容易推翻，因此走向正常体制的能力比封建专制要好得多。<br></p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 1643,
+                    "user-name": "人克坦"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 2999,
+                "user-name": "幹乾干"
+            },
+            "body": "<p>歐洲最好。</p><p>大部分中國人以為去美國日子會更好，殊不知道在中國搬磚的去美國也是搬磚。</p><p>歐洲好歹社會福利多，混吃等死。</p><p><br></p><p>等等…工頭要我去搬磚了<br></p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p>种族歧视？</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 2529,
+                "user-name": "滋啦滋啦"
+            },
+            "body": "你脑子被硫酸洗过了吗？",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-05T00:00:00.000Z",
+            "modifyTime": "2018-11-05T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价殖民？",
+            "id": 2676
+        },
+        {
+            "title": "中国共产党是如何在民主制度下进行专制统治的？",
+            "id": 1811
+        },
+        {
+            "title": "包子的专制会在什么时候暴露出严重弊端",
+            "id": 1549
+        },
+        {
+            "title": "如何评价殖民?",
+            "id": 359
+        },
+        {
+            "title": "专制独裁是不是维护国家和平与主权的必要条件？",
+            "id": 1830
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T13:09:00.000Z",
+        "views": 199,
+        "concerns": 7
+    }
+}

@@ -14,7 +14,10 @@
     "detail": {
         "title": "在庆丰包子铺乳包会发生什么",
         "body": "如题",
-        "author": 445,
+        "author": {
+            "user-id": 445,
+            "user-name": "FX_W"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-30T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 887,
+            "author": {
+                "user-id": 887,
+                "user-name": "虵改变了中国"
+            },
             "body": "会把你宽衣...然后当包子馅",
             "folded": false,
             "agree-by": [
@@ -81,7 +87,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "会和200斤麦子一起被做成包子馅",
             "folded": false,
             "agree-by": [
@@ -132,7 +141,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 671,
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
             "body": "庆丰包子铺会有新品种包子：螳螂肉包子<br>\n（螳臂当车的歹徒）",
             "folded": false,
             "agree-by": [
@@ -179,7 +191,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "乳包？对不起，庆丰包子铺不卖奶黄包。",
             "folded": false,
             "agree-by": [
@@ -214,7 +229,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "现场枪毙，肉拿来做包子的馅",
             "folded": false,
             "agree-by": [
@@ -249,7 +267,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 948,
+            "author": {
+                "user-id": 948,
+                "user-name": "巅峰酱"
+            },
             "body": "我觉得他们会把你给烤焦，然后做成包子馅",
             "folded": false,
             "agree-by": [
@@ -284,7 +305,10 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 416,
+            "author": {
+                "user-id": 416,
+                "user-name": "江泽之主"
+            },
             "body": "会被辗毙，然后做成螳馅包子",
             "folded": false,
             "agree-by": [
@@ -311,7 +335,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 546,
+            "author": {
+                "user-id": 546,
+                "user-name": "谈闹觉余"
+            },
             "body": "会被正在亲自买包子的领导人要求做成包子",
             "folded": false,
             "agree-by": [
@@ -386,7 +413,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-01T01:37:00.000Z",
-        "views": 750,
+        "views": 751,
         "concerns": 9
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "鹳会听命于穿上甲胄的猿吗？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1438,
+            "author": {
+                "user-id": 1438,
+                "user-name": "AndyChuck"
+            },
             "body": "<p>不会</p>",
             "folded": false,
             "agree-by": [],
@@ -28,7 +34,10 @@
             "modifyTime": "2018-08-28T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>这个问题都被你们挖出来了233</p>",
             "folded": false,
             "agree-by": [],
@@ -41,7 +50,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-08-28T10:28:00.000Z",
-        "views": 577,
+        "views": 580,
         "concerns": 4
     }
 }

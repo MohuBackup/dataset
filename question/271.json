@@ -10,7 +10,10 @@
     "detail": {
         "title": "吾蛤上什么年号比较好？",
         "body": "",
-        "author": 86,
+        "author": {
+            "user-id": 86,
+            "user-name": "没有任何意思"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-02T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 602,
+            "author": {
+                "user-id": 602,
+                "user-name": "釭鐸鈱"
+            },
             "body": "共朝(1949～?)<br>\n……<br>\n文帝(江泽民)<br>\n稳定(3) 1989～1991<br>\n市场(5) 1992～1996<br>\n理论(1) 1997<br>\n抗洪(1) 1998<br>\n反轮(1) 1999<br>\n千禧(1) 2000<br>\n申奥(1) 2001<br>\n代表(3) 2002～2004",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "实德<br>\n长者云：实德，吾实德啊!",
             "folded": false,
             "agree-by": [
@@ -76,7 +85,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 597,
+            "author": {
+                "user-id": 597,
+                "user-name": "Amane"
+            },
             "body": "崇和（蛤）",
             "folded": false,
             "agree-by": [
@@ -95,7 +107,10 @@
             "modifyTime": "2018-04-03T00:00:00.000Z"
         },
         {
-            "author": 609,
+            "author": {
+                "user-id": 609,
+                "user-name": "mogicion"
+            },
             "body": "江都",
             "folded": false,
             "agree-by": [
@@ -110,7 +125,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 664,
+            "author": {
+                "user-id": 664,
+                "user-name": "驰骋原野"
+            },
             "body": "国号为江，年号扬（州）民，寓意扬名立万",
             "folded": false,
             "agree-by": [
@@ -125,7 +143,10 @@
             "modifyTime": "2018-04-07T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "国号大江，年号蛤元（滑稽）<br>\n我没文采，还得各位大佬来",
             "folded": false,
             "agree-by": [
@@ -140,7 +161,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "赛艇？背篓？",
             "folded": false,
             "agree-by": [],
@@ -150,7 +174,10 @@
             "modifyTime": "2018-04-02T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "就叫古人喜欢用作吉祥用语的 “延寿” 好了",
             "folded": false,
             "agree-by": [],
@@ -160,7 +187,10 @@
             "modifyTime": "2018-04-07T00:00:00.000Z"
         },
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "正时",
             "folded": false,
             "agree-by": [],
@@ -186,7 +216,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-08T15:29:00.000Z",
-        "views": 432,
+        "views": 433,
         "concerns": 8
     }
 }

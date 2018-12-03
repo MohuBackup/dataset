@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "如何评价这句话?",
-        "body": "<p><strong>如果“国家”成了当权者奴役民众的工具,那么这个“国”就不值得民众去“爱”,而推翻它就成了一件天经地义的事。﻿</strong></p><p><strong><img src=\"/uploads/ueditor/20181016/1539695898938268.png\" title=\"1539695898938268.png\" alt=\"01.png\"></strong><br></p>",
-        "author": 2115,
+        "body": "<p><strong style=\"font-weight:700;color:rgb(51, 51, 51);\">如果“国家”成了当权者奴役民众的工具,那么这个“国”就不值得民众去“爱”,而推翻它就成了一件天经地义的事。﻿</strong></p><p><strong style=\"font-weight:700;color:rgb(51, 51, 51);\"><a href=\"https://archive.is/b6Bb9/fa5e55bbcdf65f005d493cafb982c17c26f0bc0d.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"01.png\" src=\"https://archive.is/b6Bb9/fa5e55bbcdf65f005d493cafb982c17c26f0bc0d.png\" title=\"1539695898938268.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></strong><br></p>",
+        "author": {
+            "user-id": 2115,
+            "user-name": "无限连任的包子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-16T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>现在谈爱国，爱的是谁的国？是蒋中正的国吧——来自著名大V、异见人士、民运领袖李得胜</p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "共产党宣言是个好东西，扛着红旗反tg最excited了<br>\n工人没有祖国。决不能剥夺他们所没有的东西。<br>\n我没有祖国，怎么去爱我的祖国？",
             "folded": false,
             "agree-by": [],
@@ -103,7 +112,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-16T14:58:00.000Z",
-        "views": 234,
+        "views": 235,
         "concerns": 1
     }
 }

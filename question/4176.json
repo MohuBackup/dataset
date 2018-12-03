@@ -10,7 +10,10 @@
     "detail": {
         "title": "你为什么退出b站？",
         "body": "<p>b站现在：营销号泛滥、小粉红五毛精日美分兔杂精赵黄俄等各种精x成堆、弹幕评论各种乱七八糟、群魔乱舞、一堆睿智、小学生（批小将）泛滥、老用户流失或变成狗粉丝。</p><p>总之b站商业化导致的，陈睿把bilibili变成中国的youtube、与人民日报签约、入驻steam、模仿pixiv的画友、模仿微博的动态、授权公司发售各种游戏、设立大会员，而且大会员仅限观看、设立电竞俱乐部、成立上海哔哩哔哩篮球队、整改后设立社会主义核心价值观的视频，全是哔哩小红旗的视频，而且禁止评论和禁止弹幕、共青团、环球时报、观察者网等民族主义媒体入驻、广告泛滥，特别是樱花国际日语，非常恶心。</p><p>总觉得b站不适合死宅生存，而且成了大众网站。</p><p>自从720事件以及cctv报道低俗动漫，被约谈整改，上b站频率少了。</p>",
-        "author": 2493,
+        "author": {
+            "user-id": 2493,
+            "user-name": "黎亦乔"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "我初中肄业，注册那个答题就没及格过。",
             "folded": false,
             "agree-by": [
@@ -33,7 +39,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2880,
+            "author": {
+                "user-id": 2880,
+                "user-name": "起昵称可真难"
+            },
             "body": "<p>最主要还是因为弹幕环境，以前死宅独乐乐的地方，现在全是小粉红<br></p>",
             "folded": false,
             "agree-by": [
@@ -48,7 +57,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "日语苦手，在还是要在b站看汉化cookie☆剧场和一些inm剧场，还有看看奥尔加，恶魔人，听听豪俊金曲也是吼的，虽然经常被屑站屏蔽削除。。所以本社爆破，请",
             "folded": false,
             "agree-by": [
@@ -63,7 +75,10 @@
             "modifyTime": "2018-11-04T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我退站是因为b站封我号然后给我一个40题答题任务，还要求每题都对，可是题目总有十几题是主观题，我就发誓再也不玩b站。</p><p>操他妈的屑站，去他妈的屑站。</p>",
             "folded": false,
             "agree-by": [],
@@ -73,7 +88,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1159,
+            "author": {
+                "user-id": 1159,
+                "user-name": "默然"
+            },
             "body": "这是中国ugc网站的必然结局，没啥好奇怪的",
             "folded": false,
             "agree-by": [],
@@ -83,7 +101,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 3090,
+            "author": {
+                "user-id": 3090,
+                "user-name": "nameunknown"
+            },
             "body": "<p>。</p><p>了</p><p>年</p><p>8</p><p>0</p><p>1</p><p>2</p><p>都</p><p>在</p><p>现</p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -95,8 +116,8 @@
     ],
     "relatedQuestions": [],
     "questionStatus": {
-        "last-active-time": "2018-11-03T17:18:00.000Z",
-        "views": 287,
+        "last-active-time": "2018-11-03T22:29:00.000Z",
+        "views": 288,
         "concerns": 7
     }
 }

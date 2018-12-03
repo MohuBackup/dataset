@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1015,
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
             "body": "https://zeronet.io<br>\n我觉得可以考虑一下零网<br>\nhttps://en.m.wikipedia.org/wiki/ZeroNet<br>\n<br>\nZeroNet是一个分散的 网络状网络的对等网络的用户。对于网络编程的总部设在布达佩斯，匈牙利 ; 是用Python构建的; 并且是完全开源的。站点由公钥（特别是比特币地址）标识，而不是具有IP地址。私钥允许站点的所有者签署和发布通过网络传播的更改。使用ZeroNet应用程序时，可以通过普通的Web浏览器访问站点，该应用程序充当此类页面的本地Web主机。除了使用比特币 密码学，ZeroNet使用来自BitTorrent网络的跟踪器来协商对等体之间的连接。默认情况下，ZeroNet是匿名的，使用内置Tor功能隐藏其IP地址。<br>\n<br>\n<br>\n用这项技术来搭建网站。",
             "folded": false,
             "agree-by": [],
@@ -55,8 +58,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-31T22:02:00.000Z",
-        "views": 240,
+        "last-active-time": "2018-11-03T22:10:00.000Z",
+        "views": 241,
         "concerns": 3
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何提高问题的水平？",
         "body": "<p>膜乎最近提问的问题都很有趣，涉及面广，又能让一些很少看国内的海外党或国内获取信息难的人通过膜乎提问了解到新闻大事。</p><p>就应该怎么样才能想出这么好的问题</p>",
-        "author": 673,
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-11T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1655,
+            "author": {
+                "user-id": 1655,
+                "user-name": "曹丰泽"
+            },
             "body": "<p>1.多看本篇，比如立法会和旺角(要素察觉)游行者，当然也要学外语，用外国素材(这个可以有)</p><p>2.自己水平也要提高，充分发掘自己在一些领域的知识。</p><p>3.看一下別人的问题，也许你会有灵感，或者......我 看 我 自 己</p><p></p><p><br></p><p>先留着，我后面可能要再写一些</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "学会翻墙，多看油管",
             "folded": false,
             "agree-by": [
@@ -52,9 +61,12 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>问一个关于如何提高问题水平的问题，回答问题的人就会帮你提高问题的水平。<br></p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -115,7 +127,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-11T10:25:00.000Z",
-        "views": 161,
+        "views": 162,
         "concerns": 3
     }
 }

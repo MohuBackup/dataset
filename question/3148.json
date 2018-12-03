@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价百度贴吧中国梦吧被根据相关法律和法规暂不开放？",
         "body": "<p>我猜是在封吧前大堆人在这个吧里乳包导致的，但是也想头脑风暴，脑洞大开了解一下更多看法</p>",
-        "author": 673,
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-04T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "因为中国梦本身就不能对百姓开放啊",
             "folded": false,
             "agree-by": [
@@ -73,7 +79,10 @@
             "modifyTime": "2018-10-04T00:00:00.000Z"
         },
         {
-            "author": 1578,
+            "author": {
+                "user-id": 1578,
+                "user-name": "特朗普"
+            },
             "body": "<p>真夏夜的中国梦</p>",
             "folded": false,
             "agree-by": [
@@ -112,7 +121,10 @@
             "modifyTime": "2018-10-04T00:00:00.000Z"
         },
         {
-            "author": 1022,
+            "author": {
+                "user-id": 1022,
+                "user-name": "红衣维尼开倒车"
+            },
             "body": "毕竟心虚",
             "folded": false,
             "agree-by": [
@@ -127,8 +139,11 @@
             "modifyTime": "2018-10-04T00:00:00.000Z"
         },
         {
-            "author": 2006,
-            "body": "<p>这是只属于维尼小熊的中国梦，又不是我们屁民的中国梦，为啥要给屁民放开</p><audio controls=\"controls\" style=\"display: none;\"></audio>",
+            "author": {
+                "user-id": 2006,
+                "user-name": "雪zxcy"
+            },
+            "body": "<p>这是只属于维尼小熊的中国梦，又不是我们屁民的中国梦，为啥要给屁民放开</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -190,7 +205,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-04T17:16:00.000Z",
-        "views": 698,
+        "views": 699,
         "concerns": 5
     }
 }

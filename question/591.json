@@ -1,0 +1,179 @@
+{
+    "type": "question",
+    "id": 591,
+    "tags": [
+        {
+            "tag-id": 159,
+            "tag-name": "豪迈"
+        },
+        {
+            "tag-id": 301,
+            "tag-name": "平西王"
+        },
+        {
+            "tag-id": 302,
+            "tag-name": "膜薄"
+        },
+        {
+            "tag-id": 140,
+            "tag-name": "都督"
+        },
+        {
+            "tag-id": 141,
+            "tag-name": "薄熙来"
+        }
+    ],
+    "detail": {
+        "title": "如何把宿舍装修成豪迈风格？",
+        "body": "就是要豪迈！",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-05-02T00:00:00.000Z",
+        "modifyTime": "2018-05-02T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
+            "body": "red法拉利？登山杖等等登山用具？拔河绳子？奖学金？解放碑朝天门照片？坠吼要来一个江体书法作品“就是要豪迈”。宿舍大门贴一个秦城监狱牌子。大功告成！",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 193,
+                    "user-name": "刹那公子"
+                },
+                {
+                    "user-id": -1,
+                    "user-name": "[已注销]"
+                },
+                {
+                    "user-id": 604,
+                    "user-name": "江之永矣"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 977,
+                    "user-name": "轰隆隆和木小拓"
+                },
+                {
+                    "user-id": 872,
+                    "user-name": "小能维尼"
+                },
+                {
+                    "user-id": 1052,
+                    "user-name": "膜法禁书目录"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 1245,
+                    "user-name": "长津"
+                },
+                {
+                    "user-id": 866,
+                    "user-name": "黑框长者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "<p>你只要让装修，呃，wonderful，tremendous就可以了。</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-10T00:00:00.000Z",
+            "modifyTime": "2018-05-10T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
+            "body": "贴个“秦城监狱”的牌子，大家都有编号【】",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-29T00:00:00.000Z",
+            "modifyTime": "2018-05-29T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p>墙壁越薄越吼</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何把宿舍装修成膜法风格？",
+            "id": 299
+        },
+        {
+            "title": "如何把宿舍装修成庆丰风格？",
+            "id": 300
+        },
+        {
+            "title": "新版《切包子》做吼了，增加了红色法拉利，切起来更豪迈",
+            "id": 507
+        },
+        {
+            "title": "如何让自己变的更加豪迈？",
+            "id": 1088
+        },
+        {
+            "title": "各位，我想定制一款“精准扶贫”风格的手机壳，求手机壳图片推荐，要文不要武。",
+            "id": 3274
+        },
+        {
+            "title": "2018年知乎用户的风格和几年前相比有什么变化？",
+            "id": 1686
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-05-29T08:36:00.000Z",
+        "views": 457,
+        "concerns": 5
+    }
+}

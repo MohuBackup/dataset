@@ -34,7 +34,10 @@
     "detail": {
         "title": "感觉总有习民想害朕怎么破？",
         "body": "<p>谁能帮朕除掉恶习和贼民？</p>",
-        "author": 2749,
+        "author": {
+            "user-id": 2749,
+            "user-name": "江续之"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-30T00:00:00.000Z",
@@ -112,8 +115,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-29T21:44:00.000Z",
-        "views": 187,
+        "last-active-time": "2018-11-03T21:51:00.000Z",
+        "views": 188,
         "concerns": 2
     }
 }

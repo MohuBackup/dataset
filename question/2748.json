@@ -21,8 +21,11 @@
     ],
     "detail": {
         "title": "如何评价这波颇具胡佛遗风的操作？",
-        "body": "补缴十七年社保，国家预计社保改革后一年多收两万亿，那就意味着这波补缴是十亿级的紧缩政策，贸易战关税也就两千亿刀，这是否意味着新一波大萧条会在中国爆发？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180920/ae8a8b19c6ef9210f48d3838eb8139d2.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180920/ae8a8b19c6ef9210f48d3838eb8139d2.jpg\" class=\"img-thumbnail\" alt=\"7477a7fbd9922a91f66c5c47c70b5aad.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 2063,
+        "body": "补缴十七年社保，国家预计社保改革后一年多收两万亿，那就意味着这波补缴是十亿级的紧缩政策，贸易战关税也就两千亿刀，这是否意味着新一波大萧条会在中国爆发？ <div>\n<a href=\"https://archive.is/o/v7uXb/https://www.mohu.club/uploads/questions/20180920/ae8a8b19c6ef9210f48d3838eb8139d2.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"7477a7fbd9922a91f66c5c47c70b5aad.jpg\" src=\"https://archive.is/v7uXb/242a7465bf6bce3b7338f3314f4ff9afbf599ded.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2063,
+            "user-name": "德兰尊蛤者"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-20T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "面对贸易战和经济困境，正常国家都是得减轻各类税负以释放民间购买力。<br>\n<br>\n只有中共反其道而行之，越是经济困境就越是疯狂的从民间提取财富——不愧是土匪起家。",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 2276,
+            "author": {
+                "user-id": 2276,
+                "user-name": "htc"
+            },
             "body": "<p>穷人交社保给富人用的“福利”政策（穷人只能保部分费用，大额超限则不保，而特权可保所有费用），全世界也没有几个这样负福利国家吧。<br></p>",
             "folded": false,
             "agree-by": [
@@ -132,7 +141,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-20T05:46:00.000Z",
-        "views": 333,
+        "views": 335,
         "concerns": 4
     }
 }

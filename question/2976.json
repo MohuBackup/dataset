@@ -37,7 +37,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 648,
+            "author": {
+                "user-id": 648,
+                "user-name": "jiangzhuxi"
+            },
             "body": "既有好处又有坏处",
             "folded": false,
             "agree-by": [],
@@ -95,7 +98,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-27T14:59:00.000Z",
-        "views": 225,
+        "views": 226,
         "concerns": 3
     }
 }

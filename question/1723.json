@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待cnn和msnbc切断川普“天使家庭”接见会直播实况？",
         "body": "如何看待cnn和msnbc切断川普“天使家庭”接见会直播实况？<br>\n当天特朗普在白宫接见了一批被非法移民杀害的美国家庭，他指责媒体\"忽视\"了这些家庭，并强调受害的美公民就是因非法移民而\"永远地与家人分离\"了。<br>\n<br>\n而正当受害家庭讲述他们的故事之时，美国两家主流有线电视：CNN 和 MSNBC，将直播报道切断，转而报道边境非法移民家庭的苦境。<br>\n另附知乎链接https://www.zhihu.com/question/282311569/answer/425616257",
-        "author": 640,
+        "author": {
+            "user-id": 640,
+            "user-name": "男孩为何穿红衣"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-25T00:00:00.000Z",
@@ -93,7 +96,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-26T06:17:00.000Z",
-        "views": 243,
+        "views": 244,
         "concerns": 1
     }
 }

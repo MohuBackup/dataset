@@ -10,7 +10,10 @@
     "detail": {
         "title": "中共有哪些垮台的方式？",
         "body": "",
-        "author": 855,
+        "author": {
+            "user-id": 855,
+            "user-name": "齐奥塞斯库"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-27T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "工农阶级起义<br>\n学生运动<br>\n政体内乱<br>\n军变<br>\n境外势力<br>\n……我相信单靠一种情况是不太可能让中共倒台的，等时机到了，条件足了，多种因素结合起来，中共能承受得了？",
             "folded": false,
             "agree-by": [
@@ -73,7 +79,10 @@
             "modifyTime": "2018-08-27T00:00:00.000Z"
         },
         {
-            "author": 1627,
+            "author": {
+                "user-id": 1627,
+                "user-name": "Rain900"
+            },
             "body": "<p>现阶段肯定不会，经济增长虽然减速了，也在暴露很多社会问题，但是国力还是在往上走的。好比在清朝末期 西方国家都工业革命了 大清还是小农经济主导，对外保守锁国，国内腐败滋生 国库亏空，还八国联军入侵，，，天不时地不利人不和 大清就垮台了。。。</p>",
             "folded": false,
             "agree-by": [
@@ -108,7 +117,10 @@
             "modifyTime": "2018-08-27T00:00:00.000Z"
         },
         {
-            "author": 1570,
+            "author": {
+                "user-id": 1570,
+                "user-name": "firefly"
+            },
             "body": "任何帝国的崩溃的原因都一样，没钱了",
             "folded": false,
             "agree-by": [
@@ -132,7 +144,7 @@
         },
         {
             "author": null,
-            "body": "末日审判\n<img src=\"/uploads/answer/20180826/d8a054e7877e9086f2ff4df505954775.jpg\">",
+            "body": "末日审判\n<img src=\"https://archive.is/ShfFN/a9a6ed570c2f4f944f835adc588b3c9a9210a8c4.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -150,7 +162,10 @@
             "modifyTime": "2018-08-27T00:00:00.000Z"
         },
         {
-            "author": 1709,
+            "author": {
+                "user-id": 1709,
+                "user-name": "tianwanggai"
+            },
             "body": "垮台的前置条件是中共失去对军队的控制，所以一切情况都要基于这个结果去分析，然后就会得到几个显而易见的的条件，比如经济大规模衰退，某些势力的内部渗透，军队高层出现野心家，党高层内部出现高度割裂致使军队骑墙。如果绝对的忠诚性不出现问题的话，那么民众怎么作，不过是64的重演罢了。<br>\n当然还有一个就是对外战争失败，强制被外国势力洗牌，然而对于有核国家来说，失败似乎根本不可能的，最多是同归于尽。所以讨论这个意义不大。",
             "folded": false,
             "agree-by": [
@@ -165,7 +180,10 @@
             "modifyTime": "2018-08-29T00:00:00.000Z"
         },
         {
-            "author": 986,
+            "author": {
+                "user-id": 986,
+                "user-name": "面粉二厂送面了"
+            },
             "body": "我感觉在这个过程中轮子应该会发挥不小的作用的。",
             "folded": false,
             "agree-by": [],
@@ -175,7 +193,10 @@
             "modifyTime": "2018-08-27T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "国内暴乱，新的社会主义政党诞生",
             "folded": false,
             "agree-by": [],
@@ -229,7 +250,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-29T04:26:00.000Z",
-        "views": 542,
+        "views": 543,
         "concerns": 10
     }
 }

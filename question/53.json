@@ -10,7 +10,10 @@
     "detail": {
         "title": "墜痛苦是一種怎樣的痛苦？",
         "body": "如題，大家經常說這是墜痛苦的，那末這是一種怎樣的痛苦呢？",
-        "author": 20,
+        "author": {
+            "user-id": 20,
+            "user-name": "立花琴子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "皮一瞬皆老，沉而下坠，此众所谓「坠痛苦」也。",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "失去生命的力量",
             "folded": false,
             "agree-by": [
@@ -88,7 +97,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 24,
+            "author": {
+                "user-id": 24,
+                "user-name": "连任吼不吼呀"
+            },
             "body": "把墨水弄到纸上，他说过的",
             "folded": false,
             "agree-by": [
@@ -119,7 +131,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "先买杆鸭嘴笔自己体验下吧",
             "folded": false,
             "agree-by": [
@@ -138,7 +153,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>把墨汁弄到图纸上再用刀片去刮，这是坠痛苦的。</p>",
             "folded": false,
             "agree-by": [
@@ -157,8 +175,11 @@
             "modifyTime": "2018-06-25T00:00:00.000Z"
         },
         {
-            "author": 673,
-            "body": "<p>是一种有味道的痛&nbsp;&nbsp;</p><p>（<strong>苦</strong>）</p>",
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "<p>是一种有味道的痛&nbsp;&nbsp;</p><p>（<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">苦</strong>）</p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -167,7 +188,10 @@
             "modifyTime": "2018-06-25T00:00:00.000Z"
         },
         {
-            "author": 1069,
+            "author": {
+                "user-id": 1069,
+                "user-name": "庆丰帝"
+            },
             "body": "<p>满脸都是粪！<br></p>",
             "folded": false,
             "agree-by": [],
@@ -201,7 +225,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-25T12:11:00.000Z",
-        "views": 420,
+        "views": 422,
         "concerns": 8
     }
 }

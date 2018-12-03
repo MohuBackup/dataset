@@ -38,7 +38,10 @@
     "detail": {
         "title": "庆丰包子是不是有毒啊？",
         "body": "我吃完了之后，感觉脖子都歪了，看书的时候连衣和农都分不清了，以前背的书也只记得书名了，还有就是开车的时候车子自己就往后倒了，是怎么一回事啊？",
-        "author": 881,
+        "author": {
+            "user-id": 881,
+            "user-name": "江蛤蟆是坠吼的"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-28T00:00:00.000Z",
@@ -46,7 +49,10 @@
     },
     "answers": [
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "是的，吃庆丰包子很容易吃到毒菜，需要紧急服用莲荏才能解的了毒，但据说上次有个有人花了21块钱去吃中毒了，按这个方子来，现在都还没治好，可能还需要来几个疗程，不过我觉得撑不到多久了。",
             "folded": false,
             "agree-by": [
@@ -117,7 +123,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 833,
+            "author": {
+                "user-id": 833,
+                "user-name": "社会主义之光"
+            },
             "body": "我有个土方子，你背0.1吨麦子走十里山路就没事了，一定要记住不能换肩",
             "folded": false,
             "agree-by": [
@@ -176,7 +185,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 671,
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
             "body": "怎么解毒呢，很简单，多去派出所和民警交流，多去小粉红聚集地，比如共青团中央、周带鱼公众号，我相信你过一段时间就会感觉症状消失。（因为别人和你症状一样没啥区别）",
             "folded": false,
             "agree-by": [
@@ -219,7 +231,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "你是不是该宽宽衣了？",
             "folded": false,
             "agree-by": [
@@ -254,7 +269,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "吸些PM二百五就没事了",
             "folded": false,
             "agree-by": [
@@ -333,7 +351,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-28T14:16:00.000Z",
-        "views": 536,
+        "views": 537,
         "concerns": 6
     }
 }

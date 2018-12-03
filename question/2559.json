@@ -14,7 +14,10 @@
     "detail": {
         "title": "如果大家有机会当面怒斥庆丰皇帝大家会说什么？",
         "body": "<p>如题。</p><p>上疏怒斥的也行。</p>",
-        "author": 1984,
+        "author": {
+            "user-id": 1984,
+            "user-name": "醉扬州"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-09T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>你插队梁家之河， 初中毕业入仕，理当匡民辅国，安共和兴民主，何期反开倒车，图谋称帝！罪恶深重，天地不容！</p><p>无耻老贼，岂不知天下之人，皆愿生啖你肉，安敢在此饶舌！今幸天意不绝中华，众蛤丝于膜乎继承大统，你既为文盲之人，只可潜身缩首，苟图衣食，怎敢在我蛤丝面前妄称一尊！皓首匹夫，苍髯老贼！你即将命归九泉之下，届时你死长者都未死那？！</p><p>你枉活六十有五，一生未立寸功，只会摇唇撒币，满脸喷粪！一条断脊之犬，还敢狺狺狂吠！我从未见过有如此厚颜无耻之人！</p>",
             "folded": false,
             "agree-by": [
@@ -193,7 +199,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "怒斥？太不识时务了！新时代应该唱新红歌，比如《包子铺》《不知该怎么称呼你》《跟着你就是跟着那太阳》《除了你我们什么都不认》。。。。对不起，我先去吐会。。。。",
             "folded": false,
             "agree-by": [
@@ -244,7 +253,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 2039,
+            "author": {
+                "user-id": 2039,
+                "user-name": "习特勒real"
+            },
             "body": "你改悔罢！刁大犬，你下台罢！",
             "folded": false,
             "agree-by": [
@@ -295,7 +307,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1984,
+            "author": {
+                "user-id": 1984,
+                "user-name": "醉扬州"
+            },
             "body": "<p>我自己先来：</p><p>长者把江山交到你的手里，却搞成了这个样子，我痛心疾首。你有罪于国家，愧对马克思，愧对先烈，你应该自己罢免了自己！</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -342,7 +357,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "你泽个螳臂当车的歹徒，吃我一刀",
             "folded": false,
             "agree-by": [
@@ -369,7 +387,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "直接动手，为民除害",
             "folded": false,
             "agree-by": [
@@ -396,7 +417,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>那么首先能告诉我你的年龄吗</p>",
             "folded": false,
             "agree-by": [
@@ -419,7 +443,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 648,
+            "author": {
+                "user-id": 648,
+                "user-name": "jiangzhuxi"
+            },
             "body": "<p>自裁吧</p>",
             "folded": false,
             "agree-by": [
@@ -438,7 +465,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 855,
+            "author": {
+                "user-id": 855,
+                "user-name": "齐奥塞斯库"
+            },
             "body": "请你辞职",
             "folded": false,
             "agree-by": [
@@ -457,7 +487,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "吔屎啦",
             "folded": false,
             "agree-by": [
@@ -476,7 +509,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 1627,
+            "author": {
+                "user-id": 1627,
+                "user-name": "Rain900"
+            },
             "body": "<p>指着他脑门）你你你你你你你你你 一点也不像维尼熊哼</p>",
             "folded": false,
             "agree-by": [
@@ -491,7 +527,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "你们第二天会在报纸上看到第二个里昂乔尔戈斯（滑稽）",
             "folded": false,
             "agree-by": [
@@ -521,7 +560,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>像你这样的皇帝，还有什么存在的必要吗？自裁，请(无慈悲)</p>",
             "folded": false,
             "agree-by": [
@@ -536,7 +578,10 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": 2111,
+            "author": {
+                "user-id": 2111,
+                "user-name": "80年代"
+            },
             "body": "非洲大撒比是不行的",
             "folded": false,
             "agree-by": [
@@ -551,7 +596,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 2204,
+            "author": {
+                "user-id": 2204,
+                "user-name": "xanxus514"
+            },
             "body": "<p>铲除恶习，江公补过</p>",
             "folded": false,
             "agree-by": [
@@ -566,7 +614,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 2903,
+            "author": {
+                "user-id": 2903,
+                "user-name": "viewer"
+            },
             "body": "<p>你也是早知道會有今天的，臨走前還有什麼交代後人的。<br></p>",
             "folded": false,
             "agree-by": [
@@ -581,7 +632,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>跟他宽衣</p>",
             "folded": false,
             "agree-by": [
@@ -596,7 +650,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2733,
+            "author": {
+                "user-id": 2733,
+                "user-name": "江沢"
+            },
             "body": "咔擦。BONG!",
             "folded": false,
             "agree-by": [
@@ -607,11 +664,14 @@
             ],
             "using-mobile-phone": true,
             "comments": 0,
-            "publishTime": "2018-11-02T00:00:00.000Z",
-            "modifyTime": "2018-11-02T00:00:00.000Z"
+            "publishTime": "2018-11-03T00:00:00.000Z",
+            "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2955,
+            "author": {
+                "user-id": 2955,
+                "user-name": "hh12389"
+            },
             "body": "<p>像你這樣的老賊，還有什麽存在的必要嗎？自裁，請</p>",
             "folded": false,
             "agree-by": [],
@@ -664,8 +724,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-02T16:40:00.000Z",
-        "views": 2040,
+        "last-active-time": "2018-11-03T11:15:00.000Z",
+        "views": 2044,
         "concerns": 18
     }
 }

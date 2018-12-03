@@ -1,0 +1,131 @@
+{
+    "type": "question",
+    "id": 4324,
+    "tags": [
+        {
+            "tag-id": 160,
+            "tag-name": "乳包"
+        }
+    ],
+    "detail": {
+        "title": "纳粹曾经封杀卓别林和米老鼠，这和中国封杀某些艺人和小熊维尼有什么区别？",
+        "body": "",
+        "author": {
+            "user-id": 1015,
+            "user-name": "模糊的蛤国地狱"
+        },
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-05T00:00:00.000Z",
+        "modifyTime": "2018-11-05T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
+            "body": "卓别林演了《大独裁者》，迪士尼为美国政府制作了反纳粹宣传片，被纳粹封杀是理所当然的，中国封杀小熊维尼主要原因是包子害怕在墙内任何对他的形象和皇权有威胁的存在，艺人的话主要还是借一些所谓的精日辱华言论，添油加醋，刺激产生激进的或扭曲的民族主义，转移视线，掩盖目前国内出现的一些主要矛盾，维持社会的稳定，统治的稳定",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                },
+                {
+                    "user-id": 2806,
+                    "user-name": "Prestiger"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 1015,
+                    "user-name": "模糊的蛤国地狱"
+                },
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 2903,
+                "user-name": "viewer"
+            },
+            "body": "<p><br></p><p>毫無肚量的習撒幣，僅僅因為海外的一張幽默漫畫，就動用國家機器進行封殺。</p><p><br></p><p><a href=\"https://archive.is/Xlajc/a2605f3591429831d3d2b0d516f2f3bef424d326.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"北京封锁小熊维尼\" src=\"https://archive.is/Xlajc/a2605f3591429831d3d2b0d516f2f3bef424d326.jpg\" style=\"height:360px;width:540px; vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>《金融时报》星期一（17日）关注深受西方儿童喜爱的卡通动画人物小熊维尼（Winnie the Pooh）受北京屏蔽的消息。</p><p>文章说，北京在本周末禁止一切有关小熊维尼的照片出现在中国的任何社交媒体上。</p><p>中国没有给出任何官方解释其中的原因，但观察人士认为这可能是小熊维尼和跳跳虎（Tigger)的最新造型模仿了2013年中国领导人习近平和当时的美国总统奥巴马走步时的姿态。</p>因此，小熊维尼在中国已经成为了一个政治敏感词。文章说，中国政府无法欣赏这样的西方幽默。<p>文章说，小熊维尼被禁是中国网络审查收紧的最新一例，特别是在中共将在今年秋季召开19大之前。</p><p>文章说，任何人如果试图在中国的社交媒体上（诸如新浪微博和微信）贴出小熊维尼的字眼都会得到\"此内容为非法\"的信息弹出。</p><p><br></p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
+                },
+                {
+                    "user-id": 2960,
+                    "user-name": "柳絮飞"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "什么时候你对中国的未来最没有信心？",
+            "id": 1126
+        },
+        {
+            "title": "中国官方媒体造过哪些谣？",
+            "id": 598
+        },
+        {
+            "title": "港真，面对包子开倒车，我们这个网站到底能做点什么？中国的政治改革有可能到来吗？",
+            "id": 1053
+        },
+        {
+            "title": "如何评价环球时报报道中国游客被瑞典警方扔坟场，及下方网友评论？",
+            "id": 2648
+        },
+        {
+            "title": "如何评价中国包子风靡北美，老外一口气吃4个不过瘾？",
+            "id": 320
+        },
+        {
+            "title": "中国民主化后会发生什么？你希望民主化能带来什么样的改变？",
+            "id": 597
+        },
+        {
+            "title": "如何评价GFW(中国网络防火墙)？",
+            "id": 194
+        },
+        {
+            "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
+            "id": 1951
+        },
+        {
+            "title": "毛主席在位时，和平年代造成8000w中国人非正常死亡，为什么现在广大中国百姓依然怀念敬仰他呢",
+            "id": 2001
+        },
+        {
+            "title": "如何解读习近平说的“中国永远属于发展中国家”？",
+            "id": 2153
+        },
+        {
+            "title": "中国需要皇帝吗?",
+            "id": 357
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T13:38:00.000Z",
+        "views": 273,
+        "concerns": 5
+    }
+}

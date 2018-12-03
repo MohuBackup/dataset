@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待杰克马关于贸易战的评论？",
         "body": "<p>他认为贸易战会持续二十年，让我有了一个联想。勃列日列夫到叶利钦正好二十年左右。他这是在？？？各位认为呢？</p>",
-        "author": 2038,
+        "author": {
+            "user-id": 2038,
+            "user-name": "miHAHA"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-29T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1664,
+            "author": {
+                "user-id": 1664,
+                "user-name": "陈浩蓝"
+            },
             "body": "中国需要休克疗法。",
             "folded": false,
             "agree-by": [],
@@ -76,7 +82,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-29T09:27:00.000Z",
-        "views": 136,
+        "views": 137,
         "concerns": 2
     }
 }

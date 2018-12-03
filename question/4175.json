@@ -14,7 +14,10 @@
     "detail": {
         "title": "党的敏感点有哪些？",
         "body": "",
-        "author": 2933,
+        "author": {
+            "user-id": 2933,
+            "user-name": "朱翔"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
@@ -22,8 +25,11 @@
     },
     "answers": [
         {
-            "author": 1705,
-            "body": "<p>普世价值、司法独立、新闻自由、公民社会、公民权利、权贵资产阶级、党的历史错误。</p><p>巴拿马文件、六四、新疆集中营。</p><p><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8\">https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8</a>&nbsp;</p>",
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
+            "body": "<p>普世价值、司法独立、新闻自由、公民社会、公民权利、权贵资产阶级、党的历史错误。</p><p>巴拿马文件、六四、新疆集中营。</p><p><a href=\"https://archive.is/o/KqMBT/https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%AF%A9%E6%9F%A5%E8%BE%AD%E5%BD%99%E5%88%97%E8%A1%A8</a>&nbsp;</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -57,7 +63,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>你搞错了，党浑身都是g点。</p>",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>包轮功</p>",
             "folded": false,
             "agree-by": [],
@@ -90,8 +102,11 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1611,
-            "body": "<p>就一个：<strong>赚钱</strong>。</p><p><br></p>",
+            "author": {
+                "user-id": 1611,
+                "user-name": "留级生"
+            },
+            "body": "<p>就一个：<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">赚钱</strong>。</p><p><br></p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -100,7 +115,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2596,
+            "author": {
+                "user-id": 2596,
+                "user-name": "王尧"
+            },
             "body": "<p>这个太多了，不好列举，不如来说说那些不是党的敏感点吧</p>",
             "folded": false,
             "agree-by": [],
@@ -112,8 +130,8 @@
     ],
     "relatedQuestions": [],
     "questionStatus": {
-        "last-active-time": "2018-11-03T03:18:00.000Z",
-        "views": 342,
+        "last-active-time": "2018-11-03T22:29:00.000Z",
+        "views": 345,
         "concerns": 8
     }
 }

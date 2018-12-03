@@ -30,7 +30,10 @@
     "detail": {
         "title": "有哪些因为政治原因被封杀的明星/演员？",
         "body": "<p>他们因为什么被封杀？<br></p>",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-16T00:00:00.000Z",
@@ -38,7 +41,10 @@
     },
     "answers": [
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "<p>毕福剑，大谈政治敏感。</p>",
             "folded": false,
             "agree-by": [
@@ -113,7 +119,10 @@
             "modifyTime": "2018-06-17T00:00:00.000Z"
         },
         {
-            "author": 1377,
+            "author": {
+                "user-id": 1377,
+                "user-name": "VanWinnieLing"
+            },
             "body": "北京欢迎你的词作者<br>\n也是撑起雨伞的词作者<br>\n林夕先生<br>\n现在撑起雨伞我还是常常单曲循环",
             "folded": false,
             "agree-by": [
@@ -172,9 +181,12 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>何韵诗。</p><p>因为支持港独。</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1091,
@@ -207,7 +219,10 @@
             "modifyTime": "2018-06-18T00:00:00.000Z"
         },
         {
-            "author": 24,
+            "author": {
+                "user-id": 24,
+                "user-name": "连任吼不吼呀"
+            },
             "body": "看到这个，就想到了乳腊肉的毕老爷",
             "folded": false,
             "agree-by": [
@@ -238,7 +253,10 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": 1431,
+            "author": {
+                "user-id": 1431,
+                "user-name": "不吃青蛙"
+            },
             "body": "赵本山啊，那可是薄熙来的文化部长",
             "folded": false,
             "agree-by": [
@@ -261,7 +279,10 @@
             "modifyTime": "2018-06-18T00:00:00.000Z"
         },
         {
-            "author": 1257,
+            "author": {
+                "user-id": 1257,
+                "user-name": "假面之下"
+            },
             "body": "陈升吧",
             "folded": false,
             "agree-by": [
@@ -276,7 +297,10 @@
             "modifyTime": "2018-06-18T00:00:00.000Z"
         },
         {
-            "author": 1091,
+            "author": {
+                "user-id": 1091,
+                "user-name": "matsusaki"
+            },
             "body": "不知道大家还记不记得央视体育频道的李承鹏。",
             "folded": false,
             "agree-by": [
@@ -291,7 +315,10 @@
             "modifyTime": "2018-06-19T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "汤灿，董文华",
             "folded": false,
             "agree-by": [],
@@ -301,7 +328,10 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 765,
+            "author": {
+                "user-id": 765,
+                "user-name": "习习蛤虫合"
+            },
             "body": "说个一般不知道的——费翔，在广场唱过，九十年代被封了几年",
             "folded": false,
             "agree-by": [],
@@ -311,9 +341,12 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 16,
+            "author": {
+                "user-id": 16,
+                "user-name": "匿名用户"
+            },
             "body": "崔永元，被封杀的原因是蠢",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 2,
@@ -365,7 +398,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-22T06:14:00.000Z",
-        "views": 832,
+        "views": 833,
         "concerns": 9
     }
 }

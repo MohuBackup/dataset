@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "为什么五毛总是把爱党和爱国混为一谈",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180505/f6537d66bd4bcad39f342802afcbbd25.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180505/f6537d66bd4bcad39f342802afcbbd25.jpg\" class=\"img-thumbnail\" alt=\"47076a4b4c7927db.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 948,
+        "body": "<div>\n<a href=\"https://archive.is/o/y82E6/https://www.mohu.club/uploads/questions/20180505/f6537d66bd4bcad39f342802afcbbd25.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"47076a4b4c7927db.jpg\" src=\"https://archive.is/y82E6/77e1a45060f9bcca35b54f0921df671d0f15b456.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 948,
+            "user-name": "巅峰酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-05T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "或许他们说的是党国，也就是说五毛是tái wān的贱碟。为了防止被发现，把两个字拆开，变成了爱党、爱国",
             "folded": false,
             "agree-by": [
@@ -61,6 +67,10 @@
                 {
                     "user-id": 1713,
                     "user-name": "野兽先辈"
+                },
+                {
+                    "user-id": 2955,
+                    "user-name": "hh12389"
                 }
             ],
             "using-mobile-phone": true,
@@ -69,7 +79,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 671,
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
             "body": "gcd：猪们，没有我，你们也就没饭吃，要死翘翘了！所以我就相当于养猪场！换成别人来养你们肯定没好！我就是养猪场！明白吗？",
             "folded": false,
             "agree-by": [
@@ -104,7 +117,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 1023,
+            "author": {
+                "user-id": 1023,
+                "user-name": "世末"
+            },
             "body": "他们平时就是这么被教育的",
             "folded": false,
             "agree-by": [
@@ -131,7 +147,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "敢把这两者剥离开来五毛也没得拿……",
             "folded": false,
             "agree-by": [
@@ -158,7 +177,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 887,
+            "author": {
+                "user-id": 887,
+                "user-name": "虵改变了中国"
+            },
             "body": "要给轮子素材",
             "folded": false,
             "agree-by": [
@@ -177,7 +199,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 887,
+            "author": {
+                "user-id": 887,
+                "user-name": "虵改变了中国"
+            },
             "body": "要给轮子素材",
             "folded": false,
             "agree-by": [
@@ -196,7 +221,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "一党专政了解一下",
             "folded": false,
             "agree-by": [
@@ -255,7 +283,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-05T09:36:00.000Z",
-        "views": 416,
-        "concerns": 5
+        "views": 422,
+        "concerns": 6
     }
 }

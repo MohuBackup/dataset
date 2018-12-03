@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价岿然不动那一次，摄影师正好拍到了提词器\"音kui\"？",
         "body": "<p>就在那时，右下角照到了音kui，然后迅速转换镜头<br></p><p>包子系电视前大出洋相，系摄影机友军操作？抑或系天注定呢？</p>",
-        "author": 673,
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-15T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>摄像师已被宽衣雷普，并与包轮功“一带一路”修法仪式上献祭。</p>",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "放 送 事 故",
             "folded": false,
             "agree-by": [
@@ -56,7 +65,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "估计枪毙了吧。",
             "folded": false,
             "agree-by": [
@@ -71,7 +83,10 @@
             "modifyTime": "2018-10-15T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "摄影师想告诉大家青少年读物注音的重要性",
             "folded": false,
             "agree-by": [
@@ -134,7 +149,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-15T03:14:00.000Z",
-        "views": 440,
+        "views": 441,
         "concerns": 5
     }
 }

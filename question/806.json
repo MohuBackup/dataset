@@ -10,7 +10,10 @@
     "detail": {
         "title": "很喜欢长者但是讨厌共产党怎么办",
         "body": "很喜欢长者的幽默，以及当时我哥看过未删减版的坦克呢可，但是我非常讨厌共产党的独裁，严格的言论审查，以及没有保障的人权<br>\n每天科学上网看负面新闻，虽然可能有一些是假的，但是也不一定全是假的吧，我有时候甚至还希望中国变成中华民国好了",
-        "author": 1103,
+        "author": {
+            "user-id": 1103,
+            "user-name": "开着59压维尼"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-14T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1115,
+            "author": {
+                "user-id": 1115,
+                "user-name": "果尔德施坦因"
+            },
             "body": "这位同志不必因此困惑，长者的个人魅力与党国是无关的。",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "不矛盾，就像我是党员但我辱包膜蛤无所不干。",
             "folded": false,
             "agree-by": [
@@ -152,50 +161,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 1056,
-            "body": "在江时期，你说的这些现象基本很少或是没有，墙也是09年之后才逐渐起来的。那时的党也没有现在这样独裁，这些制度大部分是XJP搞的。<br>\n一句话，这完全不矛盾。<br>\n现在的CCP已不是当年那个真正为人民服务的CCP了。",
-            "folded": true,
-            "agree-by": [
-                {
-                    "user-id": 902,
-                    "user-name": "小熊维尼"
-                },
-                {
-                    "user-id": 977,
-                    "user-name": "轰隆隆和木小拓"
-                },
-                {
-                    "user-id": 1022,
-                    "user-name": "红衣维尼开倒车"
-                },
-                {
-                    "user-id": 546,
-                    "user-name": "谈闹觉余"
-                },
-                {
-                    "user-id": 370,
-                    "user-name": "冮泽民"
-                },
-                {
-                    "user-id": 881,
-                    "user-name": "江蛤蟆是坠吼的"
-                },
-                {
-                    "user-id": 617,
-                    "user-name": "酱油"
-                },
-                {
-                    "user-id": 1426,
-                    "user-name": "hei544n"
-                }
-            ],
-            "using-mobile-phone": true,
-            "comments": 0,
-            "publishTime": "2018-05-14T00:00:00.000Z",
-            "modifyTime": "2018-05-14T00:00:00.000Z"
-        },
-        {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "你不是讨厌共产党，你是讨厌习近平",
             "folded": false,
             "agree-by": [
@@ -238,7 +207,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "我也是啊。<br>\nGF文革跃进三年饥荒杀了一堆人，又总喜欢搞独裁搞极权。现在包子又开始倒车了，确实很可恨。<br>\n但长者是一个特例，虵的个人魅力比其他GCD领袖不知高到哪里去了。虵是共产中国历史上坠国际化的领袖，姿势水平也很高，实在是一个值得尊敬的蛯人。",
             "folded": false,
             "agree-by": [
@@ -273,7 +245,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 834,
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
             "body": "端起饭碗吃饭，放下筷子骂娘。",
             "folded": false,
             "agree-by": [
@@ -308,7 +283,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "不矛盾，长者为中国的经济，文化，军事发展做了很大的贡献，和搞独裁，愚民政策，个人崇拜的包子完全就不是一回事。",
             "folded": false,
             "agree-by": [
@@ -335,7 +313,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 1056,
+            "author": {
+                "user-id": 1056,
+                "user-name": "中兴安岭"
+            },
             "body": "另，BUG报告<br>\n如果答案提交按钮点击过快会导致出现两次回答<br>\n就像这样<br>\n望尽快处理。",
             "folded": false,
             "agree-by": [
@@ -358,9 +339,12 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 1122,
+            "author": {
+                "user-id": 1122,
+                "user-name": "江蛤冥续习贱贫"
+            },
             "body": "长者说到底本质上也是个毒菜种植者，一丘之貉",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 602,
@@ -377,7 +361,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 872,
+            "author": {
+                "user-id": 872,
+                "user-name": "小能维尼"
+            },
             "body": "你说的这些是包子搞的",
             "folded": false,
             "agree-by": [],
@@ -387,7 +374,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "<p>喜欢音MAD元首大概没有人会说你是纳粹呱</p>",
             "folded": false,
             "agree-by": [],
@@ -395,6 +385,52 @@
             "comments": 0,
             "publishTime": "2018-09-03T00:00:00.000Z",
             "modifyTime": "2018-09-03T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1056,
+                "user-name": "中兴安岭"
+            },
+            "body": "在江时期，你说的这些现象基本很少或是没有，墙也是09年之后才逐渐起来的。那时的党也没有现在这样独裁，这些制度大部分是XJP搞的。<br>\n一句话，这完全不矛盾。<br>\n现在的CCP已不是当年那个真正为人民服务的CCP了。",
+            "folded": true,
+            "agree-by": [
+                {
+                    "user-id": 902,
+                    "user-name": "小熊维尼"
+                },
+                {
+                    "user-id": 977,
+                    "user-name": "轰隆隆和木小拓"
+                },
+                {
+                    "user-id": 1022,
+                    "user-name": "红衣维尼开倒车"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 370,
+                    "user-name": "冮泽民"
+                },
+                {
+                    "user-id": 881,
+                    "user-name": "江蛤蟆是坠吼的"
+                },
+                {
+                    "user-id": 617,
+                    "user-name": "酱油"
+                },
+                {
+                    "user-id": 1426,
+                    "user-name": "hei544n"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-14T00:00:00.000Z",
+            "modifyTime": "2018-05-14T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -441,7 +477,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-02T22:54:00.000Z",
-        "views": 734,
+        "views": 735,
         "concerns": 9
     }
 }

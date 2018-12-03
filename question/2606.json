@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待江苏大剧院的人民公敌被改演成红灯记？",
         "body": "",
-        "author": 2180,
+        "author": {
+            "user-id": 2180,
+            "user-name": "Charlie_Y_Hurt"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-13T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2174,
+            "author": {
+                "user-id": 2174,
+                "user-name": "Naiiiiiive"
+            },
             "body": "<p>你看这个名字起的就不吼嘛，就算内容跟政治没多大关系，人民一看这个名字，就会思考，谁是人民公敌呢？思前想后，不是就是包子吗？不就是tg吗？所以为了不泄漏国家机密，这个剧演不得。</p>",
             "folded": false,
             "agree-by": [
@@ -112,7 +118,10 @@
             "modifyTime": "2018-09-19T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>对之前那个剧名做贼心虚呗</p>",
             "folded": false,
             "agree-by": [
@@ -131,7 +140,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 2254,
+            "author": {
+                "user-id": 2254,
+                "user-name": "bishi"
+            },
             "body": "是因为之前在国家大剧院出演时，有一个演员和观众互动的部分，观众借机吐槽“我们中国政府也不说真话”等内容，文化部怕了。",
             "folded": false,
             "agree-by": [
@@ -150,7 +162,10 @@
             "modifyTime": "2018-09-19T00:00:00.000Z"
         },
         {
-            "author": 1498,
+            "author": {
+                "user-id": 1498,
+                "user-name": "冴月麟"
+            },
             "body": "<p>此地无银三百两</p>",
             "folded": false,
             "agree-by": [],
@@ -208,7 +223,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-01T11:56:00.000Z",
-        "views": 604,
+        "views": 605,
         "concerns": 9
     }
 }

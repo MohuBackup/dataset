@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价中共公安取消出国中介？",
-        "body": "吼啊，闭关锁国啊！\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181026/0132b7ecedbc27a9eb0265195f3c48a0.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181026/0132b7ecedbc27a9eb0265195f3c48a0.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181026_130058.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "吼啊，闭关锁国啊！ <div>\n<a href=\"https://archive.is/o/0Zexd/https://www.mohu.club/uploads/questions/20181026/0132b7ecedbc27a9eb0265195f3c48a0.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181026_130058.jpg\" src=\"https://archive.is/0Zexd/081b938f0427e7d14416ea6402c97bb1c58ad8b8.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "很好，接下来是取缔海外代购，再之后是禁止外国传道人入境，赶走外企，赶走外国人，互联网改局域网，召回所有海外非外国籍华人……政府表示，闭关锁国，苦练内功，让一切反动势力在我们面前颤抖吧。中国向全世界发出电文，电文内容共八个字：三天不打，上房揭瓦。很多国家表示难以翻译。<br>\n（参考韩寒我只是在猜想）",
             "folded": false,
             "agree-by": [
@@ -33,8 +36,11 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": 1441,
-            "body": "先不要慌，这两年应该还可以跑\n<img src=\"/uploads/answer/20181026/802cb772b4fd6bea2da112d51cc65f71.jpg\">\n<img src=\"/uploads/answer/20181026/ce8729d4dadbfb744c77edb5cb77fda5.jpg\">",
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
+            "body": "先不要慌，这两年应该还可以跑\n<img src=\"https://archive.is/0Zexd/7fc94b6e32dd8012b497a2879d79ef8d0c83e990.jpg\">\n<img src=\"https://archive.is/0Zexd/547209ab62447e1cca3355c7ba31190b5285e503.jpg\">",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
@@ -91,7 +97,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-26T05:18:00.000Z",
-        "views": 212,
+        "views": 213,
         "concerns": 3
     }
 }

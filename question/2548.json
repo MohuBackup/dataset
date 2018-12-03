@@ -9,8 +9,11 @@
     ],
     "detail": {
         "title": "为何股市低迷被称为“熊市”？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180909/7f40e4740586ea58b765c66f1fd34237.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180909/7f40e4740586ea58b765c66f1fd34237.jpg\" class=\"img-thumbnail\" alt=\"52452BBF09596BB1E4BB4B0D8A5FD497.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 1441,
+        "body": "<div>\n<a href=\"https://archive.is/o/eytii/https://www.mohu.club/uploads/questions/20180909/7f40e4740586ea58b765c66f1fd34237.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"52452BBF09596BB1E4BB4B0D8A5FD497.jpg\" src=\"https://archive.is/eytii/31037eae21a660356266046e1ae860120ebe8ebe.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-09T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>因為維尼熊不論到了哪裡，就都會給哪裡帶來災難（非洲地區免疫）。</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "曾经熊提出动议把股市低迷改称为蛤市，因不明原因熊提出动议后生命不断-1s，此动议遂废止。#平行时空",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-09T10:08:00.000Z",
-        "views": 283,
+        "views": 284,
         "concerns": 5
     }
 }

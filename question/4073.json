@@ -18,8 +18,11 @@
     },
     "answers": [
         {
-            "author": 1519,
-            "body": "<p><a href=\"/people/revolt\" class=\"aw-user-name\" data-id=\"2226\">@revolt</a>:想不到好办法，把原来的号改名，再用临时邮箱程序注册一个怎么样？<br></p>",
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
+            "body": "<p><a href=\"https://archive.is/o/OXGFd/https://www.mohu.club/people/revolt\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;line-height:20px;font-weight:400;color:rgb(102, 102, 102);font-size:14px;\">@revolt</a>:想不到好办法，把原来的号改名，再用临时邮箱程序注册一个怎么样？<br></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -37,7 +40,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>怎么？你怕了？</p><p><br></p><p>我倒是不怕力，，，但是我想改绑邮箱来着，怎么改绑呢？</p>",
             "folded": false,
             "agree-by": [
@@ -52,7 +58,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2221,
+            "author": {
+                "user-id": 2221,
+                "user-name": "destroyer"
+            },
             "body": "我也有些想注销",
             "folded": false,
             "agree-by": [
@@ -67,7 +76,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "联系新蛤社",
             "folded": false,
             "agree-by": [],
@@ -124,8 +136,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T22:02:00.000Z",
-        "views": 302,
+        "last-active-time": "2018-11-03T22:10:00.000Z",
+        "views": 303,
         "concerns": 5
     }
 }

@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何评价“韭”、“非”、“一”这三个字？",
         "body": "",
-        "author": 648,
+        "author": {
+            "user-id": 648,
+            "user-name": "jiangzhuxi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-26T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 2115,
+            "author": {
+                "user-id": 2115,
+                "user-name": "无限连任的包子"
+            },
             "body": "<p>韭非一草,釆之为菜。</p><p>取于韭,用于匪,送于非。<br></p>",
             "folded": false,
             "agree-by": [
@@ -61,8 +67,11 @@
             "modifyTime": "2018-09-26T00:00:00.000Z"
         },
         {
-            "author": 673,
-            "body": "習<br>\n 习<br>\n 刁<br>\n 丶 （犬字右上方的点）",
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "習<br>\n习<br>\n刁<br>\n丶 （犬字右上方的点）",
             "folded": false,
             "agree-by": [
                 {
@@ -80,7 +89,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>我们是韭菜，并非一个人</p>",
             "folded": false,
             "agree-by": [
@@ -99,7 +111,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "谁想把人民当“韭”菜，想定于“一”尊，那么我们就只能让这个“非”头落地了",
             "folded": false,
             "agree-by": [
@@ -162,7 +177,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-27T00:34:00.000Z",
-        "views": 313,
+        "views": 314,
         "concerns": 6
     }
 }

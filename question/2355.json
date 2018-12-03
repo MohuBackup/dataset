@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看待ruhu.ml的转让？",
         "body": "刚才我上ruhu.ml，发现已经是register的卖网址（其实还没有开始卖）的页面了。这是不是说明辱乎已经消失于历史的进程中了呢？",
-        "author": 868,
+        "author": {
+            "user-id": 868,
+            "user-name": "GUT412454"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-24T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>一个网站的命运呐，当然要靠自我奋斗，但是也要考虑到历史的行程。中央没有钦定辱乎作乳包总据点，辱乎当蓝会出这种问题</p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-08-24T00:00:00.000Z"
         },
         {
-            "author": 1691,
+            "author": {
+                "user-id": 1691,
+                "user-name": "辱乎"
+            },
             "body": "ruhu.ml域名被freenom删除了，看来免费域名很不可靠",
             "folded": false,
             "agree-by": [
@@ -112,7 +121,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-24T23:42:00.000Z",
-        "views": 272,
+        "views": 273,
         "concerns": 5
     }
 }

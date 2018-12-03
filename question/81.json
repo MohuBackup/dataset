@@ -10,7 +10,10 @@
     "detail": {
         "title": "在膜乎讨论膜乎管理员会有什么后果？",
         "body": "",
-        "author": 58,
+        "author": {
+            "user-id": 58,
+            "user-name": "vapor"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1,
+            "author": {
+                "user-id": 1,
+                "user-name": "EzawaNico"
+            },
             "body": "可以和管理员谈笑风生",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-03-11T00:00:00.000Z"
         },
         {
-            "author": 259,
+            "author": {
+                "user-id": 259,
+                "user-name": "老萌新233"
+            },
             "body": "提高姿势水平",
             "folded": false,
             "agree-by": [],
@@ -79,7 +88,10 @@
             "modifyTime": "2018-03-18T00:00:00.000Z"
         },
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "我想管理员(那个年轻人)并没有事后处理",
             "folded": false,
             "agree-by": [],
@@ -137,7 +149,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-20T01:02:00.000Z",
-        "views": 398,
+        "views": 399,
         "concerns": 6
     }
 }

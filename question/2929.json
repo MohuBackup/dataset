@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>脸皮是厚的，但亏损也是真的。</p><p>人家贪污得这么严重不亏损？</p>",
             "folded": false,
             "agree-by": [
@@ -48,9 +51,12 @@
             "modifyTime": "2018-09-26T00:00:00.000Z"
         },
         {
-            "author": 1159,
+            "author": {
+                "user-id": 1159,
+                "user-name": "默然"
+            },
             "body": "<p>外国有200多个，阁下一块钱油价指的哪个外国？沙特、委内瑞拉还是欧盟国家？</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -68,7 +74,10 @@
             "modifyTime": "2018-09-26T00:00:00.000Z"
         },
         {
-            "author": 1092,
+            "author": {
+                "user-id": 1092,
+                "user-name": "高压聚乙烯"
+            },
             "body": "<p>我就什么话也不说</p>",
             "folded": false,
             "agree-by": [],
@@ -78,7 +87,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 2280,
+            "author": {
+                "user-id": 2280,
+                "user-name": "毛利小泽东"
+            },
             "body": "<p>我TM直接石化</p>",
             "folded": false,
             "agree-by": [],
@@ -88,7 +100,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 1527,
+            "author": {
+                "user-id": 1527,
+                "user-name": "月莫"
+            },
             "body": "加州油价一块一升，单位美元。",
             "folded": false,
             "agree-by": [],
@@ -146,7 +161,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-27T02:20:00.000Z",
-        "views": 270,
+        "views": 271,
         "concerns": 8
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "有人知道小管家怎么样了吗",
         "body": "<p>如题 好久没看见</p>",
-        "author": 2280,
+        "author": {
+            "user-id": 2280,
+            "user-name": "毛利小泽东"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-25T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2356,
+            "author": {
+                "user-id": 2356,
+                "user-name": "霍格沃兹魔法师"
+            },
             "body": "<p>9.26以后就没有任何消息了，很奇怪</p>",
             "folded": false,
             "agree-by": [
@@ -33,7 +39,10 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "人口失踪在厉害国已经成为新常态了",
             "folded": false,
             "agree-by": [
@@ -48,7 +57,10 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": 2280,
+            "author": {
+                "user-id": 2280,
+                "user-name": "毛利小泽东"
+            },
             "body": "<p>担心</p>",
             "folded": false,
             "agree-by": [],
@@ -58,7 +70,10 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>续了</p>",
             "folded": false,
             "agree-by": [],
@@ -68,7 +83,10 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "失踪就失踪吧，大家珍惜时光，能膜一秒是一秒",
             "folded": false,
             "agree-by": [],
@@ -126,7 +144,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-24T23:07:00.000Z",
-        "views": 197,
+        "views": 199,
         "concerns": 4
     }
 }

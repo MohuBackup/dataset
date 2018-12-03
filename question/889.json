@@ -10,7 +10,10 @@
     "detail": {
         "title": "我国各代领导人都有什么外号",
         "body": "",
-        "author": 833,
+        "author": {
+            "user-id": 833,
+            "user-name": "社会主义之光"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-18T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 765,
+            "author": {
+                "user-id": 765,
+                "user-name": "习习蛤虫合"
+            },
             "body": "初代目：太祖，腊肉 <br>\n<br>\n二代目：太宗<br>\n三代目：长者，蛤蟆<br>\n四代目：面瘫，河蟹大帝<br>\n五代目：包子（庆丰），维尼，习禁评，初中生博士<br>\n知道的不多，欢迎大家补充",
             "folded": false,
             "agree-by": [
@@ -97,7 +103,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-18T11:05:00.000Z",
-        "views": 419,
+        "views": 420,
         "concerns": 4
     }
 }

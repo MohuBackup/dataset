@@ -26,7 +26,10 @@
     },
     "answers": [
         {
-            "author": 2709,
+            "author": {
+                "user-id": 2709,
+                "user-name": "a123123a"
+            },
             "body": "<p>他们绝大多数都是在校大学生，等他们出社会被tg狠狠干一遍自然就会领悟，现在跟他们说什么都没用，没有物质基础。</p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +48,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>有些是監獄網評員，有些是真粉紅。</p><p>我認為沒什麼好“看待”的，全部點選舉報是墜吼的了！</p>",
             "folded": false,
             "agree-by": [
@@ -64,7 +70,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 2163,
+            "author": {
+                "user-id": 2163,
+                "user-name": "江湖夜雨"
+            },
             "body": "<p>网评业是很多监狱的三产，你们不知道吗？发帖喷人总比挖煤车衣服串珠子来的轻松吧。</p>",
             "folded": false,
             "agree-by": [
@@ -83,7 +92,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 2706,
+            "author": {
+                "user-id": 2706,
+                "user-name": "反包复国"
+            },
             "body": "人家拿钱了",
             "folded": false,
             "agree-by": [
@@ -146,7 +158,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-17T10:29:00.000Z",
-        "views": 266,
+        "views": 267,
         "concerns": 5
     }
 }

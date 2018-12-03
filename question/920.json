@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "碰到这种人该怎么办？",
-        "body": "<p><img src=\"/uploads/ueditor/20180520/1526796609455932.jpg\" title=\"1526796609455932.jpg\" alt=\"6c993fe39576c221.jpg\"></p>",
-        "author": 10,
+        "body": "<p><a href=\"https://archive.is/TUhnY/f682a20165b15341682079011466e51bd87eea83.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"6c993fe39576c221.jpg\" src=\"https://archive.is/TUhnY/f682a20165b15341682079011466e51bd87eea83.jpg\" title=\"1526796609455932.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 10,
+            "user-name": "Guest"
+        },
         "link": null,
         "comments": 1,
         "publishTime": "2018-05-20T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "<p>一看就明白是件什么事，毫不含糊，就是要打倒田园女权，打倒黄皮白左。主要是两个，打倒田园女权，打倒黄皮白左！</p>",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-05-20T00:00:00.000Z"
         },
         {
-            "author": 1096,
+            "author": {
+                "user-id": 1096,
+                "user-name": "江水滔滔"
+            },
             "body": "<p>某些Naive的精外人员总是一厢情愿的认为外国的月亮就是比中国圆。</p><p>有些人明明能在外面享受更好的待遇 更好的条件</p><p>却还是放弃这些 投身奉献祖国</p><p>如上世纪建国初的一些科研人员</p><p>还有的人在外面见的多了 西方哪个国家都去过</p><p>却依旧深爱着自己的国家</p><p>把自己的智慧和才艺奉献给他的祖国</p>",
             "folded": false,
             "agree-by": [
@@ -144,7 +153,10 @@
             "modifyTime": "2018-05-20T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "这已经不是naive了，这是stupid",
             "folded": false,
             "agree-by": [
@@ -191,7 +203,10 @@
             "modifyTime": "2018-05-20T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "就和过圣诞节吃苹果一个道理",
             "folded": false,
             "agree-by": [
@@ -226,7 +241,10 @@
             "modifyTime": "2018-05-21T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "智商捉急",
             "folded": false,
             "agree-by": [
@@ -241,7 +259,10 @@
             "modifyTime": "2018-05-20T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "<p>把她骗进幻想乡呱</p>",
             "folded": false,
             "agree-by": [],
@@ -295,7 +316,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-05T22:36:00.000Z",
-        "views": 537,
+        "views": 538,
         "concerns": 5
     }
 }

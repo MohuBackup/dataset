@@ -34,7 +34,10 @@
     },
     "answers": [
         {
-            "author": 10,
+            "author": {
+                "user-id": 10,
+                "user-name": "Guest"
+            },
             "body": "我觉得某推油说得好：<br>\n这新闻可以拿来驳斥那些持有类似「有本事你坐到那个位置上再去改革啊，自己没本事就知道在底下BB政府」观点的小粉红<br>\n抱歉，就算你坐到那个位置上也是改变不了什么的<br>\n&nbsp;",
             "folded": false,
             "agree-by": [
@@ -185,7 +188,10 @@
             "modifyTime": "2018-05-03T00:00:00.000Z"
         },
         {
-            "author": 671,
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
             "body": "他越来越像公知（中性词）了，说话没人听，发个文章还老被删。",
             "folded": false,
             "agree-by": [
@@ -252,7 +258,10 @@
             "modifyTime": "2018-05-02T00:00:00.000Z"
         },
         {
-            "author": 174,
+            "author": {
+                "user-id": 174,
+                "user-name": "岿衣"
+            },
             "body": "rick john这个人太书生了，不善权术，和出生在红色家庭且在文革时代耳濡目染的包包相比实在太稚嫩了，口才派争权夺势的能力比不上太子党先天基因的强大。",
             "folded": false,
             "agree-by": [
@@ -311,7 +320,10 @@
             "modifyTime": "2018-05-03T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "只说一点，习李不是一派的",
             "folded": false,
             "agree-by": [
@@ -366,7 +378,10 @@
             "modifyTime": "2018-05-03T00:00:00.000Z"
         },
         {
-            "author": 1377,
+            "author": {
+                "user-id": 1377,
+                "user-name": "VanWinnieLing"
+            },
             "body": "挺心疼李克强的。。<br>\n空有治国之术<br>\n无得法予实权<br>\n尚存治国",
             "folded": false,
             "agree-by": [
@@ -397,7 +412,10 @@
             "modifyTime": "2018-06-15T00:00:00.000Z"
         },
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "要是他能当上总书记还好些",
             "folded": false,
             "agree-by": [
@@ -416,7 +434,10 @@
             "modifyTime": "2018-06-15T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "总理也没有超越法律和宪法的特权",
             "folded": false,
             "agree-by": [
@@ -435,7 +456,10 @@
             "modifyTime": "2018-06-15T00:00:00.000Z"
         },
         {
-            "author": 1178,
+            "author": {
+                "user-id": 1178,
+                "user-name": "efficiency"
+            },
             "body": "<p>有心杀敌 无力回天啊</p>",
             "folded": false,
             "agree-by": [],
@@ -445,7 +469,10 @@
             "modifyTime": "2018-06-15T00:00:00.000Z"
         },
         {
-            "author": 1458,
+            "author": {
+                "user-id": 1458,
+                "user-name": "厉恩虞"
+            },
             "body": "<p>团派一直在走下坡路</p>",
             "folded": false,
             "agree-by": [],
@@ -503,7 +530,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-24T15:07:00.000Z",
-        "views": 1325,
+        "views": 1326,
         "concerns": 9
     }
 }

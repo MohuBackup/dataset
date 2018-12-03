@@ -34,7 +34,10 @@
     "detail": {
         "title": "统治者有哪些驭民之道？",
         "body": "<p><br></p><p>例如道德经第三章</p><p>“是以圣人之治也，虚其心，实其腹，弱其志，强其骨，恒使民无知、无欲也。使夫知不敢、弗为而已，则无不治矣。”</p>",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-27T00:00:00.000Z",
@@ -42,7 +45,10 @@
     },
     "answers": [
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "<p>禁</p>",
             "folded": false,
             "agree-by": [
@@ -121,7 +127,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1069,
+            "author": {
+                "user-id": 1069,
+                "user-name": "庆丰帝"
+            },
             "body": "<p>墙</p>",
             "folded": false,
             "agree-by": [
@@ -180,7 +189,10 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 1486,
+            "author": {
+                "user-id": 1486,
+                "user-name": "纵酒放歌"
+            },
             "body": "愚",
             "folded": false,
             "agree-by": [
@@ -231,7 +243,10 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "夶",
             "folded": false,
             "agree-by": [
@@ -278,7 +293,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>碾</p>",
             "folded": false,
             "agree-by": [
@@ -321,7 +339,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1420,
+            "author": {
+                "user-id": 1420,
+                "user-name": "Xevolution"
+            },
             "body": "骗",
             "folded": false,
             "agree-by": [
@@ -360,7 +381,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1367,
+            "author": {
+                "user-id": 1367,
+                "user-name": "fengyun1"
+            },
             "body": "<p>抓<br></p>",
             "folded": false,
             "agree-by": [
@@ -399,7 +423,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1457,
+            "author": {
+                "user-id": 1457,
+                "user-name": "rua"
+            },
             "body": "毙",
             "folded": false,
             "agree-by": [
@@ -438,7 +465,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1234,
+            "author": {
+                "user-id": 1234,
+                "user-name": "winnie97"
+            },
             "body": "吓",
             "folded": false,
             "agree-by": [
@@ -477,7 +507,10 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 1453,
+            "author": {
+                "user-id": 1453,
+                "user-name": "abc12345"
+            },
             "body": "<p>倒</p>",
             "folded": false,
             "agree-by": [
@@ -512,7 +545,10 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 1044,
+            "author": {
+                "user-id": 1044,
+                "user-name": "筹光交错"
+            },
             "body": "控",
             "folded": false,
             "agree-by": [
@@ -547,7 +583,10 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 54,
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
             "body": "<p>堵<br></p>",
             "folded": false,
             "agree-by": [
@@ -582,7 +621,10 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 1522,
+            "author": {
+                "user-id": 1522,
+                "user-name": "江某膜"
+            },
             "body": "杀",
             "folded": false,
             "agree-by": [
@@ -617,9 +659,12 @@
             "modifyTime": "2018-07-08T00:00:00.000Z"
         },
         {
-            "author": 1617,
+            "author": {
+                "user-id": 1617,
+                "user-name": "wdd"
+            },
             "body": "<p>既然破队形了，一字也用的差不多了，来说说原文：“不尚贤，使民不争；不贵难得之货，使民不为盗；不见可欲，使民心不乱。是以圣人之治，虚其心，实其腹；弱其志，强其骨。常使民无知无欲，使夫知者不敢为也。为无为，则无不治”。确实是驭民之道，不过中心是道家的无为而治、与世无争的态度，要求治理者也要无为（“无欲”“不贵”“不见可欲”侧面反映了从古代以来社会反商、反对市场经济的态度，其中本段提倡减少竞争和追求物欲，但没有把人民作为思想和政治文化权利的主宰）。无书不看的某犬可能是扫读的，顺便截取几句用得着的作为古人精华。</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 881,
@@ -652,7 +697,10 @@
             "modifyTime": "2018-07-30T00:00:00.000Z"
         },
         {
-            "author": 1201,
+            "author": {
+                "user-id": 1201,
+                "user-name": "hlmmd"
+            },
             "body": "<p>房</p>",
             "folded": false,
             "agree-by": [
@@ -683,7 +731,10 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>钱</p>",
             "folded": false,
             "agree-by": [
@@ -714,7 +765,10 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "洗<br>\n<br>\n（洗脑）",
             "folded": false,
             "agree-by": [
@@ -745,7 +799,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1484,
+            "author": {
+                "user-id": 1484,
+                "user-name": "b站维尼"
+            },
             "body": "忙",
             "folded": false,
             "agree-by": [
@@ -776,7 +833,10 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 640,
+            "author": {
+                "user-id": 640,
+                "user-name": "男孩为何穿红衣"
+            },
             "body": "穷",
             "folded": false,
             "agree-by": [
@@ -807,7 +867,10 @@
             "modifyTime": "2018-06-30T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>封</p>",
             "folded": false,
             "agree-by": [
@@ -838,7 +901,10 @@
             "modifyTime": "2018-07-08T00:00:00.000Z"
         },
         {
-            "author": 1630,
+            "author": {
+                "user-id": 1630,
+                "user-name": "习文盲"
+            },
             "body": "吃",
             "folded": false,
             "agree-by": [
@@ -861,7 +927,10 @@
             "modifyTime": "2018-07-30T00:00:00.000Z"
         },
         {
-            "author": 1574,
+            "author": {
+                "user-id": 1574,
+                "user-name": "Marx"
+            },
             "body": "<p>妙！<br></p>",
             "folded": false,
             "agree-by": [
@@ -884,7 +953,10 @@
             "modifyTime": "2018-08-02T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "续",
             "folded": false,
             "agree-by": [
@@ -907,8 +979,11 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1496,
-            "body": "搞\n<img src=\"/uploads/answer/20180902/58702009fe267bb3ab8aa49da990271b.jpg\">",
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
+            "body": "搞\n<img src=\"https://archive.is/8goTa/d8a2598d73a6255a63936c62f936d01888c6cc64.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -930,7 +1005,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1980,
+            "author": {
+                "user-id": 1980,
+                "user-name": "伟人xdd万岁"
+            },
             "body": "<p>颠</p>",
             "folded": false,
             "agree-by": [
@@ -953,7 +1031,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>拜</p>",
             "folded": false,
             "agree-by": [
@@ -976,9 +1057,12 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1447,
+            "author": {
+                "user-id": 1447,
+                "user-name": "今日不知我是我"
+            },
             "body": "<p>让人民忙于生计就会少关心政治。</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1426,
@@ -995,7 +1079,10 @@
             "modifyTime": "2018-07-08T00:00:00.000Z"
         },
         {
-            "author": 1418,
+            "author": {
+                "user-id": 1418,
+                "user-name": "傻傻的杨杨"
+            },
             "body": "愚民",
             "folded": false,
             "agree-by": [
@@ -1014,7 +1101,10 @@
             "modifyTime": "2018-07-31T00:00:00.000Z"
         },
         {
-            "author": 1669,
+            "author": {
+                "user-id": 1669,
+                "user-name": "贾文和"
+            },
             "body": "0.5",
             "folded": false,
             "agree-by": [
@@ -1029,7 +1119,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 9,
+            "author": {
+                "user-id": 9,
+                "user-name": "Wallais_"
+            },
             "body": "<p>苟</p>",
             "folded": false,
             "agree-by": [
@@ -1044,7 +1137,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 2269,
+            "author": {
+                "user-id": 2269,
+                "user-name": "苟屁"
+            },
             "body": "割",
             "folded": false,
             "agree-by": [
@@ -1059,7 +1155,10 @@
             "modifyTime": "2018-09-17T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "关",
             "folded": false,
             "agree-by": [
@@ -1074,7 +1173,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "嬲",
             "folded": false,
             "agree-by": [
@@ -1089,7 +1191,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 2180,
+            "author": {
+                "user-id": 2180,
+                "user-name": "Charlie_Y_Hurt"
+            },
             "body": "仇",
             "folded": false,
             "agree-by": [
@@ -1104,7 +1209,10 @@
             "modifyTime": "2018-09-25T00:00:00.000Z"
         },
         {
-            "author": 2312,
+            "author": {
+                "user-id": 2312,
+                "user-name": "quarkoon"
+            },
             "body": "娱",
             "folded": false,
             "agree-by": [
@@ -1127,7 +1235,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-25T16:52:00.000Z",
-        "views": 1766,
+        "views": 1767,
         "concerns": 38
     }
 }

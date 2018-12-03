@@ -30,7 +30,10 @@
     },
     "answers": [
         {
-            "author": 2341,
+            "author": {
+                "user-id": 2341,
+                "user-name": "happy"
+            },
             "body": "我感觉是被倾定的啊",
             "folded": false,
             "agree-by": [],
@@ -40,7 +43,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 1677,
+            "author": {
+                "user-id": 1677,
+                "user-name": "ChakTheFrog"
+            },
             "body": "<p>一个字，豪迈</p>",
             "folded": false,
             "agree-by": [],
@@ -98,7 +104,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-01T11:24:00.000Z",
-        "views": 254,
+        "views": 255,
         "concerns": 3
     }
 }

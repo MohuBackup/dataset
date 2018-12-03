@@ -10,7 +10,10 @@
     "detail": {
         "title": "膜乎对于高仿号是否有相关规定？",
         "body": "",
-        "author": 2456,
+        "author": {
+            "user-id": 2456,
+            "user-name": "bisհi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-01T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 2411,
-            "body": "？\n<img src=\"/uploads/answer/20181001/322b47b2efa482c121475f73b623c6f2.png\">",
+            "author": {
+                "user-id": 2411,
+                "user-name": "閱後即焚"
+            },
+            "body": "？\n<img src=\"https://archive.is/feVL5/a7360754e82b8a6c15d13ac5ac18e88ee1c062ac.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -33,8 +39,11 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2143,
-            "body": "<p><a href=\"/people/bishi\" target=\"_self\" title=\"\">又来一个！</a><br></p><p>认证过的才算真实吧（小声bb）<br></p>",
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
+            "body": "<p><a href=\"https://archive.is/o/feVL5/https://www.mohu.club/people/bishi\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">又来一个！</a><br></p><p>认证过的才算真实吧（小声bb）<br></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -48,7 +57,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2456,
+            "author": {
+                "user-id": 2456,
+                "user-name": "bisհi"
+            },
             "body": "<p>“混入其中”<br></p>",
             "folded": false,
             "agree-by": [],
@@ -58,7 +70,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2254,
+            "author": {
+                "user-id": 2254,
+                "user-name": "bishi"
+            },
             "body": "完了",
             "folded": false,
             "agree-by": [],
@@ -68,7 +83,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "<p>24岁是学生的我感到很慌</p>",
             "folded": false,
             "agree-by": [],
@@ -78,7 +96,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>bisħi</p>",
             "folded": false,
             "agree-by": [],
@@ -88,7 +109,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>反正我事法轮教主迫真精分第二人格的可能性微存</p>",
             "folded": false,
             "agree-by": [],
@@ -146,7 +170,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-06T13:39:00.000Z",
-        "views": 324,
+        "views": 325,
         "concerns": 4
     }
 }

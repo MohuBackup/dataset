@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何以“重到…回…回到___，然后下面接…___，不对，现…现为…”写一篇文章？",
         "body": "<p>重到…回…回回…得不是但的（空耳）…回到___，然后下面接…___，不对（dài），现…现为…*@&amp;#%$……你年的（空耳）……<br></p>",
-        "author": 673,
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-03T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>重到…回…回倒（历史倒车），然后下面接…，不对，宪…宪为…<br></p><p><br></p><p>你们给我搞得这个连任，unlimited！</p>",
             "folded": false,
             "agree-by": [
@@ -85,7 +91,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-05T08:36:00.000Z",
-        "views": 298,
+        "views": 299,
         "concerns": 1
     }
 }

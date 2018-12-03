@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价庆丰帝国公务员必须上交护照？",
-        "body": "<p><img src=\"/uploads/ueditor/20181002/1538455060224801.jpg\" title=\"1538455060224801.jpg\" alt=\"IMG_20181002_120918.jpg\"></p>",
-        "author": 1393,
+        "body": "<p><a href=\"https://archive.is/TMfpv/fe81aeb1bf2cfe422e577e9a9137ca0f197cf0da.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181002_120918.jpg\" src=\"https://archive.is/TMfpv/fe81aeb1bf2cfe422e577e9a9137ca0f197cf0da.jpg\" title=\"1538455060224801.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-02T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1578,
+            "author": {
+                "user-id": 1578,
+                "user-name": "特朗普"
+            },
             "body": "<p>这很正常，想混体制内就必须要做出牺牲。我是不知道你这位朋友是什么级别，但是鄙人目前单位的领导要想出个国要先提交申请，审批完成后还要公示。</p>",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 1662,
+            "author": {
+                "user-id": 1662,
+                "user-name": "dqyht"
+            },
             "body": "<p>在党的眼里，非赵公务员人均特务，随时准备叛逃</p>",
             "folded": false,
             "agree-by": [
@@ -92,7 +101,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2356,
+            "author": {
+                "user-id": 2356,
+                "user-name": "霍格沃兹魔法师"
+            },
             "body": "<p>军队和军校学员肯定是严格控制出国的，任何护照申请都需要军队机关批准；而公务员的因私普通护照一般也是上交的。</p><p><br></p><p>上述两类人员，除了部分符合资格的高级政府官员和外交系统高级官员人员持用外交护照外，其他都持用公务护照和公务普通护照。一般而言，持因公护照出国极其繁琐，需要因公出国批件，还需要备案等等。军队人员出国还需要团以上政治部批准。</p><p><br></p><p>但是近几年，事业单位，参照事业单位管理的部分单位也要普通工作人员上交因私普通护照，这说明上头对这部分人的出境活动的限制加深，可能对每次出境都要备案和登记。这是一种变相的人身自由限制吧。</p><p><br></p><p>除了部分高校要求教职工上交因私普通护照以外，最近据称部分地区的中小学教师也被主管机关教育局要求上交因私普通护照，不知会不会扩散到整个大陆地区的所有的中小学。</p><p><br></p><p>体制内的人，以后出境旅游和交流会变得越发困难。好自为之吧。</p>",
             "folded": false,
             "agree-by": [
@@ -127,8 +139,11 @@
             "modifyTime": "2018-10-28T00:00:00.000Z"
         },
         {
-            "author": 2842,
-            "body": "<p><strong>能走的赶紧走，天朝跟朝鲜化已经不可避免</strong></p>",
+            "author": {
+                "user-id": -1,
+                "user-name": "yuigahamasang"
+            },
+            "body": "<p><strong style=\"font-weight:700;color:rgb(51, 51, 51);\">能走的赶紧走，天朝跟朝鲜化已经不可避免</strong></p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -184,8 +199,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-28T20:07:00.000Z",
-        "views": 922,
+        "last-active-time": "2018-11-03T20:17:00.000Z",
+        "views": 923,
         "concerns": 8
     }
 }

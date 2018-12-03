@@ -10,7 +10,10 @@
     "detail": {
         "title": "是否有必要在Reddit上建立一个膜乎的后备基地？",
         "body": "<p>敢同恶鬼争高下，不向霸王让寸分。这个提议绝对没有向入侵膜乎的粉蛆和五毛犬让步的意思。然而鉴于当下的形势，是否有必要学习saraba1st，建立一个膜乎的subreddit，莱作为后备基地？<br><br>我知道之前早有在ZeroNet或暗网上建立膜乎分部的提议，可是这些方案门槛相对比较高；Telegram群并不能代替膜乎主站形式的论坛。相比之下Reddit并不是最好的选择，比如无法做到匿踪（Reddit隐私声明中明确说明会记录用户ip地址），而且不保障绝对的言论自由（英文内容尤其如此，中文似乎好一些），但确实是最容易实行的一个方案，而Reddit的缺陷并非无法克服。<br><br>无论遇到什么不可预料的艰难险阻，也无论要幻化为何种存在形式，膜乎都要顽强地生存下去。</p>",
-        "author": 2052,
+        "author": {
+            "user-id": 2052,
+            "user-name": "ExcitingLuka"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-23T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "强烈资瓷，哪一天膜乎山河沦陷，留得青山在不怕没柴烧。",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>墙裂资瓷！赶紧去办！放红于未然</p>",
             "folded": false,
             "agree-by": [
@@ -104,7 +113,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-23T00:22:00.000Z",
-        "views": 137,
+        "views": 138,
         "concerns": 5
     }
 }

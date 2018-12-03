@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何评价nhk天津大爆炸纪录片在国内被禁",
-        "body": "<p>我觉得拍得很客观啊，为什么要禁？</p><p><embed src=\"https://www.youtube.com/v/V4XhmiIUVYA&amp;t=329s\" width=\"420\" height=\"280\" wmode=\"transparent\" play=\"true\" loop=\"false\" menu=\"false\" allowscriptaccess=\"never\" allowfullscreen=\"true\"></p>",
+        "body": "<p>我觉得拍得很客观啊，为什么要禁？</p><p><div class=\"embed\" style=\"background-color: rgba(224, 224, 224, 0.5); display:inline-block;width:420px;height:280px; border-width: 0; margin: 0; padding: 0;\"></div></p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>你觉得拍得很客观，然后你问为什么要禁。</p><p>我现在告诉你：禁了就是因为它拍得很客观。</p><p>真的东西当然要禁，假的东西才能弘扬。</p>",
             "folded": false,
             "agree-by": [
@@ -62,8 +65,8 @@
         },
         {
             "author": null,
-            "body": "不知道你问这个问题是不是有弦外之音。<br>\n        因为有一种说法是, 天津事件是江派为了销毁原本用于铺在北戴河通往北京的专列行经的铁轨上的炸药而制造的。<br>\n       间接证据包括：有人目睹了卡车,以及消防员在不知道致燃物的情况下就被要求灭火。<br>\n       而nhk很可能拍到了什么不得了的东西。<br>\n       具体内容我不敢说太多,怕喷也怕查水表。",
-            "folded": true,
+            "body": "不知道你问这个问题是不是有弦外之音。<br>\n因为有一种说法是, 天津事件是江派为了销毁原本用于铺在北戴河通往北京的专列行经的铁轨上的炸药而制造的。<br>\n间接证据包括：有人目睹了卡车,以及消防员在不知道致燃物的情况下就被要求灭火。<br>\n而nhk很可能拍到了什么不得了的东西。<br>\n具体内容我不敢说太多,怕喷也怕查水表。",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -80,7 +83,10 @@
             "modifyTime": "2018-10-04T00:00:00.000Z"
         },
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "<p>很蟾愧，没有看过<br>不过如果你要问为什么的话也无非是那几个理由，诸如：夹带私货，歪曲事实，无中生有，一派胡言。</p>",
             "folded": false,
             "agree-by": [],
@@ -138,7 +144,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-04T07:12:00.000Z",
-        "views": 364,
+        "views": 365,
         "concerns": 6
     }
 }

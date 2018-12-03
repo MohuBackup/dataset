@@ -10,7 +10,10 @@
     "detail": {
         "title": "央视记者大闹英国保守党算不算“搞大新闻”？同样是香港问题，其表现与当年教主张宝华相比熟高熟低？",
         "body": "",
-        "author": 1441,
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-02T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2115,
+            "author": {
+                "user-id": 2115,
+                "user-name": "无限连任的包子"
+            },
             "body": "<p>吃饱了没事干的央视妓者,对英国的事情指手画脚。人家英国,一不输出革命、二不输出战乱和贫困、三不输出廉价的假冒伪劣商品、四不来折腾咱们,还有什么好说的?<br></p>",
             "folded": false,
             "agree-by": [
@@ -81,7 +87,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2276,
+            "author": {
+                "user-id": 2276,
+                "user-name": "htc"
+            },
             "body": "<p>骂人和提问不是一回事啊。</p><p>一个是妓者，一个是记者，不一样的怎么比啊。<br></p>",
             "folded": false,
             "agree-by": [
@@ -120,7 +129,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2341,
+            "author": {
+                "user-id": 2341,
+                "user-name": "happy"
+            },
             "body": "转移内部矛盾，还是帝国主义亡我之心不死那一套",
             "folded": false,
             "agree-by": [
@@ -143,7 +155,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>香港的宝蛤，不知道要高到哪里去了。所以说媒体还是要提高自己的知识水平</p>",
             "folded": false,
             "agree-by": [
@@ -166,7 +181,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>its a perfect signal of the dictatorxip。This reporter didn't hit me in my heart。A part of me didn't admire her courage。</p><p>：这个记者回去后估计可以升官了。</p>",
             "folded": false,
             "agree-by": [
@@ -185,7 +203,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 1677,
+            "author": {
+                "user-id": 1677,
+                "user-name": "ChakTheFrog"
+            },
             "body": "<p>Neither</p><p>米國的華萊士，比他們不知高到哪裡去</p>",
             "folded": false,
             "agree-by": [
@@ -200,7 +221,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2356,
+            "author": {
+                "user-id": 2356,
+                "user-name": "霍格沃兹魔法师"
+            },
             "body": "<p>伟人蛤蛤环球游历，指点江山，从来不见风就是雨哦。</p><p><br></p><p>办事情也要基本法麽，这位女记者打人就不对了麽，这个偶就不能资瓷了嘎嘎</p>",
             "folded": false,
             "agree-by": [],
@@ -258,7 +282,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-02T09:36:00.000Z",
-        "views": 592,
+        "views": 593,
         "concerns": 7
     }
 }

@@ -21,8 +21,11 @@
     ],
     "detail": {
         "title": "如何评价这张图？",
-        "body": "中宣部想谋反？\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180908/fdc14f4f15b646a6c61e520e6945f121.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180908/fdc14f4f15b646a6c61e520e6945f121.jpg\" class=\"img-thumbnail\" alt=\"mmexport1536310016740.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 1441,
+        "body": "中宣部想谋反？ <div>\n<a href=\"https://archive.is/o/ZJMtw/https://www.mohu.club/uploads/questions/20180908/fdc14f4f15b646a6c61e520e6945f121.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"mmexport1536310016740.jpg\" src=\"https://archive.is/ZJMtw/e63e709f89816812cb30faa47369e2cec6d9d08f.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-08T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 2046,
+            "author": {
+                "user-id": 2046,
+                "user-name": "fricassee"
+            },
             "body": "<p>我无法理解的是，从文字稿，到审稿，再到交稿子，然后拿去印刷，印刷过程里的各种人士，再到拿出来交货的公司人员，收货的另一批人，最后是负责装到车站的工作者，中途少说要经手十个人吧？</p><p>印刷的人还有收货的竟然就这么过了，也不怕被追责，太魔幻了。我看是民间维稳力量已经有些撑不住，只能集中资源维稳大型事件，特别小的估计都管不过来。</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>敌在中宣部</p>",
             "folded": false,
             "agree-by": [
@@ -68,7 +77,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "自顶",
             "folded": false,
             "agree-by": [],
@@ -78,7 +90,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>敌は中宣部にあり!</p><p><br></p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -136,7 +151,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-08T09:26:00.000Z",
-        "views": 450,
+        "views": 451,
         "concerns": 6
     }
 }

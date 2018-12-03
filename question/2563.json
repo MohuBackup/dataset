@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>老马识途</p>",
             "folded": false,
             "agree-by": [
@@ -93,7 +96,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "马云：反正我不做螳臂当车的歹徒，我可扛不起麦子跑五公里",
             "folded": false,
             "agree-by": [
@@ -124,7 +130,10 @@
             "modifyTime": "2018-09-10T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>平易禁人</p>",
             "folded": false,
             "agree-by": [
@@ -151,7 +160,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1880,
+            "author": {
+                "user-id": 1880,
+                "user-name": "Mister小刀"
+            },
             "body": "<p>明哲保身。</p>",
             "folded": false,
             "agree-by": [
@@ -166,7 +178,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "<p>抢救无效</p>",
             "folded": false,
             "agree-by": [
@@ -181,7 +196,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "<p>习以为常，近乎平壤</p>",
             "folded": false,
             "agree-by": [
@@ -196,7 +214,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "身不由己",
             "folded": false,
             "agree-by": [
@@ -211,7 +232,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1418,
+            "author": {
+                "user-id": 1418,
+                "user-name": "傻傻的杨杨"
+            },
             "body": "前车之鉴",
             "folded": false,
             "agree-by": [],
@@ -243,7 +267,7 @@
             "id": 2768
         },
         {
-            "title": "如何看待这个乳包视频  马云恶毒攻击刁大大 https://youtu.be/2pSLXLW7tF8 ",
+            "title": "如何看待这个乳包视频 马云恶毒攻击刁大大 https://youtu.be/2pSLXLW7tF8",
             "id": 2070
         },
         {
@@ -265,7 +289,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-12T13:29:00.000Z",
-        "views": 752,
+        "views": 753,
         "concerns": 8
     }
 }

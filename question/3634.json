@@ -18,7 +18,10 @@
     "detail": {
         "title": "为什么新蛤社的视频已经六天没更新了？",
         "body": "<p>需要补充人生经验</p>",
-        "author": 2143,
+        "author": {
+            "user-id": 2143,
+            "user-name": "续da命"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-18T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 65,
+            "author": {
+                "user-id": 65,
+                "user-name": "萝莉保护协会"
+            },
             "body": "<p>你好~</p><p>蛤社YouTube频道是每周末一更的</p><p>节假日是2-3天一更</p><p>其他情况会另行通知</p><p>请谅解~</p>",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-18T13:12:00.000Z",
-        "views": 268,
+        "views": 269,
         "concerns": 3
     }
 }

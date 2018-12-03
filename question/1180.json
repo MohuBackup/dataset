@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 765,
+            "author": {
+                "user-id": 765,
+                "user-name": "习习蛤虫合"
+            },
             "body": "说的好像天朝就不歧视华人一样",
             "folded": false,
             "agree-by": [
@@ -65,7 +68,10 @@
             "modifyTime": "2018-06-03T00:00:00.000Z"
         },
         {
-            "author": 297,
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
             "body": "中国的吃虫好像只是小范围的，人家喜欢吃也不能说是歧视。毕竟中国没有像贝爷一样的人物。",
             "folded": false,
             "agree-by": [
@@ -84,7 +90,10 @@
             "modifyTime": "2018-06-02T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "当一个人害怕到了极点的时候，表现出来的会是愤怒，也就是物极必反，在此同理，或许是他太喜欢中国了，还想要切磋一下倒车技术",
             "folded": false,
             "agree-by": [
@@ -99,7 +108,10 @@
             "modifyTime": "2018-06-03T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "对于未知的恐惧",
             "folded": false,
             "agree-by": [],
@@ -153,7 +165,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-03T03:54:00.000Z",
-        "views": 291,
+        "views": 292,
         "concerns": 3
     }
 }

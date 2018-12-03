@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "维稳主业，治安副业",
             "folded": false,
             "agree-by": [
@@ -49,7 +52,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "当年公安前面人民两个字是周总理加的啊，这让他老人家知道了怕不是棺材板砸稀碎",
             "folded": false,
             "agree-by": [
@@ -72,7 +78,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "公安改名盖世太保吼不吼啊？",
             "folded": false,
             "agree-by": [
@@ -91,7 +100,10 @@
             "modifyTime": "2018-09-02T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>19888888888888888884</p>",
             "folded": false,
             "agree-by": [
@@ -154,7 +166,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-02T04:07:00.000Z",
-        "views": 269,
+        "views": 270,
         "concerns": 6
     }
 }

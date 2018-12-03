@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何看待伟大领袖语录\"功成不必在我\"？",
-        "body": "如图所示\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181006/3b525687223a74115edab523eb442319.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181006/3b525687223a74115edab523eb442319.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181006_122955.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "如图所示 <div>\n<a href=\"https://archive.is/o/5dK32/https://www.mohu.club/uploads/questions/20181006/3b525687223a74115edab523eb442319.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181006_122955.jpg\" src=\"https://archive.is/5dK32/a452dc0e210d67816890871a192bdcc1141b4844.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "<p>“我在必不成功”</p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +72,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>在中共窃国之前，汉字都是从右向左念的</p>",
             "folded": false,
             "agree-by": [
@@ -104,7 +110,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>功成必不在我</p><p>要撒币就在我</p><p>失败必定在我</p>",
             "folded": false,
             "agree-by": [
@@ -119,7 +128,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "好像下句是“功成必定有我”。",
             "folded": false,
             "agree-by": [],
@@ -177,7 +189,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-06T05:42:00.000Z",
-        "views": 470,
+        "views": 471,
         "concerns": 5
     }
 }

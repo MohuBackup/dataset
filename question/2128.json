@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待知乎敏感度越来越高？",
         "body": "<p>知乎现在删东西的速度越来越快了XD</p>",
-        "author": 1556,
+        "author": {
+            "user-id": 1556,
+            "user-name": "ECCAROUS"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-01T00:00:00.000Z",
@@ -45,7 +48,10 @@
             "modifyTime": "2018-08-02T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "做贼心虚。<br>\n其实啊，是用户们也跟着越来越敏感了。因为有一半删帖原因是根据用户举报嘛（滑稽）",
             "folded": false,
             "agree-by": [
@@ -68,7 +74,10 @@
             "modifyTime": "2018-08-02T00:00:00.000Z"
         },
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "知乎号称是高端知识分子的论坛，虽然早已名不副实，但在国内的各种同类产品看来水平已经算是最高的了。大犬倒行逆施，疯狂加大力度镇压言论和思想，疯狂挤压人民利益，那么有识之士自然就是大犬的睾丸。只要他们一有动静，大犬就勃起，知乎就敏感。",
             "folded": false,
             "agree-by": [
@@ -87,7 +96,10 @@
             "modifyTime": "2018-08-02T00:00:00.000Z"
         },
         {
-            "author": 1647,
+            "author": {
+                "user-id": 1647,
+                "user-name": "ziganwu"
+            },
             "body": "昨天看到一个问题，如何用皇帝的新农写一个故事，然后我回复了怕不是要撸起袖子加油干，然后就被删了",
             "folded": false,
             "agree-by": [
@@ -154,7 +166,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-02T02:37:00.000Z",
-        "views": 376,
+        "views": 377,
         "concerns": 5
     }
 }

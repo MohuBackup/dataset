@@ -38,7 +38,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>蛤蛤，又有的玩了，WeCenter可以增加对评论点赞的功能吗？</p><p>不匿名支持一个<br></p><p>匿名的你们一个都跑不了</p>",
             "folded": false,
             "agree-by": [],
@@ -48,7 +51,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2573,
+            "author": {
+                "user-id": 2573,
+                "user-name": "妙木山长者"
+            },
             "body": "<p>吼哇！</p>",
             "folded": false,
             "agree-by": [],
@@ -58,7 +64,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>要是文章也能匿名评论还能编辑和删除志己的评论的话，那就更好了(那就是坠吼的)</p>",
             "folded": false,
             "agree-by": [],
@@ -116,7 +125,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T11:14:00.000Z",
-        "views": 103,
+        "views": 104,
         "concerns": 4
     }
 }

@@ -14,7 +14,10 @@
     "detail": {
         "title": "最新版免翻墙膜乎APP在哪里下载？",
         "body": "我最近翻墙比较困难，有谁能帮助我一下，不胜感激",
-        "author": 1385,
+        "author": {
+            "user-id": 1385,
+            "user-name": "李洪志"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-24T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>你这不是翻出来了嘛……</p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-07-24T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "膜乎页面坠底下就有梯子啊",
             "folded": false,
             "agree-by": [
@@ -52,7 +61,10 @@
             "modifyTime": "2018-07-25T00:00:00.000Z"
         },
         {
-            "author": 1536,
+            "author": {
+                "user-id": 1536,
+                "user-name": "DengJiagui"
+            },
             "body": "<p>https://github.com/Xmader/mohu<br></p><p>github上的下载不了吗？<br></p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -110,7 +122,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-25T08:08:00.000Z",
-        "views": 424,
+        "views": 425,
         "concerns": 4
     }
 }

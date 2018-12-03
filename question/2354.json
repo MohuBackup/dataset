@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价QQ屏蔽天安门事件这个词",
         "body": "最近我发现天安门事件这个词和一些长者的图片发不出去，就算发出去别人也看不见",
-        "author": 1943,
+        "author": {
+            "user-id": 1943,
+            "user-name": "boundary6"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-24T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 607,
+            "author": {
+                "user-id": 607,
+                "user-name": "Срутра"
+            },
             "body": "<p>为了您的身心健康</p><p>请弃用被中国梦照顾过的平台和服务</p>",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-08-24T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>对的，我试着用蛤蛤做头像，然后图就没了，这是坠痛苦的</p>",
             "folded": false,
             "agree-by": [
@@ -96,7 +105,10 @@
             "modifyTime": "2018-08-24T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>别看你今天闹得欢，小心今后拉清单</p><p>我在今年6.4当天连29都发不出去（因为29周年</p><p>此外我试过，英文 Tian'anmen square protests of 1989 也是发不出去的</p>",
             "folded": false,
             "agree-by": [
@@ -179,7 +191,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-24T15:20:00.000Z",
-        "views": 322,
+        "views": 323,
         "concerns": 3
     }
 }

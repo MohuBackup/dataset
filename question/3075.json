@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "车内有什么人？",
-        "body": "<p><img src=\"/uploads/ueditor/20181001/1538361577697234.jpg\" title=\"1538361577697234.jpg\" alt=\"2018-04-11 10_12_33.jpg\"></p>",
-        "author": 1862,
+        "body": "<p><a href=\"https://archive.is/QEgnq/ac6ce5c27c8d2443685d3960fef013c041297685.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"2018-04-11 10_12_33.jpg\" src=\"https://archive.is/QEgnq/ac6ce5c27c8d2443685d3960fef013c041297685.jpg\" title=\"1538361577697234.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1862,
+            "user-name": "Rguys"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-01T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>小伙子，敢拍圣驾！</p><p>精准扶贫晓得发？</p>",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "你去扒窗户看一下，里面是不是只有倒挡",
             "folded": false,
             "agree-by": [
@@ -84,7 +93,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "<p>里面只有司机，有乘客的时候你是看不到这车的</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>迪士尼乐园介绍卡通角色的专用车</p>",
             "folded": false,
             "agree-by": [
@@ -161,7 +176,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "套牌车",
             "folded": false,
             "agree-by": [
@@ -184,7 +202,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 1578,
+            "author": {
+                "user-id": 1578,
+                "user-name": "特朗普"
+            },
             "body": "这位应该是蔡奇,包要出行的话应该是坐那种黄牌的面包车（参考蛤访问国机二院的视频里出现的那种）",
             "folded": false,
             "agree-by": [
@@ -210,7 +231,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-10-01T17:54:00.000Z",
-        "views": 531,
+        "views": 532,
         "concerns": 10
     }
 }

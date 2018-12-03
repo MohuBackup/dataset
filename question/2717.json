@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何寻找笑风生剧本？",
         "body": "<p>本人已制作《回二院》《大硬点》京剧片段。每次制作时都为剧本头疼。请问如何进一步寻找笑风生剧本？</p>",
-        "author": 2279,
+        "author": {
+            "user-id": 2279,
+            "user-name": "ly3850850"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-19T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "b站搜中国京剧音配像系列",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-18T21:35:00.000Z",
-        "views": 135,
+        "views": 136,
         "concerns": 3
     }
 }

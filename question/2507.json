@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2121,
+            "author": {
+                "user-id": 2121,
+                "user-name": "烈焰之刺"
+            },
             "body": "<p>都收紧了，常规加美澳不容易挤进去，有本事没钱的考虑日本，门路多的北欧，其他不推荐</p>",
             "folded": false,
             "agree-by": [],
@@ -28,7 +31,10 @@
             "modifyTime": "2018-09-05T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "二流欧洲国家可以买房送绿卡，希腊西班牙什么的，如果家里有余房又怕房产税，那就抛了去国外搞一套。进可跑路退可度假。",
             "folded": false,
             "agree-by": [],
@@ -96,7 +102,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-05T16:07:00.000Z",
-        "views": 184,
+        "views": 185,
         "concerns": 4
     }
 }

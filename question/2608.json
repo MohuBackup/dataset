@@ -10,7 +10,10 @@
     "detail": {
         "title": "包子的“人类命运共同体”到底是什么想法？",
         "body": "自以为代表全世界全人类？暗指目标是连任统治全人类全世界？",
-        "author": 673,
+        "author": {
+            "user-id": 673,
+            "user-name": "藻葉"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-13T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "是他想把自己和全人类的命运捆绑，以为这样就没人敢公审他了。",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>猪头以为自己是人类</p>",
             "folded": false,
             "agree-by": [
@@ -96,7 +105,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我认为稍加修改，改成韭菜命运共同体比较合适、贴切！</p>",
             "folded": false,
             "agree-by": [
@@ -123,7 +135,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "奴才命运共惨体呱~",
             "folded": false,
             "agree-by": [
@@ -146,7 +161,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>“我们要建立一个福利国家，它应当成为所有国家的样板。在这个国家里，所有的社会藩篱都会被一一拆除”<br></p><p>“将东亚从西方的殖民统治中解放，建立大东亚共荣圈”</p><p>“构建人类命运共同体是习近平新时代中国特色社会主义思想的重要内容，是中国特色大国外交的努力方向，也是全人类的共同事业。”<br></p>",
             "folded": false,
             "agree-by": [
@@ -213,7 +231,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-13T10:04:00.000Z",
-        "views": 376,
+        "views": 377,
         "concerns": 6
     }
 }

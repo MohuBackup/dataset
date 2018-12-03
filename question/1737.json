@@ -18,7 +18,10 @@
     "detail": {
         "title": "GFW使用了哪些手段来屏蔽不和谐内容？",
         "body": "<p>如题<br></p>",
-        "author": 54,
+        "author": {
+            "user-id": 54,
+            "user-name": "Rayista"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-27T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1444,
+            "author": {
+                "user-id": 1444,
+                "user-name": "gfw98k"
+            },
             "body": "屏蔽网站一般用DNS污染（比如膜乎、Pixiv、MEGA、中文维基），墙内人气特别高的网站（Google、Facebook、Twitter）直接封锁IP。<br>\n前者可以通过获取网站真实IP并更改hosts文件+https访问解决（不用VPN)；后者除了使用VPN/代理外无解",
             "folded": false,
             "agree-by": [
@@ -61,8 +67,11 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 881,
-            "body": "<p><img src=\"/uploads/ueditor/20180705/1530755447656007.jpeg\" title=\"1530755447656007.jpeg\" alt=\"74F75E7B-197F-4E2F-8F13-1BF008E032BA.jpeg\"></p>",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p><a href=\"https://archive.is/iZJ4s/072ce8e01054555a7a35a959242ba5c92c0128bd.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"74F75E7B-197F-4E2F-8F13-1BF008E032BA.jpeg\" src=\"https://archive.is/iZJ4s/072ce8e01054555a7a35a959242ba5c92c0128bd.jpeg\" title=\"1530755447656007.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -84,7 +93,10 @@
             "modifyTime": "2018-07-05T00:00:00.000Z"
         },
         {
-            "author": 295,
+            "author": {
+                "user-id": 295,
+                "user-name": "邓小平"
+            },
             "body": "https://zh.wikipedia.org/wiki/%E9%95%BF%E5%9F%8E%E9%98%B2%E7%81%AB%E5%A2%99",
             "folded": false,
             "agree-by": [
@@ -151,7 +163,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-05T01:50:00.000Z",
-        "views": 703,
+        "views": 704,
         "concerns": 4
     }
 }

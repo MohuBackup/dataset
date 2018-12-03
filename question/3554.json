@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "坠近好像没见到小管家了？",
-        "body": "<p>进去了吗<img src=\"/uploads/ueditor/20181016/1539682524511489.jpg\" title=\"1539682524511489.jpg\" alt=\"dou_chengyu_1_lai_shi_xiong_xiong.jpg\"></p>",
-        "author": 2143,
+        "body": "<p>进去了吗<a href=\"https://archive.is/ZhVZt/34963fe36c9295eec18f502516968d81a9c6e8b4.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"dou_chengyu_1_lai_shi_xiong_xiong.jpg\" src=\"https://archive.is/ZhVZt/34963fe36c9295eec18f502516968d81a9c6e8b4.jpg\" title=\"1539682524511489.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 2143,
+            "user-name": "续da命"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-16T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>希望小管家是因为个人原因闷声的，祝小管家一切安好</p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 286,
+            "author": {
+                "user-id": 286,
+                "user-name": "莫城幽"
+            },
             "body": "是啊，telegram talk上的日报也不更了，某群里也没么人说话了。",
             "folded": false,
             "agree-by": [
@@ -91,7 +100,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>如果小管家都进去了，那我们这几个枪毙名单前几位的人必然会被控制或抓捕，但是我…我本人还好好的。</p>",
             "folded": false,
             "agree-by": [
@@ -106,7 +118,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "<p>我之前也问了这个问题的，我也想她啦</p>",
             "folded": false,
             "agree-by": [
@@ -165,7 +180,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-16T10:29:00.000Z",
-        "views": 236,
+        "views": 237,
         "concerns": 6
     }
 }

@@ -38,7 +38,10 @@
     "detail": {
         "title": "什么样的人可以被称为“共匪”？",
         "body": "毛贼东算吗？袭烬贫算吗？<br>\n（长者和小平肯定不是吧）",
-        "author": 881,
+        "author": {
+            "user-id": 881,
+            "user-name": "江蛤蟆是坠吼的"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-12T00:00:00.000Z",
@@ -46,7 +49,10 @@
     },
     "answers": [
         {
-            "author": 1103,
+            "author": {
+                "user-id": 1103,
+                "user-name": "开着59压维尼"
+            },
             "body": "小平也是吧，虽然改革开放是好的，但是这个邓小平镇压64，如果不镇压，中国可能就资本主义化了，哪还需要改革",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-05-12T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "包子",
             "folded": false,
             "agree-by": [
@@ -84,7 +93,10 @@
             "modifyTime": "2018-05-12T00:00:00.000Z"
         },
         {
-            "author": 1111,
+            "author": {
+                "user-id": 1111,
+                "user-name": "黄金开口笑"
+            },
             "body": "庆丰",
             "folded": false,
             "agree-by": [
@@ -127,7 +139,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-12T14:59:00.000Z",
-        "views": 337,
+        "views": 338,
         "concerns": 4
     }
 }

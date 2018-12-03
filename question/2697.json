@@ -9,8 +9,11 @@
     ],
     "detail": {
         "title": "如何评价“把领袖精神刻进骨子里融入血液中落在行动上”？",
-        "body": "如配图，来自深圳经济特区\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180918/a4952af901f11884b88877707c98a635.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180918/a4952af901f11884b88877707c98a635.jpg\" class=\"img-thumbnail\" alt=\"41861708_2156335537945409_5082176991096995840_n.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 2164,
+        "body": "如配图，来自深圳经济特区 <div>\n<a href=\"https://archive.is/o/m6Qu3/https://www.mohu.club/uploads/questions/20180918/a4952af901f11884b88877707c98a635.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"41861708_2156335537945409_5082176991096995840_n.jpg\" src=\"https://archive.is/m6Qu3/b93a91fd45f57b027e8bf028ba28398068c27a53.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2164,
+            "user-name": "民立报"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-18T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>参考e站标签mind control （逃</p>",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>把屎吃进肚子里灌进脑子里注射进思想里</p>",
             "folded": false,
             "agree-by": [
@@ -60,7 +69,10 @@
             "modifyTime": "2018-09-18T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>把习近平思想——刻进骨子里，融入血液中，落在行动上，</p><p>只等毒发身亡！</p>",
             "folded": false,
             "agree-by": [
@@ -157,7 +169,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-19T02:01:00.000Z",
-        "views": 474,
+        "views": 475,
         "concerns": 6
     }
 }

@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价歌曲情定扬州？",
         "body": "<p>https://www.youtube.com/watch?v=FjaIov5z3kM</p>",
-        "author": 1888,
+        "author": {
+            "user-id": 1888,
+            "user-name": "见得多了"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-28T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1438,
+            "author": {
+                "user-id": 1438,
+                "user-name": "AndyChuck"
+            },
             "body": "<p>扬州晚报有点瞎了眼</p><p>歌曲封面上Qing中的g字被划去</p><p>(Qin钦)</p><p>瘦西湖上两个人明显是在赛艇</p><p>歌曲在扬州晚报上发表的时候差不多是江泽民91岁生日，而两个人身上一个写了9，一个写了1</p>",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-08-28T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>hath们献给长者的生日礼物，吼啊</p>",
             "folded": false,
             "agree-by": [
@@ -92,7 +101,10 @@
             "modifyTime": "2018-08-28T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>英语版叫做 one day when we were 扬</p><p>夏威夷语叫Azhoua oe</p><p>意大利语叫O zhou è mio</p>",
             "folded": false,
             "agree-by": [
@@ -115,7 +127,10 @@
             "modifyTime": "2018-08-28T00:00:00.000Z"
         },
         {
-            "author": 2047,
+            "author": {
+                "user-id": 2047,
+                "user-name": "boxilai"
+            },
             "body": "很有水平，但是我更关心作者的安全",
             "folded": false,
             "agree-by": [
@@ -134,7 +149,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 1627,
+            "author": {
+                "user-id": 1627,
+                "user-name": "Rain900"
+            },
             "body": "<p>好听 酷我音乐 可以下载听</p>",
             "folded": false,
             "agree-by": [],
@@ -192,7 +210,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-07T16:08:00.000Z",
-        "views": 417,
+        "views": 418,
         "concerns": 6
     }
 }

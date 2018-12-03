@@ -21,7 +21,7 @@
     ],
     "detail": {
         "title": "如何看待知乎上被秒删回答，无备份，且无理由禁言某些正常用户账号的异常行为？",
-        "body": "<p>最近在知乎上看到有些用户抱怨，说自己好不容易打出来的答案，刚提交就被秒删了。而且没有任何理由，也<strong>没有备份</strong>，同时账号也被<strong>禁言</strong>了，理由是账号有异常行为，需要<strong>申请解封</strong>。</p><p><br></p><p>据这些用户描述，他们的账号都是正常手机注册的普通账号，没有任何广告推广和垃圾邮件行为，所以知乎管理员在后台莫名封禁这些账号是不是有什么猫腻和隐情？这反映了如今知乎出现了什么严重的问题？</p><p><br></p><p><a href=\"https://www.zhihu.com/question/267813399/answer/381441661\">https://www.zhihu.com/question/267813399/answer/381441661</a> </p><p><br></p><p><a href=\"https://www.v2ex.com/t/378411\">https://www.v2ex.com/t/378411</a> </p><p><br></p><p><br></p>",
+        "body": "<p>最近在知乎上看到有些用户抱怨，说自己好不容易打出来的答案，刚提交就被秒删了。而且没有任何理由，也<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">没有备份</strong>，同时账号也被<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">禁言</strong>了，理由是账号有异常行为，需要<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">申请解封</strong>。</p><p><br></p><p>据这些用户描述，他们的账号都是正常手机注册的普通账号，没有任何广告推广和垃圾邮件行为，所以知乎管理员在后台莫名封禁这些账号是不是有什么猫腻和隐情？这反映了如今知乎出现了什么严重的问题？</p><p><br></p><p><a href=\"https://archive.is/o/U6dzj/https://www.zhihu.com/question/267813399/answer/381441661\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://www.zhihu.com/question/267813399/answer/381441661</a>\n</p><p><br></p><p><a href=\"https://archive.is/o/U6dzj/https://www.v2ex.com/t/378411\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://www.v2ex.com/t/378411</a>\n</p><p><br></p><p><br></p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -30,7 +30,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>这时候就需要把答案预先复制好，来膜乎再回答一次，这样就不会被删了<br></p>",
             "folded": false,
             "agree-by": [
@@ -65,7 +68,10 @@
             "modifyTime": "2018-10-24T00:00:00.000Z"
         },
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "<p>在异常的国家发生什么异常的事情都不奇怪</p>",
             "folded": false,
             "agree-by": [
@@ -103,7 +109,10 @@
             "modifyTime": "2018-10-24T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>没有收到邮件备份吗？那很严重</p>",
             "folded": false,
             "agree-by": [
@@ -170,7 +179,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-23T22:36:00.000Z",
-        "views": 182,
+        "views": 183,
         "concerns": 7
     }
 }

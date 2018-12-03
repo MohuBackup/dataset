@@ -10,7 +10,10 @@
     "detail": {
         "title": "维尼的优点有哪些？",
         "body": "",
-        "author": 86,
+        "author": {
+            "user-id": 86,
+            "user-name": "没有任何意思"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-30T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 204,
-            "body": "这张图说明维尼生前大力推行四大名族五等汉政策，让名族保护区的猪都得到了很好的保护，从而维尼死后受到了保护区内猪这一物种的悼念。\n<img src=\"/uploads/answer/20180330/544d0b5298648f74838a87cd1212301f.jpg\">",
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
+            "body": "这张图说明维尼生前大力推行四大名族五等汉政策，让名族保护区的猪都得到了很好的保护，从而维尼死后受到了保护区内猪这一物种的悼念。\n<img src=\"https://archive.is/aPTgi/635fe3e488d86b08bd55843d85a0915bf6d29cf4.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -61,7 +67,10 @@
             "modifyTime": "2018-03-30T00:00:00.000Z"
         },
         {
-            "author": 432,
+            "author": {
+                "user-id": 432,
+                "user-name": "造反有理"
+            },
             "body": "维尼纶纤维经缩醛化后纤维的耐热能力、收缩性均有改善，大量用来与棉花混纺，制成各种衣料，即为市场上的“维棉”。它的突出优点是吸湿性好，价格低廉；主要缺点是弹性较差，织物易皱。因有皮层结构，故不易染成鲜艳的颜色，热水中收缩性也较大。<br>\n<br>\n<br>\n<br>\n<br>\n（手动滑稽",
             "folded": false,
             "agree-by": [
@@ -100,7 +109,10 @@
             "modifyTime": "2018-03-30T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "用于日常问候。<br>\n维，尼好",
             "folded": false,
             "agree-by": [
@@ -127,7 +139,10 @@
             "modifyTime": "2018-03-31T00:00:00.000Z"
         },
         {
-            "author": 188,
+            "author": {
+                "user-id": 188,
+                "user-name": "夕张号巡洋舰"
+            },
             "body": "200斤麦子?",
             "folded": false,
             "agree-by": [],
@@ -185,7 +200,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-31T10:16:00.000Z",
-        "views": 511,
+        "views": 512,
         "concerns": 5
     }
 }

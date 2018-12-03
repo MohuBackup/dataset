@@ -14,7 +14,10 @@
     "detail": {
         "title": "如果给五代军委主席，毛邓江胡习，分别跟历代帝王一样起一个谥号，各位有何高见？",
         "body": "<p>腊肉是共太祖，蛤蛤是文帝应该没啥争议，其他人呢？比如把胡叫做平帝或者献帝大家觉得吼不吼啊？</p>",
-        "author": 1888,
+        "author": {
+            "user-id": 1888,
+            "user-name": "见得多了"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-12T00:00:00.000Z",
@@ -69,7 +72,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1418,
+            "author": {
+                "user-id": 1418,
+                "user-name": "傻傻的杨杨"
+            },
             "body": "太祖 太宗 文帝 景帝 废帝",
             "folded": false,
             "agree-by": [
@@ -100,7 +106,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "不吼，虵怎么可能有谥号呱？",
             "folded": false,
             "agree-by": [
@@ -131,7 +140,10 @@
             "modifyTime": "2018-09-12T00:00:00.000Z"
         },
         {
-            "author": 2217,
+            "author": {
+                "user-id": 2217,
+                "user-name": "境内反华势力"
+            },
             "body": "<p>大胆! 我怀疑你不是真正的粉丝, 竟然说他有谥号?</p>",
             "folded": false,
             "agree-by": [
@@ -154,7 +166,10 @@
             "modifyTime": "2018-09-13T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "华国锋，胡耀邦，赵紫阳表示不服。。。",
             "folded": false,
             "agree-by": [
@@ -217,7 +232,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-13T11:44:00.000Z",
-        "views": 625,
+        "views": 626,
         "concerns": 6
     }
 }

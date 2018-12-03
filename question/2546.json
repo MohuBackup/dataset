@@ -26,7 +26,10 @@
     "detail": {
         "title": "如何看待“上行下效”一词近期含义的变动？",
         "body": "<p>“上行下效”一词本来是贬义词，但是据说是因为大犬某一次误用了这个词，现在的最新版现代汉语词典已经将其更新为中性词，例句也变成了大犬讲话的内容: “领导带头遵纪守法，就会产生~的积极效果。”</p>",
-        "author": 631,
+        "author": {
+            "user-id": 631,
+            "user-name": "Too_Simple"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-09T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "大洋国新话词典正式出版，伟大领袖刁大大亲笔题词",
             "folded": false,
             "agree-by": [
@@ -85,7 +91,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "以后还会有，衣，通假农",
             "folded": false,
             "agree-by": [
@@ -128,7 +137,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>上行下效：习近平帶頭指鹿為馬，就會取得~的倒車效果。</p>",
             "folded": false,
             "agree-by": [
@@ -194,7 +206,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>如果是这样，牠就是个焚书坑儒搞文字狱，篡改现有语言的庆习皇</p><p>（注：秦始皇的“始”字粤语发音和“习”字普通话发音相似）</p>",
             "folded": false,
             "agree-by": [
@@ -209,7 +224,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1890,
+            "author": {
+                "user-id": 1890,
+                "user-name": "钠亦浮"
+            },
             "body": "<p>我用Casio查了下老版本的词典，说的是多含贬义，但是《现代汉语大词典》里面给的是中性的解释和褒义的例句。估计这个改动只是日常膜包的表现，不是粉饰他没文化</p>",
             "folded": false,
             "agree-by": [
@@ -224,7 +242,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 2046,
+            "author": {
+                "user-id": 2046,
+                "user-name": "fricassee"
+            },
             "body": "<p>要是真的话，这有此地无银三百两的意思，不可能看不出来，我看是故意乳包，现在习近平搞的对个人崇拜的控制，其中有一点就是出自于怕被政敌或反对者拿他的权威做挡箭牌来变相抹黑，这是比较贯彻下来的</p>",
             "folded": false,
             "agree-by": [
@@ -239,7 +260,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1044,
+            "author": {
+                "user-id": 1044,
+                "user-name": "筹光交错"
+            },
             "body": "有原视频吗题主 想看大犬出丑",
             "folded": false,
             "agree-by": [],
@@ -297,7 +321,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-09T11:27:00.000Z",
-        "views": 457,
+        "views": 458,
         "concerns": 10
     }
 }

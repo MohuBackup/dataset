@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看待城管的白吃白拿行为？",
         "body": "<p>https://goo.gl/8EpumQ<br></p>",
-        "author": 1393,
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-26T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1477,
+            "author": {
+                "user-id": 1477,
+                "user-name": "维尼休斯"
+            },
             "body": "皇军吃你个瓜怎么了",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,10 @@
             "modifyTime": "2018-06-26T00:00:00.000Z"
         },
         {
-            "author": 347,
+            "author": {
+                "user-id": 347,
+                "user-name": "昂纳克同志"
+            },
             "body": "我曾经在我们家附近的公园里遇到过一个买冰淇淋的老大妈，她告诉我，她一个月卖不出去多钱冰淇淋。而且她这种摆摊的小商贩也没有什么像样的执照，最害怕的还是城管，有的时候他也会白给城管几个冰淇淋?，这样城管就会睁一只眼闭一只眼了，也有时候城管也会主动白要！<br>\n我的感想是，在中国真的不适合创业啊，就是摆个摊都有这样的情况，更何况开一家小微企业呢，这样下去迟早?啊",
             "folded": false,
             "agree-by": [
@@ -72,7 +81,10 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>共匪</p>",
             "folded": true,
             "agree-by": [],
@@ -82,7 +94,10 @@
             "modifyTime": "2018-06-27T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "实物保护费",
             "folded": true,
             "agree-by": [],
@@ -140,7 +155,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-27T04:07:00.000Z",
-        "views": 296,
+        "views": 297,
         "concerns": 3
     }
 }

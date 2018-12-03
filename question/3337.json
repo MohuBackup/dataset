@@ -10,7 +10,10 @@
     "detail": {
         "title": "vps主机的ip能ping通 但是ssh连不上 ssr无效",
         "body": "证明这台主机的ip地址物理性失效了？",
-        "author": 2520,
+        "author": {
+            "user-id": 2520,
+            "user-name": "naivepara"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-11T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1510,
+            "author": {
+                "user-id": 1510,
+                "user-name": "xu1s"
+            },
             "body": "<p>可能的原因：TCP阻断。<br></p><p>可能的解决方案： 购置域名，使用CDN中转</p>",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2454,
+            "author": {
+                "user-id": 2454,
+                "user-name": "Starlord"
+            },
             "body": "换个端口试试",
             "folded": false,
             "agree-by": [],
@@ -51,7 +60,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "https://blog.codingnow.com/2017/07/antidpi.html<br>\n如果流量很多，用这个方法试试。",
             "folded": false,
             "agree-by": [],
@@ -69,7 +81,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-11T09:50:00.000Z",
-        "views": 216,
+        "views": 217,
         "concerns": 3
     }
 }

@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>摸摸头。墙外永远是你的家。<br></p>",
             "folded": false,
             "agree-by": [
@@ -53,7 +56,10 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>批站知乎这种玩意，别期望他们能改了，最好的方法就是只在没有粉红的区域和同好讲话</p>",
             "folded": false,
             "agree-by": [
@@ -80,7 +86,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2375,
+            "author": {
+                "user-id": 2375,
+                "user-name": "加把劲骑士"
+            },
             "body": "<p>你可以去看看网易，凤凰，腾讯和头条等网站，上这些网站步入社会的成年人比较多，生活不易大家心里都有逼数；相比批站一群未成年小屁孩，前面还在那跪舔的欢，砍了它的番就哭天喊地，没有任何讨论价值。<br></p><p>知乎现在则是言论管控太严，有政治发言倾向的大V被干掉很多，以至于只剩下五毛粉红狗一种声音。</p>",
             "folded": false,
             "agree-by": [
@@ -107,7 +116,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 2558,
+            "author": {
+                "user-id": 2558,
+                "user-name": "李鸿章"
+            },
             "body": "<p>和一群独立思考意识都没有，媒体吐什么就吃什么的韭菜，并没有什么可说的。</p>",
             "folded": false,
             "agree-by": [
@@ -130,7 +142,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2163,
+            "author": {
+                "user-id": 2163,
+                "user-name": "江湖夜雨"
+            },
             "body": "证明党妈的洗脑还是很有成效的。<br>\n目前国内主流媒体，网易极右，凤凰极左，腾讯左右都有，头条还行，不少人还是清醒的，言论管控相对宽松一点，但任何媒体只要沾上写包子的报道一律都是顶、赞、有希望了，求生欲很强。",
             "folded": false,
             "agree-by": [
@@ -172,7 +187,10 @@
             "modifyTime": "2018-10-10T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "学生信息员",
             "folded": false,
             "agree-by": [
@@ -231,7 +249,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-10T00:54:00.000Z",
-        "views": 679,
+        "views": 680,
         "concerns": 8
     }
 }

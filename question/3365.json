@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "喜洋洋的作者会不会上清单？有没有溯及力",
-        "body": "<p><img src=\"/uploads/ueditor/20181011/1539255646451204.png\" title=\"1539255646451204.png\" alt=\"QQ截图20181011185827.png\"></p><p>https://www.youtube.com/watch?v=tK2VbWbIH1o</p>",
+        "body": "<p><a href=\"https://archive.is/eZn54/e9def319e910784ec9da2e96df1d4c0c36b32704.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"QQ截图20181011185827.png\" src=\"https://archive.is/eZn54/e9def319e910784ec9da2e96df1d4c0c36b32704.png\" title=\"1539255646451204.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>https://www.youtube.com/watch?v=tK2VbWbIH1o</p>",
         "author": null,
         "link": null,
         "comments": 2,
@@ -18,8 +18,11 @@
     },
     "answers": [
         {
-            "author": 881,
-            "body": "<p>包包大人犯法，这个真的作死<img src=\"/uploads/ueditor/20181011/1539263125173720.jpeg\" title=\"1539263125173720.jpeg\" alt=\"F38F89F3-12BB-4D5B-B0D7-1019B3ABFB83.jpeg\"></p>",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p>包包大人犯法，这个真的作死<a href=\"https://archive.is/eZn54/a201a891952c7abfb27ac3b683975017b9a3ca9e.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"F38F89F3-12BB-4D5B-B0D7-1019B3ABFB83.jpeg\" src=\"https://archive.is/eZn54/a201a891952c7abfb27ac3b683975017b9a3ca9e.jpeg\" title=\"1539263125173720.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -37,7 +40,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2493,
+            "author": {
+                "user-id": 2493,
+                "user-name": "黎亦乔"
+            },
             "body": "<p>原创动力现在是奥飞旗下，现在制作低龄向的动画，以前的动画被翻旧账的话会把原创解散，黄伟明被坐牢了</p>",
             "folded": false,
             "agree-by": [
@@ -52,8 +58,11 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2143,
-            "body": "<p>泻药！</p><p>包包大人犯法啦！</p><p>创作自由和表达自由还写在宪法里，也没有哪个法院审判说哪个电影或者动画是触犯了哪些条文才被禁播的，所以这个溯及力，就看心情。中国未实现法治的又一例证。</p><p><br></p><p><img src=\"/uploads/ueditor/20181011/1539258478170645.jpg\" title=\"1539258478170645.jpg\" alt=\"下载.jpg\"></p><p><br></p><p><img src=\"/uploads/ueditor/20181011/1539258575455097.gif\" title=\"1539258575455097.gif\" alt=\"1260690393738.gif\"></p>",
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
+            "body": "<p>泻药！</p><p>包包大人犯法啦！</p><p>创作自由和表达自由还写在宪法里，也没有哪个法院审判说哪个电影或者动画是触犯了哪些条文才被禁播的，所以这个溯及力，就看心情。中国未实现法治的又一例证。</p><p><br></p><p><a href=\"https://archive.is/eZn54/6ef424ea41b025fdf475a91357ba97bc0356ec4d.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"下载.jpg\" src=\"https://archive.is/eZn54/6ef424ea41b025fdf475a91357ba97bc0356ec4d.jpg\" title=\"1539258478170645.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p><br></p><p><a href=\"https://archive.is/eZn54/a82c44c742bf1a87ff4960429fbdd2c280ac998c.gif\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"1260690393738.gif\" src=\"https://archive.is/eZn54/a82c44c742bf1a87ff4960429fbdd2c280ac998c.gif\" title=\"1539258575455097.gif\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -67,7 +76,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>胆 大 包 天(意味深)</p>",
             "folded": false,
             "agree-by": [
@@ -140,7 +152,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T00:32:00.000Z",
-        "views": 394,
+        "views": 395,
         "concerns": 5
     }
 }

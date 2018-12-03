@@ -22,7 +22,10 @@
     "detail": {
         "title": "［知乎备份］知乎备份类问题的模板是什么样的？",
         "body": "（此处应与知乎的问题描述一致）",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-02T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 63,
+            "author": {
+                "user-id": 63,
+                "user-name": "新蛤社"
+            },
             "body": "［知乎备份 作者 新蛤社］<br>\n就是这样，欢迎膜乎用户也在这个问题下发表自己的看法。",
             "folded": false,
             "agree-by": [
@@ -105,7 +111,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-02T14:20:00.000Z",
-        "views": 315,
+        "views": 316,
         "concerns": 4
     }
 }

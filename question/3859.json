@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "各种本子的汉化组们是怎么盈利的？",
-        "body": "<p><img src=\"/uploads/ueditor/20181025/1540466391746520.jpg\" title=\"1540466391746520.jpg\" alt=\"S81025-19185806.jpg\"></p>",
-        "author": 1393,
+        "body": "<p><a href=\"https://archive.is/MGHrR/89b428c352fed50bdc59d3c68ec80210cac89d94.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"S81025-19185806.jpg\" src=\"https://archive.is/MGHrR/89b428c352fed50bdc59d3c68ec80210cac89d94.jpg\" title=\"1540466391746520.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-25T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>汉化组不盈利的。汉化这个事本来就不难，懂日语的翻译一下p个图就行了，谁上谁都行，本来就不值得盈利。并且本子是18+的，也没有合法的盈利方式。</p><p>不过那些翻译galgame的就很感人了hhh<br></p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "<p>大多数都是无偿的，你可以支付宝投食然后出新汉化会发你邮箱。小部分比较小众的是有偿汉化的。</p>",
             "folded": false,
             "agree-by": [
@@ -76,7 +85,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-25T13:01:00.000Z",
-        "views": 219,
+        "views": 220,
         "concerns": 3
     }
 }

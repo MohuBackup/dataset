@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待出现大量不雅用词的汝胞歌曲？",
         "body": "这边大家应该也看到过我的回答与作品，是从来不带脏字的。<br>\n私以为作为蛤丝，言谈举止，皆应以长者为表，承民国遗风。<br>\n不过作为辱包同僚，乃至今后可能的同志，是否应该允许他们在共同理想下以较大众与直接的方式表达对大犬的厌恶？",
-        "author": 1377,
+        "author": {
+            "user-id": 1377,
+            "user-name": "VanWinnieLing"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-10T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "文膜武乳，好习惯！<br>\n乳得包子气肝颤，膜包小鬼气发癫。<br>\n岐山走路来禁评，乳得岐山轻半斤。<br>\n冰冰床边慰岐山，税单曝去美利坚。<br>\n文膜武乳坚持干，我们蛤丝锄汉奸！",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": 640,
+            "author": {
+                "user-id": 640,
+                "user-name": "男孩为何穿红衣"
+            },
             "body": "不应该用脏话乳包<br>\n乳包要用充足的姿势水平来表述包子的naive<br>\n而用侮辱词汇不仅显得自己非常的naive，也使乳包起不到应有的效果甚至是反效果",
             "folded": false,
             "agree-by": [
@@ -92,7 +101,10 @@
             "modifyTime": "2018-06-10T00:00:00.000Z"
         },
         {
-            "author": 1379,
+            "author": {
+                "user-id": 1379,
+                "user-name": "习近平傻逼"
+            },
             "body": "<p>乳包讲究的就是武，因为我们恨他。</p><p>膜蛤讲究的是一个文，因为我们爱戴牠。</p>",
             "folded": false,
             "agree-by": [
@@ -111,7 +123,10 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>文膜武辱当然是要兹磁的。大量使用侮辱性词汇的暴辱就算了，知识水平太低。<br></p>",
             "folded": false,
             "agree-by": [
@@ -126,7 +141,10 @@
             "modifyTime": "2018-06-14T00:00:00.000Z"
         },
         {
-            "author": 1367,
+            "author": {
+                "user-id": 1367,
+                "user-name": "fengyun1"
+            },
             "body": "<p>因为他们都是轮子，小学生水平，哪能像你们这么高雅有谈吐水平呢。你看他们回过轮子的问题没。。。<br></p>",
             "folded": false,
             "agree-by": [],
@@ -184,7 +202,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-14T02:33:00.000Z",
-        "views": 368,
+        "views": 369,
         "concerns": 8
     }
 }

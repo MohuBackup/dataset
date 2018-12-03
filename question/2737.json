@@ -26,7 +26,10 @@
     "detail": {
         "title": "“副处级”算权贵吗？什么级别才算权贵？",
         "body": "",
-        "author": 2294,
+        "author": {
+            "user-id": 2294,
+            "user-name": "经略幽燕我童贯"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-20T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 1159,
+            "author": {
+                "user-id": 1159,
+                "user-name": "默然"
+            },
             "body": "不算，最低也得是到正厅级，而且是政府部门不能是事业单位或国企。",
             "folded": false,
             "agree-by": [
@@ -64,7 +70,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 2242,
+            "author": {
+                "user-id": 2242,
+                "user-name": "Adrian_Shepard"
+            },
             "body": "<p>权贵这个，不能算官职，不能算财产，貌似是看血缘，也有可能看帮里的话语权。</p>",
             "folded": false,
             "agree-by": [
@@ -79,7 +88,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>我爸是副处级军官(已离休)，上次老兵维权就有他参加</p>",
             "folded": false,
             "agree-by": [],
@@ -89,7 +101,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "起码得是改开前高干那个级别，副厅级以上吧",
             "folded": false,
             "agree-by": [],
@@ -99,7 +114,10 @@
             "modifyTime": "2018-09-20T00:00:00.000Z"
         },
         {
-            "author": 893,
+            "author": {
+                "user-id": 893,
+                "user-name": "Particle"
+            },
             "body": "看你具体在什么地方和站在什么角度看了。<br>\n处级干部算国家干部（最低级，科级已经不算了），对应的职位通常是县团级，即县长（县级市市长）、团长。<br>\n<br>\n作为一个小县里的p民，副处级相当于副县长，上面不来人的话就他最大，你说算不算。<br>\n<br>\n但要是在个更大的地级市，或者省会，那上面还有厅局级，省部级的。<br>\n<br>\n从整个国家看，处级干部满地都是，确实算不上权贵。",
             "folded": false,
             "agree-by": [],
@@ -127,7 +145,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-22T03:00:00.000Z",
-        "views": 513,
+        "views": 514,
         "concerns": 7
     }
 }

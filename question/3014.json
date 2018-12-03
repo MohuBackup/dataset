@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价这个乳包游戏？",
-        "body": "网址  hahaxixi.github.io<br>\n<br>\n这可是个温习[熊]语录的好办法[破涕为笑]<br>\n最大的障碍是听到[熊]语憋住笑[破涕为笑]<br>\n<br>\n记得开声音[音符]<br>\n手机/平板 触屏跳跃<br>\n电脑 鼠标左键跳跃<br>",
+        "body": "网址 hahaxixi.github.io<br>\n<br>\n这可是个温习[熊]语录的好办法[破涕为笑]<br>\n最大的障碍是听到[熊]语憋住笑[破涕为笑]<br>\n<br>\n记得开声音[音符]<br>\n手机/平板 触屏跳跃<br>\n电脑 鼠标左键跳跃<br>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2410,
+            "author": {
+                "user-id": 2410,
+                "user-name": "xyggdd_bd"
+            },
             "body": "玩了半个小时，最多35年。 游戏还可以优化点，更平滑点，太容易死了",
             "folded": false,
             "agree-by": [
@@ -41,8 +44,11 @@
             "modifyTime": "2018-09-29T00:00:00.000Z"
         },
         {
-            "author": 2411,
-            "body": "+0年語錄:別看你今天鬧的歡，小心啊，今後拉清單。<br>\n?\n<img src=\"/uploads/answer/20180929/b1dd45cd401cc6c979a03ed3b2f249cd.png\">",
+            "author": {
+                "user-id": 2411,
+                "user-name": "閱後即焚"
+            },
+            "body": "+0年語錄:別看你今天鬧的歡，小心啊，今後拉清單。<br>\n?\n<img src=\"https://archive.is/zxvXU/f151391f4f9bc7df20d6ce6fa874557f58fa3eb8.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -64,7 +70,10 @@
             "modifyTime": "2018-09-29T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>我最多一次100多年</p>",
             "folded": false,
             "agree-by": [
@@ -87,7 +96,10 @@
             "modifyTime": "2018-09-29T00:00:00.000Z"
         },
         {
-            "author": 1922,
+            "author": {
+                "user-id": 1922,
+                "user-name": "无线寿の江"
+            },
             "body": "<p>真鸡儿容易死，一下就翻车了</p>",
             "folded": false,
             "agree-by": [
@@ -116,7 +128,10 @@
             "modifyTime": "2018-09-29T00:00:00.000Z"
         },
         {
-            "author": 2223,
+            "author": {
+                "user-id": 2223,
+                "user-name": "rubydacherry"
+            },
             "body": "害行",
             "folded": false,
             "agree-by": [],
@@ -126,7 +141,10 @@
             "modifyTime": "2018-10-01T00:00:00.000Z"
         },
         {
-            "author": 295,
+            "author": {
+                "user-id": 295,
+                "user-name": "邓小平"
+            },
             "body": "155年可还行",
             "folded": false,
             "agree-by": [],
@@ -184,7 +202,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-01T08:27:00.000Z",
-        "views": 923,
+        "views": 924,
         "concerns": 6
     }
 }

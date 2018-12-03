@@ -14,7 +14,10 @@
     "detail": {
         "title": "女生穿男装是怎样一种体验？",
         "body": "",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>这么古老的问题，，，吃我一记洛阳铲！</p>",
             "folded": false,
             "agree-by": [],
@@ -79,8 +85,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-30T03:29:00.000Z",
-        "views": 315,
+        "last-active-time": "2018-10-31T05:02:00.000Z",
+        "views": 316,
         "concerns": 2
     }
 }

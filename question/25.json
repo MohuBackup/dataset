@@ -1,0 +1,50 @@
+{
+    "type": "question",
+    "id": 25,
+    "tags": [
+        {
+            "tag-id": 16,
+            "tag-name": "知乎"
+        }
+    ],
+    "detail": {
+        "title": "鸡心是黄色的吗？",
+        "body": "",
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
+        "link": null,
+        "comments": 1,
+        "publishTime": "2018-03-03T00:00:00.000Z",
+        "modifyTime": "2018-03-03T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>不清楚，我只知道大犬在福建期間由於與夢雪的傳聞被當地群眾親切地稱為公雞</p><p>司馬昭之心，是啥顏色路人皆知</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1393,
+                    "user-name": "Chinese淫"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-02T00:00:00.000Z",
+            "modifyTime": "2018-10-02T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何评价包子成为黄色书记？",
+            "id": 738
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-02T03:00:00.000Z",
+        "views": 293,
+        "concerns": 6
+    }
+}

@@ -14,7 +14,10 @@
     "detail": {
         "title": "大家是怎么知道膜乎这个网站",
         "body": "<p>我是逛推特关注了新蛤社）名字和图标太有趣啦</p><p><br></p><p><br></p><p>之前有过在微博膜蛤（经常去看“扬州知名养蛙人”的微博，后来他的号也挂了，他的小号各种挂，公众号也濒临挂掉）</p>",
-        "author": 1627,
+        "author": {
+            "user-id": 1627,
+            "user-name": "Rain900"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-17T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1754,
+            "author": {
+                "user-id": 1754,
+                "user-name": "今日來看蛤"
+            },
             "body": "不小心把知乎打成mo乎",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1438,
+            "author": {
+                "user-id": 1438,
+                "user-name": "AndyChuck"
+            },
             "body": "一开始是听说有蛤乎这个网站，在Google上搜索后发现这个网站居然高仿知乎，结果才点击注册，发现那个网站只是高仿了登录页面，其他什么功能都没有，当时十分angry，然后就搜苟乎，没有结果，再后来就搜到了膜乎",
             "folded": false,
             "agree-by": [
@@ -96,7 +105,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我是Google上搜索習近平怎麼死最好搜到的。</p>",
             "folded": false,
             "agree-by": [
@@ -123,7 +135,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>江来说群，我看着膜乎建立的</p>",
             "folded": false,
             "agree-by": [
@@ -146,7 +161,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "新蛤社youtube简介",
             "folded": false,
             "agree-by": [
@@ -169,7 +187,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 1982,
+            "author": {
+                "user-id": 1982,
+                "user-name": "SAMUNG"
+            },
             "body": "Google搜了一个问题，然后打开后，居然是蛤乎",
             "folded": false,
             "agree-by": [
@@ -192,7 +213,10 @@
             "modifyTime": "2018-08-25T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "嘿嘿，管家当然是钦定的啦ヽ(=^･ω･^=)丿",
             "folded": false,
             "agree-by": [
@@ -215,7 +239,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1868,
+            "author": {
+                "user-id": 1868,
+                "user-name": "十里山路"
+            },
             "body": "我是新来的，姿势水平还有限，有望诸位分享一下人生经验，一起蛤蜱",
             "folded": false,
             "agree-by": [
@@ -234,7 +261,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1757,
+            "author": {
+                "user-id": 1757,
+                "user-name": "刁进乎"
+            },
             "body": "我是在谷歌搜索如何评论习近平看到膜乎的。",
             "folded": false,
             "agree-by": [
@@ -253,7 +283,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 1943,
+            "author": {
+                "user-id": 1943,
+                "user-name": "boundary6"
+            },
             "body": "膜蛤wiki来的，我是新人，姿势还有限，也是希望长者来传授一些人生经验",
             "folded": false,
             "agree-by": [
@@ -272,7 +305,10 @@
             "modifyTime": "2018-08-27T00:00:00.000Z"
         },
         {
-            "author": 1772,
+            "author": {
+                "user-id": 1772,
+                "user-name": "dashazhu"
+            },
             "body": "<p>搜索膜蛤游戏发现的</p>",
             "folded": false,
             "agree-by": [
@@ -287,7 +323,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1764,
+            "author": {
+                "user-id": 1764,
+                "user-name": "kumlowhup"
+            },
             "body": "<p>在telegram群里面看到的</p>",
             "folded": false,
             "agree-by": [
@@ -302,7 +341,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>是新蛤社说的</p>",
             "folded": false,
             "agree-by": [
@@ -317,7 +359,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1653,
+            "author": {
+                "user-id": 1653,
+                "user-name": "初中肄业的博士"
+            },
             "body": "<p>从品葱上知道的。以前我只逛品葱，奈何自己的姿势水平不高，写出来的回答得不到几百个教授的一致通过，就过来膜乎玩耍了。<br></p>",
             "folded": false,
             "agree-by": [
@@ -332,7 +377,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1507,
+            "author": {
+                "user-id": 1507,
+                "user-name": "yaoyujie"
+            },
             "body": "我也是通过新蛤社来的。",
             "folded": false,
             "agree-by": [
@@ -347,7 +395,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 937,
+            "author": {
+                "user-id": 937,
+                "user-name": "Nanase_sukida"
+            },
             "body": "新蛤社的官方Twitter",
             "folded": false,
             "agree-by": [
@@ -362,7 +413,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1810,
+            "author": {
+                "user-id": 1810,
+                "user-name": "苟蛤于世"
+            },
             "body": "<p>hhhhhh，昨天92圣诞祭时看介绍看到的</p>",
             "folded": false,
             "agree-by": [],
@@ -372,7 +426,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1893,
+            "author": {
+                "user-id": 1893,
+                "user-name": "苟肉包子"
+            },
             "body": "搜了一些关于长者的话题偶然发现的",
             "folded": false,
             "agree-by": [],
@@ -382,7 +439,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 862,
+            "author": {
+                "user-id": 862,
+                "user-name": "小蛤蟆穿花衣"
+            },
             "body": "google搜“蛤”发现的",
             "folded": false,
             "agree-by": [],
@@ -392,7 +452,10 @@
             "modifyTime": "2018-08-21T00:00:00.000Z"
         },
         {
-            "author": 1701,
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
             "body": "谷歌搜索到的。",
             "folded": false,
             "agree-by": [],
@@ -402,9 +465,12 @@
             "modifyTime": "2018-08-25T00:00:00.000Z"
         },
         {
-            "author": 1964,
+            "author": {
+                "user-id": 1964,
+                "user-name": "Will"
+            },
             "body": "<p>蛤诞祭上听到好听的改编歌</p><p>顺路过来一趟</p><p>结果发现好多美分无脑喷子</p><p>看来姿势水平并不高</p><p>还是naive</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 3,
@@ -412,7 +478,10 @@
             "modifyTime": "2018-08-25T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "<p>品葱看到红四姐被膜乎批判一番，出于兴趣就进来了</p>",
             "folded": false,
             "agree-by": [],
@@ -470,7 +539,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-07T13:02:00.000Z",
-        "views": 1230,
+        "views": 1231,
         "concerns": 23
     }
 }

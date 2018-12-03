@@ -34,7 +34,10 @@
     },
     "answers": [
         {
-            "author": 1181,
+            "author": {
+                "user-id": 1181,
+                "user-name": "naiveme"
+            },
             "body": "在微博上小声bb，花10块钱买个微博头条，就是要避开敏感词，还很快就会被删。最安全的办法还是在美利坚表达声援。",
             "folded": false,
             "agree-by": [
@@ -69,7 +72,10 @@
             "modifyTime": "2018-09-01T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "<p>革命不是请客吃饭，再这样的体制下，声援也不是请客吃饭</p>",
             "folded": false,
             "agree-by": [
@@ -100,7 +106,10 @@
             "modifyTime": "2018-09-01T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>他们已经完了</p>",
             "folded": false,
             "agree-by": [
@@ -123,7 +132,10 @@
             "modifyTime": "2018-09-01T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>兄弟你晚了一步，他們已經完了。</p>",
             "folded": false,
             "agree-by": [],
@@ -181,7 +193,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-02T03:19:00.000Z",
-        "views": 368,
+        "views": 369,
         "concerns": 7
     }
 }

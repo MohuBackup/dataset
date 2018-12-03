@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何看待膜乎的乳乎化？",
-        "body": "<p>虽然有辱乎<a href=\"http://ruhu.ml/\" target=\"_blank\" title=\"辱乎\">http://ruhu.ml</a>的存在，但本站大量的发问都是乳包内容，如何看待此事？膜乎是否应该建成膜乳多用站？</p>",
+        "body": "<p>虽然有辱乎<a href=\"https://archive.is/o/ZPqqF/ruhu.ml/\" title=\"辱乎\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">http://ruhu.ml</a>的存在，但本站大量的发问都是乳包内容，如何看待此事？膜乎是否应该建成膜乳多用站？</p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>裆燃啦，不乳包的蛤丝不是真正的粉丝</p>",
             "folded": false,
             "agree-by": [
@@ -73,7 +76,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "这些都是粉丝们的自由思想，不应该有管控，管控了就变成第二个吱呼啦",
             "folded": false,
             "agree-by": [
@@ -120,7 +126,10 @@
             "modifyTime": "2018-08-13T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "因为习近平是中国当前的心腹大患，那么产出恶习就是蛤丝的历史使命",
             "folded": false,
             "agree-by": [
@@ -155,7 +164,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "<p>首先，得宣传下ruhu.ml这个网站，然后如果实在不行可以对膜乎网的乳包配额进行每日限制，必进是要贯彻膜为主、乳为辅的膜蛤文化核心。</p>",
             "folded": false,
             "agree-by": [
@@ -182,7 +194,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1691,
+            "author": {
+                "user-id": 1691,
+                "user-name": "辱乎"
+            },
             "body": "吼啊，兹瓷",
             "folded": false,
             "agree-by": [
@@ -245,7 +260,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-13T07:53:00.000Z",
-        "views": 582,
+        "views": 583,
         "concerns": 4
     }
 }

@@ -10,15 +10,21 @@
     "detail": {
         "title": "国内打压鬼畜类视频是否和YouTube上的某些辱包视频有关？",
         "body": "最近大家都知道广电总局发了文件，鬼畜可能受很大影响。<br>\n在此之前，YouTube上出现了大量的鬼畜类膜法视频和辱包视频，和up主新蛤社和小熊维尼为代表的各类视频拥有很高的播放量，同时也对宣传宽衣，背书单，扛麦子等起到了很大的作用。<br>\n想知道这两者之间是否有关系。<br>\n&nbsp;",
-        "author": 866,
-        "link": "https://www.youtube.com/watch?v=RTmLWv2N_vg",
+        "author": {
+            "user-id": 866,
+            "user-name": "黑框长者"
+        },
+        "link": "https://archive.is/o/RwW7L/https://www.youtube.com/watch?v=RTmLWv2N_vg",
         "comments": 0,
         "publishTime": "2018-04-22T00:00:00.000Z",
         "modifyTime": "2018-04-22T00:00:00.000Z"
     },
     "answers": [
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "油管上一些人做的鬼畜确实姿势水平非常地高，乃至于影响广泛及深远，从网易云音乐上评论区刷报菜名，再到膜法金曲的广为流传，这跟墙内鬼畜类视频的命运也有一定的影响，坠痛苦的，就是部分up主没有薛习一个保密的那一套理论，直接在油管视频里放上自己的b站用户名，结果水表一查就。。。但这不一定是主要原因，之前墙内的鬼畜也有用力过度的情况，没有保持坠大限度的克制，例如日人民报之前就点名把恶搞《黄河大合唱》的情况批判了一番，还有鬼畜学雷锋的，在墙内来说，会让不少文化部审查人员安轨了。",
             "folded": false,
             "agree-by": [
@@ -73,7 +79,10 @@
             "modifyTime": "2018-04-22T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "不止打压鬼畜的，连电音解说也没了。阅后即瞎已经自删视频了。<br>\n啊啊啊啊我的虾菌，虾酱，代班虾酱，代班代班虾菌！<br>\n广电总局吃枣药丸！",
             "folded": false,
             "agree-by": [
@@ -140,7 +149,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-01T01:59:00.000Z",
-        "views": 439,
+        "views": 445,
         "concerns": 3
     }
 }

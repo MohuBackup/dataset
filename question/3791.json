@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2632,
+            "author": {
+                "user-id": 2632,
+                "user-name": "lev12138"
+            },
             "body": "不知道辐射里的靠不靠谱。。。。",
             "folded": false,
             "agree-by": [],
@@ -28,7 +31,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "可以参考一些末世游戏，比如最后生还者，虽然是真菌感染，但是对末世的生存，社会结构变化，内外矛盾的突出还是有一些可分析之处",
             "folded": false,
             "agree-by": [],
@@ -38,7 +44,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "有钱的别呆陆地，没钱的跑无人区，实在不行去南美山区吧",
             "folded": false,
             "agree-by": [],
@@ -48,7 +57,10 @@
             "modifyTime": "2018-10-23T00:00:00.000Z"
         },
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "<p>真的全面核战基本上不可能存活，除非你提前准备了能过一辈子的物资，然后一辈子躲在防空洞或者躲去完全没有战略价值的地方，比如说沙漠，不过也很难存活，而最恐怖的还是一个人待久了肯定要抓狂，这是我觉得不可能存活的最大原因。</p>",
             "folded": false,
             "agree-by": [],
@@ -61,7 +73,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-10-23T09:30:00.000Z",
-        "views": 226,
+        "views": 227,
         "concerns": 5
     }
 }

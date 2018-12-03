@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看待习江权力斗争？",
         "body": "真实性有多大？有哪些社会迹象能证实？",
-        "author": 855,
+        "author": {
+            "user-id": 855,
+            "user-name": "齐奥塞斯库"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-21T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 765,
+            "author": {
+                "user-id": 765,
+                "user-name": "习习蛤虫合"
+            },
             "body": "反庆无罪，复民有理。",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-04-22T00:00:00.000Z"
         },
         {
-            "author": 834,
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
             "body": "包子想像长者一样有群众基础，可惜学了个四不像。",
             "folded": false,
             "agree-by": [
@@ -88,7 +97,10 @@
             "modifyTime": "2018-04-21T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "我记得说这几年被包子做掉的高官中有很多是江派的",
             "folded": false,
             "agree-by": [
@@ -163,7 +175,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-22T10:49:00.000Z",
-        "views": 466,
+        "views": 467,
         "concerns": 3
     }
 }

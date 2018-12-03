@@ -26,7 +26,10 @@
     "detail": {
         "title": "如何成为问答网站的管理员？",
         "body": "",
-        "author": 26,
+        "author": {
+            "user-id": 26,
+            "user-name": "Antonio Peng"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "欢迎你来，但是这个apply for administrator，你需要先做两个报告。",
             "folded": false,
             "agree-by": [
@@ -84,7 +90,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "硬点",
             "folded": false,
             "agree-by": [
@@ -107,7 +116,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "裆燃是和站长py交易了！",
             "folded": false,
             "agree-by": [
@@ -178,7 +190,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-04T12:00:00.000Z",
-        "views": 433,
+        "views": 434,
         "concerns": 6
     }
 }

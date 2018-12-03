@@ -26,7 +26,10 @@
     "detail": {
         "title": "如何把宿舍装修成膜法风格？",
         "body": "RT",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-05T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 634,
+            "author": {
+                "user-id": 634,
+                "user-name": "江上的青天"
+            },
             "body": "悬挂虵的大头像；做个书架放吾国重要领导人的理论书籍，最重要的是虵红色的那本改变中国；购买蛤膜模型；在门上面悬挂我国国旗；把房间打理的一丝不苟且简朴；墙上要常挂着一条裤腰带且在桌子上准备一个眼镜盒放黑框眼镜。",
             "folded": false,
             "agree-by": [
@@ -161,8 +167,11 @@
             "modifyTime": "2018-04-05T00:00:00.000Z"
         },
         {
-            "author": 1029,
-            "body": "&nbsp;放一个我被知乎续掉的答案吧<br>\n&nbsp;首先，要一张品味格调很高的茶几，上面要放一些精心装饰的花卉。<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/3c6a22a540ed5497c76c1aff4d825e05.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/3c6a22a540ed5497c76c1aff4d825e05.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.34_.jpg\" alt=\"图像_2018-5-3，下午8.34_.jpg\"></a>\n</div>\n<br>\n<br>\n装饰画 是非常必要的，这是寝室艺术修养的体现，大一点的装饰画还能用作壁纸。这里我们选择国画，采用传统的松柏主题，象征中华民族不可战胜的精神，也表达了健康长寿的生活理念<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/9905cd99a47595ead87f41261a7d3fbe.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/9905cd99a47595ead87f41261a7d3fbe.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.34_.jpg\" alt=\"图像_2018-5-3，下午8.34_.jpg\"></a>\n</div>\n<br>\n<br>\n地毯是非常提高寝室舒适度的家具，毕竟只住四年那么，有些大学就是水泥地，比较硬一点，那么用地毯就可以赤脚，提高寝室的卫生水平<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/d476b3730a95c7d70ecc27401409a165.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/d476b3730a95c7d70ecc27401409a165.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.34_(1)_.jpg\" alt=\"图像_2018-5-3，下午8.34_(1)_.jpg\"></a>\n</div>\n<br>\n<br>\n沙发的规格要高，低调不失身份，尤其是白色的盖布。<br>\n&nbsp;<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/8d7ba7b7089923940ad0f315308da325.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/8d7ba7b7089923940ad0f315308da325.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.34_(2)_.jpg\" alt=\"图像_2018-5-3，下午8.34_(2)_.jpg\"></a>\n</div>\n<br>\n<br>\n<br>\n窗帘可以用金色，彰显寝室的规格<br>\n&nbsp;<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/87f882242329ab697dbf874bcb982f72.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/87f882242329ab697dbf874bcb982f72.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.35_.jpg\" alt=\"图像_2018-5-3，下午8.35_.jpg\"></a>\n</div>\n<br>\n<br>\n<br>\n最后让宿管老师统一着装。那么海派文化的旗袍是不二选择<br>\n<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180503/b867c5532ed2cf9093428765cbc48b8e.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180503/b867c5532ed2cf9093428765cbc48b8e.jpg\" class=\"img-polaroid\" title=\"图像_2018-5-3，下午8.35_(1)_.jpg\" alt=\"图像_2018-5-3，下午8.35_(1)_.jpg\"></a>\n</div>\n<br>\n&nbsp;",
+            "author": {
+                "user-id": 1029,
+                "user-name": "钱秘书"
+            },
+            "body": "&nbsp;放一个我被知乎续掉的答案吧<br>\n&nbsp;首先，要一张品味格调很高的茶几，上面要放一些精心装饰的花卉。<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/3c6a22a540ed5497c76c1aff4d825e05.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.34_.jpg\" src=\"https://archive.is/ydEnx/b3a427ed8d4c8ef04439b57ea3446190a4cffa0d.jpg\" title=\"图像_2018-5-3，下午8.34_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n<br>\n装饰画 是非常必要的，这是寝室艺术修养的体现，大一点的装饰画还能用作壁纸。这里我们选择国画，采用传统的松柏主题，象征中华民族不可战胜的精神，也表达了健康长寿的生活理念<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/9905cd99a47595ead87f41261a7d3fbe.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.34_.jpg\" src=\"https://archive.is/ydEnx/f7c4425bba30325682e389d6bc5539f76258785d.jpg\" title=\"图像_2018-5-3，下午8.34_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n<br>\n地毯是非常提高寝室舒适度的家具，毕竟只住四年那么，有些大学就是水泥地，比较硬一点，那么用地毯就可以赤脚，提高寝室的卫生水平<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/d476b3730a95c7d70ecc27401409a165.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.34_(1)_.jpg\" src=\"https://archive.is/ydEnx/f3b4e71e7b9a8843f3b9a4c1815f608aa350c19c.jpg\" title=\"图像_2018-5-3，下午8.34_(1)_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n<br>\n沙发的规格要高，低调不失身份，尤其是白色的盖布。<br>\n&nbsp;<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/8d7ba7b7089923940ad0f315308da325.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.34_(2)_.jpg\" src=\"https://archive.is/ydEnx/ca94883fbae55fa3b9d33c317b43c577ab82d8ed.jpg\" title=\"图像_2018-5-3，下午8.34_(2)_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n<br>\n<br>\n窗帘可以用金色，彰显寝室的规格<br>\n&nbsp;<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/87f882242329ab697dbf874bcb982f72.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.35_.jpg\" src=\"https://archive.is/ydEnx/342eea2bb5f993509a181f0cf84c6c61b7e54568.jpg\" title=\"图像_2018-5-3，下午8.35_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n<br>\n<br>\n最后让宿管老师统一着装。那么海派文化的旗袍是不二选择<br>\n<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180503/b867c5532ed2cf9093428765cbc48b8e.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"图像_2018-5-3，下午8.35_(1)_.jpg\" src=\"https://archive.is/ydEnx/f9ac3d9a3e0dfe1803d6c27bfa5a698d1f507659.jpg\" title=\"图像_2018-5-3，下午8.35_(1)_.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n&nbsp;\n<img src=\"/uploads/answer/20180503/3c6a22a540ed5497c76c1aff4d825e05.jpg\">\n<img src=\"/uploads/answer/20180503/9905cd99a47595ead87f41261a7d3fbe.jpg\">\n<img src=\"/uploads/answer/20180503/d476b3730a95c7d70ecc27401409a165.jpg\">\n<img src=\"/uploads/answer/20180503/8d7ba7b7089923940ad0f315308da325.jpg\">\n<img src=\"/uploads/answer/20180503/87f882242329ab697dbf874bcb982f72.jpg\">\n<img src=\"/uploads/answer/20180503/b867c5532ed2cf9093428765cbc48b8e.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -380,7 +389,10 @@
             "modifyTime": "2018-05-03T00:00:00.000Z"
         },
         {
-            "author": 567,
+            "author": {
+                "user-id": 567,
+                "user-name": "江泽妮可"
+            },
             "body": "宿舍里的表全部调快1s，红宝书是必备的，想要了解更多可以选择华莱士访谈。洋文一定要吼，姿势水平高的就要学习琴书诗画。每天早晨带着黑框眼镜背诵葛底斯堡演说",
             "folded": false,
             "agree-by": [
@@ -460,7 +472,7 @@
         },
         {
             "author": null,
-            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180831/b4f80a403379656332fbedec5c4d430f.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180831/b4f80a403379656332fbedec5c4d430f.jpg\" class=\"img-polaroid\" title=\"5DF3B969EE9CCE998134DFEA89B956E239750880.jpg\" alt=\"5DF3B969EE9CCE998134DFEA89B956E239750880.jpg\"></a>\n</div>",
+            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/ydEnx/https://www.mohu.club/uploads/answer/20180831/b4f80a403379656332fbedec5c4d430f.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"5DF3B969EE9CCE998134DFEA89B956E239750880.jpg\" src=\"https://archive.is/ydEnx/70d08050a7029e864c7d9c5941345b6b6a4c22e6.jpg\" title=\"5DF3B969EE9CCE998134DFEA89B956E239750880.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180831/b4f80a403379656332fbedec5c4d430f.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -522,7 +534,10 @@
             "modifyTime": "2018-09-01T00:00:00.000Z"
         },
         {
-            "author": 10,
+            "author": {
+                "user-id": 10,
+                "user-name": "Guest"
+            },
             "body": "我的寝室里贴了一张他的巨型头像，底下放了两只同学送的青蛙，旁边有一本红宝书，还放了一个青蛙抱枕",
             "folded": false,
             "agree-by": [
@@ -581,7 +596,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 597,
+            "author": {
+                "user-id": 597,
+                "user-name": "Amane"
+            },
             "body": "要有外语词典，有乐器，有黑框眼镜。可酌情放置高音喇叭。<br>\n要求舍友讲英文，培养自己对古诗词的爱好。",
             "folded": false,
             "agree-by": [
@@ -632,7 +650,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "定制一个江泽民的充气娃娃就行了",
             "folded": false,
             "agree-by": [
@@ -683,7 +704,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "养一些水陆两栖动物。<br>\n最好再挂一把夏威夷吉他在墙上。",
             "folded": false,
             "agree-by": [
@@ -730,7 +754,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "要穿上红衣，带上黑框眼镜。用Hawaii guitar谈aloha oe。买他改变了中国。挂国旗。还要学习讲8国语言。",
             "folded": false,
             "agree-by": [
@@ -765,7 +792,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "前面说的差不多了，但是大家好像忘了林公和平西王还有华莱士了",
             "folded": false,
             "agree-by": [
@@ -800,7 +830,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 664,
+            "author": {
+                "user-id": 664,
+                "user-name": "驰骋原野"
+            },
             "body": "把表调一下，秒针快一点，59秒转一圈",
             "folded": false,
             "agree-by": [
@@ -831,8 +864,11 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 56,
-            "body": "毛主席像墙画国旗周恩来邓小平江泽民马克思列宁元帅伟人像海报画<br>\n<a href=\"https://item.taobao.com/item.htm?id=563002241219\" rel=\"nofollow\" target=\"_blank\">https://item.taobao.com/item.htm?id=563002241219</a>&nbsp;<br>\n进去看第二排第二个",
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
+            "body": "毛主席像墙画国旗周恩来邓小平江泽民马克思列宁元帅伟人像海报画<br>\n<a href=\"https://archive.is/o/ydEnx/https://item.taobao.com/item.htm?id=563002241219\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://item.taobao.com/item.htm?id=563002241219</a>&nbsp;<br>\n进去看第二排第二个",
             "folded": false,
             "agree-by": [
                 {
@@ -858,8 +894,11 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 1347,
-            "body": "<embed type=\"application/thunder_download_plugin\" height=\"0\" width=\"0\">书架上放上他改变了中国和江选",
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
+            "body": "<div class=\"embed\" style=\"background-color: rgba(224, 224, 224, 0.5); display:inline-block;width:0px;height:0px; border-width: 0; margin: 0; padding: 0;\"></div>书架上放上他改变了中国和江选",
             "folded": false,
             "agree-by": [
                 {
@@ -877,7 +916,10 @@
             "modifyTime": "2018-06-06T00:00:00.000Z"
         },
         {
-            "author": 1983,
+            "author": {
+                "user-id": 1983,
+                "user-name": "comrade_haliqi"
+            },
             "body": "<p>好像都没有提需要有保温杯？杯盖可以当水杯的那种</p>",
             "folded": false,
             "agree-by": [
@@ -940,7 +982,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-01T04:53:00.000Z",
-        "views": 2008,
+        "views": 2009,
         "concerns": 16
     }
 }

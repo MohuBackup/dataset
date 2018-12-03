@@ -25,8 +25,11 @@
     ],
     "detail": {
         "title": "如何看待中华民国外交部调侃小熊维尼？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180811/0f7818b9b1fd173e3d1087e693ab3cd7.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180811/0f7818b9b1fd173e3d1087e693ab3cd7.jpg\" class=\"img-thumbnail\" alt=\"8a1ce160-9b69-11e8-a2ce-ab6ec76fe2ab_photo.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 1,
+        "body": "<div>\n<a href=\"https://archive.is/o/Rt8k7/https://www.mohu.club/uploads/questions/20180811/0f7818b9b1fd173e3d1087e693ab3cd7.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"8a1ce160-9b69-11e8-a2ce-ab6ec76fe2ab_photo.jpg\" src=\"https://archive.is/Rt8k7/0813d0254cfef7951483bc4c69eadbd1c3331b5c.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 1,
+            "user-name": "EzawaNico"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-11T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 1574,
+            "author": {
+                "user-id": 1574,
+                "user-name": "Marx"
+            },
             "body": "<p>该推已经依照相关法律法规删除【滑稽】</p><p><br></p><p>-----------------分------割------线------------------------------<br></p><p>我刚刚查了一下真tm删除了????</p><p>这这这也........太棒了吧！外交部这么棒肯定要加鸡腿【严肃】</p><p><br></p><p>不知道CPC用了什么招数<br></p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1561,
+            "author": {
+                "user-id": 1561,
+                "user-name": "ま蛤ろす"
+            },
             "body": "<p>All bears(men) are created equal!!!</p><p>膜法已传到了对岸</p>",
             "folded": false,
             "agree-by": [
@@ -104,7 +113,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "乳包是全中华民族的义务",
             "folded": false,
             "agree-by": [
@@ -139,7 +151,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>证明乳包是中蛤民族的天性，也是文明的象征</p>",
             "folded": false,
             "agree-by": [
@@ -170,7 +185,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>看来到时候熊猫会改名叫能猫，维也纳会改名为住也纳，尼姑改为匕姑</p>",
             "folded": false,
             "agree-by": [
@@ -197,7 +215,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>两岸关系毁于维尼</p>",
             "folded": false,
             "agree-by": [
@@ -224,7 +245,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>又一个来蹭热点的（滑稽）</p>",
             "folded": false,
             "agree-by": [
@@ -291,7 +315,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-11T06:59:00.000Z",
-        "views": 725,
+        "views": 726,
         "concerns": 8
     }
 }

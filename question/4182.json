@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价人民日报社社论批判\"激进左派\"？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181103/e376c5bfbe0a4caa7f565d67db722c74.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181103/e376c5bfbe0a4caa7f565d67db722c74.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181103_091850.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "<div>\n<a href=\"https://archive.is/o/hmJ56/https://www.mohu.club/uploads/questions/20181103/e376c5bfbe0a4caa7f565d67db722c74.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181103_091850.jpg\" src=\"https://archive.is/hmJ56/c5a75144da5eb839e3bba49b52281503b5e3ddca.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2136,
+            "author": {
+                "user-id": 2136,
+                "user-name": "喆喆"
+            },
             "body": "我寻思养寇自重，传播极端民族主义的不就是你吗？",
             "folded": false,
             "agree-by": [
@@ -57,7 +60,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2900,
+            "author": {
+                "user-id": 2900,
+                "user-name": "404notfound"
+            },
             "body": "要签《辛丑条约》了，当然要批义和团们了",
             "folded": false,
             "agree-by": [
@@ -92,7 +98,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>包子自己就是他们所说的极端左派。</p><p>人民日报编辑可以发配甘肃武威了。</p>",
             "folded": false,
             "agree-by": [
@@ -119,7 +128,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2869,
+            "author": {
+                "user-id": 2869,
+                "user-name": "winniethefool"
+            },
             "body": "<p>我 骂 我 自 己</p><p>没找到地址的是自己的问题，不过目前好像这个网址进不去</p><p>http://www.rmlt.com.cn/2018/0223/511829.shtml?from=timeline</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1044,
+            "author": {
+                "user-id": 1044,
+                "user-name": "筹光交错"
+            },
             "body": "激进左派不承认自己事激进左派还骂别人是激进左派",
             "folded": false,
             "agree-by": [
@@ -176,7 +191,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2596,
+            "author": {
+                "user-id": 2596,
+                "user-name": "王尧"
+            },
             "body": "<p>我没搜到，谁可以发个链接？</p>",
             "folded": false,
             "agree-by": [],
@@ -243,8 +261,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T04:18:00.000Z",
-        "views": 304,
+        "last-active-time": "2018-11-03T22:30:00.000Z",
+        "views": 306,
         "concerns": 9
     }
 }

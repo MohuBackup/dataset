@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何评价小红粉语录\"你不喜欢中国你为什么不去移民啊\"",
         "body": "<p>如题，遇到一些不理智的小红粉时，总是复读这几句语录，把我搞得满脸喷粪的<br></p><p>类似的语录还有:</p><p>\"xx国那么好你怎么不去移民\"</p><p>\"中国容不下你，快去移民吧\"</p><p>\"你那么屌你怎么不去移民\"</p>",
-        "author": 1374,
+        "author": {
+            "user-id": 1374,
+            "user-name": "233kun"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-17T00:00:00.000Z",
@@ -22,9 +25,12 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>他们是吃不到葡萄就说葡萄酸，知道自己这辈子是无法移民逃跑到正常世界了。他们是在暗示我们必须移民出去</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1374,
@@ -121,7 +127,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1559,
+            "author": {
+                "user-id": 1559,
+                "user-name": "AF421"
+            },
             "body": "<p>我正在攒钱移民呢，要不你捐助我一点？</p>",
             "folded": false,
             "agree-by": [
@@ -196,7 +205,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "https://program-think.blogspot.com/2017/05/my-blog-under-government-backed-attack.html <br>\n这篇文章的最后说到：<br>\n如果敢于反抗的人都离开了，那他们（独裁者们）就赢了。<br>\n只是转发一下。",
             "folded": false,
             "agree-by": [
@@ -263,7 +275,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>不移民是因为对祖国还有一丝同情心。</p>",
             "folded": false,
             "agree-by": [
@@ -326,7 +341,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>首先，要明白这些小粉红在及其低级的偷换概念，不喜欢倒车党和不喜欢中国是两码事，我们移民是为了躲避党的暴政，从情感上来说还是兹磁中国的。从某些角度来看就连轮子的水平都要比他们高</p><p><br></p><p>其次，说这种话的人多半是没有条件移民的。</p>",
             "folded": false,
             "agree-by": [
@@ -385,9 +403,12 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1434,
+            "author": {
+                "user-id": 1434,
+                "user-name": "共和国里当皇帝"
+            },
             "body": "关于移民这个问题，发表一下我个人见解：如果移民只是因为不爱这个政党，但心还是向着中国的，还是认为自己是中国人，认为自己是炎黄子孙，不因为自己身上流着的是中华民族的血液而感到厌恶或抗拒，当国家遇到困难、战争或者灾难时还是站在国家这边，而不是在那说风凉话、幸灾乐祸，我觉得这倒也没什么；如果只是单纯羡慕国外或者说为了追求更高质量的生活而移民，也无可厚非；但如果你是因为讨厌“中国人”这个身份，觉得自己身上流着炎黄子孙的血是一件很耻辱的事情而移民，移民后还大肆辱骂中国，说中国坏话的，那我觉得这个人就应该被全体中国人唾骂、千夫所指。",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1374,
@@ -440,7 +461,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "井底的青蛙（非膜）对劝诫自己的海龟说：滚回你的大海吧<br>\n<br>\n对于这些愚蠢者，懦弱者来说，乳国在生命的答卷上写上一句共产党万岁就能获得自己的心安，那么就必须否认他人的答案，可惜，这种否认与诬陷，也是以低级幼稚的方式进行的",
             "folded": false,
             "agree-by": [
@@ -487,7 +511,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1453,
+            "author": {
+                "user-id": 1453,
+                "user-name": "abc12345"
+            },
             "body": "<p>我：“我觉得你的老婆比我的号”<br></p><p>小粉红：“我老婆那么好那你去上呀”</p>",
             "folded": false,
             "agree-by": [
@@ -526,7 +553,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1234,
+            "author": {
+                "user-id": 1234,
+                "user-name": "winnie97"
+            },
             "body": "想以后攒钱留学了，最好能移民，在膜乎的各位基本都是天朝的异类，活在真的辛苦",
             "folded": false,
             "agree-by": [
@@ -561,7 +591,10 @@
             "modifyTime": "2018-07-17T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "对于这种言论我是不给他解释什么偷换概念的，因为真蠢货听不懂假蠢货会假装听不懂。<br>\n因此我就顺着它说：对对今年下半年移民xx，房子都买好了~<br>\n让他羡慕去2333333",
             "folded": false,
             "agree-by": [
@@ -592,7 +625,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "我讨厌你，你为什么不闭嘴。",
             "folded": false,
             "agree-by": [
@@ -619,7 +655,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1418,
+            "author": {
+                "user-id": 1418,
+                "user-name": "傻傻的杨杨"
+            },
             "body": "那我马上就要移民了，反正小粉红这种水平是移不了的",
             "folded": false,
             "agree-by": [
@@ -642,7 +681,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "这不正准备移民呢？",
             "folded": false,
             "agree-by": [
@@ -676,7 +718,10 @@
             "modifyTime": "2018-09-21T00:00:00.000Z"
         },
         {
-            "author": 2314,
+            "author": {
+                "user-id": 2314,
+                "user-name": "timtam1"
+            },
             "body": "<p>小区物业管理不好，我要换小区？</p>",
             "folded": false,
             "agree-by": [
@@ -739,7 +784,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-21T16:06:00.000Z",
-        "views": 947,
+        "views": 948,
         "concerns": 15
     }
 }

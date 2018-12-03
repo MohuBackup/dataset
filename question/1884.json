@@ -14,7 +14,10 @@
     "detail": {
         "title": "steam今天被墙了么？",
         "body": "",
-        "author": 204,
+        "author": {
+            "user-id": 204,
+            "user-name": "redFerrari"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-12T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1501,
+            "author": {
+                "user-id": 1501,
+                "user-name": "A397y981"
+            },
             "body": "<p>社区被墙了</p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +43,10 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "steam一直都有墙，部分ip出现假如访问社区，那么整个steam全都被墙，1分钟后恢复steam主页访问",
             "folded": false,
             "agree-by": [
@@ -52,7 +61,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 1522,
+            "author": {
+                "user-id": 1522,
+                "user-name": "江某膜"
+            },
             "body": "GFW是世界上坠安全的墙 中央是资瓷的",
             "folded": false,
             "agree-by": [
@@ -67,7 +79,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 937,
+            "author": {
+                "user-id": 937,
+                "user-name": "Nanase_sukida"
+            },
             "body": "经过近一周的测试，晚间steam商店出现不定期丢包，类似曾经的谷歌阻断。<br>\n同样的还有膜乎主域名，白天正常访问，晚间出现丢包现象。<br>\n但是这俩个网站在晚间通过tcping均未出现大批量的超时，希望有姿势水平的蛤友继续测试。<br>\n测试网络：江苏扬州/苏州/南京 电信",
             "folded": false,
             "agree-by": [
@@ -82,7 +97,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>相信等完美世界合作版的steam出来以后，会彻底墙掉。届时可能很多游戏会移除中文。</p>",
             "folded": false,
             "agree-by": [
@@ -97,7 +115,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 1087,
+            "author": {
+                "user-id": 1087,
+                "user-name": "Mogician江道夫"
+            },
             "body": "<p>steam一直不稳定，建议使用飞机。</p>",
             "folded": false,
             "agree-by": [],
@@ -107,7 +128,10 @@
             "modifyTime": "2018-07-13T00:00:00.000Z"
         },
         {
-            "author": 1178,
+            "author": {
+                "user-id": 1178,
+                "user-name": "efficiency"
+            },
             "body": "<p>steam一直是时好时坏</p><p>对于很多单机爱好者来说，这是坠痛苦的。</p>",
             "folded": false,
             "agree-by": [],
@@ -165,7 +189,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-13T04:57:00.000Z",
-        "views": 919,
+        "views": 920,
         "concerns": 7
     }
 }

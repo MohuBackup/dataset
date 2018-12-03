@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>我也想知道。</p><p>膜乎刚建站时的氛围就是一个延伸知乎不能讨论的膜蛤，摸鹳，政治敏感等，外加女装，野兽先辈等这些nonsense，也聊一些政治，但是是以调侃扯谈的方式去产生的。</p><p>鉴于当时这种幽默氛围就用了这个邮箱注册。</p><p>不过现在这个样子，也想改个临时邮箱。。。</p>",
             "folded": false,
             "agree-by": [
@@ -37,7 +40,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2150,
+            "author": {
+                "user-id": 2150,
+                "user-name": "razor_sharp"
+            },
             "body": "哈哈，我品葱都是企鹅邮箱注册的。不怕不怕，又没搞啥大事情，真请喝茶了，大不了跪舔认怂就好。",
             "folded": false,
             "agree-by": [
@@ -56,7 +62,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>好像不能改……</p><p>所以说，要用临时邮箱注册</p>",
             "folded": false,
             "agree-by": [
@@ -71,7 +80,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "弃号跑路",
             "folded": false,
             "agree-by": [
@@ -86,7 +98,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "只能等膜乎管理方平安回来后开通更改邮箱和账号注销功能了",
             "folded": false,
             "agree-by": [
@@ -140,8 +155,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T22:02:00.000Z",
-        "views": 129,
+        "last-active-time": "2018-11-03T22:10:00.000Z",
+        "views": 130,
         "concerns": 5
     }
 }

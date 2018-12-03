@@ -10,7 +10,10 @@
     "detail": {
         "title": "什么样的男生适合做女装大佬？",
         "body": "当蓝首先是要他自己愿意的啦。",
-        "author": 915,
+        "author": {
+            "user-id": 915,
+            "user-name": "龙蛤前辈"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-01T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 174,
+            "author": {
+                "user-id": 174,
+                "user-name": "岿衣"
+            },
             "body": "<p>骨架小且皮肤白的男生，穿女装戴假发一眼望过去不会被人看出来。近看的话要挑面部特征，男生一般与女生差异明显的面部特征有鼻子，喉结，腮帮，这三者接近女性的男生如果化妆得当极本就变身萌妹子了</p>",
             "folded": false,
             "agree-by": [
@@ -41,8 +47,11 @@
             "modifyTime": "2018-06-03T00:00:00.000Z"
         },
         {
-            "author": 546,
-            "body": "<a href=\"/people/globalHe\" class=\"aw-user-name\" data-id=\"56\">@globalHe</a>",
+            "author": {
+                "user-id": 546,
+                "user-name": "谈闹觉余"
+            },
+            "body": "<a href=\"https://archive.is/o/oMmvR/https://www.mohu.club/people/globalHe\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;line-height:20px;font-weight:400;color:rgb(102, 102, 102);font-size:14px;\">@globalHe</a>",
             "folded": false,
             "agree-by": [
                 {
@@ -60,7 +69,10 @@
             "modifyTime": "2018-06-01T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>红衣男孩？</p>",
             "folded": false,
             "agree-by": [
@@ -79,7 +91,10 @@
             "modifyTime": "2018-06-01T00:00:00.000Z"
         },
         {
-            "author": 833,
+            "author": {
+                "user-id": 833,
+                "user-name": "社会主义之光"
+            },
             "body": "站长",
             "folded": false,
             "agree-by": [
@@ -98,7 +113,10 @@
             "modifyTime": "2018-06-03T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "任何男生，还包括我（手动蛤稽）",
             "folded": false,
             "agree-by": [
@@ -113,7 +131,10 @@
             "modifyTime": "2018-06-03T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "身材好，可爱",
             "folded": false,
             "agree-by": [],
@@ -123,8 +144,11 @@
             "modifyTime": "2018-06-01T00:00:00.000Z"
         },
         {
-            "author": 915,
-            "body": "下图这位大家觉得怎么样？让他来做女装大佬吼不吼啊？\n<img src=\"/uploads/answer/20180603/de605a23b8d3fa2708233cbd21058acc.jpg\">",
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
+            "body": "下图这位大家觉得怎么样？让他来做女装大佬吼不吼啊？\n<img src=\"https://archive.is/oMmvR/5d876ae70005cce3188016b8f3502f50ee5e13e2.jpg\">",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
@@ -181,7 +205,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-06T12:48:00.000Z",
-        "views": 610,
+        "views": 611,
         "concerns": 5
     }
 }

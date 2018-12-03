@@ -10,7 +10,10 @@
     "detail": {
         "title": "刁大犬青年时代就读过的书名中，哪些书的内容是直接打脸的？",
         "body": "刁大犬读过的书名中哪些书的主张与大犬的举措恰恰相反？",
-        "author": 1441,
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-22T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 765,
-            "body": "跑个题，大犬自著<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180622/df667fc6c3b46a03226fc5c65765fcf4.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180622/df667fc6c3b46a03226fc5c65765fcf4.jpg\" class=\"img-polaroid\" title=\"mmexport1529646928412.jpg\" alt=\"mmexport1529646928412.jpg\"></a>\n</div>",
+            "author": {
+                "user-id": 765,
+                "user-name": "习习蛤虫合"
+            },
+            "body": "跑个题，大犬自著<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/rf5iz/https://www.mohu.club/uploads/answer/20180622/df667fc6c3b46a03226fc5c65765fcf4.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"mmexport1529646928412.jpg\" src=\"https://archive.is/rf5iz/35e9ff1b1de6159f777a44ae4296920247252041.jpg\" title=\"mmexport1529646928412.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180622/df667fc6c3b46a03226fc5c65765fcf4.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -45,7 +51,10 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>《常识》</p>",
             "folded": false,
             "agree-by": [
@@ -68,7 +77,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "<p>联邦党人文集</p>",
             "folded": false,
             "agree-by": [
@@ -83,7 +95,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 1453,
+            "author": {
+                "user-id": 1453,
+                "user-name": "abc12345"
+            },
             "body": "悲惨世界",
             "folded": false,
             "agree-by": [
@@ -98,7 +113,10 @@
             "modifyTime": "2018-07-19T00:00:00.000Z"
         },
         {
-            "author": 1467,
+            "author": {
+                "user-id": 1467,
+                "user-name": "习远平"
+            },
             "body": "钢铁是怎样炼成的",
             "folded": false,
             "agree-by": [],
@@ -156,7 +174,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-19T04:58:00.000Z",
-        "views": 1009,
+        "views": 1010,
         "concerns": 6
     }
 }

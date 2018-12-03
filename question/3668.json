@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看待土耳其称掌握沙特记者被杀害录音，要求沙特提供监控录像，沙特称那天监控坏了？",
         "body": "<p>好熟悉的感觉。红黄蓝事件时家长要提供录像，园方说硬盘坏了，难道沙特学我共那套吗？<br></p>",
-        "author": 2493,
+        "author": {
+            "user-id": 2493,
+            "user-name": "黎亦乔"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-19T00:00:00.000Z",
@@ -89,7 +92,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>清真硬盘有党性，，，</p>",
             "folded": false,
             "agree-by": [
@@ -128,7 +134,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "红绿是一家，宽衣你我他",
             "folded": false,
             "agree-by": [
@@ -159,7 +168,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2597,
+            "author": {
+                "user-id": 2597,
+                "user-name": "lt1912"
+            },
             "body": "我说为什么穆斯林国家对新疆再教育营没什么反应，原来绿和红是一伙的",
             "folded": false,
             "agree-by": [
@@ -178,7 +190,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2728,
+            "author": {
+                "user-id": 2728,
+                "user-name": "蓝黑之珠"
+            },
             "body": "<p>椰枣馅的包子，皮塔饼夹腊肉</p>",
             "folded": false,
             "agree-by": [
@@ -193,7 +208,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>共产主义和穆斯林都能合作，到底是(((谁)))在背后作怪呢？<br></p>",
             "folded": false,
             "agree-by": [
@@ -208,7 +226,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>本来就是一家，当然要学来学去的</p>",
             "folded": false,
             "agree-by": [],
@@ -218,7 +239,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>应验了李大师的共产党伊斯兰说</p>",
             "folded": false,
             "agree-by": [],
@@ -228,7 +252,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "我认为是可信的，因为特朗普总统都信了。",
             "folded": false,
             "agree-by": [],
@@ -286,7 +313,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-20T03:53:00.000Z",
-        "views": 450,
+        "views": 451,
         "concerns": 9
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "伊斯兰教是一个怎样的宗教？",
         "body": "<p>信仰它的信众又是怎样的？可以的话，想请详细说说</p>",
-        "author": 1457,
+        "author": {
+            "user-id": 1457,
+            "user-name": "rua"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-28T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 915,
-            "body": "我突然想起火影里面迪达拉常说的“自爆就是艺术！”，没错，他们是一群疯狂的艺术家，不仅自爆，有时候还以刀代笔用血在汉人的身体上画出坠美丽的图画。\n<img src=\"/uploads/answer/20180629/ce6133a3a3675cef91609361e5f45e90.jpeg\">",
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
+            "body": "我突然想起火影里面迪达拉常说的“自爆就是艺术！”，没错，他们是一群疯狂的艺术家，不仅自爆，有时候还以刀代笔用血在汉人的身体上画出坠美丽的图画。\n<img src=\"https://archive.is/5SlNq/56f4b275bea3bada174ef2e39d0b38d6ea4cd7a9.jpeg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -61,8 +67,11 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 1092,
-            "body": "<p><img src=\"/uploads/ueditor/20180630/1530374368481843.png\" title=\"1530374368481843.png\" alt=\"Screen Shot 2018-06-30 at 23.59.18.png\"></p>",
+            "author": {
+                "user-id": 1092,
+                "user-name": "高压聚乙烯"
+            },
+            "body": "<p><a href=\"https://archive.is/5SlNq/c08e14fed2c22abc311b26c018aa9abafb689e76.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"Screen Shot 2018-06-30 at 23.59.18.png\" src=\"https://archive.is/5SlNq/c08e14fed2c22abc311b26c018aa9abafb689e76.png\" title=\"1530374368481843.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -84,9 +93,12 @@
             "modifyTime": "2018-06-30T00:00:00.000Z"
         },
         {
-            "author": 1069,
+            "author": {
+                "user-id": 1069,
+                "user-name": "庆丰帝"
+            },
             "body": "<p>邪教</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1087,
@@ -107,9 +119,12 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 54,
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
             "body": "<p>会自爆的邪教，堪比天安门自焚。<br></p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1087,
@@ -130,9 +145,12 @@
             "modifyTime": "2018-06-28T00:00:00.000Z"
         },
         {
-            "author": 1087,
+            "author": {
+                "user-id": 1087,
+                "user-name": "Mogician江道夫"
+            },
             "body": "<p>很难想象现在科技这么发达的情况下这种反人类宗教还能生存下来，只能归结于其比CPP强大100倍的洗脑功？话说个人感觉党章也在向古兰经靠近呢......</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1457,
@@ -149,9 +167,12 @@
             "modifyTime": "2018-06-29T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "坠高配置版的法轮功",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -207,7 +228,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-30T15:59:00.000Z",
-        "views": 460,
+        "views": 461,
         "concerns": 6
     }
 }

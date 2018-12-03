@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价川普捷报频传，失业率仅为3.7%，创下1969年来最低？",
-        "body": "<p>Just out: 3.7% Unemployment is the lowest number since 1969!</p><p><img src=\"/uploads/ueditor/20181005/1538745405606789.png\" title=\"1538745405606789.png\" alt=\"t.PNG\"></p>",
-        "author": 2365,
+        "body": "<p>Just out: 3.7% Unemployment is the lowest number since 1969!</p><p><a href=\"https://archive.is/9G8ba/fceb7e44893c95661f3bf76dda39789fcaeacd9a.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"t.PNG\" src=\"https://archive.is/9G8ba/fceb7e44893c95661f3bf76dda39789fcaeacd9a.png\" title=\"1538745405606789.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 2365,
+            "user-name": "lmds540"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-05T00:00:00.000Z",
@@ -45,7 +48,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>川普这么厉害？那包子被吊锤可以说是指日可待了。</p><p>放鞭炮庆祝一下再说！</p><p><br></p><p><br></p><p><br></p><p>哎哎哎你们抓我干嘛？为什么国庆节不能放鞭炮啊？？？？？喂喂！</p>",
             "folded": false,
             "agree-by": [
@@ -64,7 +70,10 @@
             "modifyTime": "2018-10-05T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>新美社通电：中国帝国主义亡我之心不死，疯狂抹黑我国领导人</p>",
             "folded": false,
             "agree-by": [
@@ -79,7 +88,10 @@
             "modifyTime": "2018-10-05T00:00:00.000Z"
         },
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "美帝现在对共匪的贸易逆差还在扩大...形式没你说的那么好，希望中期选举挺住",
             "folded": false,
             "agree-by": [
@@ -94,7 +106,10 @@
             "modifyTime": "2018-10-06T00:00:00.000Z"
         },
         {
-            "author": 1015,
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
             "body": "https://data.bls.gov/timeseries/LNS14000000",
             "folded": false,
             "agree-by": [],
@@ -104,9 +119,12 @@
             "modifyTime": "2018-10-05T00:00:00.000Z"
         },
         {
-            "author": 2520,
+            "author": {
+                "user-id": 2520,
+                "user-name": "naivepara"
+            },
             "body": "川普不是苏联的国家主席吗 什么时候成了美帝的总统了",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
@@ -162,7 +180,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-06T02:54:00.000Z",
-        "views": 508,
+        "views": 509,
         "concerns": 7
     }
 }

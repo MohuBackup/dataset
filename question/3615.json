@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "如何看待中国普遍出现的“消费降级”状态？",
-        "body": "<p><img src=\"/uploads/ueditor/20181018/1539829331664535.jpg\" title=\"1539829331664535.jpg\" alt=\"22newworld-master1050.jpg\">从拼多多的流行到年轻人选择合租，再到已婚人士选择不生孩子，越来越多的事情证明了消费降级的到来，我们应该如何看待？</p>",
-        "author": 1393,
+        "body": "<p><a href=\"https://archive.is/2dbsc/649e413527eb8c063a4681bfd0d35ef9f8a37660.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"22newworld-master1050.jpg\" src=\"https://archive.is/2dbsc/649e413527eb8c063a4681bfd0d35ef9f8a37660.jpg\" title=\"1539829331664535.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>从拼多多的流行到年轻人选择合租，再到已婚人士选择不生孩子，越来越多的事情证明了消费降级的到来，我们应该如何看待？</p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-18T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>消费降级不可怕，大脑降级才是坠痛苦滴~</p>",
             "folded": false,
             "agree-by": [
@@ -81,7 +87,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "这明明是全国人民积极响应刁主席“厉行勤俭节约，反对铺张浪费”号召的体现，却被某些别有用心的人恶意解读成所谓“消费降级”，就是觉得中国不能强，鉴不鉴哪？太鉴了这个！",
             "folded": false,
             "agree-by": [
@@ -112,7 +121,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>人民都穷成这样了，厉害了，我的国</p>",
             "folded": false,
             "agree-by": [
@@ -131,7 +143,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "我问过这个问题，大概就是经济不好、大家都穷。",
             "folded": false,
             "agree-by": [
@@ -204,7 +219,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-18T15:43:00.000Z",
-        "views": 448,
+        "views": 449,
         "concerns": 6
     }
 }

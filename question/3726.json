@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价五毛蛋事件？",
         "body": "2010年10月温姓干部到北京航空大学参观，其咨询学生，水煮蛋多少钱？学生回答五毛钱。现在一个鸡蛋成本也得8毛钱，加上水电、人工、房租、沉重的税费、保险、给中共黑官的红包等，至少卖2元钱才能回本、勉强盈利？<br>\n然而中共洗地，说学校有补助、学校亏损、免税无房租。<br>\n这是否说明中共高层实际上都是不食人间烟火，根本不知道百姓的疾苦？",
-        "author": 2226,
+        "author": {
+            "user-id": 2226,
+            "user-name": "revolt"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-21T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>祝他蛋裂。</p>",
             "folded": false,
             "agree-by": [],
@@ -28,7 +34,10 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>屠匪和崇祯帝差不多，根本不了解百姓疾苦。</p>",
             "folded": false,
             "agree-by": [],
@@ -86,7 +95,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-21T04:32:00.000Z",
-        "views": 134,
+        "views": 135,
         "concerns": 3
     }
 }

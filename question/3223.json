@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价这个“中国的中华民国”可笑选项？[图片]",
-        "body": "<p><img src=\"/uploads/ueditor/20181008/1538932326221282.jpg\" title=\"1538932326221282.jpg\" alt=\"M20181008_011128_489.jpg\"></p>",
-        "author": 1393,
+        "body": "<p><a href=\"https://archive.is/6wEQs/f3e5b1c97e6588a8ba0a871ca2a9ca54ae13834f.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"M20181008_011128_489.jpg\" src=\"https://archive.is/6wEQs/f3e5b1c97e6588a8ba0a871ca2a9ca54ae13834f.jpg\" title=\"1538932326221282.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-08T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1918,
+            "author": {
+                "user-id": 1918,
+                "user-name": "kuī然不动"
+            },
             "body": "<p>典型的爸爸和儿子分不清</p>",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,10 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>五毛大军即将到来</p>",
             "folded": false,
             "agree-by": [
@@ -126,7 +135,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-07T23:59:00.000Z",
-        "views": 341,
+        "views": 342,
         "concerns": 4
     }
 }

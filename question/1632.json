@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何看待维基百科的全部语言版本被墙（18.6.20）？",
-        "body": "事实上，被墙的涵盖了维基媒体基金会的所有运营项目（除WikiCommons）…<br>\n<br>\n一同被封的还有WolframAlpha\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180620/5de57c0fc3ea30c6011ba16c52e791d3.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180620/5de57c0fc3ea30c6011ba16c52e791d3.png\" class=\"img-thumbnail\" alt=\"wp_ss_20180620_0005.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180620/e221b9b3c6ae08f3558ab6007665914c.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180620/e221b9b3c6ae08f3558ab6007665914c.png\" class=\"img-thumbnail\" alt=\"wp_ss_20180620_0016_(2).png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "事实上，被墙的涵盖了维基媒体基金会的所有运营项目（除WikiCommons）…<br>\n<br>\n一同被封的还有WolframAlpha <div>\n<a href=\"https://archive.is/o/VFvTp/https://www.mohu.club/uploads/questions/20180620/5de57c0fc3ea30c6011ba16c52e791d3.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"wp_ss_20180620_0005.png\" src=\"https://archive.is/VFvTp/69cc1badb1287f4db287a453e702ec600f235ccc.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/VFvTp/https://www.mohu.club/uploads/questions/20180620/e221b9b3c6ae08f3558ab6007665914c.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"wp_ss_20180620_0016_(2).png\" src=\"https://archive.is/VFvTp/111f15b01d964d1a5e5b8e8431cb8b9e59b8c49f.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 498,
+            "author": {
+                "user-id": 498,
+                "user-name": "KONATA"
+            },
             "body": "<p>这是领导对我们屁民外语水平的肯定！</p>",
             "folded": false,
             "agree-by": [
@@ -73,7 +76,10 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": 80,
+            "author": {
+                "user-id": 80,
+                "user-name": "linkhoo"
+            },
             "body": "i am angry,<br>\n这样搞不行的啊",
             "folded": false,
             "agree-by": [
@@ -96,8 +102,11 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": 673,
-            "body": "<p>完全墙掉维基百科只是前奏，</p><p>之后就要建立墙内的<strong>维习百科</strong>了。</p>",
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "<p>完全墙掉维基百科只是前奏，</p><p>之后就要建立墙内的<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">维习百科</strong>了。</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -119,7 +128,10 @@
             "modifyTime": "2018-06-25T00:00:00.000Z"
         },
         {
-            "author": 10,
+            "author": {
+                "user-id": 10,
+                "user-name": "Guest"
+            },
             "body": "<p>【新蛤社6月20日电】今天下午5:10左右，中国大陆防火长城（GFW）再次发威，封锁方式中有IP封锁（TCP阻断），请注意规避风险。</p><p><br></p><p>可见墙的增高是大规模的。</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": 1457,
+            "author": {
+                "user-id": 1457,
+                "user-name": "rua"
+            },
             "body": "有压力才会有动力，这是领导为了开化民智，争取早日让国民都像虵一样掌握八国语言，感谢领导，泪，拉了下来",
             "folded": false,
             "agree-by": [
@@ -153,7 +168,10 @@
             "modifyTime": "2018-06-25T00:00:00.000Z"
         },
         {
-            "author": 16,
+            "author": {
+                "user-id": 16,
+                "user-name": "匿名用户"
+            },
             "body": "维基百科大部分语言页面，如英文，已可以从中国大陆正常访问。中文和日文维基仍处于被屏蔽状态。",
             "folded": false,
             "agree-by": [],
@@ -173,7 +191,10 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>独裁国家</p>",
             "folded": false,
             "agree-by": [],
@@ -231,7 +252,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-24T20:38:00.000Z",
-        "views": 746,
+        "views": 747,
         "concerns": 6
     }
 }

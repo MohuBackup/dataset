@@ -26,7 +26,10 @@
     "detail": {
         "title": "有什么令人感到excited的文膜作品？",
         "body": "",
-        "author": 881,
+        "author": {
+            "user-id": 881,
+            "user-name": "江蛤蟆是坠吼的"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-27T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "&nbsp;B站上有个id为“鸣则酱”的up主，他有两篇姿势水平很高的番剧膜改视频，在此分享一波：<br>\nhttp://www.bilibili.com/video/av13962346（吸食生命、念诗）<br>\nhttp://www.bilibili.com/video/av11651053（毕业歌、爷爷的鸡、红宝书）",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-04-27T00:00:00.000Z"
         },
         {
-            "author": 956,
+            "author": {
+                "user-id": 956,
+                "user-name": "lolitas"
+            },
             "body": "有丶东西",
             "folded": false,
             "agree-by": [],
@@ -67,8 +76,11 @@
             "modifyTime": "2018-04-30T00:00:00.000Z"
         },
         {
-            "author": 979,
-            "body": "文膜无聊\n<img src=\"/uploads/answer/20180430/2277ee576e8865e07e31ea28c76de997.jpg\">",
+            "author": {
+                "user-id": 979,
+                "user-name": "华莱士谈笑风生"
+            },
+            "body": "文膜无聊\n<img src=\"https://archive.is/7tBmw/888edb25a86baf5c9bf8f0be5e0dd3d90392146a.jpg\">",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": true,
@@ -121,7 +133,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-30T18:28:00.000Z",
-        "views": 549,
+        "views": 554,
         "concerns": 4
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "可以把奶黄包叫做乳黄包吗？",
         "body": "",
-        "author": 42,
+        "author": {
+            "user-id": 42,
+            "user-name": "周源"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "吼啊！",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 1677,
+            "author": {
+                "user-id": 1677,
+                "user-name": "ChakTheFrog"
+            },
             "body": "<p>本校食堂直接稱呼奶黃包為乳包，一元一個，味道欠佳</p>",
             "folded": false,
             "agree-by": [
@@ -84,7 +93,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2244,
+            "author": {
+                "user-id": 2244,
+                "user-name": "walkeatround"
+            },
             "body": "<p>乳皇包</p>",
             "folded": false,
             "agree-by": [
@@ -115,7 +127,10 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": 2456,
+            "author": {
+                "user-id": 2456,
+                "user-name": "bisհi"
+            },
             "body": "<p>奶皇包=乳黄包</p><p>完 全 一 致</p>",
             "folded": false,
             "agree-by": [
@@ -134,7 +149,10 @@
             "modifyTime": "2018-10-03T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>我这边直接叫乳包</p>",
             "folded": false,
             "agree-by": [
@@ -153,7 +171,10 @@
             "modifyTime": "2018-10-04T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>乳包子5毛一个</p>",
             "folded": false,
             "agree-by": [
@@ -184,7 +205,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-04T01:03:00.000Z",
-        "views": 534,
+        "views": 535,
         "concerns": 8
     }
 }

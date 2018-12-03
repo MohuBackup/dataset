@@ -22,7 +22,10 @@
     "detail": {
         "title": "如何看待穆加贝怒斥记者？",
         "body": "<p>英国《卫报》５日报道，听到这个提问后，穆加贝连续反问：“为什么我还在任就要谈继任者的事？为什么你想要（看到）继任者……你是不是想让我揍你一顿，才会认识到我还在任上？”这名全球年纪最大的国家元首说：“接班不是我们文化的一部分。”</p><p>（这是2016年的旧闻。）</p><p>接班人是谁？</p>",
-        "author": 2493,
+        "author": {
+            "user-id": 2493,
+            "user-name": "黎亦乔"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-20T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 1347,
+            "author": {
+                "user-id": 1347,
+                "user-name": "水工先生"
+            },
             "body": "<p>别看他以前闹的欢，今天已经拉清单。</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>穆加贝还是要学习一个</p>",
             "folded": false,
             "agree-by": [
@@ -64,7 +73,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "万里长城今犹在，不见当年穆加倍！",
             "folded": false,
             "agree-by": [],
@@ -74,7 +86,10 @@
             "modifyTime": "2018-10-20T00:00:00.000Z"
         },
         {
-            "author": 2728,
+            "author": {
+                "user-id": 2728,
+                "user-name": "蓝黑之珠"
+            },
             "body": "<p>Make Zimbabwe Rhodesia again<br></p>",
             "folded": false,
             "agree-by": [],
@@ -132,7 +147,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-20T22:09:00.000Z",
-        "views": 272,
+        "views": 273,
         "concerns": 5
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待某国家政府网站说“从下个月起工资少了但钱还是你的”这句话？难道包包大人喜欢吃嫩韭菜？",
         "body": "",
-        "author": 648,
+        "author": {
+            "user-id": 648,
+            "user-name": "jiangzhuxi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-29T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>从下个月起工资少了但钱还是你的，而你的就是我的</p>",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "我们最大的错误就是觉得包子还会要脸",
             "folded": false,
             "agree-by": [
@@ -144,7 +153,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>下次就会是说你的女人被q了，你的房屋被拆了，但还是你的</p>",
             "folded": false,
             "agree-by": [
@@ -191,8 +203,11 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 881,
-            "body": "<p><img src=\"/uploads/ueditor/20180830/1535589489442451.jpeg\" title=\"1535589489442451.jpeg\" alt=\"5B8C5C54-7739-41D7-87A1-109E63F4B9BE.jpeg\"></p>",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p><a href=\"https://archive.is/muFwO/898d31b8b66f77dd6ab8b9004e7666184d62dfe8.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"5B8C5C54-7739-41D7-87A1-109E63F4B9BE.jpeg\" src=\"https://archive.is/muFwO/898d31b8b66f77dd6ab8b9004e7666184d62dfe8.jpeg\" title=\"1535589489442451.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -226,7 +241,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1701,
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
             "body": "钱少了？为什么？难道共产主义真的要实现了？",
             "folded": false,
             "agree-by": [
@@ -261,7 +279,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "绿帽子别怕。至少保暖。(狗头",
             "folded": false,
             "agree-by": [
@@ -324,7 +345,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-30T09:09:00.000Z",
-        "views": 712,
+        "views": 713,
         "concerns": 9
     }
 }

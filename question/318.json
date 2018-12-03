@@ -9,8 +9,11 @@
     ],
     "detail": {
         "title": "关于新蛤社app的设计",
-        "body": "众所周知，微博的膜法文章经常被续。所以现在有必要制作一个用于备份和方便膜蛤的地方。<br>\n我也关注到在去年Naco Siren(github)发布过一款膜法指南，不过似乎已经停更并且github上的release也不见了。所以我想整合一下旧的膜法素材，加入一些新鲜血液，并且方便广大蛤丝。<br>\n目前框架已经搭得差不多了，请大家出出主意，江app变得更吼，谢谢。每个人都可以提建议哦。<br>\n经好几百个教授的一致钦点后，app命名为膜盒。<br>\nsd卡权限可以选择不给，上传图片不需要权限，下载图片要。但是考虑到app的行程，大家觉得要不要一开始就申请sd卡权限呢？<br>\napp暂定于6月初公测，敬请期待。<br>\n目前状况：\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180503/bd4539049b0029f0ab474606d7b0470a.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180503/bd4539049b0029f0ab474606d7b0470a.png\" class=\"img-thumbnail\" alt=\"Screenshot_20180503-234638.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180503/2d2bdd5970aec36c42fca89eef536947.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180503/2d2bdd5970aec36c42fca89eef536947.png\" class=\"img-thumbnail\" alt=\"Screenshot_20180503-234553.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180503/f8f1a793279013a6d383a6852508562b.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180503/f8f1a793279013a6d383a6852508562b.png\" class=\"img-thumbnail\" alt=\"Screenshot_20180503-234619.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180503/9701d8e6cd3f19475ae2236f17449132.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180503/9701d8e6cd3f19475ae2236f17449132.png\" class=\"img-thumbnail\" alt=\"Screenshot_20180503-234446.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180503/51a693c4e73594bc85442b702ad88127.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180503/51a693c4e73594bc85442b702ad88127.png\" class=\"img-thumbnail\" alt=\"Screenshot_20180503-234624.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 297,
+        "body": "众所周知，微博的膜法文章经常被续。所以现在有必要制作一个用于备份和方便膜蛤的地方。<br>\n我也关注到在去年Naco Siren(github)发布过一款膜法指南，不过似乎已经停更并且github上的release也不见了。所以我想整合一下旧的膜法素材，加入一些新鲜血液，并且方便广大蛤丝。<br>\n目前框架已经搭得差不多了，请大家出出主意，江app变得更吼，谢谢。每个人都可以提建议哦。<br>\n经好几百个教授的一致钦点后，app命名为膜盒。<br>\nsd卡权限可以选择不给，上传图片不需要权限，下载图片要。但是考虑到app的行程，大家觉得要不要一开始就申请sd卡权限呢？<br>\napp暂定于6月初公测，敬请期待。<br>\n目前状况： <div>\n<a href=\"https://archive.is/o/KQiQo/https://www.mohu.club/uploads/questions/20180503/bd4539049b0029f0ab474606d7b0470a.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20180503-234638.png\" src=\"https://archive.is/KQiQo/f7484ef716e70fc5e414ca62b17357e4deb74de8.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/KQiQo/https://www.mohu.club/uploads/questions/20180503/2d2bdd5970aec36c42fca89eef536947.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20180503-234553.png\" src=\"https://archive.is/KQiQo/a3b5729b4d7550d7f0636dc378b15452e9f75a62.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/KQiQo/https://www.mohu.club/uploads/questions/20180503/f8f1a793279013a6d383a6852508562b.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20180503-234619.png\" src=\"https://archive.is/KQiQo/e32489bfd5b1458e0d0d0026b0839d8e6b19cdc3.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/KQiQo/https://www.mohu.club/uploads/questions/20180503/9701d8e6cd3f19475ae2236f17449132.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20180503-234446.png\" src=\"https://archive.is/KQiQo/8a0c31cc8c4918eeeafdd67cddad0b5d9eca7752.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/KQiQo/https://www.mohu.club/uploads/questions/20180503/51a693c4e73594bc85442b702ad88127.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20180503-234624.png\" src=\"https://archive.is/KQiQo/5a64d561f5264cf41639e55930fb00ee9d759fb2.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 297,
+            "user-name": "Latihas"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-07T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 297,
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
             "body": "之前我用一个不标准的语言开发了一款app。<br>\n准确来说是套壳客户端。<br>\n请注意，此app与即将推出的app没有任何关联，仅仅只是暂时方便一些。<br>\nhttps://pan.baidu.com/s/1Ik2dMACd2vh4nEqORHGPlQ 密码：1926<br>\n考完试了，继续开发。<br>\n现在app内设计了一个隐藏的开关，可以更方便地膜蛤，敬请期待。",
             "folded": false,
             "agree-by": [
@@ -93,7 +99,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 675,
+            "author": {
+                "user-id": 675,
+                "user-name": "宋祖英"
+            },
             "body": "你们难道不把我唱的歌弄进去？江煮袭要angry了！",
             "folded": false,
             "agree-by": [
@@ -176,8 +185,11 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 611,
-            "body": "怎么说呢，我之前做了一个《iXuMin》，可是呢后来觉得设计水平实在Naive，也就主动下架放弃了（真的太丑，就不放截图了），很蟾愧。江莱可能会出新版。<br>\n（<a href=\"https://ixumin.com/\" rel=\"nofollow\" target=\"_blank\">网站还活着</a>）<br>\n你们开发人员一定要注意，作为一个覆盖面广的公众平台，在app的设计上一定要多费一点心思。<br>\n我看来看去啊，觉得你们搞得这个drawer啊，还有fab按钮，不是很吼，不要把自己局限在MD模板上，不过考虑到刚刚开做，还too young。总体感觉设计思维还是太江化了，像我一样，走了膜改MD模板的老路，稍有常识的程序员都能看出是android studio里面的带drawer的示例程序，身为优秀蛤丝，应当提高一下自己设计上的姿势水平（我的姿势水平也有限，就做这一点微小的建议）。<br>\n看截图里面的具体功能，大概是一个demo吧，在操作逻辑上还是不要直接照搬网页的好。<br>\n如果贵站能做一个统一的续命平台，并开放API，我是资瓷的。<br>\n另外希望贵站能充分发扬代表广大蛤丝先进续命力的思想，多多思考，例如时间的转移与区块链技术的结合，可能是江来潜在的发展方向。<br>\n&nbsp;",
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
+            "body": "怎么说呢，我之前做了一个《iXuMin》，可是呢后来觉得设计水平实在Naive，也就主动下架放弃了（真的太丑，就不放截图了），很蟾愧。江莱可能会出新版。<br>\n（<a href=\"https://archive.is/o/KQiQo/https://ixumin.com/\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">网站还活着</a>）<br>\n你们开发人员一定要注意，作为一个覆盖面广的公众平台，在app的设计上一定要多费一点心思。<br>\n我看来看去啊，觉得你们搞得这个drawer啊，还有fab按钮，不是很吼，不要把自己局限在MD模板上，不过考虑到刚刚开做，还too young。总体感觉设计思维还是太江化了，像我一样，走了膜改MD模板的老路，稍有常识的程序员都能看出是android studio里面的带drawer的示例程序，身为优秀蛤丝，应当提高一下自己设计上的姿势水平（我的姿势水平也有限，就做这一点微小的建议）。<br>\n看截图里面的具体功能，大概是一个demo吧，在操作逻辑上还是不要直接照搬网页的好。<br>\n如果贵站能做一个统一的续命平台，并开放API，我是资瓷的。<br>\n另外希望贵站能充分发扬代表广大蛤丝先进续命力的思想，多多思考，例如时间的转移与区块链技术的结合，可能是江来潜在的发展方向。<br>\n&nbsp;",
             "folded": false,
             "agree-by": [
                 {
@@ -243,7 +255,10 @@
             "modifyTime": "2018-04-13T00:00:00.000Z"
         },
         {
-            "author": 262,
+            "author": {
+                "user-id": 262,
+                "user-name": "kaeru教信者"
+            },
             "body": "希望能够严格的符合Material Design (Android)和iOS的应用设计规范，不要做某宝一样的流(nai)氓(ve)软件，这样才是high level",
             "folded": false,
             "agree-by": [
@@ -298,7 +313,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 640,
+            "author": {
+                "user-id": 640,
+                "user-name": "男孩为何穿红衣"
+            },
             "body": "我觉得我们可以挂young头卖苟肉<br>\n就是假装成正常的app（比如说小说app之类的），搜索特定关键字才能打开膜蛤的大门",
             "folded": false,
             "agree-by": [
@@ -349,7 +367,10 @@
             "modifyTime": "2018-04-18T00:00:00.000Z"
         },
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "把语言换成英文，毕竟这里洋文好的人多的很呐!<br>\n另外把主色调换成红色，原因无可奉告<br>\n内置一个时钟，1min=59s……",
             "folded": false,
             "agree-by": [
@@ -388,7 +409,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 204,
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
             "body": "设计平西王专题和庆丰专题",
             "folded": false,
             "agree-by": [
@@ -427,8 +451,11 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 584,
-            "body": "建议未注册游客只能查看部分内容，比如来自官方媒体关于虵的新闻~   这样安全点",
+            "author": {
+                "user-id": 584,
+                "user-name": "CR400AF0207"
+            },
+            "body": "建议未注册游客只能查看部分内容，比如来自官方媒体关于虵的新闻~ 这样安全点",
             "folded": false,
             "agree-by": [
                 {
@@ -462,7 +489,10 @@
             "modifyTime": "2018-04-14T00:00:00.000Z"
         },
         {
-            "author": 523,
+            "author": {
+                "user-id": 523,
+                "user-name": "Torrekie"
+            },
             "body": "没有iOS安装包差评",
             "folded": false,
             "agree-by": [
@@ -493,7 +523,10 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 900,
+            "author": {
+                "user-id": 900,
+                "user-name": "稍有常识的歹徒"
+            },
             "body": "上学期安卓期末作业我就做了一个，粉丝阅读器，收集了视频音频粉丝答题的功能，拿到讲台上投屏全班看。没人懂什么意思。我是个孤独的膜法师",
             "folded": false,
             "agree-by": [
@@ -520,9 +553,12 @@
             "modifyTime": "2018-04-25T00:00:00.000Z"
         },
         {
-            "author": 715,
+            "author": {
+                "user-id": 715,
+                "user-name": "长者"
+            },
             "body": "不是有&lt;膜法指南&gt;嘛?",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 872,
@@ -543,7 +579,10 @@
             "modifyTime": "2018-04-18T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "<p>请把图标改为圆形！圆角矩形不符合安卓基本法！！！<br></p>",
             "folded": false,
             "agree-by": [
@@ -566,7 +605,10 @@
             "modifyTime": "2018-05-27T00:00:00.000Z"
         },
         {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "说设计规范那位，不要思维江化，我们完全可以设计一个生命时间线诸如此类的(乱入)",
             "folded": false,
             "agree-by": [
@@ -589,7 +631,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 671,
+            "author": {
+                "user-id": 671,
+                "user-name": "东圈门楼主"
+            },
             "body": "自此得很",
             "folded": false,
             "agree-by": [
@@ -608,7 +653,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "emm我觉得网页就行啊",
             "folded": false,
             "agree-by": [
@@ -627,9 +675,12 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "内置时钟一定要设置成1min=59s。<br>\n顺便问问，要是开发膜乎app...会被墙吗。",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 872,
@@ -646,7 +697,10 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "和其他类似app一样，设置一个社区，用于发布消息，私聊也是很重要的。再加个入口用来进入这里就是坠吼的了",
             "folded": false,
             "agree-by": [
@@ -671,7 +725,10 @@
             "modifyTime": "2018-04-08T00:00:00.000Z"
         },
         {
-            "author": 1144,
+            "author": {
+                "user-id": 1144,
+                "user-name": "a660297281"
+            },
             "body": "<p>希望可以做成一个隐蔽性强的has学习交流综合社区。</p><p>会不会too hard too naive了点？</p>",
             "folded": false,
             "agree-by": [],
@@ -725,7 +782,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-29T01:45:00.000Z",
-        "views": 2441,
+        "views": 2442,
         "concerns": 20
     }
 }

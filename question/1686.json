@@ -26,7 +26,10 @@
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "政治敏感删除度和防火墙的高度一样高，想法删得厉害，我有网友遭殃了<br>\n以前是拖出去续，后来是枪毙名单，之后是为国家省点子弹，现在不知道如何了",
             "folded": false,
             "agree-by": [
@@ -45,7 +48,10 @@
             "modifyTime": "2018-06-25T00:00:00.000Z"
         },
         {
-            "author": 1307,
+            "author": {
+                "user-id": 1307,
+                "user-name": "长门有希"
+            },
             "body": "<p>上个月在知乎看到一个问题是“你是什么时候觉得自己的手机很好的？”把我恶心透了，就再也不去知乎了。</p><p>百度知道都不会有这种弱智问题。</p>",
             "folded": false,
             "agree-by": [],
@@ -113,7 +119,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-26T04:14:00.000Z",
-        "views": 296,
+        "views": 297,
         "concerns": 4
     }
 }

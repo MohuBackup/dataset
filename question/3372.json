@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "把党独占，这样就可以尽情的爱了",
             "folded": false,
             "agree-by": [
@@ -112,7 +115,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>自己建一个爱你的党。<br></p>",
             "folded": false,
             "agree-by": [
@@ -143,7 +149,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "撸起袖子加油干，只要你变成党的总书记，党就肯定爱你了",
             "folded": false,
             "agree-by": [
@@ -170,7 +179,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 1020,
+            "author": {
+                "user-id": 1020,
+                "user-name": "江军"
+            },
             "body": "<p>入党了没？？？？<br></p>",
             "folded": false,
             "agree-by": [
@@ -189,7 +201,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 2212,
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
             "body": "<p>爱他就去摸他，喜欢就雷普他啊，表白有什么用还是会被拒绝的，追不到就操，操不到就下药，翻脸就发裸照，大不了蹲监狱，你连监狱都不敢进还敢说爱他？</p>",
             "folded": false,
             "agree-by": [
@@ -208,7 +223,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>题主这是……斯德哥尔膜综合症?</p>",
             "folded": false,
             "agree-by": [
@@ -223,7 +241,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 2529,
+            "author": {
+                "user-id": 2529,
+                "user-name": "滋啦滋啦"
+            },
             "body": "有能力去改变这个党",
             "folded": false,
             "agree-by": [],
@@ -236,7 +257,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-10-12T06:53:00.000Z",
-        "views": 397,
+        "views": 398,
         "concerns": 7
     }
 }

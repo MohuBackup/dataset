@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "房子很小，没有屋顶阳台，偶尔喝一杯不能昏睡的红茶",
             "folded": false,
             "agree-by": [
@@ -69,7 +72,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "24岁，是学生",
             "folded": false,
             "agree-by": [
@@ -96,7 +102,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "身高一百七十公分，体重七十四公斤。",
             "folded": false,
             "agree-by": [
@@ -119,7 +128,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>90岁，经常参与政府组织的精准扶贫行动。</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +150,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2733,
+            "author": {
+                "user-id": 2733,
+                "user-name": "江沢"
+            },
             "body": "<p>22岁，即将失业的大学生</p>",
             "folded": false,
             "agree-by": [
@@ -201,7 +216,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-19T08:42:00.000Z",
-        "views": 395,
+        "views": 396,
         "concerns": 9
     }
 }

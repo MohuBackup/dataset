@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何设计一款以蛤文化为主题的游戏？",
         "body": "是设计成纸牌对战游戏好还是单人过关游戏好？我先尝试把人物选一下，你们看看需要怎么设计：<br>\n江主席(技能有怒斥/谈笑风生/吹拉弹唱/念诗/外语/闷声发大财/时间操纵等)，<br>\n薄都督(技能有爬山拔河/豪迈/一派胡言/打黑除恶)，<br>\n习宽衣(技能有开倒车/修宪称帝/背书单/岿然宽衣/十里山路不换肩/禁止评论等)<br>\n王73，拉萨虎，邓小平，张宝华，董先生，华莱士，彭定康，祖鹰，王铁崖，王立军，李洪志，王维林，吾尔开溜，柴玲，刘晓波，侯德健，金三胖，特朗普，奥巴马，伊丽莎白二世，rick john，胡春华，孙政才，普通蛤丝，小粉红，尬膜小鬼，轮子信徒，膜乎鹳狸猿，新蛤社，共青团中央，郭文贵，胡锡进等<br>\n场景有：膜都扬州，上海交通大学，中南海，天安门，北戴河，国机二院，庆丰包子铺，黄浦江边露天房间，秦城监狱等<br>\n任务有：Apply for Professor，8964，禁止军队经商，抗洪，与华莱士谈笑风生，怒斥香港记者，为祖鹰解决一切问题，1926生命竞赛<br>\n物品有： 黑框眼镜，裤腰带，夏威夷吉他，小背篓，红衣，毛笔，鸭嘴笔，铁骑，狗，红色法拉利，全额奖学金，书单，基本法，宪法，赛艇，大新闻，德国放大镜，脏水，包子&nbsp;&nbsp;等",
-        "author": 174,
+        "author": {
+            "user-id": 174,
+            "user-name": "岿衣"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-09T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 63,
+            "author": {
+                "user-id": 63,
+                "user-name": "新蛤社"
+            },
             "body": "这个问题非常吼，本人目前有两个点子<br>\n1. 三国杀类型卡牌游戏，分为蛤、包子、歹徒三大派系，依据角色特点设置不同技能<br>\n2.模拟养成类游戏，主人公是一位初中毕业生，开局只有一台电脑，加入党国阵营或反共阵营由玩家决定。敌对阵营角色可作为任务的攻略目标，完成任务后升级，例如小粉红→评论员→网监→主任→小官员→高官→到中南海和主席谈笑风生。可以参考其他游戏进行制作。<br>\n欢迎补充<br>\n<br>\n<br>\n&nbsp;&nbsp;&nbsp;&nbsp;",
             "folded": false,
             "agree-by": [
@@ -109,8 +115,11 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 430,
-            "body": "大概就是这样吧<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180409/1bb4c0ff6933eddef83da0e48e4b9e6a.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180409/1bb4c0ff6933eddef83da0e48e4b9e6a.jpg\" class=\"img-polaroid\" title=\"IMG_hahmu2.jpg\" alt=\"IMG_hahmu2.jpg\"></a>\n</div>",
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
+            "body": "大概就是这样吧<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/radqQ/https://www.mohu.club/uploads/answer/20180409/1bb4c0ff6933eddef83da0e48e4b9e6a.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_hahmu2.jpg\" src=\"https://archive.is/radqQ/c074109121f9c467964cebb03228383155d01f05.jpg\" title=\"IMG_hahmu2.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180409/1bb4c0ff6933eddef83da0e48e4b9e6a.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -192,8 +201,11 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 167,
-            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180409/044209983049ed0f99fd126c3bbed3f1.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180409/044209983049ed0f99fd126c3bbed3f1.jpg\" class=\"img-polaroid\" title=\"cache_52_853l8n85w.jpg\" alt=\"cache_52_853l8n85w.jpg\"></a>\n</div>",
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
+            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/radqQ/https://www.mohu.club/uploads/answer/20180409/044209983049ed0f99fd126c3bbed3f1.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"cache_52_853l8n85w.jpg\" src=\"https://archive.is/radqQ/7a5c64a602022c50c03766910c9faa4a40397ceb.jpg\" title=\"cache_52_853l8n85w.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180409/044209983049ed0f99fd126c3bbed3f1.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -263,8 +275,11 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 353,
-            "body": "@药丸日报\n<img src=\"/uploads/answer/20180410/ad0faf258ec61239ea656f2aae056240.jpg\">\n<img src=\"/uploads/answer/20180410/5144933332613cee218465f1aee339a9.jpg\">",
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
+            "body": "@药丸日报\n<img src=\"https://archive.is/radqQ/977ecff1f78caac1239eef3d4337bcd3d2eb9c5c.jpg\">\n<img src=\"https://archive.is/radqQ/e6f92f79bb640a7ad8b4dc6b112e72e78683b5c7.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -322,7 +337,10 @@
             "modifyTime": "2018-04-10T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "《旅かえる》？",
             "folded": false,
             "agree-by": [
@@ -345,7 +363,10 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 64,
+            "author": {
+                "user-id": 64,
+                "user-name": "狂人日港记"
+            },
             "body": "可以参考flappy frog和切青蛙",
             "folded": false,
             "agree-by": [
@@ -368,8 +389,11 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 881,
-            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180423/348b3f61867857fcb41ee05ab02d4d97.jpeg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180423/348b3f61867857fcb41ee05ab02d4d97.jpeg\" class=\"img-polaroid\" title=\"2E3F5056-A34E-49BF-89A1-A66CD26A1E85.jpeg\" alt=\"2E3F5056-A34E-49BF-89A1-A66CD26A1E85.jpeg\"></a>\n</div>\n<br>\n祭上这张老图",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/radqQ/https://www.mohu.club/uploads/answer/20180423/348b3f61867857fcb41ee05ab02d4d97.jpeg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"2E3F5056-A34E-49BF-89A1-A66CD26A1E85.jpeg\" src=\"https://archive.is/radqQ/0bd64c8fd8caf15efa7b82322d63ce5a102cf726.jpeg\" title=\"2E3F5056-A34E-49BF-89A1-A66CD26A1E85.jpeg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n祭上这张老图\n<img src=\"/uploads/answer/20180423/348b3f61867857fcb41ee05ab02d4d97.jpeg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -383,7 +407,10 @@
             "modifyTime": "2018-04-23T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>手机倒是可以设计一个蛤为（HAWEI）手机<br></p>",
             "folded": false,
             "agree-by": [
@@ -398,7 +425,10 @@
             "modifyTime": "2018-05-25T00:00:00.000Z"
         },
         {
-            "author": 831,
+            "author": {
+                "user-id": 831,
+                "user-name": "江煮習"
+            },
             "body": "设计成卡牌类型的游戏非常吼，但是不建议照搬三国杀&nbsp;<br>\n三国杀过于复杂，新玩家难以上手，坠痛苦的是代码实现",
             "folded": false,
             "agree-by": [],
@@ -452,7 +482,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-25T10:48:00.000Z",
-        "views": 975,
+        "views": 976,
         "concerns": 11
     }
 }

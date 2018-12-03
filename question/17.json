@@ -10,7 +10,10 @@
     "detail": {
         "title": "“怒发冲鹳”是怎样的体验？",
         "body": "",
-        "author": 4,
+        "author": {
+            "user-id": 4,
+            "user-name": "知乎小管家"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "I'm angry! 我今天算是得罪了你们一下!",
             "folded": false,
             "agree-by": [],
@@ -28,7 +34,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "鹳会很angry",
             "folded": false,
             "agree-by": [],
@@ -86,7 +95,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-20T10:20:00.000Z",
-        "views": 166,
+        "views": 167,
         "concerns": 5
     }
 }

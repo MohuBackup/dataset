@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价维基膜法师协会？",
-        "body": "<p><a href=\"https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A\" target=\"_blank\" title=\"https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A\">https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A</a><br></p>",
-        "author": 64,
+        "body": "<p><a href=\"https://archive.is/o/1j1OR/https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A\" title=\"https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://zh.wikipedia.org/wiki/User:%E8%9B%A4%E4%B8%9D/%E7%BB%B4%E5%9F%BA%E8%86%9C%E6%B3%95%E5%B8%88%E5%8D%8F%E4%BC%9A</a><br></p>",
+        "author": {
+            "user-id": 64,
+            "user-name": "狂人日港记"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-24T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>作为一个曾经奋斗过的老同志，很是欣慰啊！</p>",
             "folded": false,
             "agree-by": [
@@ -41,7 +47,10 @@
             "modifyTime": "2018-06-24T00:00:00.000Z"
         },
         {
-            "author": 1457,
+            "author": {
+                "user-id": 1457,
+                "user-name": "rua"
+            },
             "body": "当然是兹瓷啦",
             "folded": false,
             "agree-by": [
@@ -108,7 +117,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-24T09:24:00.000Z",
-        "views": 276,
+        "views": 278,
         "concerns": 3
     }
 }

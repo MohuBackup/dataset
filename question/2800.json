@@ -1,0 +1,58 @@
+{
+    "type": "question",
+    "id": 2800,
+    "tags": [
+        {
+            "tag-id": 143,
+            "tag-name": "中国"
+        }
+    ],
+    "detail": {
+        "title": "如何政治避难？",
+        "body": "如何在被当局限制出境前政治避难？<br>\n如何在被当局限制出境后政治避难？<br>",
+        "author": {
+            "user-id": 855,
+            "user-name": "齐奥塞斯库"
+        },
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-09-22T00:00:00.000Z",
+        "modifyTime": "2018-09-22T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 1662,
+                "user-name": "dqyht"
+            },
+            "body": "<p>目前以云南广西出境为多，基本和脱北者走法相同</p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1888,
+                    "user-name": "见得多了"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 1,
+            "publishTime": "2018-09-22T00:00:00.000Z",
+            "modifyTime": "2018-09-22T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "一定要留好受到迫害的证据，电话录音也好，起诉书也好，一切声音文字记录。然后按照dqyht的做法出境，去泰国，那里有联合国人权高专办办事处。提交资料，不要被泰国警察找麻烦，祝你好运！",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-09-22T00:00:00.000Z",
+            "modifyTime": "2018-09-22T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [],
+    "questionStatus": {
+        "last-active-time": "2018-09-22T01:35:00.000Z",
+        "views": 233,
+        "concerns": 3
+    }
+}

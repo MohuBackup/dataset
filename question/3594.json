@@ -10,7 +10,10 @@
     "detail": {
         "title": "拿包维尼跟元首比是不是侮辱了元首",
         "body": "<p>元首是三大混世魔王（元首，大林子，太祖）之一</p><p>但元首没读过军校就横扫了整个欧洲</p><p>在位时发展经济，提高基础设施建设水平，整顿军备，打击权贵，要不是碰了仨硬核桃（美英苏）</p><p>欧洲会在他手中统一</p><p>如果他确实统一了欧洲，晚年估计也会建设民主的初步架构，就像太祖当年没废掉政协和利用革委会和群众运动来初步建设民主结构一样</p><p>包维尼的能力体现在哪？</p>",
-        "author": 2706,
+        "author": {
+            "user-id": 2706,
+            "user-name": "反包复国"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-17T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2163,
+            "author": {
+                "user-id": 2163,
+                "user-name": "江湖夜雨"
+            },
             "body": "<p>元首没有一个中顾委常委的爹，元首的梦想是当一名画家，画的画在我这外行看来水平不错，元首参加过一战负过伤拿过勋章，元首自己成立党派切实取得了人民的实际支持，元首横扫欧洲，元首就爱娃一个女人，元首敢于以身殉党，这些包子有一项能比？</p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "<p>元首是通过选举上台的。</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -120,8 +129,11 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 881,
-            "body": "<p><img src=\"/uploads/ueditor/20181017/1539775244711697.jpeg\" title=\"1539775244711697.jpeg\" alt=\"63F85EE2-204E-4A4F-B018-35C63FD9C198.jpeg\"></p><p>就看元首对俄态度就比包子不知高到哪里去了。</p>",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p><a href=\"https://archive.is/vVapk/8ac6165cbad67e712535b29f9fc7c7ac7bed5167.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"63F85EE2-204E-4A4F-B018-35C63FD9C198.jpeg\" src=\"https://archive.is/vVapk/8ac6165cbad67e712535b29f9fc7c7ac7bed5167.jpeg\" title=\"1539775244711697.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>就看元首对俄态度就比包子不知高到哪里去了。</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -167,7 +179,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>元首是人，包维尼是畜，这两者之间根本就没有可比性！</p>",
             "folded": false,
             "agree-by": [
@@ -202,7 +217,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>元首能画画，长者懂莫奈的透视与音乐艺术，包子应该不懂。</p><p>元首打过仗，长者经历过战争，包子应该没有。</p><p>元首说德语，长者据说也懂德语，包子不懂。</p><p>元首和长者都获得了崇拜，包子获得了乳。</p><p>…</p><p>…</p><p>…</p><p>…</p><p>…</p><p>数字论证：元字和长字都是4划，包子是5划，根本凑不到一块儿。</p><p>W.T.F.</p>",
             "folded": false,
             "agree-by": [
@@ -237,7 +255,10 @@
             "modifyTime": "2018-10-18T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "元首好歹也是二十世纪排名前几的演说家，讲话讲那么慢都能念错字的包子也配和他比",
             "folded": false,
             "agree-by": [
@@ -268,7 +289,10 @@
             "modifyTime": "2018-10-17T00:00:00.000Z"
         },
         {
-            "author": 2560,
+            "author": {
+                "user-id": 2560,
+                "user-name": "vvgvv1"
+            },
             "body": "<p>元首统治下的德国工业能力科研实力世界一流，包子统治下的历害国工业靠山寨科技靠窃取</p>",
             "folded": false,
             "agree-by": [
@@ -374,7 +398,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-17T22:01:00.000Z",
-        "views": 583,
+        "views": 584,
         "concerns": 9
     }
 }

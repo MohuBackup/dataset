@@ -10,7 +10,10 @@
     "detail": {
         "title": "现在我做好了一个辱包作品，请问如何投稿至蛤诞呢？",
         "body": "",
-        "author": 1990,
+        "author": {
+            "user-id": 1990,
+            "user-name": "包包Naive"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-26T00:00:00.000Z",
@@ -18,8 +21,11 @@
     },
     "answers": [
         {
-            "author": 63,
-            "body": "欢迎投稿，稿件可以发到<br>\n<a href=\"//cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"98e0f1f6f0f9f6fdefebf9d8fff5f9f1f4b6fbf7f5\">[email&nbsp;protected]</a><br>\n也可以在推特向我发私信。",
+            "author": {
+                "user-id": 63,
+                "user-name": "新蛤社"
+            },
+            "body": "欢迎投稿，稿件可以发到<br>\nxinhanewsa@gmail.com<br>\n也可以在推特向我发私信。",
             "folded": false,
             "agree-by": [
                 {
@@ -89,7 +95,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-26T13:11:00.000Z",
-        "views": 342,
+        "views": 343,
         "concerns": 2
     }
 }

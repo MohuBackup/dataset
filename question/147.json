@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价电影《厉害了我的国》？",
         "body": "",
-        "author": 100,
+        "author": {
+            "user-id": 100,
+            "user-name": "膜务院总理"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-20T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 52,
+            "author": {
+                "user-id": 52,
+                "user-name": "潘DY"
+            },
             "body": "周厉王专断独行，残暴昏庸，把国家搞得一团糟，老百姓痛心疾首地说：「厉，害了我的国。」",
             "folded": false,
             "agree-by": [
@@ -77,7 +83,10 @@
             "modifyTime": "2018-03-24T00:00:00.000Z"
         },
         {
-            "author": 384,
+            "author": {
+                "user-id": 384,
+                "user-name": "时间的朋友"
+            },
             "body": "为人民洗脑，统治者的暴政工具，不久后我国就会变得像朝鲜一样，一个膨胀的民族主义加上一群无知的阿Q。而这些所谓的“人民代表”只不过是一群打着人民的旗号反坑人民的统治阶级，而大众只是一群无知的看客和说客。",
             "folded": false,
             "agree-by": [
@@ -120,8 +129,11 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 262,
-            "body": "厉，害了我的国！\n<img src=\"/uploads/answer/20180320/f5e5fab60480e2c808fd2c02458e54bd.jpg\">",
+            "author": {
+                "user-id": 262,
+                "user-name": "kaeru教信者"
+            },
+            "body": "厉，害了我的国！\n<img src=\"https://archive.is/8epvu/d2039948ce8419f9f6bdf819112f991368c947f9.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -159,7 +171,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 168,
+            "author": {
+                "user-id": 168,
+                "user-name": "naive"
+            },
             "body": "他也改变了中国",
             "folded": false,
             "agree-by": [
@@ -190,7 +205,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 86,
+            "author": {
+                "user-id": 86,
+                "user-name": "没有任何意思"
+            },
             "body": "他改回去了",
             "folded": false,
             "agree-by": [
@@ -221,7 +239,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 356,
+            "author": {
+                "user-id": 356,
+                "user-name": "回忆丶给了笱"
+            },
             "body": "一个人的荣誉如果是靠自己的国家，那么这个人注定是失败的",
             "folded": false,
             "agree-by": [
@@ -252,7 +273,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 129,
+            "author": {
+                "user-id": 129,
+                "user-name": "闷声发大财"
+            },
             "body": "一切的成就是人民通过劳动获得的,不是靠某人耍嘴皮子而来的.",
             "folded": false,
             "agree-by": [
@@ -283,7 +307,10 @@
             "modifyTime": "2018-03-23T00:00:00.000Z"
         },
         {
-            "author": 188,
+            "author": {
+                "user-id": 188,
+                "user-name": "夕张号巡洋舰"
+            },
             "body": "想起了勃列日涅夫",
             "folded": false,
             "agree-by": [
@@ -310,7 +337,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "强制中学生观看",
             "folded": false,
             "agree-by": [
@@ -381,7 +411,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-24T05:48:00.000Z",
-        "views": 790,
+        "views": 791,
         "concerns": 9
     }
 }

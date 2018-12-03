@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "Youtuber是否有权移除自己视频下的评论？如果可以，是不是破坏了言论自由？",
-        "body": "我上传过一个视频，看见有人评论，很开心，但是我看到有选项可以移除评论。<br>\n看到这个消息，我很非常震惊，这是不是意味着那些youtuber可以把不同观点的人，指出他错误的人的评论全部给移除掉？<br>\n这是不是在破坏言论自由？这让我非常担心，因为我不相信每一个人都可以接受不同的观点，尤其是一些发表极端言论的人。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181008/cc9faa3056babe4a56be6cb59a1b8093.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181008/cc9faa3056babe4a56be6cb59a1b8093.png\" class=\"img-thumbnail\" alt=\"IMG_20181008_234050.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 1015,
+        "body": "我上传过一个视频，看见有人评论，很开心，但是我看到有选项可以移除评论。<br>\n看到这个消息，我很非常震惊，这是不是意味着那些youtuber可以把不同观点的人，指出他错误的人的评论全部给移除掉？<br>\n这是不是在破坏言论自由？这让我非常担心，因为我不相信每一个人都可以接受不同的观点，尤其是一些发表极端言论的人。 <div>\n<a href=\"https://archive.is/o/InU9j/https://www.mohu.club/uploads/questions/20181008/cc9faa3056babe4a56be6cb59a1b8093.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181008_234050.png\" src=\"https://archive.is/InU9j/7c7b5a1ac46db7324d2ef16e732d713ff1cfc1b4.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 1015,
+            "user-name": "模糊的蛤国地狱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-08T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 2100,
+            "author": {
+                "user-id": 2100,
+                "user-name": "扛把子"
+            },
             "body": "<p>你的频道是你的私有领地，你想拉黑谁就拉黑谁，言论自由针对的是公权力</p>",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2558,
+            "author": {
+                "user-id": 2558,
+                "user-name": "李鸿章"
+            },
             "body": "<p>个人倾向于有权移除自己频道的评论，但是移除什么样的评论，取决于该频道主是个什么思想的人。我个人更倾向于油管频道类似你自己的房子，邻居可以来参观做客，但是如果行为被我认定为不可接受的，当然有权力制止，我自己的频道权力在我，因为频道是我私有的，同时油管官方也没有权力随意删除我频道的评论。</p>",
             "folded": false,
             "agree-by": [
@@ -124,7 +133,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 1441,
+            "author": {
+                "user-id": 1441,
+                "user-name": "傻个儿王"
+            },
             "body": "民主自由只针对公共事务",
             "folded": false,
             "agree-by": [
@@ -155,7 +167,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 65,
+            "author": {
+                "user-id": 65,
+                "user-name": "萝莉保护协会"
+            },
             "body": "<p>言论自由也要按照基本法来</p><p>如果他人发表了恶意攻击性等对人不利的言论<br></p><p>你是有权移除的</p>",
             "folded": false,
             "agree-by": [
@@ -178,7 +193,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>频道是你自己的东西，别人进了你的视频发东西可以删掉，你进了别人的视频发东西也会被删，和私人财产相似</p>",
             "folded": false,
             "agree-by": [
@@ -193,7 +211,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2454,
+            "author": {
+                "user-id": 2454,
+                "user-name": "Starlord"
+            },
             "body": "自己视频下的评论自己没有权利管理，那不叫自由，那是共产",
             "folded": false,
             "agree-by": [
@@ -208,7 +229,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 2063,
+            "author": {
+                "user-id": 2063,
+                "user-name": "德兰尊蛤者"
+            },
             "body": "我认为有些违背，虽然视频是属于发布者，但评论不是，一个电影导演拍了烂片能不能要求影评人撤掉自己的评论？我认为只要这个评论言之有据，不搞人身攻击，就不能随便删除。再比如大犬做的事情，我们要骂是不是要它批准，它让骂才能骂？所以我认为YouTube的规定不太合适。",
             "folded": false,
             "agree-by": [],
@@ -218,7 +242,10 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>Youtuber确实宽衣移除所有自己不喜欢的评论。</p><p>但是他不能去别人的视频下面禁别人的评，这显示了Youtube基本法的作用。</p>",
             "folded": false,
             "agree-by": [],
@@ -275,8 +302,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-31T20:32:00.000Z",
-        "views": 441,
+        "last-active-time": "2018-11-03T20:41:00.000Z",
+        "views": 442,
         "concerns": 8
     }
 }

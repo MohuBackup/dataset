@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何看待2017年底北京排华（驱逐低端人口）事件",
         "body": "",
-        "author": 642,
+        "author": {
+            "user-id": 642,
+            "user-name": "黑泽露比"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-06T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 63,
+            "author": {
+                "user-id": 63,
+                "user-name": "新蛤社"
+            },
             "body": "亲不亲，阶级分。",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,10 @@
             "modifyTime": "2018-04-09T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "没听说过<br>\n<br>\n更新<br>\n看到标题里面还有个驱逐低端人口就知道了2333<br>\n实名赞同新ha社的答案",
             "folded": false,
             "agree-by": [
@@ -72,17 +81,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": -1,
-            "body": "香港公房.jpg",
-            "folded": true,
-            "agree-by": [],
-            "using-mobile-phone": true,
-            "comments": 0,
-            "publishTime": "2018-04-06T00:00:00.000Z",
-            "modifyTime": "2018-04-06T00:00:00.000Z"
-        },
-        {
-            "author": 353,
+            "author": {
+                "user-id": 353,
+                "user-name": "扬州江氏泽寿公"
+            },
             "body": "盛京的大善人呐",
             "folded": false,
             "agree-by": [],
@@ -90,6 +92,19 @@
             "comments": 0,
             "publishTime": "2018-04-09T00:00:00.000Z",
             "modifyTime": "2018-04-09T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
+            "body": "香港公房.jpg",
+            "folded": true,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-04-06T00:00:00.000Z",
+            "modifyTime": "2018-04-06T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -140,7 +155,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-09T04:01:00.000Z",
-        "views": 388,
+        "views": 389,
         "concerns": 5
     }
 }

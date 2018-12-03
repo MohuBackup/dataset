@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价品葱倒下后膜乎突然活跃度大增的情况？",
         "body": "",
-        "author": 1393,
+        "author": {
+            "user-id": 1393,
+            "user-name": "Chinese淫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-02T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "这里用二当家的话：“我们来了就是缘分”，大家也没必要互相鄙视。膜乎和品葱用户重合度也不低，也能理解品葱用户过来这里。大家都是反对现有体制的，没必要搞得这么难受。希望你们能找到新的家园。",
             "folded": false,
             "agree-by": [
@@ -101,7 +107,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 3028,
+            "author": {
+                "user-id": 3028,
+                "user-name": "zedosu"
+            },
             "body": "<p>嗯..憋了两三天没品葱的日子...今天忽然发现还有个膜乎...</p>",
             "folded": false,
             "agree-by": [
@@ -132,7 +141,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>建议膜乎也设个墙，禁止回答长度超过一百个字(我的回答从来没有超过五十个字的)</p>",
             "folded": false,
             "agree-by": [
@@ -159,7 +171,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2974,
+            "author": {
+                "user-id": 2974,
+                "user-name": "图南"
+            },
             "body": "<p>怎么讲实在是没有办法，总要找人沟通沟通不然要憋疯</p>",
             "folded": false,
             "agree-by": [
@@ -184,7 +199,7 @@
         {
             "author": null,
             "body": "膜乎需要建立一道墙，一道限制民运喷子指点江山激扬文字的墙，一道阻止膜乎庸俗化，极端化，悲情化的墙！<br>\n<br>\n谢谢大家！",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1561,
@@ -205,7 +220,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "回答的长度也大幅增加呢",
             "folded": false,
             "agree-by": [
@@ -224,7 +242,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>增加呢大福的长度回答也</p>",
             "folded": false,
             "agree-by": [
@@ -243,7 +264,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1640,
+            "author": {
+                "user-id": 1640,
+                "user-name": "维尼小熊2022"
+            },
             "body": "回答的长度也大幅增加呢",
             "folded": false,
             "agree-by": [
@@ -258,7 +282,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>回答的长度也大幅增加呢</p>",
             "folded": false,
             "agree-by": [
@@ -273,7 +300,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1561,
+            "author": {
+                "user-id": 1561,
+                "user-name": "ま蛤ろす"
+            },
             "body": "回答的長度也大幅增加呢",
             "folded": false,
             "agree-by": [
@@ -288,7 +318,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1022,
+            "author": {
+                "user-id": 1022,
+                "user-name": "红衣维尼开倒车"
+            },
             "body": "人多力量大，吼哇！",
             "folded": false,
             "agree-by": [
@@ -303,9 +336,12 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2986,
+            "author": {
+                "user-id": 2986,
+                "user-name": "非常非常完美"
+            },
             "body": "倒的好。专门注册个账号赞一下。",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 2226,
@@ -318,7 +354,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>吼哇，人多了才热闹</p>",
             "folded": false,
             "agree-by": [],
@@ -375,8 +414,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-02T22:02:00.000Z",
-        "views": 1393,
+        "last-active-time": "2018-11-03T22:10:00.000Z",
+        "views": 1394,
         "concerns": 17
     }
 }

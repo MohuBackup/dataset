@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>欢迎你们来膜蛤青年偶像团体玩</p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +48,10 @@
             "modifyTime": "2018-11-05T00:00:00.000Z"
         },
         {
-            "author": 2999,
+            "author": {
+                "user-id": 2999,
+                "user-name": "幹乾干"
+            },
             "body": "<p>閉關鎖國後，所有外匯都會被用來續命，購買必需的糧和石油，以及現在已購買的工具機維修零件。</p><p>任何要消耗外匯的境外消費行為都不會被允許。</p>",
             "folded": false,
             "agree-by": [
@@ -64,7 +70,10 @@
             "modifyTime": "2018-11-05T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "钱都进g胖口袋里了我包皇怎么办，这是不符合核心价值观的",
             "folded": false,
             "agree-by": [
@@ -126,8 +135,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-05T12:53:00.000Z",
-        "views": 316,
+        "last-active-time": "2018-11-06T13:00:00.000Z",
+        "views": 317,
         "concerns": 3
     }
 }

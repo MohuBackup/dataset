@@ -38,7 +38,10 @@
     },
     "answers": [
         {
-            "author": 1033,
+            "author": {
+                "user-id": 1033,
+                "user-name": "公共事务苟"
+            },
             "body": "答，没有，进入体制内整天手绘十九大报告，你会变成包的信徒，丧失魔法师的先进性。",
             "folded": false,
             "agree-by": [
@@ -73,7 +76,10 @@
             "modifyTime": "2018-05-04T00:00:00.000Z"
         },
         {
-            "author": 1080,
+            "author": {
+                "user-id": 1080,
+                "user-name": "FireFox"
+            },
             "body": "参考李大人",
             "folded": false,
             "agree-by": [
@@ -92,7 +98,10 @@
             "modifyTime": "2018-05-09T00:00:00.000Z"
         },
         {
-            "author": 617,
+            "author": {
+                "user-id": 617,
+                "user-name": "酱油"
+            },
             "body": "堡垒是从内部攻破的---列宁",
             "folded": false,
             "agree-by": [
@@ -155,7 +164,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-09T07:06:00.000Z",
-        "views": 309,
+        "views": 310,
         "concerns": 4
     }
 }

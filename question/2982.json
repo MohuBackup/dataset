@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何看待抗议俄罗斯火车针对中国人收小费而被销号？",
-        "body": "如图\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180928/fa082ba0e3d319a817de37ce34954e84.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180928/fa082ba0e3d319a817de37ce34954e84.jpg\" class=\"img-thumbnail\" alt=\"IMG_20180928_084054.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 2164,
+        "body": "如图 <div>\n<a href=\"https://archive.is/o/TPo31/https://www.mohu.club/uploads/questions/20180928/fa082ba0e3d319a817de37ce34954e84.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20180928_084054.jpg\" src=\"https://archive.is/TPo31/d307eef5520bc7b61bed14cda2c57ac4028dd241.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2164,
+            "user-name": "民立报"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-28T00:00:00.000Z",
@@ -45,7 +48,10 @@
             "modifyTime": "2018-09-28T00:00:00.000Z"
         },
         {
-            "author": 1488,
+            "author": {
+                "user-id": 1488,
+                "user-name": "nocomment"
+            },
             "body": "严重乳滑，战狼小将呢？什么时候组团出兵俄罗斯？",
             "folded": false,
             "agree-by": [
@@ -60,7 +66,10 @@
             "modifyTime": "2018-09-28T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>泄漏了PY交易（两国一起割韭菜，俄负责割，然后给包，三七）和国家机密，所以被销号</p><p><br></p><p>Pyccknn交易简称PY交易</p>",
             "folded": false,
             "agree-by": [
@@ -123,7 +132,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-28T03:31:00.000Z",
-        "views": 315,
+        "views": 316,
         "concerns": 4
     }
 }

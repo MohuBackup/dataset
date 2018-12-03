@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价维尼随身带枪？",
-        "body": "<p>图片出自 YouTube 乐评人 Myke C-Town 的 Instagram Stories，此人涉嫌跨国乳包，已被宽衣拉清单，靴靴！！！</p><p><img src=\"/uploads/ueditor/20181103/1541206112488949.png\" title=\"1541206112488949.png\" alt=\"Screenshot_20181102-203422.png\"></p>",
-        "author": 2304,
+        "body": "<p>图片出自 YouTube 乐评人 Myke C-Town 的 Instagram Stories，此人涉嫌跨国乳包，已被宽衣拉清单，靴靴！！！</p><p><a href=\"https://archive.is/FXpuL/a57395eefa4d8b809295c3bef28fbd1041ec67aa.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"Screenshot_20181102-203422.png\" src=\"https://archive.is/FXpuL/a57395eefa4d8b809295c3bef28fbd1041ec67aa.png\" title=\"1541206112488949.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+        "author": {
+            "user-id": 2304,
+            "user-name": "42A"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
@@ -22,8 +25,11 @@
     },
     "answers": [
         {
-            "author": 2212,
-            "body": "<p>有以下两种可能：</p><p>1、被迫害妄想症。</p><p>2、如图：</p><p><img src=\"/uploads/ueditor/20181103/1541207086108251.jpg\" title=\"1541207086108251.jpg\" alt=\"1540973390900509.jpg\"></p>",
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
+            "body": "<p>有以下两种可能：</p><p>1、被迫害妄想症。</p><p>2、如图：</p><p><a href=\"https://archive.is/FXpuL/e3a7723145055a03ecd9e077861d1d239a106090.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"1540973390900509.jpg\" src=\"https://archive.is/FXpuL/e3a7723145055a03ecd9e077861d1d239a106090.jpg\" title=\"1541207086108251.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -65,7 +71,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>维尼懂用枪吗，懂得枪的使用方向吗，估计拿起来的时候枪口方向是对着自己呢</p><p>一突开就弄的我满脸脑浆啊满脸是血</p>",
             "folded": false,
             "agree-by": [
@@ -108,7 +117,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "维尼决心亲自上阵消灭低端人口了",
             "folded": false,
             "agree-by": [
@@ -128,7 +140,7 @@
         },
         {
             "author": null,
-            "body": "我  打  我  自  己",
+            "body": "我 打 我 自 己",
             "folded": false,
             "agree-by": [
                 {
@@ -142,8 +154,11 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 1385,
-            "body": "<p><img src=\"/uploads/ueditor/20181103/1541252622958167.jpg\" title=\"1541252622958167.jpg\" alt=\"-a294b6b668dcf1b.jpg\"></p>",
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
+            "body": "<p><a href=\"https://archive.is/FXpuL/769621e6fab4f83a0ac77070430a16a0ffb3c856.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"-a294b6b668dcf1b.jpg\" src=\"https://archive.is/FXpuL/769621e6fab4f83a0ac77070430a16a0ffb3c856.jpg\" title=\"1541252622958167.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -157,7 +172,10 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": 542,
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
             "body": "<p>说得好像维尼会用一样</p>",
             "folded": false,
             "agree-by": [
@@ -219,8 +237,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T14:18:00.000Z",
-        "views": 758,
+        "last-active-time": "2018-11-03T22:29:00.000Z",
+        "views": 762,
         "concerns": 8
     }
 }

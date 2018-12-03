@@ -11,14 +11,17 @@
         "title": "如何评价【膜法指南】网页版？",
         "body": "<p>https://github.com/Xmader/mogicians_manual<br></p>",
         "author": null,
-        "link": "https://github.com/Xmader/mogicians_manual",
+        "link": "https://archive.is/o/zRXHH/https://github.com/Xmader/mogicians_manual",
         "comments": 0,
         "publishTime": "2018-07-18T00:00:00.000Z",
         "modifyTime": "2018-07-18T00:00:00.000Z"
     },
     "answers": [
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>老nacosiren啊，之前网络上面的github里面绝对没有这个页面，都不知道有这么一个东西</p>",
             "folded": false,
             "agree-by": [],
@@ -28,7 +31,10 @@
             "modifyTime": "2018-07-18T00:00:00.000Z"
         },
         {
-            "author": 631,
+            "author": {
+                "user-id": 631,
+                "user-name": "Too_Simple"
+            },
             "body": "<p>这个东西啊, excited!</p>",
             "folded": false,
             "agree-by": [],
@@ -38,7 +44,10 @@
             "modifyTime": "2018-07-19T00:00:00.000Z"
         },
         {
-            "author": 1414,
+            "author": {
+                "user-id": 1414,
+                "user-name": "leon98zhang"
+            },
             "body": "<p>圣膜导师阁下来普渡众生了</p><p><br></p>",
             "folded": false,
             "agree-by": [],
@@ -48,8 +57,11 @@
             "modifyTime": "2018-07-19T00:00:00.000Z"
         },
         {
-            "author": 54,
-            "body": "<p>在行动端IE11上无法正常使用</p><p><a href=\"/people/InternetExplorer\" class=\"aw-user-name\" data-id=\"1051\">@InternetExplorer</a> 出来！！！<br></p>",
+            "author": {
+                "user-id": 54,
+                "user-name": "Rayista"
+            },
+            "body": "<p>在行动端IE11上无法正常使用</p><p><a href=\"https://archive.is/o/zRXHH/https://www.mohu.club/people/InternetExplorer\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;line-height:20px;font-weight:400;color:rgb(102, 102, 102);font-size:14px;\">@InternetExplorer</a>\n出来！！！<br></p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -116,7 +128,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-19T12:48:00.000Z",
-        "views": 353,
+        "views": 354,
         "concerns": 7
     }
 }

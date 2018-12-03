@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价龚琳娜？",
         "body": "<p>我从未见过如此膜包无耻之人</p>",
-        "author": 2706,
+        "author": {
+            "user-id": 2706,
+            "user-name": "反包复国"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-17T00:00:00.000Z",
@@ -81,7 +84,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-17T07:14:00.000Z",
-        "views": 189,
+        "views": 190,
         "concerns": 2
     }
 }

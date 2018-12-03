@@ -14,7 +14,10 @@
     "detail": {
         "title": "膜乎加入修改用户名的功能是否可行？",
         "body": "",
-        "author": 9,
+        "author": {
+            "user-id": 9,
+            "user-name": "Wallais_"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1,
+            "author": {
+                "user-id": 1,
+                "user-name": "EzawaNico"
+            },
             "body": "滋磁，但是修改源代码需要一定时间，预计明天中午能做完吧(逃",
             "folded": false,
             "agree-by": [
@@ -73,7 +79,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "講道理不應該用用戶名作主鍵，應該單獨弄一個id字段作主鍵，對用戶不可見，然後用戶名字段可以修改",
             "folded": false,
             "agree-by": [
@@ -104,7 +113,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "建议用户名和昵称分开（逃）<br>\n&nbsp;<br>\n更新<br>\n已经实现了",
             "folded": false,
             "agree-by": [
@@ -167,7 +179,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-01T01:59:00.000Z",
-        "views": 225,
+        "views": 226,
         "concerns": 1
     }
 }

@@ -33,8 +33,11 @@
     ],
     "detail": {
         "title": "世界上有几个必须要欺骗民众才能存活下来的政权？如何看待图片内的观点？",
-        "body": "<p><img src=\"/uploads/ueditor/20180609/1528527639870114.png\" title=\"1528527639870114.png\" alt=\"TIM图片20180609145628.png\"></p><p>另：如何看待图片内的观点？</p>",
-        "author": 927,
+        "body": "<p><a href=\"https://archive.is/VTZb2/10385969a1176e0681d9d1ddb155523fb5bed796.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"TIM图片20180609145628.png\" src=\"https://archive.is/VTZb2/10385969a1176e0681d9d1ddb155523fb5bed796.png\" title=\"1528527639870114.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>另：如何看待图片内的观点？</p>",
+        "author": {
+            "user-id": 927,
+            "user-name": "围城1923"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-09T00:00:00.000Z",
@@ -42,7 +45,10 @@
     },
     "answers": [
         {
-            "author": 902,
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
             "body": "<p>虽然任何政权都会做出一些欺骗群众的事，但还没有哪个政府像tg和朝鲜这样做得如此过分。</p>",
             "folded": false,
             "agree-by": [
@@ -133,9 +139,12 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 1157,
-            "body": "<h1>世界上又有几个不是靠欺骗民众，然后存活下来的政权呢？</h1><p><br></p>",
-            "folded": true,
+            "author": {
+                "user-id": 1157,
+                "user-name": "习明泽"
+            },
+            "body": "<h1 style=\"font-weight:500;font-family:'helvetica neue', stheiti, 微软雅黑, 'microsoft yahei', Helvetica, Arial, sans-serif;font-size:100%;line-height:1.7;color:rgb(51, 51, 51);margin: 0px 0px 10px;\">世界上又有几个不是靠欺骗民众，然后存活下来的政权呢？</h1><p><br></p>",
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 918,
@@ -196,7 +205,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 1087,
+            "author": {
+                "user-id": 1087,
+                "user-name": "Mogician江道夫"
+            },
             "body": "<p>民众要有反抗和制裁欺骗的手段，显然中国没有，甚至明着告诉你这是屎，你都不得不吃。</p>",
             "folded": false,
             "agree-by": [
@@ -255,7 +267,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 2121,
+            "author": {
+                "user-id": 2121,
+                "user-name": "烈焰之刺"
+            },
             "body": "<p>所有政府都在欺骗百姓</p><p><br></p><p>然而中国政府不仅欺骗</p><p><br></p><p>还要让你觉得骗你是看得起你</p><p><br></p><p>这就很雷害了</p>",
             "folded": false,
             "agree-by": [
@@ -311,7 +326,7 @@
         },
         {
             "author": null,
-            "body": "<p><img src=\"/uploads/ueditor/20180923/1537671584983500.jpg\" title=\"1537671584983500.jpg\" alt=\"timg.jpg\"><img src=\"/uploads/ueditor/20180923/1537671593435254.png\" title=\"1537671593435254.png\" alt=\"QQ截图20180603194733.png\"></p>",
+            "body": "<p><a href=\"https://archive.is/VTZb2/6bab0fefb5c8ae2b78e78e4d41d6c3fd4836c8f9.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"timg.jpg\" src=\"https://archive.is/VTZb2/6bab0fefb5c8ae2b78e78e4d41d6c3fd4836c8f9.jpg\" title=\"1537671584983500.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/VTZb2/47ad341879fcfcea884bb86b23ea8d5c7a02ac58.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"QQ截图20180603194733.png\" src=\"https://archive.is/VTZb2/47ad341879fcfcea884bb86b23ea8d5c7a02ac58.png\" title=\"1537671593435254.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -345,7 +360,10 @@
             "modifyTime": "2018-09-23T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "<p>支持，区别就是欺骗程度，好政权会尽可能的少欺骗自己的民众。</p>",
             "folded": false,
             "agree-by": [
@@ -376,7 +394,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 1377,
+            "author": {
+                "user-id": 1377,
+                "user-name": "VanWinnieLing"
+            },
             "body": "支意盎然",
             "folded": false,
             "agree-by": [
@@ -407,7 +428,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>政府当然必然会欺骗民众了啊!所以我们才tm的需要民主制度随时警惕啊！</p><p><br></p><p>其实这个逻辑很早以前就有人反驳过了，如下：</p><p>“大家都在吃屎，我们也要吃吗？”</p>",
             "folded": false,
             "agree-by": [
@@ -434,7 +458,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 1103,
+            "author": {
+                "user-id": 1103,
+                "user-name": "开着59压维尼"
+            },
             "body": "<p>皇恩浩荡</p>",
             "folded": false,
             "agree-by": [
@@ -449,7 +476,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 879,
+            "author": {
+                "user-id": 879,
+                "user-name": "赵紫阳"
+            },
             "body": "<p>全世界的政权都是这样，只不过做法有区别。</p>",
             "folded": false,
             "agree-by": [
@@ -464,7 +494,10 @@
             "modifyTime": "2018-09-23T00:00:00.000Z"
         },
         {
-            "author": 1713,
+            "author": {
+                "user-id": 1713,
+                "user-name": "野兽先辈"
+            },
             "body": "<p>肯定都会去欺骗，但是只有共产主义政府会需要依靠欺骗来保持存续。。</p>",
             "folded": false,
             "agree-by": [
@@ -479,7 +512,10 @@
             "modifyTime": "2018-09-23T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>欺骗都是有的，只是程度不同而已</p>",
             "folded": false,
             "agree-by": [
@@ -494,7 +530,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 918,
+            "author": {
+                "user-id": 918,
+                "user-name": "mohaha"
+            },
             "body": "<p>欺骗是一种手段，画大饼然后活下来。活下来之后填充大饼的才是好政权</p>",
             "folded": false,
             "agree-by": [],
@@ -504,7 +543,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 1069,
+            "author": {
+                "user-id": 1069,
+                "user-name": "庆丰帝"
+            },
             "body": "两者利益有冲突，就会有欺骗，但是，一定要有底线",
             "folded": false,
             "agree-by": [],
@@ -514,7 +556,10 @@
             "modifyTime": "2018-06-09T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "我们唯一能做的是尽量使自己不被欺骗呱",
             "folded": false,
             "agree-by": [],
@@ -524,7 +569,10 @@
             "modifyTime": "2018-09-09T00:00:00.000Z"
         },
         {
-            "author": 2164,
+            "author": {
+                "user-id": 2164,
+                "user-name": "民立报"
+            },
             "body": "还有，俺们手头没有选票。。。。。。",
             "folded": false,
             "agree-by": [],
@@ -592,7 +640,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-23T05:01:00.000Z",
-        "views": 1137,
+        "views": 1138,
         "concerns": 18
     }
 }

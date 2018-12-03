@@ -18,7 +18,10 @@
     "detail": {
         "title": "膜乎是不是被打了？",
         "body": "刚才准备打开膜乎，发现无法登录，刷新了一番之后就进入了Cloudflare的浏览器安全检查页面，难道是因为蛤诞祭？",
-        "author": 1438,
+        "author": {
+            "user-id": 1438,
+            "user-name": "AndyChuck"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-17T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 1,
+            "author": {
+                "user-id": 1,
+                "user-name": "EzawaNico"
+            },
             "body": "<p>刚才确实被攻击了，现在已经解决了。</p>",
             "folded": false,
             "agree-by": [
@@ -61,7 +67,10 @@
             "modifyTime": "2018-08-17T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "嗯呐，初步推断应该是政府势力",
             "folded": false,
             "agree-by": [
@@ -96,7 +105,10 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "天朝认证。",
             "folded": false,
             "agree-by": [
@@ -163,7 +175,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-17T18:18:00.000Z",
-        "views": 422,
+        "views": 423,
         "concerns": 4
     }
 }

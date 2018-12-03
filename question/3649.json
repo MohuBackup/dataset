@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "你们说网易小编得被枪毙几千次？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181019/e31c0569ac9c54e38f60937277b39a6a.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181019/e31c0569ac9c54e38f60937277b39a6a.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181019_103136.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "<div>\n<a href=\"https://archive.is/o/QSn8c/https://www.mohu.club/uploads/questions/20181019/e31c0569ac9c54e38f60937277b39a6a.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181019_103136.jpg\" src=\"https://archive.is/QSn8c/504ac1e90b1454de40293a597434721bf4430900.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 1496,
+            "author": {
+                "user-id": 1496,
+                "user-name": "ljhx"
+            },
             "body": "强制置顶，是包子自作孽，怪不得别人",
             "folded": false,
             "agree-by": [
@@ -45,7 +48,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>看样子网易养的是创象苗寨大脑升级猪</p>",
             "folded": false,
             "agree-by": [
@@ -64,7 +70,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2212,
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
             "body": "<p>网易又要整改了，小编又要下岗了。</p>",
             "folded": false,
             "agree-by": [],
@@ -74,7 +83,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>可以可以，给网易小编加子弹！</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>习近平看完之后这样说。<br></p>",
             "folded": false,
             "agree-by": [],
@@ -132,7 +144,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-19T04:01:00.000Z",
-        "views": 460,
+        "views": 461,
         "concerns": 4
     }
 }

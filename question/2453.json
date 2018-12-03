@@ -14,7 +14,10 @@
     "detail": {
         "title": "说反话是不是庆朝特色封建主义的基本组成？",
         "body": "新时代=帝制复辟<br>\n纯洁党性=贪污腐败<br>\n扩大开放=闭关锁国<br>\n心系百姓=恐怖统治<br>\n为人民服务=为人民币服务",
-        "author": 1441,
+        "author": {
+            "user-id": 1441,
+            "user-name": "傻个儿王"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-02T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1980,
+            "author": {
+                "user-id": 1980,
+                "user-name": "伟人xdd万岁"
+            },
             "body": "<p>双重思想，或曰辩证法，是使得这些言论肆无忌惮的流行起来的根本原因</p><p><br></p><p>另外，中国人本来就好和稀泥，要想让我们把一件事情说穿，实在是与民族性相抵触。这也是共产党的双重思想能在中国不断延绵的原因</p>",
             "folded": false,
             "agree-by": [
@@ -85,7 +91,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-02T04:50:00.000Z",
-        "views": 226,
+        "views": 227,
         "concerns": 2
     }
 }

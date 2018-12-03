@@ -1,0 +1,71 @@
+{
+    "type": "question",
+    "id": 4326,
+    "tags": [
+        {
+            "tag-name": "war3"
+        },
+        {
+            "tag-name": "情怀"
+        },
+        {
+            "tag-name": "暴雪游戏"
+        }
+    ],
+    "detail": {
+        "title": "怎么看暴雪重置war3？",
+        "body": "调侃了好久的war4还是没有来，希望重制版的地图编辑器能更强大吧。。同时还有魔兽世界怀旧服一波信息，暴雪是彻底走上了情怀路线了么<br>\n<br>\n附个开场动画链接http://www.bilibili.com/video/av35166588?share_medium=android&amp;share_source=copy_link&amp;bbid=96BF9662-7E07-4BC4-AB05-1C716B8D391416830infoc&amp;ts=1541437636395",
+        "author": {
+            "user-id": 2601,
+            "user-name": "ShiroeAZS"
+        },
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-06T00:00:00.000Z",
+        "modifyTime": "2018-11-06T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
+            "body": "war3的剧情很好，但是坠痛苦的就是不开秘籍根本连简单的电脑都打不过",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 2601,
+                    "user-name": "ShiroeAZS"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1611,
+                "user-name": "留级生"
+            },
+            "body": "<p>看官网有个未公开的新项目一直在大规模招聘，所以现在就是拖节奏等新游戏续命</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-06T00:00:00.000Z",
+            "modifyTime": "2018-11-06T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "为什么在膜乎无法查看被重置的账号？",
+            "id": 80
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T13:39:00.000Z",
+        "views": 104,
+        "concerns": 3
+    }
+}

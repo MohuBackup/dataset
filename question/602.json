@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价知乎程序员的洋文水平？",
         "body": "已重置：reseted<br>\n点了没有帮助的人：unhelper",
-        "author": 4,
+        "author": {
+            "user-id": 4,
+            "user-name": "知乎小管家"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-02T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 27,
+            "author": {
+                "user-id": 27,
+                "user-name": "纸糊小管家"
+            },
             "body": "挺厉害的，至少知道两个我都没听说过的英文单词，什么reseted，什么unhelper。估计纸糊程序员英语至少有13级。",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-05-02T00:00:00.000Z"
         },
         {
-            "author": 11,
+            "author": {
+                "user-id": 11,
+                "user-name": "你们有一个好"
+            },
             "body": "登录令牌 access token 写成 login ticket……",
             "folded": false,
             "agree-by": [
@@ -124,7 +133,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "初中英语水平。建议回炉重造",
             "folded": false,
             "agree-by": [
@@ -151,7 +163,10 @@
             "modifyTime": "2018-05-05T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>真好奇他们是不是把政治敏感叫做sensitive politics</p>",
             "folded": false,
             "agree-by": [
@@ -178,7 +193,10 @@
             "modifyTime": "2018-09-07T00:00:00.000Z"
         },
         {
-            "author": 204,
+            "author": {
+                "user-id": 204,
+                "user-name": "redFerrari"
+            },
             "body": "たしかに、たくさんの外国語ができる。",
             "folded": false,
             "agree-by": [
@@ -201,7 +219,10 @@
             "modifyTime": "2018-05-02T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "一点也不exciting",
             "folded": false,
             "agree-by": [],
@@ -211,7 +232,10 @@
             "modifyTime": "2018-09-07T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>还是要提高自己的姿势水平</p>",
             "folded": false,
             "agree-by": [],
@@ -269,7 +293,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-07T11:28:00.000Z",
-        "views": 488,
+        "views": 489,
         "concerns": 9
     }
 }

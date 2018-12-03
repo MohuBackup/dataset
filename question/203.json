@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价《1984》（乔治奥威尔著作）？",
         "body": "RT",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-25T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "包子曰：我青年时代就读过《一九八四》《美丽新世界》《我们》。<br>\n于是就有了“半部《一九八四》治天下”的说法。",
             "folded": false,
             "agree-by": [
@@ -89,7 +95,10 @@
             "modifyTime": "2018-04-13T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "具有xjp特色社会主义中国的写实录",
             "folded": false,
             "agree-by": [
@@ -148,7 +157,10 @@
             "modifyTime": "2018-03-29T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "提示我们不能以共产主义的名义开倒车。",
             "folded": false,
             "agree-by": [
@@ -187,7 +199,10 @@
             "modifyTime": "2018-03-30T00:00:00.000Z"
         },
         {
-            "author": 262,
+            "author": {
+                "user-id": 262,
+                "user-name": "kaeru教信者"
+            },
             "body": "现实比小说中魔幻的多",
             "folded": false,
             "agree-by": [
@@ -210,7 +225,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 297,
+            "author": {
+                "user-id": 297,
+                "user-name": "Latihas"
+            },
             "body": "操作手册",
             "folded": false,
             "agree-by": [
@@ -233,7 +251,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 444,
+            "author": {
+                "user-id": 444,
+                "user-name": "NComU"
+            },
             "body": "提示我们警惕国际共产主义运动中的变异因素，为真正的共产主义而奋斗。",
             "folded": false,
             "agree-by": [],
@@ -243,7 +264,10 @@
             "modifyTime": "2018-03-28T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "明朝清朝已经是这样了。特别是那句“壮志饥餐飞食肉，笑谈欲洒盈腔血。”",
             "folded": false,
             "agree-by": [],
@@ -253,7 +277,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "一切不同的话语甚至思想都是违法的，而百姓们却自然的服从党，对于党不想让我们评价的事情，我们都习惯性禁止自己评论了<br>\n而且，这个社会倒车到了数十年、上百年、甚至上千年前……",
             "folded": false,
             "agree-by": [],
@@ -321,7 +348,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-29T02:35:00.000Z",
-        "views": 1146,
+        "views": 1147,
         "concerns": 11
     }
 }

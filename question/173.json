@@ -14,7 +14,10 @@
     "detail": {
         "title": "有哪些优雅的文膜作品？",
         "body": "诸如膜改诗词，膜改歌曲，膜改文章等",
-        "author": 63,
+        "author": {
+            "user-id": 63,
+            "user-name": "新蛤社"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-24T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 597,
+            "author": {
+                "user-id": 597,
+                "user-name": "Amane"
+            },
             "body": "膜改歌曲最近看得不多，就说三个印象最深的吧。<br>\n一个，是16年的《无可奉告》，算是我的启蒙膜曲；<br>\n第二个，是17年的《伤心的人不要膜蛤》，填词非常优秀；<br>\n第三个，就是我和基友创作的90献礼《千本蛤》。<br>\n感谢油管bu gaosuni制作的葛平版本，high level。<br>\n&nbsp;<br>\n&nbsp;",
             "folded": false,
             "agree-by": [
@@ -85,7 +91,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-02T18:01:00.000Z",
-        "views": 338,
+        "views": 342,
         "concerns": 4
     }
 }

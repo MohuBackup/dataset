@@ -18,7 +18,10 @@
     "detail": {
         "title": "如何评价知乎管理员？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -26,8 +29,11 @@
     },
     "answers": [
         {
-            "author": 6,
-            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180303/02c415637ae87d413f1b78b3cb563863.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180303/02c415637ae87d413f1b78b3cb563863.png\" class=\"img-polaroid\" title=\"d7672bcaf8b6edc9934a05affdb8b510_r.png\" alt=\"d7672bcaf8b6edc9934a05affdb8b510_r.png\"></a>\n</div>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180303/4a8f4da298cc27724d7736f23a87a49f.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180303/4a8f4da298cc27724d7736f23a87a49f.png\" class=\"img-polaroid\" title=\"d7672bcaf8b6edc9934a05affdb8b510_b.png\" alt=\"d7672bcaf8b6edc9934a05affdb8b510_b.png\"></a>\n</div>",
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
+            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/e9Icp/https://www.mohu.club/uploads/answer/20180303/02c415637ae87d413f1b78b3cb563863.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"d7672bcaf8b6edc9934a05affdb8b510_r.png\" src=\"https://archive.is/e9Icp/ece85915c8a8474935cc963836f284318a41157f.png\" title=\"d7672bcaf8b6edc9934a05affdb8b510_r.png\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/e9Icp/https://www.mohu.club/uploads/answer/20180303/4a8f4da298cc27724d7736f23a87a49f.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"d7672bcaf8b6edc9934a05affdb8b510_b.png\" src=\"https://archive.is/e9Icp/851fdc363a3dbcc317979188dd8ccb44733f276a.png\" title=\"d7672bcaf8b6edc9934a05affdb8b510_b.png\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<img src=\"/uploads/answer/20180303/02c415637ae87d413f1b78b3cb563863.png\">\n<img src=\"/uploads/answer/20180303/4a8f4da298cc27724d7736f23a87a49f.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -104,7 +110,10 @@
             "modifyTime": "2018-05-24T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "世界上最爱权限的权限苟",
             "folded": false,
             "agree-by": [
@@ -127,7 +136,10 @@
             "modifyTime": "2018-04-06T00:00:00.000Z"
         },
         {
-            "author": 1685,
+            "author": {
+                "user-id": 1685,
+                "user-name": "习仲勋"
+            },
             "body": "网易云音乐的管理员最傻逼<br>\n知乎管理员只配排第二！",
             "folded": false,
             "agree-by": [
@@ -146,7 +158,10 @@
             "modifyTime": "2018-08-11T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "吼啊",
             "folded": false,
             "agree-by": [
@@ -165,7 +180,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 9,
+            "author": {
+                "user-id": 9,
+                "user-name": "Wallais_"
+            },
             "body": "居然答非所问被折叠了",
             "folded": true,
             "agree-by": [
@@ -232,7 +250,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-11T08:43:00.000Z",
-        "views": 799,
+        "views": 800,
         "concerns": 12
     }
 }

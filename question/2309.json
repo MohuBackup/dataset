@@ -22,7 +22,10 @@
     "detail": {
         "title": "如果有一天中共垮台，如何收拾残局",
         "body": "<p>如题</p><p>——————————————————————————————</p><p>原问题显得有些图样，重发一遍</p>",
-        "author": 1756,
+        "author": {
+            "user-id": 1756,
+            "user-name": "吃口包子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-19T00:00:00.000Z",
@@ -101,7 +104,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 1087,
+            "author": {
+                "user-id": 1087,
+                "user-name": "Mogician江道夫"
+            },
             "body": "<p>讲道理，在论坛里骂骂咧咧也不代表在现实生活中活得不健康，你说的这些都是可以同时存在在一个人身上的。</p>",
             "folded": false,
             "agree-by": [
@@ -167,7 +173,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>既然是垮台了需要收拾残局，那自然是以战争收尾，一片混乱，人口死亡过半，城市被尽数摧毁的那种情况吧。</p><p>但是这样不是最好了吗，就像千万个朝代轮回一样，新的朝代的开端，正是一个新的开始，刚好用来重建一个新的盛世。<br></p>",
             "folded": false,
             "agree-by": [
@@ -186,7 +195,10 @@
             "modifyTime": "2018-08-25T00:00:00.000Z"
         },
         {
-            "author": 1574,
+            "author": {
+                "user-id": 1574,
+                "user-name": "Marx"
+            },
             "body": "<p>叫个傻逼把国营企业出售分到每个公民手里，然后我再割韭菜，和前共产党官员一起当寡头岂不美哉？</p><p><br></p><p>收&nbsp; 拾&nbsp; 残&nbsp; 局<br></p>",
             "folded": false,
             "agree-by": [
@@ -205,9 +217,12 @@
             "modifyTime": "2018-08-26T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>知识水平够高才知道共产党不吼</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1627,
@@ -224,7 +239,10 @@
             "modifyTime": "2018-08-19T00:00:00.000Z"
         },
         {
-            "author": 1701,
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
             "body": "我可能会死吧，但谁能不死呢，想开点吧。",
             "folded": false,
             "agree-by": [
@@ -239,7 +257,10 @@
             "modifyTime": "2018-08-25T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "<p>垮台是不可能垮台的，这辈子都不可能垮台的，治国又不会治，就是禁禁评论才能维持的了倒车这样子呱。</p>",
             "folded": false,
             "agree-by": [
@@ -254,7 +275,10 @@
             "modifyTime": "2018-09-04T00:00:00.000Z"
         },
         {
-            "author": 1639,
+            "author": {
+                "user-id": 1639,
+                "user-name": "陈茂蓬"
+            },
             "body": "暂时不会的",
             "folded": false,
             "agree-by": [],
@@ -264,9 +288,12 @@
             "modifyTime": "2018-08-29T00:00:00.000Z"
         },
         {
-            "author": 1964,
+            "author": {
+                "user-id": 1964,
+                "user-name": "Will"
+            },
             "body": "<p>至少到你们这群nc喷子死之前</p><p>是看不到的</p>",
-            "folded": true,
+            "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 5,
@@ -318,7 +345,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-04T00:09:00.000Z",
-        "views": 1157,
+        "views": 1158,
         "concerns": 12
     }
 }

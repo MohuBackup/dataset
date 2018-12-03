@@ -34,7 +34,10 @@
     },
     "answers": [
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "成功点燃了反共浪潮",
             "folded": false,
             "agree-by": [
@@ -69,7 +72,10 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 1138,
+            "author": {
+                "user-id": 1138,
+                "user-name": "何惧狂澜"
+            },
             "body": "<p>发明了光速倒车法</p>",
             "folded": false,
             "agree-by": [
@@ -115,7 +121,10 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "<p>党的宣传工作越来越好了</p>",
             "folded": false,
             "agree-by": [
@@ -134,7 +143,10 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "成功引发了乳包浪潮，让大家茶余饭后又添了不少笑话。",
             "folded": false,
             "agree-by": [
@@ -153,7 +165,10 @@
             "modifyTime": "2018-06-16T00:00:00.000Z"
         },
         {
-            "author": 855,
+            "author": {
+                "user-id": 855,
+                "user-name": "齐奥塞斯库"
+            },
             "body": "无中生有",
             "folded": false,
             "agree-by": [],
@@ -199,7 +214,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-16T10:14:00.000Z",
-        "views": 366,
+        "views": 368,
         "concerns": 5
     }
 }

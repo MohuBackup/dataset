@@ -10,7 +10,10 @@
     "detail": {
         "title": "现今的中共政权是左还是右？",
         "body": "",
-        "author": 855,
+        "author": {
+            "user-id": 855,
+            "user-name": "齐奥塞斯库"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-30T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2052,
+            "author": {
+                "user-id": 2052,
+                "user-name": "ExcitingLuka"
+            },
             "body": "<p>从经济层面讲，凡是小政府-低税收-低福利三条同时满足，通过个体自由来实现群体自由的政权，称之为“右”。这一论断据称来自米塞斯和哈耶克的论证。上述三条中有任何一条不能满足的政权就可以称之为“左”，三条中有两条不能满足的大概就可以算是“极左”了。对号入座，自己判断一下</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "共匪毫无立场，毫无信仰，毫无诚信，他们只有一个企图，和围绕这个企图的各种手段，就是维持共匪的统治。讨论共匪的政治立场毫无意义，因为在共匪看来什么左派右派都是shit，抓稳枪杆子，守住中南海才是共匪唯一关心的。",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1709,
+            "author": {
+                "user-id": 1709,
+                "user-name": "tianwanggai"
+            },
             "body": "共产主义本身就是一个极左的思想，只要他们还要底裤就不会承认右。",
             "folded": false,
             "agree-by": [
@@ -95,7 +107,10 @@
             "modifyTime": "2018-09-08T00:00:00.000Z"
         },
         {
-            "author": 1888,
+            "author": {
+                "user-id": 1888,
+                "user-name": "见得多了"
+            },
             "body": "<p>其实可以笼统的称作政左经右，政左不解释了，经右是因为现在基本是权贵资本主义<br></p>",
             "folded": false,
             "agree-by": [],
@@ -153,7 +168,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-07T16:08:00.000Z",
-        "views": 493,
+        "views": 494,
         "concerns": 7
     }
 }

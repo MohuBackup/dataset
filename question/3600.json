@@ -1,0 +1,124 @@
+{
+    "type": "question",
+    "id": 3600,
+    "tags": [
+        {
+            "tag-id": 2,
+            "tag-name": "膜乎"
+        }
+    ],
+    "detail": {
+        "title": "膜乎是不是出bug了？",
+        "body": "图中的这两个问题在主页写着的是匿名用户，点进去看也是。但在主页上可以看见头像。 <div>\n<a href=\"https://archive.is/o/XaQuZ/https://www.mohu.club/uploads/questions/20181017/4f715f36c6ca4622478db1e0e6626fd1.PNG\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_1358.PNG\" src=\"https://archive.is/XaQuZ/9d7ed5881a633a24e24f9fe0089aeef70a11d5fc.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2149,
+            "user-name": "搞个小新闻"
+        },
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-10-17T00:00:00.000Z",
+        "modifyTime": "2018-10-17T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
+            "body": "<p>对√</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
+            "body": "<p>哇，国宝人肉利器啊！</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        },
+        {
+            "author": null,
+            "body": "膜乎重大漏洞发现！同志们，赶快拿小本本记名单啊，一举捣毁反动窝点立大功的时候到啦",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "<p>哈哈哈哈蛤蛤!</p><p><br></p><p>但是这个貌似是和换头像后换头像仍存在的类似种类缓存BUG吧，说不定那两个匿名用户并不是民立报本人。</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-10-17T00:00:00.000Z",
+            "modifyTime": "2018-10-17T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "我不希望膜乎变成第二个品葱！",
+            "id": 2990
+        },
+        {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
+            "title": "感觉最近膜乎里混入一些粉红蛆，管理员是不是该给予封号并告示天下的奖励了？",
+            "id": 1239
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
+        },
+        {
+            "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
+            "id": 2600
+        },
+        {
+            "title": "在膜乎问疲劳驾驶问题会不会被封号？",
+            "id": 115
+        },
+        {
+            "title": "如何评价膜乎用户@共青团中央？",
+            "id": 61
+        },
+        {
+            "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
+            "id": 863
+        },
+        {
+            "title": "共产党垮台对中国是不是大灾难？",
+            "id": 1178
+        },
+        {
+            "title": "如何评价QQ浏览器对膜乎的标记？",
+            "id": 269
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-10-17T13:44:00.000Z",
+        "views": 147,
+        "concerns": 5
+    }
+}

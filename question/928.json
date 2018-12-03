@@ -14,7 +14,10 @@
     "detail": {
         "title": "在吃鸡等在线游戏中使用长者语音包是一种怎样的体验？",
         "body": "",
-        "author": 600,
+        "author": {
+            "user-id": 600,
+            "user-name": "宝蛤子与江江美"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-21T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "我在刺激战场用人力方法弄过（打开麦克风，用另一个手机播放怒斥），于是我不能用自己的微信玩这个游戏了",
             "folded": false,
             "agree-by": [
@@ -65,7 +71,10 @@
             "modifyTime": "2018-05-21T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>你这样玩是不行的，不要拿自己的生命长度来一边玩一边流失......</p>",
             "folded": false,
             "agree-by": [
@@ -84,8 +93,11 @@
             "modifyTime": "2018-05-21T00:00:00.000Z"
         },
         {
-            "author": 1444,
-            "body": "<p>你这样子是不行的！<br></p><p><img src=\"/uploads/ueditor/20180622/1529631232259804.jpeg\" title=\"1529631232259804.jpeg\" alt=\"5467.jpeg\"></p>",
+            "author": {
+                "user-id": 1444,
+                "user-name": "gfw98k"
+            },
+            "body": "<p>你这样子是不行的！<br></p><p><a href=\"https://archive.is/hOxMu/eaad7398625c3cd07d38b01822f1fa660592b014.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"5467.jpeg\" src=\"https://archive.is/hOxMu/eaad7398625c3cd07d38b01822f1fa660592b014.jpeg\" title=\"1529631232259804.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -103,7 +115,10 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>这个呢，主要来港呢，会对你的这个战斗造成不良影响的。就比如呢，你在对枪的时候呢，一分钟只有59秒诶，这样你就比别人少了一秒钟的机会，这个在射击游戏里是坠痛苦的！</p><p>所以还是不建议在吃鸡的时候膜蛤，泽洋是吃不了鸡的！</p>",
             "folded": false,
             "agree-by": [
@@ -118,7 +133,10 @@
             "modifyTime": "2018-06-22T00:00:00.000Z"
         },
         {
-            "author": 1096,
+            "author": {
+                "user-id": 1096,
+                "user-name": "江水滔滔"
+            },
             "body": "<p>哈哈哈，这个倒是挺有新意的，我以前看过用团长的，用卢本伟的，但是没看过用长者的。你可以录制一下视频，我想看看反响。</p>",
             "folded": false,
             "agree-by": [],
@@ -128,7 +146,10 @@
             "modifyTime": "2018-05-21T00:00:00.000Z"
         },
         {
-            "author": 918,
+            "author": {
+                "user-id": 918,
+                "user-name": "mohaha"
+            },
             "body": "<p>你可以录一个，传YouTube</p>",
             "folded": false,
             "agree-by": [],
@@ -186,7 +207,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-22T03:06:00.000Z",
-        "views": 678,
+        "views": 679,
         "concerns": 6
     }
 }

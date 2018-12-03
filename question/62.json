@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何看待知乎在各大 App 平台上全线下架？",
         "body": "",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-04T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 27,
+            "author": {
+                "user-id": 27,
+                "user-name": "纸糊小管家"
+            },
             "body": "五十六个账号，五十六支花，五十六个安东尼奥是一家。五十六种语言，汇成一句话：哈哈哈哈，哈哈哈哈，哈哈哈哈！",
             "folded": false,
             "agree-by": [
@@ -105,7 +111,10 @@
             "modifyTime": "2018-03-05T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "喜闻乐见<br>\n喜从天降<br>\n喜大普奔<br>\n喜上眉梢<br>\n&nbsp;",
             "folded": false,
             "agree-by": [
@@ -184,7 +193,169 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 34,
+            "author": {
+                "user-id": 2,
+                "user-name": "喵鱼子"
+            },
+            "body": "千言万语汇成喜闻乐见、大快人心、普天同庆、奔走相告四个词。",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 54,
+                    "user-name": "Rayista"
+                },
+                {
+                    "user-id": 56,
+                    "user-name": "globalHe"
+                },
+                {
+                    "user-id": 58,
+                    "user-name": "vapor"
+                },
+                {
+                    "user-id": 375,
+                    "user-name": "Jerry_Chai"
+                },
+                {
+                    "user-id": 312,
+                    "user-name": "Meredith"
+                },
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-03-04T00:00:00.000Z",
+            "modifyTime": "2018-03-04T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 4,
+                "user-name": "知乎小管家"
+            },
+            "body": "yattaze!",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 667,
+                    "user-name": "赛艇爱好者"
+                },
+                {
+                    "user-id": 1440,
+                    "user-name": "小彼"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-02T00:00:00.000Z",
+            "modifyTime": "2018-05-02T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 959,
+                "user-name": "膜蛤新青年"
+            },
+            "body": "一颗赛艇",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 188,
+                    "user-name": "夕张号巡洋舰"
+                },
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                }
+            ],
+            "using-mobile-phone": true,
+            "comments": 0,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 312,
+                "user-name": "Meredith"
+            },
+            "body": "弹冠相庆",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 546,
+                    "user-name": "谈闹觉余"
+                },
+                {
+                    "user-id": 1212,
+                    "user-name": "wtowto"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
+            "body": "大势所趋",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-03T00:00:00.000Z",
+            "modifyTime": "2018-05-03T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1098,
+                "user-name": "IceyEllegaard"
+            },
+            "body": "闹得欢被发现",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-05-14T00:00:00.000Z",
+            "modifyTime": "2018-05-14T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 1444,
+                "user-name": "gfw98k"
+            },
+            "body": "<p>堪比苏联老大哥倒台<br></p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-06-28T00:00:00.000Z",
+            "modifyTime": "2018-06-28T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 34,
+                "user-name": "共青团中央"
+            },
             "body": "伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手刁主席万岁！",
             "folded": true,
             "agree-by": [
@@ -229,144 +400,6 @@
             "comments": 1,
             "publishTime": "2018-03-04T00:00:00.000Z",
             "modifyTime": "2018-03-04T00:00:00.000Z"
-        },
-        {
-            "author": 2,
-            "body": "千言万语汇成喜闻乐见、大快人心、普天同庆、奔走相告四个词。",
-            "folded": false,
-            "agree-by": [
-                {
-                    "user-id": 54,
-                    "user-name": "Rayista"
-                },
-                {
-                    "user-id": 56,
-                    "user-name": "globalHe"
-                },
-                {
-                    "user-id": 58,
-                    "user-name": "vapor"
-                },
-                {
-                    "user-id": 375,
-                    "user-name": "Jerry_Chai"
-                },
-                {
-                    "user-id": 312,
-                    "user-name": "Meredith"
-                },
-                {
-                    "user-id": 188,
-                    "user-name": "夕张号巡洋舰"
-                },
-                {
-                    "user-id": 546,
-                    "user-name": "谈闹觉余"
-                },
-                {
-                    "user-id": 667,
-                    "user-name": "赛艇爱好者"
-                }
-            ],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-03-04T00:00:00.000Z",
-            "modifyTime": "2018-03-04T00:00:00.000Z"
-        },
-        {
-            "author": 4,
-            "body": "yattaze!",
-            "folded": false,
-            "agree-by": [
-                {
-                    "user-id": 188,
-                    "user-name": "夕张号巡洋舰"
-                },
-                {
-                    "user-id": 546,
-                    "user-name": "谈闹觉余"
-                },
-                {
-                    "user-id": 667,
-                    "user-name": "赛艇爱好者"
-                },
-                {
-                    "user-id": 1440,
-                    "user-name": "小彼"
-                }
-            ],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-05-02T00:00:00.000Z",
-            "modifyTime": "2018-05-02T00:00:00.000Z"
-        },
-        {
-            "author": 959,
-            "body": "一颗赛艇",
-            "folded": false,
-            "agree-by": [
-                {
-                    "user-id": 188,
-                    "user-name": "夕张号巡洋舰"
-                },
-                {
-                    "user-id": 546,
-                    "user-name": "谈闹觉余"
-                }
-            ],
-            "using-mobile-phone": true,
-            "comments": 0,
-            "publishTime": "2018-05-03T00:00:00.000Z",
-            "modifyTime": "2018-05-03T00:00:00.000Z"
-        },
-        {
-            "author": 312,
-            "body": "弹冠相庆",
-            "folded": false,
-            "agree-by": [
-                {
-                    "user-id": 546,
-                    "user-name": "谈闹觉余"
-                },
-                {
-                    "user-id": 1212,
-                    "user-name": "wtowto"
-                }
-            ],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-05-03T00:00:00.000Z",
-            "modifyTime": "2018-05-03T00:00:00.000Z"
-        },
-        {
-            "author": 56,
-            "body": "大势所趋",
-            "folded": false,
-            "agree-by": [],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-05-03T00:00:00.000Z",
-            "modifyTime": "2018-05-03T00:00:00.000Z"
-        },
-        {
-            "author": 1098,
-            "body": "闹得欢被发现",
-            "folded": false,
-            "agree-by": [],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-05-14T00:00:00.000Z",
-            "modifyTime": "2018-05-14T00:00:00.000Z"
-        },
-        {
-            "author": 1444,
-            "body": "<p>堪比苏联老大哥倒台<br></p>",
-            "folded": false,
-            "agree-by": [],
-            "using-mobile-phone": false,
-            "comments": 0,
-            "publishTime": "2018-06-28T00:00:00.000Z",
-            "modifyTime": "2018-06-28T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -399,12 +432,12 @@
             "id": 2253
         },
         {
-            "title": "如何看待“小粉红”群体？",
-            "id": 230
-        },
-        {
             "title": "如何看待hath低龄化以及无脑跟风膜？",
             "id": 130
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
         },
         {
             "title": "如何评价知乎？",
@@ -417,7 +450,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-27T17:15:00.000Z",
-        "views": 848,
+        "views": 849,
         "concerns": 12
     }
 }

@@ -22,7 +22,10 @@
     "detail": {
         "title": "如何做到在B站上传膜蛤视频而不被封号",
         "body": "不包括尬膜（直接展示长者等情节），只会出现红宝书（遮挡了“中国”二字）、毕业歌、被续。<br>\n上传这样的视频会被封号吗",
-        "author": 1438,
+        "author": {
+            "user-id": 1438,
+            "user-name": "AndyChuck"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-14T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 235,
+            "author": {
+                "user-id": 235,
+                "user-name": "鸣则酱"
+            },
             "body": "<p>有人@我了，那我就来现身说法</p><p>在b站膜蛤了</p><p>那b站封不封你号就是不可预料的了。</p><p><br></p><p>我被封过几天是因为id和头像，那时候id还叫 江鸡就鸡&nbsp; 头像写了个&nbsp; naive 。后来几个月搞了个小号也换上了同样的id头像结果就只是清除而没有封7天。可见b站对于膜封号制度确实是不可预料。</p><p>其中也以下可能:不同管理员处置方式不同、敏感时期、膜蛤稿件数占比大</p>",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-08-15T00:00:00.000Z"
         },
         {
-            "author": 1467,
+            "author": {
+                "user-id": 1467,
+                "user-name": "习远平"
+            },
             "body": "除非你是我侄女",
             "folded": false,
             "agree-by": [
@@ -80,8 +89,11 @@
             "modifyTime": "2018-08-14T00:00:00.000Z"
         },
         {
-            "author": 881,
-            "body": "<p><a href=\"/people/%E9%B8%A3%E5%88%99%E9%85%B1\" class=\"aw-user-name\" data-id=\"235\">@鸣则酱</a> 发过，然后被短暂风过几天，id换过几次，但还吼，没被永丰（不像我的b站号）</p>",
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
+            "body": "<p><a href=\"https://archive.is/o/2uq7F/https://www.mohu.club/people/%E9%B8%A3%E5%88%99%E9%85%B1\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;line-height:20px;font-weight:400;color:rgb(102, 102, 102);font-size:14px;\">@鸣则酱</a>\n发过，然后被短暂风过几天，id换过几次，但还吼，没被永丰（不像我的b站号）</p>",
             "folded": false,
             "agree-by": [
                 {
@@ -151,7 +163,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-15T03:29:00.000Z",
-        "views": 363,
+        "views": 364,
         "concerns": 4
     }
 }

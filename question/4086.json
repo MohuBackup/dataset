@@ -17,8 +17,11 @@
     ],
     "detail": {
         "title": "如何防止境外中文问答网站被续？",
-        "body": "<p><br>之前的<a href=\"https://www.pin-cong.com/\" target=\"_self\" title=\"\">品葱网</a>突然无法访问，疑似被续，其Twitter账号（<a href=\"https://twitter.com/CongerPin\">https://twitter.com/CongerPin</a>）也被注销。请问为什么在海外建立的网站也会被续，另外像膜乎这样境外中文问答网站应该如何防止被续？</p>",
-        "author": 2960,
+        "body": "<p><br>之前的<a href=\"https://archive.is/o/84YWK/https://www.pin-cong.com/\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">品葱网</a>突然无法访问，疑似被续，其Twitter账号（<a href=\"https://archive.is/o/84YWK/https://twitter.com/CongerPin\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\">https://twitter.com/CongerPin</a>）也被注销。请问为什么在海外建立的网站也会被续，另外像膜乎这样境外中文问答网站应该如何防止被续？</p>",
+        "author": {
+            "user-id": 2960,
+            "user-name": "柳絮飞"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-02T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 2812,
+            "author": {
+                "user-id": 2812,
+                "user-name": "huangkangfu"
+            },
             "body": "<p>一定以及肯定是网站创始人被找到了，而且此人或此人亲属就在国内。</p><p><br></p><p>即使安全工作做的自认为非常周全，以现在的科技手段想要找人其实不难。</p><p><br></p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-11-02T00:00:00.000Z"
         },
         {
-            "author": 2903,
+            "author": {
+                "user-id": 2903,
+                "user-name": "viewer"
+            },
             "body": "肉身海外的公開反共人士太多了，大不了六親不認的。品蔥管理員恐怕是肉身牆內才會如此。",
             "folded": false,
             "agree-by": [
@@ -107,8 +116,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T22:02:00.000Z",
-        "views": 284,
+        "last-active-time": "2018-11-03T22:11:00.000Z",
+        "views": 285,
         "concerns": 5
     }
 }

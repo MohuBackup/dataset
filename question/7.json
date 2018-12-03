@@ -22,7 +22,10 @@
     "detail": {
         "title": "知乎管理员胡乱封禁大V并清空其答案是否是恬不知耻的表现？",
         "body": "",
-        "author": 2,
+        "author": {
+            "user-id": 2,
+            "user-name": "喵鱼子"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -30,7 +33,10 @@
     },
     "answers": [
         {
-            "author": 9,
+            "author": {
+                "user-id": 9,
+                "user-name": "Wallais_"
+            },
             "body": "你这个让我想起以前我们的房东<br>\n有人来看房子时他们把邋遢的地方都藏起来",
             "folded": false,
             "agree-by": [
@@ -109,7 +115,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 3,
+            "author": {
+                "user-id": 3,
+                "user-name": "多实子酱"
+            },
             "body": "就是啊",
             "folded": false,
             "agree-by": [
@@ -156,7 +165,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 20,
+            "author": {
+                "user-id": 20,
+                "user-name": "立花琴子"
+            },
             "body": "就是啊（",
             "folded": false,
             "agree-by": [
@@ -191,7 +203,10 @@
             "modifyTime": "2018-03-04T00:00:00.000Z"
         },
         {
-            "author": 52,
+            "author": {
+                "user-id": 52,
+                "user-name": "潘DY"
+            },
             "body": "就是啊",
             "folded": false,
             "agree-by": [
@@ -232,12 +247,12 @@
             "id": 48
         },
         {
-            "title": "膜乎管理员和知乎管理员的差别在哪里？",
-            "id": 122
-        },
-        {
             "title": "如何看待知乎在各大 App 平台上全线下架？",
             "id": 62
+        },
+        {
+            "title": "膜乎管理员和知乎管理员的差别在哪里？",
+            "id": 122
         },
         {
             "title": "膜乎用户和知乎用户有哪些异同点？",
@@ -262,7 +277,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-05T14:56:00.000Z",
-        "views": 495,
+        "views": 496,
         "concerns": 10
     }
 }

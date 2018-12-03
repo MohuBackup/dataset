@@ -37,7 +37,10 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>夏业良</p>",
             "folded": false,
             "agree-by": [],
@@ -104,8 +107,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-10-28T19:46:00.000Z",
-        "views": 321,
+        "last-active-time": "2018-11-03T19:55:00.000Z",
+        "views": 322,
         "concerns": 3
     }
 }

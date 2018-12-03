@@ -10,7 +10,10 @@
     "detail": {
         "title": "中共是不是在很早以前就准备好闭关锁国了",
         "body": "我在推特上看到一种说法，中共在包子上台前，甚至是加入wto前就已经准备好闭关锁国。大家觉得可信度有多高？",
-        "author": 2597,
+        "author": {
+            "user-id": 2597,
+            "user-name": "lt1912"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-16T00:00:00.000Z",
@@ -53,7 +56,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>当然啦！闭关锁国是我们大清的特色！不锁国你还好意思叫大清吗？</p>",
             "folded": false,
             "agree-by": [
@@ -72,7 +78,10 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": 2497,
+            "author": {
+                "user-id": 2497,
+                "user-name": "sunjinxiang"
+            },
             "body": "是的，这也就是我认为一直针对习没什么意思的原因。习现在走的就是薄的道路，你觉得换个人上来还有区别吗？",
             "folded": false,
             "agree-by": [
@@ -135,7 +144,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-16T01:19:00.000Z",
-        "views": 360,
+        "views": 361,
         "concerns": 4
     }
 }

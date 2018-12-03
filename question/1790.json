@@ -10,7 +10,10 @@
     "detail": {
         "title": "膜乎是否应该搞一个聊天室",
         "body": "<p>这样has们无聊的时候就可以在线即时聊天了。<br></p>",
-        "author": 1116,
+        "author": {
+            "user-id": 1116,
+            "user-name": "cauchy"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-07-01T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 6,
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
             "body": "<p>Telegram 有一个 @mohufans。<br></p>",
             "folded": false,
             "agree-by": [],
@@ -76,7 +82,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-01T07:22:00.000Z",
-        "views": 187,
+        "views": 188,
         "concerns": 2
     }
 }

@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2149,
+            "author": {
+                "user-id": 2149,
+                "user-name": "搞个小新闻"
+            },
             "body": "发文章更吼哇。一人一个踩，威望负一百",
             "folded": false,
             "agree-by": [
@@ -93,7 +96,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-26T11:17:00.000Z",
-        "views": 185,
+        "views": 186,
         "concerns": 4
     }
 }

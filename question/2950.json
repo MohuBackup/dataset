@@ -14,7 +14,10 @@
     "detail": {
         "title": "吃饱了没事干我们应该干什么？",
         "body": "",
-        "author": 648,
+        "author": {
+            "user-id": 648,
+            "user-name": "jiangzhuxi"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-27T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>我们又不是外国佬，怎么可能吃饱了没事干，我们吃饱了以后就得拼命干活，直到我们累倒之前。</p>",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "我们又不是歪果仁，怎么可能吃饱了没事干",
             "folded": false,
             "agree-by": [
@@ -100,7 +109,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>我们连衣都宽掉了，怎么可能吃的饱？吃不饱当然没法指手画脚了。</p>",
             "folded": false,
             "agree-by": [
@@ -127,7 +139,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "可以做的事情多的很呐！帮农村建设沼气，研究声乐唱法，扛二百斤锻炼走路，40分钟以内物色妻子，按电脑键盘上那个颜色不同的按键；高级: 学多国语言，保持落观，接受外国记者采访，研究莫奈的透视，微积分，五点共圆，视察，放鞭炮包饺子看电视，演奏尤克里里，唱歌，外语演讲，拿喇叭振奋打气。。",
             "folded": false,
             "agree-by": [
@@ -150,7 +165,10 @@
             "modifyTime": "2018-09-27T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>干什么？撸起袖子加油干</p>",
             "folded": false,
             "agree-by": [
@@ -233,7 +251,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-27T04:22:00.000Z",
-        "views": 362,
+        "views": 363,
         "concerns": 6
     }
 }

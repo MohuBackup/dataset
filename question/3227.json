@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何看待将推出的全国公职人员行为大数据检测及预警系统？",
-        "body": "网络传出全国公职人员行为大数据检测及预警系统的功能，以及应用。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181008/294a5416725cfffec76749ebd096866e.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181008/294a5416725cfffec76749ebd096866e.jpg\" class=\"img-thumbnail\" alt=\"Image-from-iOS-copy.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181008/41041c385b32426757728a4bc1e1f5ca.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181008/41041c385b32426757728a4bc1e1f5ca.jpg\" class=\"img-thumbnail\" alt=\"Image-from-iOS-1-copy.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "网络传出全国公职人员行为大数据检测及预警系统的功能，以及应用。 <div>\n<a href=\"https://archive.is/o/n6I8U/https://www.mohu.club/uploads/questions/20181008/294a5416725cfffec76749ebd096866e.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Image-from-iOS-copy.jpg\" src=\"https://archive.is/n6I8U/cdadb0666d51f5f1c4b1e8abef4c483a77c4777d.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/n6I8U/https://www.mohu.club/uploads/questions/20181008/41041c385b32426757728a4bc1e1f5ca.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Image-from-iOS-1-copy.jpg\" src=\"https://archive.is/n6I8U/1e6a92f8b8000fb1a5d43268954225e2ec0d0e15.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,7 +22,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>赛博朋克，来了</p><p>大家要准备好迎接新疆模式了吗？</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +52,10 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": 1578,
+            "author": {
+                "user-id": 1578,
+                "user-name": "特朗普"
+            },
             "body": "2028年：全国公民行为大数据检测及预警系统上线，全国15亿人民全天24小时的经济活动皆无处遁形。",
             "folded": false,
             "agree-by": [
@@ -72,7 +78,10 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>所以说新疆模式会逐渐推广至全国各地啊。</p><p>公职人员抢先广大劳动人民一步，实属喜闻乐见。<br></p>",
             "folded": false,
             "agree-by": [
@@ -139,7 +148,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-08T03:37:00.000Z",
-        "views": 293,
+        "views": 294,
         "concerns": 5
     }
 }

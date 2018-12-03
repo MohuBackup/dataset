@@ -25,8 +25,11 @@
     ],
     "detail": {
         "title": "如何看待近期新疆问题",
-        "body": "如图，新疆学生连上课的地方与内容与我们完全不同！\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180906/2a4137bb479ac4489cb6b5c5d8e71776.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180906/2a4137bb479ac4489cb6b5c5d8e71776.png\" class=\"img-thumbnail\" alt=\"Screenshot_2018-09-06-19-47-10-74.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 2039,
+        "body": "如图，新疆学生连上课的地方与内容与我们完全不同！ <div>\n<a href=\"https://archive.is/o/JEEq8/https://www.mohu.club/uploads/questions/20180906/2a4137bb479ac4489cb6b5c5d8e71776.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_2018-09-06-19-47-10-74.png\" src=\"https://archive.is/JEEq8/d34a45ac33a5cd3482f838913864e01af26aafb9.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2039,
+            "user-name": "习特勒real"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-07T00:00:00.000Z",
@@ -34,7 +37,10 @@
     },
     "answers": [
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>先在新疆進行“再教育改革試點”。</p><p>習主席在新疆畫了一個圈，欽定這裡先改革。</p><p>如果洗腦效果好的話，那就全國推行。</p><p>先洗帶后洗，共奔洗腦路。</p>",
             "folded": false,
             "agree-by": [
@@ -71,7 +77,7 @@
         {
             "author": null,
             "body": "事出反常必有因，新疆面临东突等恐怖组织及分离势力的严重威胁，不少维族仇汉情绪严重, 绿教加上分离思想极其可怕，只要给维族一点机会，绝对不会给汉族留下活路，所以要高压维稳。在思想上也要管控，君不见推特上多少替东突站台的汉人？即使没法让维族回心转意，也要降低汉族学生被卖了还给人数钱的可能性，让汉族学生明白是非。题主可以去新疆随便问一位汉族人，百分百支持当局在新疆的各项政策，这是很合理的做法。",
-            "folded": true,
+            "folded": false,
             "agree-by": [
                 {
                     "user-id": 1426,
@@ -103,7 +109,10 @@
             "modifyTime": "2018-09-07T00:00:00.000Z"
         },
         {
-            "author": 1090,
+            "author": {
+                "user-id": 1090,
+                "user-name": "lll"
+            },
             "body": "傻逼民族政策系列",
             "folded": false,
             "agree-by": [],
@@ -161,7 +170,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-08T02:43:00.000Z",
-        "views": 549,
+        "views": 550,
         "concerns": 6
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "为什么包子不让人民币贬值？",
         "body": "外汇管制、减少海外投资？日本的日元贬值塑造了一个繁荣的日本，包子反对人民币贬值就是为了让老百姓过苦日子？",
-        "author": 2226,
+        "author": {
+            "user-id": 2226,
+            "user-name": "revolt"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-26T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 2558,
+            "author": {
+                "user-id": 2558,
+                "user-name": "李鸿章"
+            },
             "body": "<p>人民币贬值：不可替代进口原料成本上升，制造业利润降低，制造业成本压力转嫁消费者，消费者消费压力增加，怨声载道，维稳形势紧张，party over风险增加。<br></p><p>人民币升值：出口产品受挫，国内出口企业规模萎缩，大量失业，怨声载道，维稳形势紧张，中产阶级移民，大量贪官卷款外逃，国有资产流失，party over风险增加。</p><p>以上是个人看法。</p>",
             "folded": false,
             "agree-by": [
@@ -53,7 +59,10 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": 2212,
+            "author": {
+                "user-id": 2212,
+                "user-name": "膜膜糊糊的包子"
+            },
             "body": "<p>好不容易骗你进了土匪窝，哪有那么轻易地让你开溜？</p>",
             "folded": false,
             "agree-by": [
@@ -80,7 +89,10 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": 2601,
+            "author": {
+                "user-id": 2601,
+                "user-name": "ShiroeAZS"
+            },
             "body": "共克时艰，自力更生",
             "folded": false,
             "agree-by": [],
@@ -90,7 +102,10 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>“共”克时艰(意味深)</p>",
             "folded": false,
             "agree-by": [],
@@ -100,7 +115,10 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>中国不以追求贸易逆差为目标</p>",
             "folded": false,
             "agree-by": [],
@@ -158,7 +176,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-26T05:15:00.000Z",
-        "views": 335,
+        "views": 336,
         "concerns": 7
     }
 }

@@ -10,7 +10,10 @@
     "detail": {
         "title": "请问佳士工人事件是否说明政府是人民币的好公仆？",
         "body": "<p>如果我们的铁骑直接驰骋在工人的住所！</p>",
-        "author": 1911,
+        "author": {
+            "user-id": 1911,
+            "user-name": "kiana"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-26T00:00:00.000Z",
@@ -33,7 +36,10 @@
             "modifyTime": "2018-08-26T00:00:00.000Z"
         },
         {
-            "author": 1709,
+            "author": {
+                "user-id": 1709,
+                "user-name": "tianwanggai"
+            },
             "body": "政府是党的爪牙",
             "folded": false,
             "agree-by": [
@@ -74,7 +80,7 @@
             "id": 2731
         },
         {
-            "title": " 如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
+            "title": "如何看待李克强让人民用互联网大数据全程监督政府行为的讲话被删除？",
             "id": 599
         },
         {
@@ -96,7 +102,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-29T04:26:00.000Z",
-        "views": 327,
+        "views": 328,
         "concerns": 4
     }
 }

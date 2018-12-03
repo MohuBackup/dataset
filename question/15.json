@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价长三角文学社？",
         "body": "",
-        "author": 3,
+        "author": {
+            "user-id": 3,
+            "user-name": "多实子酱"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 6,
+            "author": {
+                "user-id": 6,
+                "user-name": "刘松泉"
+            },
             "body": "首先评价下群名。「+lX8-三角（居+bBE-）」大家都懂，意思是：<br>\n+bF9tWXaEXEVsEQA9bF9tWWwRAD1sX2z9bBE-<br>\n「文学社」始于本人著的《+lX8-三角群 DDLC 说》。<br>\n至于这个群，给我一种+d+WLxmw0XnM-很高的感觉。我在群里弹奏过恶臭音乐，所以那群也挺臭的。",
             "folded": false,
             "agree-by": [
@@ -49,7 +55,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 35,
+            "author": {
+                "user-id": 35,
+                "user-name": "云山間·王文徽"
+            },
             "body": "這個羣啊，excited！<br>\n可以學習人生經驗，延年益壽",
             "folded": false,
             "agree-by": [
@@ -68,7 +77,10 @@
             "modifyTime": "2018-03-03T00:00:00.000Z"
         },
         {
-            "author": 9,
+            "author": {
+                "user-id": 9,
+                "user-name": "Wallais_"
+            },
             "body": "这个社团活动不错，到时候也帮忙宣传宣传，以后很快就人上人海要升级成千人群了",
             "folded": false,
             "agree-by": [
@@ -135,7 +147,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-03T14:26:00.000Z",
-        "views": 301,
+        "views": 302,
         "concerns": 7
     }
 }

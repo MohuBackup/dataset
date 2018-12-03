@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何评价胡锦涛那几年",
         "body": "感觉影帝的舆论更大，胡锦涛就低调多了",
-        "author": 1122,
+        "author": {
+            "user-id": 1122,
+            "user-name": "江蛤冥续习贱贫"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-05-14T00:00:00.000Z",
@@ -53,7 +56,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 1022,
+            "author": {
+                "user-id": 1022,
+                "user-name": "红衣维尼开倒车"
+            },
             "body": "确实有建设，但任内太过低调，以至于那几年有点身在福中不知福，光看到腐败的一面了，其实现在想想那个年代还是比现在好的",
             "folded": false,
             "agree-by": [
@@ -84,7 +90,10 @@
             "modifyTime": "2018-05-15T00:00:00.000Z"
         },
         {
-            "author": 866,
+            "author": {
+                "user-id": 866,
+                "user-name": "黑框长者"
+            },
             "body": "涛哥和长者都属于闷声大发财的，韬光养蓄，为中国的发展做出了巨大贡献，不想某包子每天喊口号开倒车。",
             "folded": false,
             "agree-by": [
@@ -111,7 +120,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 833,
+            "author": {
+                "user-id": 833,
+                "user-name": "社会主义之光"
+            },
             "body": "太过低调了，以至于存在感偏低，不过对中国的建设是实打实的干货",
             "folded": false,
             "agree-by": [
@@ -130,7 +142,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 887,
+            "author": {
+                "user-id": 887,
+                "user-name": "虵改变了中国"
+            },
             "body": "都是一派胡言",
             "folded": false,
             "agree-by": [],
@@ -140,7 +155,10 @@
             "modifyTime": "2018-05-14T00:00:00.000Z"
         },
         {
-            "author": 1103,
+            "author": {
+                "user-id": 1103,
+                "user-name": "开着59压维尼"
+            },
             "body": "维稳帝",
             "folded": false,
             "agree-by": [],
@@ -198,7 +216,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-14T16:01:00.000Z",
-        "views": 719,
+        "views": 725,
         "concerns": 7
     }
 }

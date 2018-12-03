@@ -18,7 +18,10 @@
     "detail": {
         "title": "请问各位谁拥有目前有效的安卓改号软件？",
         "body": "发短信给一个尬膜小子，传授他一点人生的经验。",
-        "author": 849,
+        "author": {
+            "user-id": 849,
+            "user-name": "jzm"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-04-21T00:00:00.000Z",
@@ -26,7 +29,10 @@
     },
     "answers": [
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "可以配合TextNow申请Google Voice，这样就能够得到一个美国的手机号，而且拨打美国本地号码是免费的，拨打中国也只需要1美分/分钟，谈笑风声的成本很低。<br>\n但是呢，我并不兹磁这样的行为，这样显得很年轻，很幼稚，真正的粉丝会通过展现强大的膜力来展现真正膜法，而不是搞个大新闻，把对方批判一番。",
             "folded": false,
             "agree-by": [
@@ -45,7 +51,10 @@
             "modifyTime": "2018-04-21T00:00:00.000Z"
         },
         {
-            "author": 370,
+            "author": {
+                "user-id": 370,
+                "user-name": "冮泽民"
+            },
             "body": "Naive!蛤丝们要包容，详见「蛤丝低龄化」",
             "folded": false,
             "agree-by": [],
@@ -55,7 +64,10 @@
             "modifyTime": "2018-04-21T00:00:00.000Z"
         },
         {
-            "author": 430,
+            "author": {
+                "user-id": 430,
+                "user-name": "小管家"
+            },
             "body": "可以用网络电话和他谈笑风生",
             "folded": false,
             "agree-by": [],
@@ -113,7 +125,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-04-21T12:42:00.000Z",
-        "views": 275,
+        "views": 276,
         "concerns": 4
     }
 }

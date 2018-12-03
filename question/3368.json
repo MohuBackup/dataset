@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何评价蔡英文的这条问答。",
-        "body": "蔡回答: 作为一个有礼貌的总统，我都会跟他们握手的。\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181011/b93ee81b6cda04911132c9a5aa277ffb.png\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181011/b93ee81b6cda04911132c9a5aa277ffb.png\" class=\"img-thumbnail\" alt=\"04250FF4-07E3-447C-A196-B226B355865E.png\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "蔡回答: 作为一个有礼貌的总统，我都会跟他们握手的。 <div>\n<a href=\"https://archive.is/o/qLoh3/https://www.mohu.club/uploads/questions/20181011/b93ee81b6cda04911132c9a5aa277ffb.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"04250FF4-07E3-447C-A196-B226B355865E.png\" src=\"https://archive.is/qLoh3/a810ebcb5cbecf18fb2d4af1bd945ab49df09515.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>气晕在厕所，摔的满脸是粪</p>",
             "folded": false,
             "agree-by": [
@@ -49,7 +52,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 2226,
+            "author": {
+                "user-id": 2226,
+                "user-name": "revolt"
+            },
             "body": "有礼貌的总统和没文化的皇帝！",
             "folded": false,
             "agree-by": [
@@ -68,7 +74,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "<p>菜菜姐上次才给长者续了一秒，这次又把习包子气晕在厕所，实在是文膜武乳的大佬！(蔡总统蛤丝说又一力证)</p>",
             "folded": false,
             "agree-by": [
@@ -87,7 +96,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 2194,
+            "author": {
+                "user-id": 2194,
+                "user-name": "野獣先輩"
+            },
             "body": "怎么回答的？图里只看到了问题呀",
             "folded": false,
             "agree-by": [],
@@ -97,7 +109,10 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "<p>提问的人有些口直心快，闽南语说“chuà saì”</p>",
             "folded": false,
             "agree-by": [],
@@ -165,7 +180,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T00:46:00.000Z",
-        "views": 363,
+        "views": 364,
         "concerns": 7
     }
 }

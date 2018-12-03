@@ -10,16 +10,22 @@
     "detail": {
         "title": "你对膜乎有什么建议？",
         "body": "",
-        "author": 975,
-        "link": "https://mohu1.tk/question/126",
+        "author": {
+            "user-id": 975,
+            "user-name": "空水中明"
+        },
+        "link": "https://archive.is/o/GBdUY/https://mohu1.tk/question/126",
         "comments": 0,
         "publishTime": "2018-05-01T00:00:00.000Z",
         "modifyTime": "2018-05-01T00:00:00.000Z"
     },
     "answers": [
         {
-            "author": 902,
-            "body": "1、膜乎上的“收藏”功能形同虚设，查看不了（已解决）<br>\n2、在“编辑回复”中也添加自动保存草稿的功能，以免手滑关掉<br>\n3、关于“发布文章”的建议同上<br>\n4、“分享”功能也如同虚设，建议在子选项再增一栏”复制链接“，指向自己的答案<br>\n<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\" class=\"img-polaroid\" title=\"360截图-239810781.jpg\" alt=\"360截图-239810781.jpg\"></a>\n</div>\n<br>\n5、对于已发表的未匿名的答案，可以选择重新匿名",
+            "author": {
+                "user-id": 902,
+                "user-name": "小熊维尼"
+            },
+            "body": "1、膜乎上的“收藏”功能形同虚设，查看不了（已解决）<br>\n2、在“编辑回复”中也添加自动保存草稿的功能，以免手滑关掉<br>\n3、关于“发布文章”的建议同上<br>\n4、“分享”功能也如同虚设，建议在子选项再增一栏”复制链接“，指向自己的答案<br>\n<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<a href=\"https://archive.is/o/GBdUY/https://www.mohu.club/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"360截图-239810781.jpg\" src=\"https://archive.is/GBdUY/04d1ce9124f8b20decbcb4ce8c8411e95f4896fc.jpg\" title=\"360截图-239810781.jpg\" style=\"vertical-align:middle;max-width:540px;width:auto;height:auto;display:block;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>\n</div>\n<br>\n5、对于已发表的未匿名的答案，可以选择重新匿名\n<img src=\"/uploads/answer/20180502/2e2942439a826907baa70f0c385bdfca.jpg\">",
             "folded": false,
             "agree-by": [
                 {
@@ -41,7 +47,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 1385,
+            "author": {
+                "user-id": 1385,
+                "user-name": "李洪志"
+            },
             "body": "滋磁emoji才是坠吼的",
             "folded": false,
             "agree-by": [
@@ -64,7 +73,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 673,
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
             "body": "似乎用不了emoji？在我这里emoji显示的是一个半角问号。",
             "folded": false,
             "agree-by": [
@@ -87,7 +99,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 445,
+            "author": {
+                "user-id": 445,
+                "user-name": "FX_W"
+            },
             "body": "登录的时候输入邮箱感觉太长了，改成输入用户名吼不吼蛙<br>\n以及我现在连自己的uid在哪看都不知道<br>\n————————————————<br>\nemmmmmm…重新登陆了一遍发现原来能用用户名登录，看来我是naive了<br>\n—————————————————<br>\n觉得可以把用户列表改成枪毙名单，这样更恰当",
             "folded": false,
             "agree-by": [
@@ -102,7 +117,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "文章有评论时能滚上来，手机版能发文章",
             "folded": false,
             "agree-by": [
@@ -117,7 +135,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 834,
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
             "body": "所有人都可以新建主题。",
             "folded": false,
             "agree-by": [],
@@ -127,7 +148,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "https://mohu1.tk/question/126",
             "folded": false,
             "agree-by": [],
@@ -137,7 +161,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 997,
+            "author": {
+                "user-id": 997,
+                "user-name": "saul"
+            },
             "body": "页面设计可以改善一下下，等我学会前端后希望能贡献一点微小的工作。还有就是不知道这样的网站那里有开源的代码。<br>\n&nbsp;",
             "folded": false,
             "agree-by": [],
@@ -147,7 +174,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 1002,
+            "author": {
+                "user-id": 1002,
+                "user-name": "卡西莫多"
+            },
             "body": "没有浏览历史记忆，点进一个问题再出来又得往下翻半天，就很难受。",
             "folded": false,
             "agree-by": [],
@@ -157,7 +187,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 868,
+            "author": {
+                "user-id": 868,
+                "user-name": "GUT412454"
+            },
             "body": "刚才我在膜乎看到一个膜乎问题的链接，但是不能点，我也懒得复制到地址栏。那么，膜乎能不能像bilibili一样，bilibili能通过av号转到视频，膜乎能不能通过问题号（或者其它的惟一确定一个问题的字符串）转到问题（或文章等）？",
             "folded": false,
             "agree-by": [],
@@ -167,7 +200,10 @@
             "modifyTime": "2018-08-08T00:00:00.000Z"
         },
         {
-            "author": 1467,
+            "author": {
+                "user-id": 1467,
+                "user-name": "习远平"
+            },
             "body": "手机浏览器不能上传图片，上传了不显示",
             "folded": false,
             "agree-by": [],
@@ -187,16 +223,20 @@
             "id": 1250
         },
         {
-            "title": "膜乎会不会被续？",
-            "id": 120
-        },
-        {
             "title": "我不希望膜乎变成第二个品葱！",
             "id": 2990
         },
         {
+            "title": "膜乎会不会被续？",
+            "id": 120
+        },
+        {
             "title": "膜乎似乎很没深度，老是膜来膜去的，有意思么？",
             "id": 2600
+        },
+        {
+            "title": "政府能强行关闭膜乎吗？",
+            "id": 542
         },
         {
             "title": "在膜乎问疲劳驾驶问题会不会被封号？",
@@ -207,10 +247,6 @@
             "id": 61
         },
         {
-            "title": "政府能强行关闭膜乎吗？",
-            "id": 542
-        },
-        {
             "title": "大家觉得在膜乎上多提些膜蛤辱包以外的问题吼不吼？",
             "id": 863
         },
@@ -219,13 +255,13 @@
             "id": 269
         },
         {
-            "title": "如何评价膜乎站长抄袭逼乎用户守则的行为？",
-            "id": 1340
+            "title": "如何评价膜乎用户 坚定的红",
+            "id": 2352
         }
     ],
     "questionStatus": {
         "last-active-time": "2018-08-08T12:30:00.000Z",
-        "views": 441,
+        "views": 446,
         "concerns": 12
     }
 }

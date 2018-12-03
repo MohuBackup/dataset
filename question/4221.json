@@ -1,0 +1,120 @@
+{
+    "type": "question",
+    "id": 4221,
+    "tags": [
+        {
+            "tag-id": 692,
+            "tag-name": "隐私"
+        },
+        {
+            "tag-id": 209,
+            "tag-name": "科技"
+        },
+        {
+            "tag-id": 136,
+            "tag-name": "政治敏感"
+        },
+        {
+            "tag-id": 8,
+            "tag-name": "政治"
+        }
+    ],
+    "detail": {
+        "title": "如何看待此视频截图？",
+        "body": "<div>\n<a href=\"https://archive.is/o/NzQ5c/https://via.hypothes.is/https:/uploads/questions/20181103/c04cc3e9870bd8e13da65fbc39c36ea3.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20181104-063350.png\" src=\"https://archive.is/NzQ5c/d11aa325a584364fb08303467431056d77923c3c.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n<a href=\"https://archive.is/o/NzQ5c/https://via.hypothes.is/https:/uploads/questions/20181103/dd9751fa521a71a37e7111720c1acb04.png\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"Screenshot_20181104-063358.png\" src=\"https://archive.is/NzQ5c/cb8935ebad88e53ef722b79a9fe7e3e51d25715f.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": null,
+        "link": null,
+        "comments": 0,
+        "publishTime": "2018-11-04T00:00:00.000Z",
+        "modifyTime": "2018-11-04T00:00:00.000Z"
+    },
+    "answers": [
+        {
+            "author": null,
+            "body": "<p>老大哥在看着你<br></p>",
+            "folded": false,
+            "agree-by": [
+                {
+                    "user-id": 1974,
+                    "user-name": "KramHerence"
+                },
+                {
+                    "user-id": 2838,
+                    "user-name": "airfurphan"
+                },
+                {
+                    "user-id": 2880,
+                    "user-name": "起昵称可真难"
+                }
+            ],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-04T00:00:00.000Z",
+            "modifyTime": "2018-11-04T00:00:00.000Z"
+        },
+        {
+            "author": {
+                "user-id": 673,
+                "user-name": "藻葉"
+            },
+            "body": "<p>这里面包括了推销房地产的高频电话吧～</p>",
+            "folded": false,
+            "agree-by": [],
+            "using-mobile-phone": false,
+            "comments": 0,
+            "publishTime": "2018-11-04T00:00:00.000Z",
+            "modifyTime": "2018-11-04T00:00:00.000Z"
+        }
+    ],
+    "relatedQuestions": [
+        {
+            "title": "如何看待部分膜乎用户盲目反共？",
+            "id": 1250
+        },
+        {
+            "title": "如何看待网络上“你支”“支国””支豚“此类称呼方式？",
+            "id": 1690
+        },
+        {
+            "title": "如何看待习近平的三个志愿都填清华？",
+            "id": 1731
+        },
+        {
+            "title": "怎样看待膜包的人?",
+            "id": 478
+        },
+        {
+            "title": "如何看待包子最近提倡崇尚英雄，中华民族需要英雄",
+            "id": 1000
+        },
+        {
+            "title": "如何看待微博禁止同性恋？",
+            "id": 376
+        },
+        {
+            "title": "如何看待“小粉红”群体？",
+            "id": 230
+        },
+        {
+            "title": "如何看待普京送习近平红色球衣又邀请其尝蜂蜜？",
+            "id": 2605
+        },
+        {
+            "title": "如何看待hath低龄化以及无脑跟风膜？",
+            "id": 130
+        },
+        {
+            "title": "如何看待五四北大贴出批评习近平的实名大字报？",
+            "id": 916
+        },
+        {
+            "title": "如何看待帝吧出征瑞典？",
+            "id": 2877
+        }
+    ],
+    "questionStatus": {
+        "last-active-time": "2018-11-06T08:22:00.000Z",
+        "views": 323,
+        "concerns": 3
+    }
+}

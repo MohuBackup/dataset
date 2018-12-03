@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何保证膜乎的存续？",
-        "body": "<p>最近没有看见品葱的消息，但品葱上不去了，可能是被封杀了。如果这样，很多品葱的资料可能就此消失。</p><p>看品葱以前用的IP似乎是美国的服务器，但还是容易死。品葱九月流量可能约是膜乎的七、八倍，膜乎以后流量变多，就是下一个主要目标。</p><p>网络上thepiratebay一直没杀死，因为有很多备份，膜乎有没有考虑采用thepiratebay的模式，上传整个膜乎，让社群一些人共同来备份膜乎资料？</p><audio controls=\"controls\" style=\"display: none;\"></audio>",
+        "body": "<p>最近没有看见品葱的消息，但品葱上不去了，可能是被封杀了。如果这样，很多品葱的资料可能就此消失。</p><p>看品葱以前用的IP似乎是美国的服务器，但还是容易死。品葱九月流量可能约是膜乎的七、八倍，膜乎以后流量变多，就是下一个主要目标。</p><p>网络上thepiratebay一直没杀死，因为有很多备份，膜乎有没有考虑采用thepiratebay的模式，上传整个膜乎，让社群一些人共同来备份膜乎资料？</p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -61,7 +61,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2174,
+            "author": {
+                "user-id": 2174,
+                "user-name": "Naiiiiiive"
+            },
             "body": "<p>挂上cdn高防应该就行了吧，基本就不会被爆破了，大不了换个域名继续办。<br></p>",
             "folded": false,
             "agree-by": [
@@ -84,7 +87,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>膜乎一定要战到崛起，续到天明！</p><p>但是海盗湾我不会用啊！求大家教教我怎么搞？我们一起搞！</p>",
             "folded": false,
             "agree-by": [
@@ -103,7 +109,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 1328,
+            "author": {
+                "user-id": 1328,
+                "user-name": "军体拳捶包子"
+            },
             "body": "管理员千万不要卖了我们啊...不行的话设置成数据只能保存一个月吧...我真的好恐慌",
             "folded": false,
             "agree-by": [
@@ -122,7 +131,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2881,
+            "author": {
+                "user-id": 2881,
+                "user-name": "globalmonkey"
+            },
             "body": "<p>品葱的服务器似乎并不在国内，为何依然被爆掉？</p><p>就算gfw有什么不为人知的高妙手段使得定点封锁，普通代理手段失效，墙外的人能告诉我，品葱你们可以上吗？</p>",
             "folded": false,
             "agree-by": [
@@ -137,7 +149,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2150,
+            "author": {
+                "user-id": 2150,
+                "user-name": "razor_sharp"
+            },
             "body": "无解，之前就在品葱问过这个问题。tg当时不搞它是因为体量还小懒得搭理而已。<br>\n下一个就是你膜乎，谁也跑不了。",
             "folded": false,
             "agree-by": [
@@ -152,7 +167,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>吼啊！</p>",
             "folded": false,
             "agree-by": [],
@@ -162,7 +180,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2304,
+            "author": {
+                "user-id": 2304,
+                "user-name": "42A"
+            },
             "body": "<p>区块链。</p>",
             "folded": false,
             "agree-by": [],
@@ -182,7 +203,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2733,
+            "author": {
+                "user-id": 2733,
+                "user-name": "江沢"
+            },
             "body": "考虑一下上zeronet",
             "folded": false,
             "agree-by": [],
@@ -192,7 +216,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 2921,
+            "author": {
+                "user-id": 2921,
+                "user-name": "goasahinaw"
+            },
             "body": "<p>中共根本不用攻击网站什么的，直接抓管理员啊，抓到了还不是让你干啥就干啥<br></p>",
             "folded": false,
             "agree-by": [],
@@ -202,7 +229,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 1015,
+            "author": {
+                "user-id": 1015,
+                "user-name": "模糊的蛤国地狱"
+            },
             "body": "用ZetoNet技术来搭建网站？<br>\n这样子服务器不容易被封杀，因为每一个用户都是服务器，他使用的是P2P技术，跟种子的原理很像。",
             "folded": false,
             "agree-by": [],
@@ -212,7 +242,10 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>我觉得&nbsp;thepiratebay的模式&nbsp;是可行的&nbsp;把除了用户信息以外的数据公开&nbsp; 方便建立镜像站</p>",
             "folded": false,
             "agree-by": [],
@@ -269,8 +302,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T21:56:00.000Z",
-        "views": 920,
+        "last-active-time": "2018-11-03T22:03:00.000Z",
+        "views": 921,
         "concerns": 19
     }
 }

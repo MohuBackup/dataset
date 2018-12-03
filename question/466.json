@@ -49,7 +49,10 @@
             "modifyTime": "2018-04-24T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "禁止评价",
             "folded": false,
             "agree-by": [],
@@ -62,7 +65,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-04-24T08:38:00.000Z",
-        "views": 322,
+        "views": 323,
         "concerns": 2
     }
 }

@@ -13,8 +13,11 @@
     ],
     "detail": {
         "title": "如何评价iOS相册中的“人物”功能？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181012/39568aa8c04ca653d9fbc84772685b18.PNG\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181012/39568aa8c04ca653d9fbc84772685b18.PNG\" class=\"img-thumbnail\" alt=\"IMG_1342.PNG\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
-        "author": 2149,
+        "body": "<div>\n<a href=\"https://archive.is/o/j1I3h/https://www.mohu.club/uploads/questions/20181012/39568aa8c04ca653d9fbc84772685b18.PNG\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_1342.PNG\" src=\"https://archive.is/j1I3h/d2b907eb3e0dbcc2d1131582595e9f477d11bf18.png\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
+        "author": {
+            "user-id": 2149,
+            "user-name": "搞个小新闻"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-12T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1643,
+            "author": {
+                "user-id": 1643,
+                "user-name": "人克坦"
+            },
             "body": "你跑不了的，云上贵州 is watching you.",
             "folded": false,
             "agree-by": [
@@ -69,7 +75,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 648,
+            "author": {
+                "user-id": 648,
+                "user-name": "jiangzhuxi"
+            },
             "body": "<p>枪毙是要先拉清单还送直接加急？</p>",
             "folded": false,
             "agree-by": [
@@ -88,8 +97,11 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 542,
-            "body": "<p><img src=\"/uploads/ueditor/20181012/1539356131514117.jpg\" title=\"1539356131514117.jpg\" alt=\"QQ图片20180928162122.jpg\"></p>",
+            "author": {
+                "user-id": 542,
+                "user-name": "Hatate"
+            },
+            "body": "<p><a href=\"https://archive.is/j1I3h/2dc81d33f9f86278b3ac5ca1970d90732fbacf8f.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"QQ图片20180928162122.jpg\" src=\"https://archive.is/j1I3h/2dc81d33f9f86278b3ac5ca1970d90732fbacf8f.jpg\" title=\"1539356131514117.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -107,7 +119,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>兄弟，你应该转美区了吧？</p>",
             "folded": false,
             "agree-by": [],
@@ -117,7 +132,10 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": 2143,
+            "author": {
+                "user-id": 2143,
+                "user-name": "续da命"
+            },
             "body": "<p>泻药！</p><p>江胡险恶，习已为常。毛病不改，恶习难除。<br></p>",
             "folded": false,
             "agree-by": [],
@@ -185,7 +203,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-13T01:03:00.000Z",
-        "views": 278,
+        "views": 279,
         "concerns": 7
     }
 }

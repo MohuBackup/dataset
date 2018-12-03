@@ -17,7 +17,7 @@
     ],
     "detail": {
         "title": "如何评价\"广西13岁少女肢解同窗仅被判教养三年\"？",
-        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181013/c473ba8e96dc2b295f1fe4a2df7df12f.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181013/c473ba8e96dc2b295f1fe4a2df7df12f.jpg\" class=\"img-thumbnail\" alt=\"IMG_20181014_060936.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "<div>\n<a href=\"https://archive.is/o/RzRvJ/https://www.mohu.club/uploads/questions/20181013/c473ba8e96dc2b295f1fe4a2df7df12f.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"IMG_20181014_060936.jpg\" src=\"https://archive.is/RzRvJ/fe1a7c01b10203e8893325c1e2be3ae7105be3e2.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -26,7 +26,10 @@
     },
     "answers": [
         {
-            "author": 2130,
+            "author": {
+                "user-id": 2130,
+                "user-name": "icedfool"
+            },
             "body": "vpn＝3年，杀人＝教养3年<br>\n我操，一条命还不如卖vpn来的重要，惊了！",
             "folded": false,
             "agree-by": [
@@ -57,7 +60,10 @@
             "modifyTime": "2018-10-14T00:00:00.000Z"
         },
         {
-            "author": 2632,
+            "author": {
+                "user-id": 2632,
+                "user-name": "lev12138"
+            },
             "body": "记住，你可以杀人放火强奸，但千万不要尝试论政治、谈先烈、唱国歌、碰国旗、卖梯子等等你可能认为没多大问题的行为。。。",
             "folded": false,
             "agree-by": [
@@ -132,7 +138,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-14T07:51:00.000Z",
-        "views": 569,
+        "views": 570,
         "concerns": 3
     }
 }

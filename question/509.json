@@ -9,7 +9,7 @@
     ],
     "detail": {
         "title": "如何看待恶习的无限续杯？",
-        "body": "如题\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20180428/3f70374b814c6d7fbf1453056c13b9f5.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20180428/3f70374b814c6d7fbf1453056c13b9f5.jpg\" class=\"img-thumbnail\" alt=\"S80428-184629(1).jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+        "body": "如题 <div>\n<a href=\"https://archive.is/o/sWsP1/https://www.mohu.club/uploads/questions/20180428/3f70374b814c6d7fbf1453056c13b9f5.jpg\" style=\"background-color: transparent; text-decoration:none;cursor:pointer;color:rgb(21, 95, 170);\"><img alt=\"S80428-184629(1).jpg\" src=\"https://archive.is/sWsP1/709bd1797e7083c706da934683c382dc0ef37ff4.jpg\" style=\"vertical-align:middle;display:inline-block;height:auto;line-height:1.42857143;background-color: rgb(255, 255, 255); border-top-left-radius:4px 4px;border-top-right-radius:4px 4px;border-bottom-right-radius:4px 4px;border-bottom-left-radius:4px 4px;max-width:540px;border-width: 1px; border-style: solid; margin: 10px 0px; padding: 4px; border-color: rgb(221, 221, 221);\"></a>\n</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 611,
+            "author": {
+                "user-id": 611,
+                "user-name": "XLSheep"
+            },
             "body": "续杯其实是一种欺骗消费者的手段，消费者可能会觉得很划算，其实这些饮料基本都是廉价且劣质的，况且庆丰包子铺饮料库存有限，当消费者发现隔壁店的生榨饮料比包子铺的香精勾水不知道高到哪里去了后，准备投诉的时候，店家可能就要给你勒索天价账单了。",
             "folded": false,
             "agree-by": [
@@ -65,8 +68,11 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 1002,
-            "body": "这是劳模的行为，当然要薛习一个啊！\n<img src=\"/uploads/answer/20180501/61141626333bf45195f04646e7bca9b8.png\">",
+            "author": {
+                "user-id": 1002,
+                "user-name": "卡西莫多"
+            },
+            "body": "这是劳模的行为，当然要薛习一个啊！\n<img src=\"https://archive.is/sWsP1/f81534a73ad6e871432ce170dcd0ca4e4ea64b8a.png\">",
             "folded": false,
             "agree-by": [
                 {
@@ -84,7 +90,10 @@
             "modifyTime": "2018-05-01T00:00:00.000Z"
         },
         {
-            "author": 461,
+            "author": {
+                "user-id": 461,
+                "user-name": "某位热心hath"
+            },
             "body": "你敢不滋磁当今天子？",
             "folded": false,
             "agree-by": [
@@ -99,7 +108,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 500,
+            "author": {
+                "user-id": 500,
+                "user-name": "阿尔法苟"
+            },
             "body": "连任也要按照中央人民政府的法律，现在可以合法开倒车了。。。",
             "folded": false,
             "agree-by": [
@@ -114,7 +126,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 834,
+            "author": {
+                "user-id": 834,
+                "user-name": "随之沉浮"
+            },
             "body": "他的个人医疗小组至少给他续上二十年，比起已成局的包子，我觉得大家更应该考虑下一任的问题。",
             "folded": false,
             "agree-by": [],
@@ -124,7 +139,10 @@
             "modifyTime": "2018-04-28T00:00:00.000Z"
         },
         {
-            "author": 881,
+            "author": {
+                "user-id": 881,
+                "user-name": "江蛤蟆是坠吼的"
+            },
             "body": "吾皇万岁",
             "folded": false,
             "agree-by": [],
@@ -182,7 +200,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-05-01T08:15:00.000Z",
-        "views": 660,
+        "views": 661,
         "concerns": 7
     }
 }

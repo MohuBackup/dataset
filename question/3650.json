@@ -18,7 +18,10 @@
     },
     "answers": [
         {
-            "author": 2635,
+            "author": {
+                "user-id": 2635,
+                "user-name": "李克强"
+            },
             "body": "<p>不知道，我没做过</p>",
             "folded": false,
             "agree-by": [
@@ -57,7 +60,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1393,
+            "author": {
+                "user-id": 1393,
+                "user-name": "Chinese淫"
+            },
             "body": "<p>不排除这个的可能性</p><p><br></p><p>不过你有语言逻辑错误，应该是小管家是否被 活摘器官并枪毙了。如果要摘器官，那肯定得在枪毙之前，这个我虽然医术不行，但是这个常识我还是有的。土匪只要最新鲜的器官。</p>",
             "folded": false,
             "agree-by": [
@@ -119,7 +125,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 1519,
+            "author": {
+                "user-id": 1519,
+                "user-name": "恶习"
+            },
             "body": "<p>也不是我做的</p>",
             "folded": false,
             "agree-by": [
@@ -138,7 +147,10 @@
             "modifyTime": "2018-10-19T00:00:00.000Z"
         },
         {
-            "author": 2189,
+            "author": {
+                "user-id": 2189,
+                "user-name": "嘻嘻"
+            },
             "body": "希望她没事,我们永远想念她",
             "folded": false,
             "agree-by": [
@@ -201,7 +213,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-19T14:40:00.000Z",
-        "views": 427,
+        "views": 429,
         "concerns": 7
     }
 }

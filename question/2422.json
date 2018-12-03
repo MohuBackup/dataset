@@ -14,7 +14,10 @@
     "detail": {
         "title": "如何评价B站用户“Ceylan”因点开辱包图片而永久封禁？",
         "body": "<p>RT，微博锡兰Ceylan.</p>",
-        "author": 1990,
+        "author": {
+            "user-id": 1990,
+            "user-name": "包包Naive"
+        },
         "link": null,
         "comments": 1,
         "publishTime": "2018-08-30T00:00:00.000Z",
@@ -22,7 +25,10 @@
     },
     "answers": [
         {
-            "author": 1705,
+            "author": {
+                "user-id": 1705,
+                "user-name": "kotri_lv146"
+            },
             "body": "<p>应该利用幻影坦克技术大量制造隐藏的乳包图片，并且吸引更多的主播去点击，然后看着他们纷纷被封，喜闻乐见。<br></p>",
             "folded": false,
             "agree-by": [
@@ -93,7 +99,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1701,
+            "author": {
+                "user-id": 1701,
+                "user-name": "潘静雯"
+            },
             "body": "真的吗？好惨啊。。",
             "folded": false,
             "agree-by": [
@@ -120,7 +129,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1922,
+            "author": {
+                "user-id": 1922,
+                "user-name": "无线寿の江"
+            },
             "body": "<p>我倒是想看看他是怎么点开的</p>",
             "folded": false,
             "agree-by": [],
@@ -130,7 +142,10 @@
             "modifyTime": "2018-08-30T00:00:00.000Z"
         },
         {
-            "author": 1957,
+            "author": {
+                "user-id": 1957,
+                "user-name": "MoriyaSuwako"
+            },
             "body": "<p>什么？b站居然删我视频！！呱！</p><p>这是个背叛！！呱！</p>",
             "folded": false,
             "agree-by": [],
@@ -140,7 +155,10 @@
             "modifyTime": "2018-09-04T00:00:00.000Z"
         },
         {
-            "author": 1574,
+            "author": {
+                "user-id": 1574,
+                "user-name": "Marx"
+            },
             "body": "<p>锡兰野蛮，，，创密文明，，，</p><p>谁要是敢反对独人，众创密就要砸烂他的狗头，再给他和喷香的亲甜的米青啤酒【kksk】<br></p>",
             "folded": false,
             "agree-by": [],
@@ -150,7 +168,10 @@
             "modifyTime": "2018-09-07T00:00:00.000Z"
         },
         {
-            "author": 915,
+            "author": {
+                "user-id": 915,
+                "user-name": "龙蛤前辈"
+            },
             "body": "别听锡兰白皮猪瞎放屁，这其实是独人老师和众创蜜的功劳(确信)，，。",
             "folded": false,
             "agree-by": [],
@@ -208,7 +229,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-07T02:47:00.000Z",
-        "views": 1285,
+        "views": 1286,
         "concerns": 8
     }
 }

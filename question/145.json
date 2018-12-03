@@ -10,7 +10,10 @@
     "detail": {
         "title": "不懂膜法的人被称作什么？",
         "body": "我们这些真正的粉丝是膜法师？那么不懂膜法的人是不是应该被称作magou？麻苟？蟆苟？",
-        "author": 195,
+        "author": {
+            "user-id": 195,
+            "user-name": "习近平治丧委员"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-20T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 280,
+            "author": {
+                "user-id": 280,
+                "user-name": "江怀明"
+            },
             "body": "这样太明显了，还是叫时间很多的年轻闲人吧",
             "folded": false,
             "agree-by": [
@@ -57,7 +63,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 167,
+            "author": {
+                "user-id": 167,
+                "user-name": "玛里苟斯"
+            },
             "body": "没有常识的人……",
             "folded": false,
             "agree-by": [
@@ -92,7 +101,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 384,
+            "author": {
+                "user-id": 384,
+                "user-name": "时间的朋友"
+            },
             "body": "不关心国家政治的年轻人",
             "folded": false,
             "agree-by": [
@@ -119,7 +131,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 11,
+            "author": {
+                "user-id": 11,
+                "user-name": "你们有一个好"
+            },
             "body": "蟆呱",
             "folded": false,
             "agree-by": [
@@ -146,7 +161,10 @@
             "modifyTime": "2018-03-22T00:00:00.000Z"
         },
         {
-            "author": 56,
+            "author": {
+                "user-id": 56,
+                "user-name": "globalHe"
+            },
             "body": "Nomo？",
             "folded": false,
             "agree-by": [
@@ -165,7 +183,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": -1,
+            "author": {
+                "user-id": -1,
+                "user-name": "[已注销]"
+            },
             "body": "no-mog",
             "folded": false,
             "agree-by": [
@@ -180,7 +201,10 @@
             "modifyTime": "2018-03-20T00:00:00.000Z"
         },
         {
-            "author": 262,
+            "author": {
+                "user-id": 262,
+                "user-name": "kaeru教信者"
+            },
             "body": "当然是膜苟(moggle)哇！",
             "folded": false,
             "agree-by": [
@@ -195,7 +219,10 @@
             "modifyTime": "2018-03-21T00:00:00.000Z"
         },
         {
-            "author": 407,
+            "author": {
+                "user-id": 407,
+                "user-name": "Dash"
+            },
             "body": "麻瓜？",
             "folded": false,
             "agree-by": [],
@@ -249,7 +276,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-03-23T15:06:00.000Z",
-        "views": 419,
+        "views": 426,
         "concerns": 8
     }
 }

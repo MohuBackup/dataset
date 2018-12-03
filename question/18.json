@@ -10,7 +10,10 @@
     "detail": {
         "title": "如何加工“鹳头”？",
         "body": "",
-        "author": 4,
+        "author": {
+            "user-id": 4,
+            "user-name": "知乎小管家"
+        },
         "link": null,
         "comments": 0,
         "publishTime": "2018-03-03T00:00:00.000Z",
@@ -18,7 +21,10 @@
     },
     "answers": [
         {
-            "author": 42,
+            "author": {
+                "user-id": 42,
+                "user-name": "周源"
+            },
             "body": "要春天捉的白鹳十二只，夏天捉的黑鹳十二只，秋天捉的鲸头鹳十二只，冬天捉的红鹳十二只。将这四样鹳，于次年八月十七日这日宰杀，去毛去骨只要净肉。又要2月26日的雪十二钱，3月2日的雨水十二钱，8月23日露水十二钱，12月1日的霜十二钱。把这四样水调匀，淋了鹳肉，再加十二钱蜂蜜，丸了包子大的丸子，盛在珐琅瓷坛内，埋在花根底下。要吃时，用炒的鸡爪一拌就是。",
             "folded": false,
             "agree-by": [
@@ -52,7 +58,7 @@
     "relatedQuestions": [],
     "questionStatus": {
         "last-active-time": "2018-03-03T16:33:00.000Z",
-        "views": 212,
+        "views": 213,
         "concerns": 7
     }
 }
