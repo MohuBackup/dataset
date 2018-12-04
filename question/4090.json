@@ -23,7 +23,7 @@
     "answers": [
         {
             "author": 1393,
-            "body": "<p>你可以：</p><ol style=\"list-style-type: decimal;\"><li><p>多加练习</p></li><li><p>修改交通法规<br></p></li></ol>",
+            "body": "<p>你可以：</p><ol><li><p>多加练习</p></li><li><p>修改交通法规<br></p></li></ol>",
             "folded": false,
             "agree-by": [
                 {
