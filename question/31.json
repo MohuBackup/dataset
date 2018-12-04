@@ -201,7 +201,7 @@
                 "user-id": 32,
                 "user-name": "霍尔sin堡"
             },
-            "body": "<blockquote style=\"font-size:14px;color:rgb(119, 119, 119);border-left-color:rgb(221, 221, 221);border-width: medium medium medium 4px; border-style: none none none solid; margin: 0px 40px; padding: 0px 15px;\"><p><br>\n<strong style=\"font-weight:700;color:rgb(51, 51, 51);\">该回答已被折叠</strong><br>\n折叠原因：缺乏详细阐述<br>\n</p></blockquote><br>\n按兵不动 静观其变",
+            "body": "<blockquote style=\"font-size:14px;color:rgb(119, 119, 119);border-left-color:rgb(221, 221, 221);border-width: medium medium medium 4px; border-style: none none none solid; margin: 0px 40px; padding: 0px 15px;\"><p><br>\n<strong>该回答已被折叠</strong><br>\n折叠原因：缺乏详细阐述<br>\n</p></blockquote><br>\n按兵不动 静观其变",
             "folded": true,
             "agree-by": [
                 {
