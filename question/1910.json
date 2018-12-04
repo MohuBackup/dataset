@@ -47,7 +47,7 @@
                 "user-id": 10,
                 "user-name": "Guest"
             },
-            "body": "<blockquote style=\"font-size:14px;color:rgb(119, 119, 119);border-left-color:rgb(221, 221, 221);border-width: medium medium medium 4px; border-style: none none none solid; margin: 0px 40px; padding: 0px 15px;\"><p>104.16.58.5 discordapp.com 104.16.58.5 support.discordapp.com 104.16.58.5 dl.discordapp.net 104.16.58.5 gateway.discord.gg 104.16.58.5 status.discordapp.com 104.16.58.5 cdn.discordapp.com 104.16.58.5 media.discordapp.net 104.16.58.5 images-ext-1.discordapp.net 104.16.58.5 images-ext-2.discordapp.net<br></p><p><br></p><p><br></p></blockquote>",
+            "body": "<blockquote><p>104.16.58.5 discordapp.com 104.16.58.5 support.discordapp.com 104.16.58.5 dl.discordapp.net 104.16.58.5 gateway.discord.gg 104.16.58.5 status.discordapp.com 104.16.58.5 cdn.discordapp.com 104.16.58.5 media.discordapp.net 104.16.58.5 images-ext-1.discordapp.net 104.16.58.5 images-ext-2.discordapp.net<br></p><p><br></p><p><br></p></blockquote>",
             "folded": false,
             "agree-by": [
                 {
