@@ -96,7 +96,10 @@
     "detail": {
         "title": "真正的粉丝，就算不是程序员，也能看懂这行代码",
         "body": "<p>运行环境: Python 2.7<br></p><p><br></p><p>l=(lambda t:(lambda: _).func_code.co_lnotab.join([unichr(int(i,0x10)) for i in eval(t.decode(True.__class__.__name__[0]+().__iter__().__class__.__name__[-4]+{1}.__class__.__name__[:2]+str(0x40)))]))(\"WycweDVmODgnLCAnMHg2MGVkJywgJzB4NjEyNycsICcweGZmMGMnLCAnMHg1YzMxJywgJzB4NTA1YScsICcweDRlODYnLCAnMHg0ZTAwJywgJzB4NzBiOScsICcweDVmYWUnLCAnMHg1YzBmJywgJzB4NzY4NCcsICcweDVkZTUnLCAnMHg0ZjVjJywgJzB4ZmYwYycsICcweDhjMjInLCAnMHg4YzIyJywgJzB4NTkyNycsICcweDViYjYnLCAnMHgyMCdd\");exec (1,2).__class__.__name__[2]+(lambda: _).func_code.co_lnotab.__class__.__name__[-1]+type(1).__name__+chr(0x20)+unichr.__name__[0]+str(type(type))[-2]+l+str(True.__class__).__getitem__(-2)</p><p><br></p><p><br></p><p><br></p>",
-        "author": 1536,
+        "author": {
+            "user-id": 1536,
+            "user-name": "DengJiagui"
+        },
         "voters": [
             {
                 "user-id": 881,
@@ -112,7 +115,7 @@
                 "user-id": 1559,
                 "user-name": "AF421"
             },
-            "body": "很惭愧，就做了一点微小的工作，谢谢大家",
+            "body": "<p>\n很惭愧，就做了一点微小的工作，谢谢大家 </p>",
             "publishTime": "2018-07-19T06:22:00.000Z",
             "modifyTime": "2018-07-19T06:22:00.000Z"
         },
@@ -121,7 +124,7 @@
                 "user-id": 673,
                 "user-name": "藻葉"
             },
-            "body": "这个就没看懂了.. 放到知乎会政治敏感吗",
+            "body": "<p>\n这个就没看懂了.. 放到知乎会政治敏感吗 </p>",
             "publishTime": "2018-07-19T08:03:00.000Z",
             "modifyTime": "2018-07-19T08:03:00.000Z"
         },
@@ -130,7 +133,7 @@
                 "user-id": 1414,
                 "user-name": "leon98zhang"
             },
-            "body": "IOError: File not open for writing",
+            "body": "<p>\nIOError: File not open for writing </p>",
             "publishTime": "2018-07-19T08:18:00.000Z",
             "modifyTime": "2018-07-19T08:18:00.000Z"
         },
@@ -139,7 +142,7 @@
                 "user-id": 1536,
                 "user-name": "DengJiagui"
             },
-            "body": "之前的代码确实在Linux中无法运行，现在修改过的应该可以了",
+            "body": "<p>\n之前的代码确实在Linux中无法运行，现在修改过的应该可以了 </p>",
             "publishTime": "2018-07-19T09:02:00.000Z",
             "modifyTime": "2018-07-19T09:02:00.000Z"
         },
@@ -148,7 +151,7 @@
                 "user-id": 1414,
                 "user-name": "leon98zhang"
             },
-            "body": "我没装过python2.7，在网页上运行的，可能有偏差，我在试试看",
+            "body": "<p>\n我没装过python2.7，在网页上运行的，可能有偏差，我在试试看 </p>",
             "publishTime": "2018-07-19T09:10:00.000Z",
             "modifyTime": "2018-07-19T09:10:00.000Z"
         },
@@ -157,7 +160,7 @@
                 "user-id": 1414,
                 "user-name": "leon98zhang"
             },
-            "body": "excited！！！！！！！！！！！",
+            "body": "<p>\nexcited！！！！！！！！！！！ </p>",
             "publishTime": "2018-07-19T09:11:00.000Z",
             "modifyTime": "2018-07-19T09:11:00.000Z"
         },
@@ -166,7 +169,7 @@
                 "user-id": 881,
                 "user-name": "江蛤蟆是坠吼的"
             },
-            "body": "python3用户瑟瑟发抖",
+            "body": "<p>\npython3用户瑟瑟发抖 </p>",
             "publishTime": "2018-07-19T10:12:00.000Z",
             "modifyTime": "2018-07-19T10:12:00.000Z"
         }
