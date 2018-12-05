@@ -65,10 +65,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>人家年收入八千多万美金，买块手表戴一下又怎么了？</p>",
             "folded": false,
             "agree-by": [
@@ -107,11 +104,8 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
-            "body": "<p><a href=\"https://archive.is/jpzOR/898d31b8b66f77dd6ab8b9004e7666184d62dfe8.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"CE46BB5D-72C4-4F6C-B31B-881CCF2FB5E5.jpeg\" src=\"https://archive.is/jpzOR/898d31b8b66f77dd6ab8b9004e7666184d62dfe8.jpeg\" title=\"1538441298806286.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 881,
+            "body": "<p><img src=\"/uploads/ueditor/20181002/1538441298806286.jpeg\" title=\"1538441298806286.jpeg\" alt=\"CE46BB5D-72C4-4F6C-B31B-881CCF2FB5E5.jpeg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -137,10 +131,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>有人已经到了肆无忌惮、胆大妄为的地步了</p>",
             "folded": false,
             "agree-by": [
@@ -167,10 +158,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>已经把三个代表融合了啊？下次是不是要把南巡，改开，腊肉思想也融合为自己的？</p>",
             "folded": false,
             "agree-by": [
@@ -193,10 +181,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1677,
-                "user-name": "ChakTheFrog"
-            },
+            "author": 1677,
             "body": "<p>我們學校一位江西師大（前國立中正大學）畢業的老地理教授（民盟）是一位堅定的包派人士，他也戴這款表，也算是統一戰線了</p>",
             "folded": false,
             "agree-by": [
@@ -215,10 +200,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2276,
-                "user-name": "htc"
-            },
+            "author": 2276,
             "body": "<p>这可比腊肉的特供补丁特供布鞋便宜多了，</p><p>布鞋作旧的工艺可不亚于古玩作旧哦。<br></p>",
             "folded": false,
             "agree-by": [],
@@ -276,7 +258,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-02T05:09:00.000Z",
-        "views": 730,
+        "views": 728,
         "concerns": 7
     }
 }

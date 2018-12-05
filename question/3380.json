@@ -13,11 +13,8 @@
     ],
     "detail": {
         "title": "如何看待b站小将疑似因为上传黑俄爹视频而被永封？",
-        "body": "<p><a href=\"https://archive.is/Cxot2/c367d891244f6fd54a6c5a89ad131fe14b537f35.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"S81011-204017(1)(1).jpg\" src=\"https://archive.is/Cxot2/c367d891244f6fd54a6c5a89ad131fe14b537f35.jpg\" title=\"1539300857768995.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/Cxot2/fdad0d316c0f8295cf33adbe14f4be9df30aa1bc.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"S81011-204027(1).jpg\" src=\"https://archive.is/Cxot2/fdad0d316c0f8295cf33adbe14f4be9df30aa1bc.jpg\" title=\"1539300865738775.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181012/1539300857768995.jpg\" title=\"1539300857768995.jpg\" alt=\"S81011-204017(1)(1).jpg\"><img src=\"/uploads/ueditor/20181012/1539300865738775.jpg\" title=\"1539300865738775.jpg\" alt=\"S81011-204027(1).jpg\"></p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-12T00:00:00.000Z",
@@ -25,10 +22,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>看见了没？这就是乳爹的下场</p>",
             "folded": false,
             "agree-by": [
@@ -78,10 +72,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>精苏：苏联是我们的精神祖国，你怎么可以这样黑他？乌拉！<br></p>",
             "folded": false,
             "agree-by": [
@@ -104,10 +95,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>记得昨天有人说过，审查极其严极其敏感的是b站。毕竟b站现在是“国企国营”，做好上头要求的规章也能理解。呃，如果发了这个都要封号，那兵临城下（有苏共逼自杀，官员凶骂等镜头）那些经典电影都要封？</p><p><br></p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -145,10 +133,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1643,
-                "user-name": "人克坦"
-            },
+            "author": 1643,
             "body": "<p>孝！</p>",
             "folded": false,
             "agree-by": [
@@ -167,10 +152,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2601,
-                "user-name": "ShiroeAZS"
-            },
+            "author": 2601,
             "body": "黑社会主义老大哥=黑中国社会主义=乳包<br>\n如果是这么个逻辑线，那也太秀了",
             "folded": false,
             "agree-by": [
@@ -185,10 +167,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>泻药！</p><p>花蛤爱上小鸡鸡？！<br></p>",
             "folded": false,
             "agree-by": [],
@@ -198,10 +177,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2063,
-                "user-name": "德兰尊蛤者"
-            },
+            "author": 2063,
             "body": "如果上传卡廷森林怎样，会被带走吗",
             "folded": false,
             "agree-by": [],
@@ -259,7 +235,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T10:21:00.000Z",
-        "views": 450,
+        "views": 449,
         "concerns": 7
     }
 }

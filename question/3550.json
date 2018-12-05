@@ -10,10 +10,7 @@
     "detail": {
         "title": "习近平理论究竟是个什么东西？",
         "body": "<p>不管是毛腊肉，邓小平，还是长者他们提出的理论都能找到具体内容。但是习近平理论我通过已知的所有搜索引擎以及党霉报道，出版社都没有找到具体的内容。要不就是内容和前面几位的没有区别。<br></p>",
-        "author": {
-            "user-id": 918,
-            "user-name": "mohaha"
-        },
+        "author": 918,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-16T00:00:00.000Z",
@@ -21,10 +18,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>具体内容就是韭菜如何种植、收割、加工</p>",
             "folded": false,
             "agree-by": [
@@ -47,10 +41,7 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2601,
-                "user-name": "ShiroeAZS"
-            },
+            "author": 2601,
             "body": "皇帝的新装，只有聪明人才看得见（大嘘）",
             "folded": false,
             "agree-by": [
@@ -69,10 +60,7 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2194,
-                "user-name": "野獣先輩"
-            },
+            "author": 2194,
             "body": "<p>刁为刀俎，韭为鱼肉的理论</p>",
             "folded": false,
             "agree-by": [
@@ -91,11 +79,8 @@
             "modifyTime": "2018-10-16T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1980,
-                "user-name": "伟人xdd万岁"
-            },
-            "body": "<p><a href=\"https://archive.is/sMsxI/c5a0713e01cdfbbc35f1677bed83f6ae0ed59829.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"1.PNG\" src=\"https://archive.is/sMsxI/c5a0713e01cdfbbc35f1677bed83f6ae0ed59829.png\" title=\"1539675299811533.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/sMsxI/a824d00283d37a11538951b51070e3609ff31b1d.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"2.PNG\" src=\"https://archive.is/sMsxI/a824d00283d37a11538951b51070e3609ff31b1d.png\" title=\"1539675317628954.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 1980,
+            "body": "<p><img src=\"/uploads/ueditor/20181016/1539675299811533.png\" title=\"1539675299811533.png\" alt=\"1.PNG\"><img src=\"/uploads/ueditor/20181016/1539675317628954.png\" title=\"1539675317628954.png\" alt=\"2.PNG\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -176,7 +161,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-16T08:14:00.000Z",
-        "views": 381,
+        "views": 380,
         "concerns": 5
     }
 }

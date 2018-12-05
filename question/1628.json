@@ -22,10 +22,7 @@
     "detail": {
         "title": "有哪些ACG有膜蛤，或者强行尬膜现象？",
         "body": "例如<br>\n<br>\n东方的董风谷早苗，诹芳子，记者射命丸文<br>\n<br>\n舰娘的哈酱，江风钦定改二，记者青叶，江择明加伊妙<br>\n<br>\nLL的小泉蛤阳，妮可，高坂穗乃果控制天气<br>\n<br>\n兽娘动物园的长尾虎猫<br>\n<br>\nStellaris<br>\n<br>\n暴力摩托<br>\n<br>\n文明6蛤蟆先生<br>\n<br>\n都市天际线的市长拥有无限生命<br>\n<br>\n有些军事背景的游戏的氪金被称作军队经商<br>\n<br>\n等<br>\n<br>",
-        "author": {
-            "user-id": 673,
-            "user-name": "藻葉"
-        },
+        "author": 673,
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-20T00:00:00.000Z",
@@ -33,10 +30,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 542,
-                "user-name": "Hatate"
-            },
+            "author": 542,
             "body": "<p>FGO 第二章 永续疯狂帝国</p>",
             "folded": false,
             "agree-by": [
@@ -67,12 +61,9 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 204,
-                "user-name": "redFerrari"
-            },
+            "author": 204,
             "body": "<p>玛里苟斯（膜法的化身）</p>",
-            "folded": false,
+            "folded": true,
             "agree-by": [
                 {
                     "user-id": 673,
@@ -93,11 +84,8 @@
             "modifyTime": "2018-06-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2880,
-                "user-name": "起昵称可真难"
-            },
-            "body": "<p>群星</p><p>种族特性：长者（领导者续命120年）</p><p>事件：<br></p><p><a href=\"https://archive.is/ON5Gx/a80e67f8fb7cf57ef481cd66964348ff12c5ff9d.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"45e76efe5e65335de71fb582051c0246_hd.png\" src=\"https://archive.is/ON5Gx/a80e67f8fb7cf57ef481cd66964348ff12c5ff9d.png\" title=\"1540954288422907.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 2880,
+            "body": "<p>群星</p><p>种族特性：长者（领导者续命120年）</p><p>事件：<br></p><p><img src=\"/uploads/ueditor/20181031/1540954288422907.png\" title=\"1540954288422907.png\" alt=\"45e76efe5e65335de71fb582051c0246_hd.png\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -115,10 +103,7 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2601,
-                "user-name": "ShiroeAZS"
-            },
+            "author": 2601,
             "body": "dio寿命很长，吸食人类续命，长者寿命也很长，获取他人时间续命（无端尬膜）",
             "folded": false,
             "agree-by": [
@@ -180,8 +165,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-01T16:39:00.000Z",
-        "views": 483,
+        "last-active-time": "2018-10-31T16:04:00.000Z",
+        "views": 481,
         "concerns": 6
     }
 }

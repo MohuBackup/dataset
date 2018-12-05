@@ -21,11 +21,8 @@
     ],
     "detail": {
         "title": "如何评价赖小民把100个情妇安排在同一个小区里，居然还能和谐相处？这是否说明一夫多妻支度可行？",
-        "body": "<p><a href=\"https://archive.is/EiU3G/d9b324bb09478a8553456b8c5761200dce987acb.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"DqATPLxUUAE3md0.jpg\" src=\"https://archive.is/EiU3G/d9b324bb09478a8553456b8c5761200dce987acb.jpg\" title=\"1540096404497687.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>这是当皇帝的料啊！（包论）</p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181021/1540096404497687.jpg\" title=\"1540096404497687.jpg\" alt=\"DqATPLxUUAE3md0.jpg\"></p><p>这是当皇帝的料啊！（包论）</p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-21T00:00:00.000Z",
@@ -33,10 +30,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2304,
-                "user-name": "42A"
-            },
+            "author": 2304,
             "body": "<p>你看，这就是包式宽衣的最佳典范。</p>",
             "folded": false,
             "agree-by": [
@@ -71,10 +65,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>这个是不是正在为新皇帝后宫做实验，只要结果满意就给还给皇帝开现代后宫。</p>",
             "folded": false,
             "agree-by": [
@@ -97,10 +88,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>制度创新、文化创新、生殖创新</p>",
             "folded": false,
             "agree-by": [
@@ -123,10 +111,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>穆罕穆德发来贺电</p>",
             "folded": false,
             "agree-by": [
@@ -145,10 +130,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>继续开历史倒车吧</p>",
             "folded": false,
             "agree-by": [
@@ -226,7 +208,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-21T14:08:00.000Z",
-        "views": 459,
+        "views": 458,
         "concerns": 6
     }
 }

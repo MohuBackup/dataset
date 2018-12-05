@@ -25,11 +25,8 @@
     ],
     "detail": {
         "title": "如何看待菲律宾总统哪怕要饭，也要给菲律宾发展教育的行为？",
-        "body": "<p><a href=\"https://archive.is/SnYGj/8372e36890a037ce48911f0114c6c32243b0be3d.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20180611_202149(1).jpg\" src=\"https://archive.is/SnYGj/8372e36890a037ce48911f0114c6c32243b0be3d.jpg\" title=\"1528719808139127.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 927,
-            "user-name": "围城1923"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20180611/1528719808139127.jpg\" title=\"1528719808139127.jpg\" alt=\"IMG_20180611_202149(1).jpg\"></p>",
+        "author": 927,
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-11T00:00:00.000Z",
@@ -37,10 +34,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1103,
-                "user-name": "开着59压维尼"
-            },
+            "author": 1103,
             "body": "<p>我们宁愿给一等洋钱也不给四等汉上学</p>",
             "folded": false,
             "agree-by": [
@@ -99,10 +93,7 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 918,
-                "user-name": "mohaha"
-            },
+            "author": 918,
             "body": "<p>这是好总统，那怕自己丢脸都要让国民得到教育，而包子却是到处宣传党性什么的，对教育一点用都没有。还不如长者的一道五点共圆。</p>",
             "folded": false,
             "agree-by": [
@@ -161,10 +152,7 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 577,
-                "user-name": "暴力膜蛤30年"
-            },
+            "author": 577,
             "body": "这明显嘲讽了当今天子学历低，而且还不发展教育的丑态",
             "folded": false,
             "agree-by": [
@@ -219,10 +207,7 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 902,
-                "user-name": "小熊维尼"
-            },
+            "author": 902,
             "body": "撒币习，大撒币\n<img src=\"/uploads/answer/20180611/730b51ada626102eec5b50e17cfb4a76.PNG\">",
             "folded": false,
             "agree-by": [
@@ -273,10 +258,7 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>看到了中国的状态，决定避免下一代领导没受过教育</p>",
             "folded": false,
             "agree-by": [
@@ -327,10 +309,7 @@
             "modifyTime": "2018-06-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1192,
-                "user-name": "刁扛麦"
-            },
+            "author": 1192,
             "body": "<p>以菲律宾国民的角度的来说 他的这个决定是非常正确的 毕竟有位比他年长的老人曾经说过 科教兴国</p>",
             "folded": false,
             "agree-by": [
@@ -357,10 +336,7 @@
             "modifyTime": "2018-06-13T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
+            "author": 1393,
             "body": "<p>恶习：宁友邦，不家奴。</p>",
             "folded": false,
             "agree-by": [
@@ -375,11 +351,8 @@
             "modifyTime": "2018-06-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1757,
-                "user-name": "刁进乎"
-            },
-            "body": "<p><a href=\"https://archive.is/SnYGj/e176e54e04aa835f7001cedcd5be67682b4be6b5.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"Screenshot_2018-04-15-11-56-36.jpeg\" src=\"https://archive.is/SnYGj/e176e54e04aa835f7001cedcd5be67682b4be6b5.jpeg\" title=\"1534324019595506.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 1757,
+            "body": "<p><img src=\"/uploads/ueditor/20180815/1534324019595506.jpeg\" title=\"1534324019595506.jpeg\" alt=\"Screenshot_2018-04-15-11-56-36.jpeg\"></p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -436,7 +409,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-15T09:07:00.000Z",
-        "views": 456,
+        "views": 455,
         "concerns": 9
     }
 }

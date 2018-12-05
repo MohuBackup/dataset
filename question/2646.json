@@ -21,11 +21,8 @@
     ],
     "detail": {
         "title": "如何评价这枚勋章?",
-        "body": "<p>在闲鱼上看到了这个勋章,因为没听说过,就用Google搜了一下,没想到还真有这东西……<br></p><p><a href=\"https://archive.is/LOzL6/0dd4853c3ac2ee2544ef9dacebb3a80a4aabd503.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"01.jpg\" src=\"https://archive.is/LOzL6/0dd4853c3ac2ee2544ef9dacebb3a80a4aabd503.jpg\" title=\"1536992178135933.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/LOzL6/6b83be17b5c09875095e7bef2398bd6d10354d61.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"02.png\" src=\"https://archive.is/LOzL6/6b83be17b5c09875095e7bef2398bd6d10354d61.png\" title=\"1536992207797975.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 2115,
-            "user-name": "无限连任的包子"
-        },
+        "body": "<p>在闲鱼上看到了这个勋章,因为没听说过,就用Google搜了一下,没想到还真有这东西……<br></p><p><img src=\"/uploads/ueditor/20180915/1536992178135933.jpg\" title=\"1536992178135933.jpg\" alt=\"01.jpg\"><img src=\"/uploads/ueditor/20180915/1536992207797975.png\" title=\"1536992207797975.png\" alt=\"02.png\"></p>",
+        "author": 2115,
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-15T00:00:00.000Z",
@@ -33,10 +30,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2174,
-                "user-name": "Naiiiiiive"
-            },
+            "author": 2174,
             "body": "<p>老了之后进京维权被镇压的时候记得戴上。</p>",
             "folded": false,
             "agree-by": [
@@ -118,10 +112,7 @@
             "modifyTime": "2018-09-15T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1090,
-                "user-name": "lll"
-            },
+            "author": 1090,
             "body": "这个奖还是可以有的，而且马上还会有",
             "folded": false,
             "agree-by": [
@@ -140,10 +131,7 @@
             "modifyTime": "2018-09-15T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2063,
-                "user-name": "德兰尊蛤者"
-            },
+            "author": 2063,
             "body": "多好的东西啊，可以很好的确定谁是为虎作伥的刽子手。",
             "folded": false,
             "agree-by": [],
@@ -201,7 +189,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-15T10:23:00.000Z",
-        "views": 351,
+        "views": 350,
         "concerns": 5
     }
 }

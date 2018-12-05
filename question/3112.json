@@ -21,11 +21,8 @@
     ],
     "detail": {
         "title": "如何评价这个观点：“出声的两种人，一种肉身不在体质内，另外一种失踪或者在失踪路上”",
-        "body": "<p><a href=\"https://archive.is/r2R9e/68564b715f1d8a2baf4ae8cc9d3195519c1e37e0.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"Screenshot_1.png\" src=\"https://archive.is/r2R9e/68564b715f1d8a2baf4ae8cc9d3195519c1e37e0.png\" title=\"1538483615418938.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>这是推特上一个蛋头人士（神必人）小号发的，似乎很有哲学意味。</p><p><br></p><p>咱们也在失踪的路上吗？</p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181002/1538483615418938.png\" title=\"1538483615418938.png\" alt=\"Screenshot_1.png\"></p><p>这是推特上一个蛋头人士（神必人）小号发的，似乎很有哲学意味。</p><p><br></p><p>咱们也在失踪的路上吗？</p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-02T00:00:00.000Z",
@@ -33,10 +30,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1498,
-                "user-name": "冴月麟"
-            },
+            "author": 1498,
             "body": "<p>爆料三聚氰胺的蒋卫锁最后如何了？</p><p>记者翔子的结局又是什么呢？</p><p>报道毒奶粉事件的人之后怎么样了？</p><p>赵普为什么被淡出近半年呢？</p><p>...</p><p>并不是所有发声的人都消失了，但他们的确遭遇了一些不好的事情，这是事实。</p><p>发声并不是不好的选择，不过，也许有时候人们需要看看发声的环境如何。</p><p>和政治无关，事实上，只要是一些不堪入目的行为被报道或爆料出来，即使没有“证人保护机制”，发声者们的命运多半也是被“人间蒸发”，且不会有再次开口的机会了。</p><p>在“龙哥”事件后，从“暴力团”相关人可以直接在光明正大地说XX不是他们的人，以及在原视频其背后安置着略带有嘲讽意味的党旗来看，尚存常识的人不难推测出些什么，但那又如何呢？</p><p><br></p><p>//一个人若是犯了罪很容易遭到处罚，“成功人士”则需要从“定罪部分”缓慢开始，但旁若是一个国家主导了某种犯罪行为，谁能去审判它呢？&nbsp; &nbsp;（当然，备注部分说些过大了）</p>",
             "folded": false,
             "agree-by": [
@@ -67,10 +61,7 @@
             "modifyTime": "2018-10-02T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 500,
-                "user-name": "阿尔法苟"
-            },
+            "author": 500,
             "body": "<p>可以，这很友爱部，这很大洋国<br></p>",
             "folded": false,
             "agree-by": [
@@ -89,10 +80,7 @@
             "modifyTime": "2018-10-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>我在失踪路上</p>",
             "folded": false,
             "agree-by": [
@@ -165,7 +153,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-02T23:32:00.000Z",
-        "views": 309,
+        "views": 308,
         "concerns": 8
     }
 }

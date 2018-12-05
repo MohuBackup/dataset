@@ -17,11 +17,8 @@
     ],
     "detail": {
         "title": "如何看待淘寶全面嚴查境外出版物銷售？",
-        "body": "<p><a href=\"https://archive.is/n513c/28cf41027d46d0568a2a8fe0865e3733cc4be405.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181025_213232.jpg\" src=\"https://archive.is/n513c/28cf41027d46d0568a2a8fe0865e3733cc4be405.jpg\" title=\"1540474497230369.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181025/1540474497230369.jpg\" title=\"1540474497230369.jpg\" alt=\"IMG_20181025_213232.jpg\"></p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-25T00:00:00.000Z",
@@ -29,10 +26,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>还是那个回答，中国开放的大门不会开发，只会越关越小。<strong>人民群众有了更多失落感、痛苦感、危险感。我们朝着实现全面建成全封闭愚昧目标又迈进了一大步。</strong></p><p><b>下次就查国外网站了？再下次查所有留学生？</b></p>",
             "folded": false,
             "agree-by": [
@@ -71,10 +65,7 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>变着法虐岁月静好？</p>",
             "folded": false,
             "agree-by": [
@@ -109,10 +100,7 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2115,
-                "user-name": "无限连任的包子"
-            },
+            "author": 2115,
             "body": "<p>德国诗人海因里希·海涅(Heinrich Heine)有句名言:<br></p><p><strong>当一个政权开始烧书的时候,若不加以阻止,它的下一步就是要烧人!</strong></p><p><strong>当一个政权开始禁言的时候,若不加以阻止,它的下一步就是要灭口!</strong></p>",
             "folded": false,
             "agree-by": [
@@ -174,10 +162,7 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2226,
-                "user-name": "revolt"
-            },
+            "author": 2226,
             "body": "现在，除了包子谁还看书？",
             "folded": false,
             "agree-by": [
@@ -200,10 +185,7 @@
             "modifyTime": "2018-10-26T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2706,
-                "user-name": "反包复国"
-            },
+            "author": 2706,
             "body": "禁书以前卖都不让管，现在书摊都严查",
             "folded": false,
             "agree-by": [
@@ -222,10 +204,7 @@
             "modifyTime": "2018-10-25T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1488,
-                "user-name": "nocomment"
-            },
+            "author": 1488,
             "body": "那么hk算不算境外？港版书籍呢？",
             "folded": false,
             "agree-by": [],
@@ -283,7 +262,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-26T08:43:00.000Z",
-        "views": 431,
+        "views": 430,
         "concerns": 7
     }
 }

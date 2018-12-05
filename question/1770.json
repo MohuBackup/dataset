@@ -14,10 +14,7 @@
     "detail": {
         "title": "有哪些清理低端人口的方式？",
         "body": "",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-30T00:00:00.000Z",
@@ -25,10 +22,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1090,
-                "user-name": "lll"
-            },
+            "author": 1090,
             "body": "低级方法：夹边沟，直接埋<br>\n中级方法：饥饿政治，限制教育医疗资源，让贫穷代代相传，逼死百姓<br>\n高级方法：计划生育，腾笼还鸟",
             "folded": false,
             "agree-by": [
@@ -59,10 +53,7 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 893,
-                "user-name": "Particle"
-            },
+            "author": 893,
             "body": "有很多，比如清理“高端人口”。<br>\n<br>\n“低端人口”通常是服务于“高端人口”的，比如快递小哥，餐厅、超市老板和服务人员。拿北京打比方的话，比如把新浪，农大，友谊医院，农业部之类的迁往河北，这样原本供职于这里的“高端人口”就会迁移出去，服务于他们的一群“低端人口”就会跟着转移出去，也就清理了“低端人口”。<br>\n<br>\n然而这动了北京“高端人口”的利益，必然不是一个省级单位能决定的，必然要求中央政府更强力的意愿，也必然要求有这种意愿的人具有更大的权力，换句话说就是更要求中央集权。<br>\n<br>\n所谓疏解非首都功能其实就是这个意思。然而光靠一个北京市政府，是动不了这些云集的高层单位的，也自然就演变成了如今的“清理低端人口”。",
             "folded": false,
             "agree-by": [
@@ -89,11 +80,8 @@
             "modifyTime": "2018-06-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
-            "body": "<p><a href=\"https://archive.is/pZD4X/3628b87b199e5b8203d5103b1514e62100f48a37.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"5E0569CC-3AD1-4CA4-8F2F-ABCCB47AA9C2.jpeg\" src=\"https://archive.is/pZD4X/3628b87b199e5b8203d5103b1514e62100f48a37.jpeg\" title=\"1530418580532470.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 881,
+            "body": "<p><img src=\"/uploads/ueditor/20180701/1530418580532470.jpeg\" title=\"1530418580532470.jpeg\" alt=\"5E0569CC-3AD1-4CA4-8F2F-ABCCB47AA9C2.jpeg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -119,10 +107,7 @@
             "modifyTime": "2018-07-01T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 500,
-                "user-name": "阿尔法苟"
-            },
+            "author": 500,
             "body": "<p>首先，你要停止他们的供电，供暖等，然后把他们驱逐出自己所在的城市，还要在医疗，教育，居住权上限制他们。最后，禁评他们，把低端人口列为敏感词。</p>",
             "folded": false,
             "agree-by": [
@@ -141,10 +126,7 @@
             "modifyTime": "2018-07-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1496,
-                "user-name": "ljhx"
-            },
+            "author": 1496,
             "body": "我这人心善，看不得别人贫穷",
             "folded": false,
             "agree-by": [
@@ -203,7 +185,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-07-12T19:42:00.000Z",
-        "views": 679,
+        "views": 677,
         "concerns": 5
     }
 }

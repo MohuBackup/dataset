@@ -14,10 +14,7 @@
     "detail": {
         "title": "如何评价共产主义是犹太教换汤不换药的观点？",
         "body": "该观点认为犹太教追求现世的弥赛亚和迦南之地，而大多数其他宗教都追求彼岸的美好，唯独共产主义与犹太教一样也追求现世的理想世界。<br>\n<br>\n此外共产主义理论的核心人物马克思，也是犹太人。共产主义在俄国一度也与基督教有某种暧昧关系，而基督教也是犹太教的派生产物。<br>",
-        "author": {
-            "user-id": 1441,
-            "user-name": "傻个儿王"
-        },
+        "author": 1441,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-08T00:00:00.000Z",
@@ -25,10 +22,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1166,
-                "user-name": "近来看看"
-            },
+            "author": 1166,
             "body": "像想太平天国",
             "folded": false,
             "agree-by": [],
@@ -38,11 +32,8 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
-            "body": "<p>好，你很优秀。这都被你发现了。</p><p><a href=\"https://archive.is/op9iY/89fe4cbc2f6906a9570ba2e558108a1ee807ed80.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"M20181007_195406_425.jpg\" src=\"https://archive.is/op9iY/89fe4cbc2f6906a9570ba2e558108a1ee807ed80.jpg\" title=\"1538970606993663.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>题主你先别左右乱动，我这边工作需要，精准扶贫。</p>",
+            "author": 1393,
+            "body": "<p>好，你很优秀。这都被你发现了。</p><p><img src=\"/uploads/ueditor/20181008/1538970606993663.jpg\" title=\"1538970606993663.jpg\" alt=\"M20181007_195406_425.jpg\"></p><p>题主你先别左右乱动，我这边工作需要，精准扶贫。</p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -99,7 +90,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-08T03:50:00.000Z",
-        "views": 137,
+        "views": 136,
         "concerns": 3
     }
 }

@@ -13,11 +13,8 @@
     ],
     "detail": {
         "title": "如何评价淘宝上的服饰“全员战狼”？",
-        "body": "<p><a href=\"https://archive.is/lK8BY/d4cd1aadc59c58dfaf162c5faae21ff4bb26f18d.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181003_172658.jpg\" src=\"https://archive.is/lK8BY/d4cd1aadc59c58dfaf162c5faae21ff4bb26f18d.jpg\" title=\"1538558877575615.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181003/1538558877575615.jpg\" title=\"1538558877575615.jpg\" alt=\"IMG_20181003_172658.jpg\"></p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-03T00:00:00.000Z",
@@ -25,11 +22,8 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1685,
-                "user-name": "习仲勋"
-            },
-            "body": "<div style=\"height:auto;overflow-x:hidden;overflow-y:hidden;margin: 10px 0px 0px;\">\n<img alt=\"f3ow9xgjgwicpebog4aodpk2.jpg\" src=\"/uploads/answer/20181003/b6788fa602e0cfb84cc904aee2277cd1.jpg\">\n</div>\n<img src=\"/uploads/answer/20181003/b6788fa602e0cfb84cc904aee2277cd1.jpg\">",
+            "author": 1685,
+            "body": "<div class=\"aw-upload-img-list active\">\n\t<a href=\"/uploads/answer/20181003/b6788fa602e0cfb84cc904aee2277cd1.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/answer/20181003/b6788fa602e0cfb84cc904aee2277cd1.jpg\" class=\"img-polaroid\" title=\"f3ow9xgjgwicpebog4aodpk2.jpg\" alt=\"f3ow9xgjgwicpebog4aodpk2.jpg\"></a>\n</div>",
             "folded": false,
             "agree-by": [
                 {
@@ -63,10 +57,7 @@
             "modifyTime": "2018-10-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1441,
-                "user-name": "傻个儿王"
-            },
+            "author": 1441,
             "body": "啥？！那中国岂不成狼穴了？！<br>\n<br>\nPS：此处狼穴双关",
             "folded": false,
             "agree-by": [
@@ -93,10 +84,7 @@
             "modifyTime": "2018-10-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>用繁体字什么意思？是不是支持台独？是不是支持港独？</p>",
             "folded": false,
             "agree-by": [
@@ -163,7 +151,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-03T11:12:00.000Z",
-        "views": 498,
+        "views": 497,
         "concerns": 5
     }
 }

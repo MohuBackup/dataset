@@ -50,10 +50,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2869,
-                "user-name": "winniethefool"
-            },
+            "author": 2869,
             "body": "<p>会，我的第三个知乎账号就是这么没的</p>",
             "folded": false,
             "agree-by": [
@@ -80,10 +77,7 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2150,
-                "user-name": "razor_sharp"
-            },
+            "author": 2150,
             "body": "胆子真肥啊，活着不好吗？",
             "folded": false,
             "agree-by": [
@@ -98,11 +92,8 @@
             "modifyTime": "2018-11-01T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2356,
-                "user-name": "霍格沃兹魔法师"
-            },
-            "body": "<p>顺着网线来抓人</p><p><br></p><p><a href=\"https://archive.is/BR3Rh/cc098a6afa81d906402a58d9f097babd48038c23.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"顺着网线来抓人.jpg\" src=\"https://archive.is/BR3Rh/cc098a6afa81d906402a58d9f097babd48038c23.jpg\" title=\"1540984672103712.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 2356,
+            "body": "<p>顺着网线来抓人</p><p><br></p><p><img src=\"/uploads/ueditor/20181031/1540984672103712.jpg\" title=\"1540984672103712.jpg\" alt=\"顺着网线来抓人.jpg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -163,8 +154,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T22:03:00.000Z",
-        "views": 406,
+        "last-active-time": "2018-10-31T21:56:00.000Z",
+        "views": 405,
         "concerns": 5
     }
 }

@@ -13,11 +13,8 @@
     ],
     "detail": {
         "title": "如何看待上海松江九亭地铁站高架桥附近发生爆炸？",
-        "body": "<p><a href=\"https://mobile.twitter.com/julieninside/status/1057981402996604929/video/1\">https://mobile.twitter.com/julieninside/status/1057981402996604929/video/1</a></p><p><a href=\"https://mobile.twitter.com/jtcg1988/status/1058003482601492480/video/1\">https://mobile.twitter.com/jtcg1988/status/1058003482601492480/video/1</a></p><p><a href=\"https://mobile.twitter.com/jtcg1988/status/1057987579193315336/video/1\">https://mobile.twitter.com/jtcg1988/status/1057987579193315336/video/1</a><br></p><p><a href=\"https://mobile.twitter.com/H8sU9NoLWmJKp6b/status/1058007541186064385/video/1\">https://mobile.twitter.com/H8sU9NoLWmJKp6b/status/1058007541186064385/video/1<img alt=\"1B3A7D69-E3AF-4BCF-9789-101ABE3809D4.jpeg\" src=\"https://archive.is/9ka4U/1cf64165f0bb729b6b327668760b0f79fe93977e.jpeg\" title=\"1541161139716993.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p><a href=\"https://archive.is/9ka4U/dbaa41056cd85ee56f32a597c4f9d4ba1426b677.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"D06EB372-2E71-4DFF-A212-E6278919FADF.jpeg\" src=\"https://archive.is/9ka4U/dbaa41056cd85ee56f32a597c4f9d4ba1426b677.jpeg\" title=\"1541161266111831.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>这是给维尼出席进博会一个大惊喜！</p>",
-        "author": {
-            "user-id": 2493,
-            "user-name": "黎亦乔"
-        },
+        "body": "<p><a href=\"/uploads/ueditor/20181102/1541161139716993.jpeg\" title=\"1541161139716993.jpeg\" alt=\"1B3A7D69-E3AF-4BCF-9789-101ABE3809D4.jpeg\"></a></p><p><img src=\"/uploads/ueditor/20181102/1541161266111831.jpeg\" title=\"1541161266111831.jpeg\" alt=\"D06EB372-2E71-4DFF-A212-E6278919FADF.jpeg\"></p><p>这是给维尼出席进博会一个大惊喜！</p>",
+        "author": 2493,
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-03T00:00:00.000Z",
@@ -25,11 +22,8 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2356,
-                "user-name": "霍格沃兹魔法师"
-            },
-            "body": "<p>为司机续命+1s</p><p><br></p><p><a href=\"https://archive.is/9ka4U/9db94486f815a0ba21a62d88296dbd31feb4d4e3.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"下载.jpg\" src=\"https://archive.is/9ka4U/9db94486f815a0ba21a62d88296dbd31feb4d4e3.jpg\" title=\"1541178723604510.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 2356,
+            "body": "<p>为司机续命+1s</p><p><br></p><p><img src=\"/uploads/ueditor/20181103/1541178723604510.jpg\" title=\"1541178723604510.jpg\" alt=\"下载.jpg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -57,10 +51,7 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2601,
-                "user-name": "ShiroeAZS"
-            },
+            "author": 2601,
             "body": "这辆货车也信仰安拉真主（错乱）",
             "folded": false,
             "agree-by": [],
@@ -70,10 +61,7 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2903,
-                "user-name": "viewer"
-            },
+            "author": 2903,
             "body": "<p>能知道的，就是上海人民情緒很穩定<br></p>",
             "folded": false,
             "agree-by": [],
@@ -83,10 +71,7 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>刺杀时间搞错了</p>",
             "folded": false,
             "agree-by": [],
@@ -96,10 +81,7 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
+            "author": 1393,
             "body": "<p>正当防卫5火热发售中，据称地图包含全中国。</p>",
             "folded": false,
             "agree-by": [],
@@ -109,10 +91,7 @@
             "modifyTime": "2018-11-03T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2304,
-                "user-name": "42A"
-            },
+            "author": 2304,
             "body": "<p>包轮功练的走火入魔了</p>",
             "folded": false,
             "agree-by": [],
@@ -169,8 +148,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T22:28:00.000Z",
-        "views": 644,
+        "last-active-time": "2018-11-03T01:18:00.000Z",
+        "views": 642,
         "concerns": 9
     }
 }

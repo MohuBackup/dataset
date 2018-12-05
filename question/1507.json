@@ -10,10 +10,7 @@
     "detail": {
         "title": "墙外有哪些很好用的社交软件？",
         "body": "<p>必须要比墙内的知乎微博贴吧不知道高到哪里去了。膜乎推特脸书telegram就算了，我都有在用。</p>",
-        "author": {
-            "user-id": 915,
-            "user-name": "龙蛤前辈"
-        },
+        "author": 915,
         "link": null,
         "comments": 0,
         "publishTime": "2018-06-14T00:00:00.000Z",
@@ -21,10 +18,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1234,
-                "user-name": "winnie97"
-            },
+            "author": 1234,
             "body": "Google+",
             "folded": false,
             "agree-by": [
@@ -43,10 +37,7 @@
             "modifyTime": "2018-06-14T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1103,
-                "user-name": "开着59压维尼"
-            },
+            "author": 1103,
             "body": "<p>line，whatsapp，Skype</p>",
             "folded": false,
             "agree-by": [
@@ -61,10 +52,7 @@
             "modifyTime": "2018-06-14T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 10,
-                "user-name": "Guest"
-            },
+            "author": 10,
             "body": "<p>Antox 加密性强<br></p>",
             "folded": false,
             "agree-by": [],
@@ -74,10 +62,7 @@
             "modifyTime": "2018-06-14T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1022,
-                "user-name": "红衣维尼开倒车"
-            },
+            "author": 1022,
             "body": "<p>pixiv,reddit,instagram,twitch,niconico,line,维基百科youtube的APP版</p>",
             "folded": false,
             "agree-by": [],
@@ -87,11 +72,8 @@
             "modifyTime": "2018-06-15T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 54,
-                "user-name": "Rayista"
-            },
-            "body": "<div style=\"box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; text-align:center;margin: 0px; padding: 5px;\">我钦点Skype<a href=\"https://archive.is/m31ky/acffda6db811492bb24437b298e9cf92d0f30645.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"未命名.png\" src=\"https://archive.is/m31ky/acffda6db811492bb24437b298e9cf92d0f30645.png\" title=\"1529069675553999.png\" style=\"box-sizing: border-box; -moz-box-sizing: border-box; -ms-box-sizing: border-box; vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></div>\n<img src=\"/uploads/ueditor/20180615/1529069675553999.png\">",
+            "author": 54,
+            "body": "<p style=\"text-align: center;\">我钦点Skype<img src=\"/uploads/ueditor/20180615/1529069675553999.png\" title=\"1529069675553999.png\" alt=\"未命名.png\"></p>",
             "folded": false,
             "agree-by": [],
             "using-mobile-phone": false,
@@ -144,7 +126,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-06-15T13:34:00.000Z",
-        "views": 377,
+        "views": 376,
         "concerns": 5
     }
 }

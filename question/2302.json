@@ -17,11 +17,8 @@
     ],
     "detail": {
         "title": "有没有必要在维基百科上新建“新蛤社”条目",
-        "body": "<p><br></p><p>刚才回味了一下维基百科条目“膜蛤文化”，发现中间有一条中“新蛤社”与“蛤诞祭”还是红色的，有没有必要新建这两个条目<br></p><p><br></p><p><br></p><p><a href=\"https://archive.is/CGRrA/fef72e16f747cbffbf9a8a53a74213416724af96.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"HA.png\" src=\"https://archive.is/CGRrA/fef72e16f747cbffbf9a8a53a74213416724af96.png\" title=\"1534569650273823.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p><a href=\"https://archive.is/CGRrA/17e8c81775616153e32bb2ce90e12d43a571f88b.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"HA2.png\" src=\"https://archive.is/CGRrA/17e8c81775616153e32bb2ce90e12d43a571f88b.png\" title=\"1534569777115931.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 1438,
-            "user-name": "AndyChuck"
-        },
+        "body": "<p><br></p><p>刚才回味了一下维基百科条目“膜蛤文化”，发现中间有一条中“新蛤社”与“蛤诞祭”还是红色的，有没有必要新建这两个条目<br></p><p><br></p><p><br></p><p><img src=\"/uploads/ueditor/20180818/1534569650273823.png\" title=\"1534569650273823.png\" alt=\"HA.png\"></p><p><img src=\"/uploads/ueditor/20180818/1534569777115931.png\" title=\"1534569777115931.png\" alt=\"HA2.png\"></p>",
+        "author": 1438,
         "link": null,
         "comments": 0,
         "publishTime": "2018-08-18T00:00:00.000Z",
@@ -29,10 +26,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1856,
-                "user-name": "指点江山"
-            },
+            "author": 1856,
             "body": "<p>干脆志己建个灰机wiki，那是坠好的。不要老是用西方的那一套平台。</p>",
             "folded": false,
             "agree-by": [
@@ -51,10 +45,7 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 6,
-                "user-name": "刘松泉"
-            },
+            "author": 6,
             "body": "<p>关注度恐怕不够。</p>",
             "folded": false,
             "agree-by": [
@@ -69,10 +60,7 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>去伪基或wikia上创建吧，维基很严格</p>",
             "folded": false,
             "agree-by": [
@@ -87,10 +75,7 @@
             "modifyTime": "2018-08-18T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 777,
-                "user-name": "Blissghost"
-            },
+            "author": 777,
             "body": "可以考虑来维基学院社会学开亚文化专题，刚开站方针还在确定中，很可能去除掉维百的非原创研究和关注度要求。蛤丝的wiki站还有膜蛤wiki（在fandom上）和膜学大典（同，但是内容较少）。",
             "folded": false,
             "agree-by": [
@@ -153,7 +138,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-08-18T17:12:00.000Z",
-        "views": 297,
+        "views": 296,
         "concerns": 5
     }
 }

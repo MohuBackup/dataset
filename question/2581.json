@@ -13,11 +13,8 @@
     ],
     "detail": {
         "title": "改编《一分钱》被拘留",
-        "body": "<p><a href=\"https://archive.is/5fs3u/defce277c317a8fe298c2c3a769f2be302c4e04e.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"01.png\" src=\"https://archive.is/5fs3u/defce277c317a8fe298c2c3a769f2be302c4e04e.png\" title=\"1536640499771921.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/5fs3u/4aeea6b1b412e19e8abf7374df6ebac3e647f541.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"02.jpg\" src=\"https://archive.is/5fs3u/4aeea6b1b412e19e8abf7374df6ebac3e647f541.jpg\" title=\"1536640516290779.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 2115,
-            "user-name": "无限连任的包子"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20180911/1536640499771921.png\" title=\"1536640499771921.png\" alt=\"01.png\"><img src=\"/uploads/ueditor/20180911/1536640516290779.jpg\" title=\"1536640516290779.jpg\" alt=\"02.jpg\"></p>",
+        "author": 2115,
         "link": null,
         "comments": 0,
         "publishTime": "2018-09-11T00:00:00.000Z",
@@ -25,10 +22,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1488,
-                "user-name": "nocomment"
-            },
+            "author": 1488,
             "body": "改编成了《五毛钱》？",
             "folded": false,
             "agree-by": [
@@ -63,10 +57,7 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2164,
-                "user-name": "民立报"
-            },
+            "author": 2164,
             "body": "求歌词。不会是我小时候流行的版本吧？“我在马路边捡到一盒烟。。。”",
             "folded": false,
             "agree-by": [
@@ -85,10 +76,7 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2174,
-                "user-name": "Naiiiiiive"
-            },
+            "author": 2174,
             "body": "<p>倒车，请注意～</p>",
             "folded": false,
             "agree-by": [
@@ -103,10 +91,7 @@
             "modifyTime": "2018-09-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1090,
-                "user-name": "lll"
-            },
+            "author": 1090,
             "body": "失控的权力",
             "folded": false,
             "agree-by": [
@@ -141,7 +126,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-11T08:20:00.000Z",
-        "views": 491,
+        "views": 490,
         "concerns": 7
     }
 }

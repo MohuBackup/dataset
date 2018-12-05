@@ -17,11 +17,8 @@
     ],
     "detail": {
         "title": "如何评价该超时空恶政隐？(老蒋修宪连任记)",
-        "body": "<p><a href=\"https://archive.is/jqEcf/088ba145c1c0bca99ae9afd5764c885ef0067504.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"769cda4d9f55c88c.jpg\" src=\"https://archive.is/jqEcf/088ba145c1c0bca99ae9afd5764c885ef0067504.jpg\" title=\"1540771611990109.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 1385,
-            "user-name": "李洪志"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181029/1540771611990109.jpg\" title=\"1540771611990109.jpg\" alt=\"769cda4d9f55c88c.jpg\"></p>",
+        "author": 1385,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-30T00:00:00.000Z",
@@ -44,10 +41,7 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>蒋比习不知高到哪里去了，他有能力终身为国家服务，恶习没有这个能力。</p>",
             "folded": false,
             "agree-by": [],
@@ -57,10 +51,7 @@
             "modifyTime": "2018-10-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1015,
-                "user-name": "模糊的蛤国地狱"
-            },
+            "author": 1015,
             "body": "这人跟恶习没有太大的区别。<br>\n也难怪会被共产党给推翻，一个独裁专制的军政府，连美国都不想鸟他。",
             "folded": false,
             "agree-by": [],
@@ -117,8 +108,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T21:51:00.000Z",
-        "views": 274,
+        "last-active-time": "2018-10-29T21:44:00.000Z",
+        "views": 273,
         "concerns": 3
     }
 }

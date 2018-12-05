@@ -17,11 +17,8 @@
     ],
     "detail": {
         "title": "如何评价吉鸿昌？",
-        "body": "如图<a href=\"https://archive.is/TdHEL/ec500ee26f8f41437d9b0b9adbd2784adc8d832e.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"24afbde3d18faaf3.jpg\" src=\"https://archive.is/TdHEL/ec500ee26f8f41437d9b0b9adbd2784adc8d832e.jpg\" title=\"1541477329514372.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>",
-        "author": {
-            "user-id": 1385,
-            "user-name": "李洪志"
-        },
+        "body": "如图<img src=\"/uploads/ueditor/20181106/1541477329514372.jpg\" title=\"1541477329514372.jpg\" alt=\"24afbde3d18faaf3.jpg\">",
+        "author": 1385,
         "link": null,
         "comments": 0,
         "publishTime": "2018-11-06T00:00:00.000Z",
@@ -29,10 +26,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1347,
-                "user-name": "水工先生"
-            },
+            "author": 1347,
             "body": "<p>这是他对祖国弱小的一种表达</p>",
             "folded": false,
             "agree-by": [
@@ -63,10 +57,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>那他妈是以前!<br>稍有常识的人都知道，在现今因为众所周知的各种原因，吉鸿昌和Im chinese金句已风评被害</p>",
             "folded": false,
             "agree-by": [
@@ -93,11 +84,8 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
-            "body": "<p>这种感觉？</p><p><a href=\"https://archive.is/TdHEL/4652376eae5e7d7b4b45a91663e71ad4b48d495d.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"下载 (1).jpg\" src=\"https://archive.is/TdHEL/4652376eae5e7d7b4b45a91663e71ad4b48d495d.jpg\" title=\"1541481641191754.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 2143,
+            "body": "<p>这种感觉？</p><p><img src=\"/uploads/ueditor/20181106/1541481641191754.jpg\" title=\"1541481641191754.jpg\" alt=\"下载 (1).jpg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -123,10 +111,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2728,
-                "user-name": "蓝黑之珠"
-            },
+            "author": 2728,
             "body": "<p>至少他没像鼯鼱一样打着爱国的旗号道德绑架骗韭菜的钱</p>",
             "folded": false,
             "agree-by": [
@@ -145,10 +130,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>我爱国无罪！</p>",
             "folded": false,
             "agree-by": [
@@ -163,10 +145,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
+            "author": 1393,
             "body": "<p>洪吉昌希望别人爱慕拆尼斯。</p>",
             "folded": false,
             "agree-by": [
@@ -228,8 +207,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-06T14:11:00.000Z",
-        "views": 168,
+        "last-active-time": "2018-11-06T07:05:00.000Z",
+        "views": 165,
         "concerns": 5
     }
 }

@@ -17,11 +17,8 @@
     ],
     "detail": {
         "title": "如何评价知乎对我的这种行为？难道什么都和所谓的政治有关了吗？",
-        "body": "<p><a href=\"https://archive.is/iKWhO/840cc2c9c066f9edbfd18484f30b2b4c5c9e466a.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"QQ图片20181028001123.png\" src=\"https://archive.is/iKWhO/840cc2c9c066f9edbfd18484f30b2b4c5c9e466a.png\" title=\"1540656750425993.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p><br></p><p>尤其是最近的那个，那几篇论文而已跟政治根本就没任何关系的。这让我很气愤！</p>",
-        "author": {
-            "user-id": 1020,
-            "user-name": "江军"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181028/1540656750425993.png\" title=\"1540656750425993.png\" alt=\"QQ图片20181028001123.png\"></p><p><br></p><p>尤其是最近的那个，那几篇论文而已跟政治根本就没任何关系的。这让我很气愤！</p>",
+        "author": 1020,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-28T00:00:00.000Z",
@@ -29,10 +26,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2046,
-                "user-name": "fricassee"
-            },
+            "author": 2046,
             "body": "<p>知乎的政策，因为现在表达不满的人太多，所以会有一个系统，筛选和审核，通过举报、关键字等方法找出相关的回答，然后人工阅读和判断内容。</p><p>如果你有暗讽或审核员认为妄议大政的意思，那么就会把你扔到一个黑名单里。</p><p>之后无论你被人举报还是提到敏感词，都会自动触发系统红线开始删除，到这一般就不是人手审核，是靠数据和软件处理了。<br></p><p>达到一定次数后自动会把你永久禁言。</p><p>跟秦法很像，你触犯一次入了人家法眼，你要么闭嘴不言小心翼翼自我审查每个字夹着尾巴做人，要么就等死，因为系统会不断判定你越界，被禁言只是时间问题，只会迟到不会失约。</p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -67,10 +61,7 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 11,
-                "user-name": "你们有一个好"
-            },
+            "author": 11,
             "body": "膣户鹳狸猿只会勾选“政治敏感”这个理由，智商如此。",
             "folded": false,
             "agree-by": [
@@ -89,10 +80,7 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2356,
-                "user-name": "霍格沃兹魔法师"
-            },
+            "author": 2356,
             "body": "<p>一般知乎上点赞或者关注比较多的大号，如果有比较过激的言论，都会被机器自动识别的。现在软件算法很精确，一般拉进重点关注名单的账号，都不会有太好的结果。最终的结果就是几乎不能发言。一般回答问题就会被秒删。如果回复的文字中，触发了某些违禁词，就会被频繁的冻结账号，1天或者7天禁言，甚至永久禁言。</p>",
             "folded": false,
             "agree-by": [
@@ -107,10 +95,7 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>最近那个是提问被删除，不是鳏痢螈刻意删除你的答案。</p><p>不过楼主你被违规那么多次还没有被永禁吗？我认识几个都被永禁了。坠痛苦的是有一位被秋后算帐，一堆被政治敏感的删除里有一个很正经的天文知识回答也被政治敏感。</p><p><br></p><p><br></p><p><br></p>",
             "folded": false,
             "agree-by": [
@@ -125,10 +110,7 @@
             "modifyTime": "2018-10-29T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2560,
-                "user-name": "vvgvv1"
-            },
+            "author": 2560,
             "body": "<p>说明知乎已经把你关进小黑屋了啊</p>",
             "folded": false,
             "agree-by": [],
@@ -138,10 +120,7 @@
             "modifyTime": "2018-10-28T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2304,
-                "user-name": "42A"
-            },
+            "author": 2304,
             "body": "<p>把他们都宽衣了吧</p>",
             "folded": false,
             "agree-by": [],
@@ -198,8 +177,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T19:55:00.000Z",
-        "views": 634,
+        "last-active-time": "2018-10-28T19:47:00.000Z",
+        "views": 633,
         "concerns": 8
     }
 }

@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何评价这个泼墨小游戏？",
-        "body": "<p><a href=\"https://archive.is/ORFqo/8b79c0ccbcd3c434cefaad20c23931fc80506a7a.png\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"泼墨.png\" src=\"https://archive.is/ORFqo/8b79c0ccbcd3c434cefaad20c23931fc80506a7a.png\" title=\"1538300192555525.png\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p><br></p><p><a href=\"https://ru-bao.github.io/pomo/\">https://ru-bao.github.io/pomo/</a><br></p><p><br>\n</p><p><br></p>",
+        "body": "<p><img src=\"/uploads/ueditor/20180930/1538300192555525.png\" title=\"1538300192555525.png\" alt=\"泼墨.png\"></p><p><br></p><p><a href=\"https://ru-bao.github.io/pomo/\">https://ru-bao.github.io/pomo/</a><br></p><p><br> </p><p><br></p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,11 +22,8 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
-            "body": "<p>不夠好玩，還是需要學習一個，得至少有：</p><ol><li><p>命中獎勵機制</p></li><li><p>連擊combo機制</p></li><li><p>習包本人會躲避的機制</p></li><li><p>不噴死習包就會被反殺的機制（被習包滿臉噴糞噴死）</p></li><li><p>多人排行榜最高積分競賽機制<br></p><p><br></p><p>能這樣做出來我保證好玩。</p></li></ol>",
+            "author": 1393,
+            "body": "<p>不夠好玩，還是需要學習一個，得至少有：</p><ol style=\"list-style-type: decimal;\"><li><p>命中獎勵機制</p></li><li><p>連擊combo機制</p></li><li><p>習包本人會躲避的機制</p></li><li><p>不噴死習包就會被反殺的機制（被習包滿臉噴糞噴死）</p></li><li><p>多人排行榜最高積分競賽機制<br></p><p><br></p><p>能這樣做出來我保證好玩。</p></li></ol>",
             "folded": false,
             "agree-by": [
                 {
@@ -56,10 +53,7 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1441,
-                "user-name": "傻个儿王"
-            },
+            "author": 1441,
             "body": "如果有更多的泼撒材料就更吼了，比如尿、粪、番茄酱等等",
             "folded": false,
             "agree-by": [
@@ -101,11 +95,8 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
-            "body": "<p><a href=\"https://archive.is/ORFqo/79bbd25b1685d8dd978d40179933d6dba8215f4b.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"6100D0E1-736E-49E3-B03E-78D8FC8497CF.jpeg\" src=\"https://archive.is/ORFqo/79bbd25b1685d8dd978d40179933d6dba8215f4b.jpeg\" title=\"1538300874684274.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 881,
+            "body": "<p><img src=\"/uploads/ueditor/20180930/1538300874684274.jpeg\" title=\"1538300874684274.jpeg\" alt=\"6100D0E1-736E-49E3-B03E-78D8FC8497CF.jpeg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -119,10 +110,7 @@
             "modifyTime": "2018-09-30T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1020,
-                "user-name": "江军"
-            },
+            "author": 1020,
             "body": "<p>不好玩，泼墨的时候他又没躲，没有什么成就感<br></p>",
             "folded": false,
             "agree-by": [
@@ -185,7 +173,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-09-30T13:28:00.000Z",
-        "views": 533,
+        "views": 532,
         "concerns": 6
     }
 }

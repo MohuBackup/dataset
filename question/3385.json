@@ -13,11 +13,8 @@
     ],
     "detail": {
         "title": "如何评价该篮球规则？",
-        "body": "<p>制度创新，道路自信</p><p><a href=\"https://archive.is/vYHlw/99514537de2a782fb0693a41f66953b1d0ecda10.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"无标题.jpg\" src=\"https://archive.is/vYHlw/99514537de2a782fb0693a41f66953b1d0ecda10.jpg\" title=\"1539315519721790.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
-        "author": {
-            "user-id": 2143,
-            "user-name": "续da命"
-        },
+        "body": "<p>制度创新，道路自信</p><p><img src=\"/uploads/ueditor/20181012/1539315519721790.jpg\" title=\"1539315519721790.jpg\" alt=\"无标题.jpg\"></p>",
+        "author": 2143,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-12T00:00:00.000Z",
@@ -60,10 +57,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>加一条，有领导在的队伍，无论双方比分如何，判领导队胜，领导无需出席在赛场比赛，可以照常打电话谈生意应酬</p>",
             "folded": false,
             "agree-by": [
@@ -98,10 +92,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1888,
-                "user-name": "见得多了"
-            },
+            "author": 1888,
             "body": "<p>全体2970名职工表示赞成</p>",
             "folded": false,
             "agree-by": [
@@ -124,10 +115,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1705,
-                "user-name": "kotri_lv146"
-            },
+            "author": 1705,
             "body": "<p>建议把这种先进的篮球理念推广到世界各国，推广到其他运动领域，特别是足球领域，如此一来，必定能够轻松夺得大力神杯。<br></p>",
             "folded": false,
             "agree-by": [
@@ -146,10 +134,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>“让领导进球！”</p>",
             "folded": false,
             "agree-by": [
@@ -164,10 +149,7 @@
             "modifyTime": "2018-10-12T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
+            "author": 1393,
             "body": "<p>过于优秀了；看来打赢贸易战指日可待了。</p><p>（指美国）</p>",
             "folded": false,
             "agree-by": [
@@ -230,7 +212,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-12T10:10:00.000Z",
-        "views": 212,
+        "views": 211,
         "concerns": 6
     }
 }

@@ -25,11 +25,8 @@
     ],
     "detail": {
         "title": "如何评价土匪全面监控推特舆论形势？（带图）",
-        "body": "<p><a href=\"https://archive.is/IMiaO/59dbafc2d1db86fd7edcbd420fe809ac6e3f222f.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181021_091233.jpg\" src=\"https://archive.is/IMiaO/59dbafc2d1db86fd7edcbd420fe809ac6e3f222f.jpg\" title=\"1540092620404437.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p><p>土匪这监控状态，像不像大明东西厂锦衣卫？</p>",
-        "author": {
-            "user-id": 1393,
-            "user-name": "Chinese淫"
-        },
+        "body": "<p><img src=\"/uploads/ueditor/20181021/1540092620404437.jpg\" title=\"1540092620404437.jpg\" alt=\"IMG_20181021_091233.jpg\"></p><p>土匪这监控状态，像不像大明东西厂锦衣卫？</p>",
+        "author": 1393,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-21T00:00:00.000Z",
@@ -37,10 +34,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>别看你今天监控的欢，小心今后拉清单。这江来都是要应验的</p>",
             "folded": false,
             "agree-by": [
@@ -79,10 +73,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2304,
-                "user-name": "42A"
-            },
+            "author": 2304,
             "body": "<p>这程序其实很好写，Twitter API 拿来，爬虫，把这些推文文本都走一遍 sentiment analysis 就行了。我自己都做过。但是我们给包轮大法拉清单的决定权也是很重要的！到那个时候我们是会表态的！满脸喷粪！</p>",
             "folded": false,
             "agree-by": [
@@ -105,10 +96,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1347,
-                "user-name": "水工先生"
-            },
+            "author": 1347,
             "body": "<p>卧槽这么恐怖</p>",
             "folded": false,
             "agree-by": [
@@ -131,10 +119,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1982,
-                "user-name": "SAMUNG"
-            },
+            "author": 1982,
             "body": "所以不要在推特暴露个人消息",
             "folded": false,
             "agree-by": [
@@ -149,10 +134,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2517,
-                "user-name": "Pachina"
-            },
+            "author": 2517,
             "body": "<p>他们会监控网络早已在意料之中，但没想过他们会把魔爪伸向推特，而推特要绑定手机才可以正常登入，怕推特会像脸书那样泄露个人隐私，所以我在绑定手机的时候就取消注册了，无论在哪，绑定手机的东西都不可以被信任</p>",
             "folded": false,
             "agree-by": [
@@ -167,10 +149,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>一开始以为上面的负面指的是对党不利的负面，后来看了下实际上是generic的负面。（正经）</p>",
             "folded": false,
             "agree-by": [],
@@ -180,10 +159,7 @@
             "modifyTime": "2018-10-21T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "<p>偷窥网友的屑，，，</p>",
             "folded": false,
             "agree-by": [],
@@ -251,7 +227,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-21T14:09:00.000Z",
-        "views": 561,
+        "views": 560,
         "concerns": 10
     }
 }

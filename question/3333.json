@@ -10,10 +10,7 @@
     "detail": {
         "title": "包轮大法常要求弟子宽衣双修，是否有涉黄嫌疑？",
         "body": "据说包轮大法的修习现场淫乱不堪，弟子们都脱了裤子加油干，堪称群p大会。",
-        "author": {
-            "user-id": 1441,
-            "user-name": "傻个儿王"
-        },
+        "author": 1441,
         "link": null,
         "comments": 0,
         "publishTime": "2018-10-11T00:00:00.000Z",
@@ -52,10 +49,7 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2226,
-                "user-name": "revolt"
-            },
+            "author": 2226,
             "body": "啊，啊，啊！",
             "folded": false,
             "agree-by": [
@@ -70,11 +64,8 @@
             "modifyTime": "2018-10-11T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
-            "body": "<p><a href=\"https://archive.is/glOOG/5aa7a78e0c7cc59475b2b414111efd908abe63d7.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"IMG_20181012_222606.jpg\" src=\"https://archive.is/glOOG/5aa7a78e0c7cc59475b2b414111efd908abe63d7.jpg\" title=\"1539583122607776.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a><a href=\"https://archive.is/glOOG/f79232c84734231ef38f580499785182ee474c12.jpg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"mmexport1539583218990.jpg\" src=\"https://archive.is/glOOG/f79232c84734231ef38f580499785182ee474c12.jpg\" title=\"1539583229163689.jpg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a></p>",
+            "author": 1385,
+            "body": "<p><img src=\"/uploads/ueditor/20181015/1539583122607776.jpg\" title=\"1539583122607776.jpg\" alt=\"IMG_20181012_222606.jpg\"><img src=\"/uploads/ueditor/20181015/1539583229163689.jpg\" title=\"1539583229163689.jpg\" alt=\"mmexport1539583218990.jpg\"></p>",
             "folded": false,
             "agree-by": [
                 {
@@ -146,7 +137,7 @@
     ],
     "questionStatus": {
         "last-active-time": "2018-10-15T06:00:00.000Z",
-        "views": 506,
+        "views": 505,
         "concerns": 3
     }
 }

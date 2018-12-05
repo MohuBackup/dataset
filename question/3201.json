@@ -13,7 +13,7 @@
     ],
     "detail": {
         "title": "如何评价喜羊羊与灰太狼434集中慢羊羊开坦克",
-        "body": "<p><a href=\"https://archive.is/RVoGK/d5016f5957aadf9d1df4c596b4a3586c83c3e3e9.jpeg\" social=\"yes\" target=\"_blank\" style=\"cursor:zoom-in\"><img alt=\"5AC5C655-C7F7-4EBE-B682-B9E53A138822.jpeg\" src=\"https://archive.is/RVoGK/d5016f5957aadf9d1df4c596b4a3586c83c3e3e9.jpeg\" title=\"1538834090886410.jpeg\" style=\"vertical-align:middle;max-width:540px;border-width: 0px; border-style: none; margin: 10px 0px; border-color: white;\"></a>是不是近30年前的那一幕</p>",
+        "body": "<p><img src=\"/uploads/ueditor/20181006/1538834090886410.jpeg\" title=\"1538834090886410.jpeg\" alt=\"5AC5C655-C7F7-4EBE-B682-B9E53A138822.jpeg\">是不是近30年前的那一幕</p>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -22,10 +22,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 673,
-                "user-name": "藻葉"
-            },
+            "author": 673,
             "body": "<p>&nbsp;<strong>Don't need Invitation,&nbsp;</strong><strong>I know what you said, ha ha.&nbsp;<strong>我很愿意回答这个问题，因为其他网站包括贴吧的多年前就贴过同样的问题，而且给大家看了这个截图。我说过，这个懒羊羊没有被碾过，也没有受到伤害，因为坦克在他面前停下来，剧情停下来。网友也在这一幕留下了很多政隐弹幕，但我问过在粉红五毛工作的负责人，他们利用尽可能多的关系网络来寻找这些发弹幕的用户，经过多段时间的调查，我们确信这些网友很有可能在某一天被捕。</strong></strong></p>",
             "folded": false,
             "agree-by": [
@@ -88,10 +85,7 @@
             "modifyTime": "2018-10-07T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1922,
-                "user-name": "无线寿の江"
-            },
+            "author": 1922,
             "body": "<p>还有包包大人修改草原法规</p>",
             "folded": false,
             "agree-by": [
@@ -146,10 +140,7 @@
             "modifyTime": "2018-10-07T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2468,
-                "user-name": "Raketenfaust"
-            },
+            "author": 2468,
             "body": "<p>这集在B站已经习以为常地被禁评了</p>",
             "folded": false,
             "agree-by": [
@@ -180,10 +171,7 @@
             "modifyTime": "2018-10-08T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2143,
-                "user-name": "续da命"
-            },
+            "author": 2143,
             "body": "<p>稍有常识的人都会看出，如果我们的铁骑继续前进，这个螳臂当车的懒羊羊，难道能够阻挡得了吗？摄像机拍下的这个画面，同草原上某些灰太狼的宣传恰恰相反，正好说明了我们羊村，保持了最大限度的克制。</p>",
             "folded": false,
             "agree-by": [
@@ -233,10 +221,7 @@
             "modifyTime": "2018-10-07T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1374,
-                "user-name": "233kun"
-            },
+            "author": 1374,
             "body": "<p>小时候看喜羊羊与灰太狼的时候是当动画片去看的</p><p>长大后，重新看一遍，我能发现很多隐晦的讽刺</p><p>也许就是这样吧</p>",
             "folded": false,
             "agree-by": [
@@ -255,10 +240,7 @@
             "modifyTime": "2018-10-07T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 881,
-                "user-name": "江蛤蟆是坠吼的"
-            },
+            "author": 881,
             "body": "<p>习羊羊本来就是作死，里面灰太狼去抓青蛙，包包大人乱改法律，不被续才怪</p>",
             "folded": false,
             "agree-by": [
@@ -273,10 +255,7 @@
             "modifyTime": "2018-10-09T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1385,
-                "user-name": "李洪志"
-            },
+            "author": 1385,
             "body": "成 人 童 话(暴论)",
             "folded": false,
             "agree-by": [
@@ -338,8 +317,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-03T18:22:00.000Z",
-        "views": 923,
+        "last-active-time": "2018-10-30T18:06:00.000Z",
+        "views": 922,
         "concerns": 7
     }
 }

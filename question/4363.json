@@ -25,7 +25,7 @@
     ],
     "detail": {
         "title": "新疆小学生要求填表自查家中的问题图书音像视频，你怎么看？",
-        "body": "<div>\n<a href=\"https://via.hypothes.is/https:/uploads/questions/20181106/29a6d4e59e3e367a9e0a9681286c5d0f.jpg\"><img alt=\"storageemulated0sinaweiboweiboimg-5890b9c4dc3504c087ea27de76c49de4.jpg\" src=\"https://archive.is/88Aqq/9c749916f86f46482f5d17590888336688a5df58.jpg\"></a>\n</div>",
+        "body": "<div class=\"aw-upload-img-list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"/uploads/questions/20181106/29a6d4e59e3e367a9e0a9681286c5d0f.jpg\" target=\"_blank\" data-fancybox-group=\"thumb\" rel=\"lightbox\"><img src=\"/uploads/questions/20181106/29a6d4e59e3e367a9e0a9681286c5d0f.jpg\" class=\"img-thumbnail\" alt=\"storageemulated0sinaweiboweiboimg-5890b9c4dc3504c087ea27de76c49de4.jpg\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
         "author": null,
         "link": null,
         "comments": 0,
@@ -34,10 +34,7 @@
     },
     "answers": [
         {
-            "author": {
-                "user-id": 3148,
-                "user-name": "ChanChakWah"
-            },
+            "author": 3148,
             "body": "怪不得會藏獨和疆獨",
             "folded": false,
             "agree-by": [
@@ -68,10 +65,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2900,
-                "user-name": "404notfound"
-            },
+            "author": 2900,
             "body": "一 九 八 四",
             "folded": false,
             "agree-by": [
@@ -98,10 +92,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2999,
-                "user-name": "幹乾干"
-            },
+            "author": 2999,
             "body": "<p>我可以明年填完交嗎</p><p>這樣上面日期就錯了</p>",
             "folded": false,
             "agree-by": [],
@@ -121,10 +112,7 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 1393,
-                "user-name": "Chinese淫"
-            },
+            "author": 1393,
             "body": "<p>高压政治</p>",
             "folded": false,
             "agree-by": [],
@@ -134,12 +122,9 @@
             "modifyTime": "2018-11-06T00:00:00.000Z"
         },
         {
-            "author": {
-                "user-id": 2894,
-                "user-name": "膜人"
-            },
+            "author": 2894,
             "body": "<p>品葱一被封，你们这群蛆又来这里哔哔了？网络政治家</p>",
-            "folded": false,
+            "folded": true,
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
@@ -194,8 +179,8 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": "2018-11-06T14:22:00.000Z",
-        "views": 415,
+        "last-active-time": "2018-11-06T07:05:00.000Z",
+        "views": 409,
         "concerns": 6
     }
 }
