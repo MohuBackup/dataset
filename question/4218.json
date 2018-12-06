@@ -13,8 +13,8 @@
         "author": null,
         "link": null,
         "comments": 0,
-        "publishTime": null,
-        "modifyTime": null
+        "publishTime": "2018-11-03T22:10:46Z",
+        "modifyTime": "2018-11-03T22:10:46Z"
     },
     "answers": [],
     "relatedQuestions": [
@@ -64,7 +64,7 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": null,
+        "last-active-time": "2018-11-03T22:10:46Z",
         "views": 5,
         "concerns": 1
     }

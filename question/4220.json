@@ -13,8 +13,8 @@
         "author": null,
         "link": null,
         "comments": 0,
-        "publishTime": null,
-        "modifyTime": null
+        "publishTime": "2018-11-03T22:14:00Z",
+        "modifyTime": "2018-11-03T22:14:00Z"
     },
     "answers": [
         {
@@ -24,8 +24,8 @@
             "agree-by": [],
             "using-mobile-phone": true,
             "comments": 0,
-            "publishTime": null,
-            "modifyTime": null
+            "publishTime": "2018-11-03T22:18:00Z",
+            "modifyTime": "2018-11-03T22:18:00Z"
         }
     ],
     "relatedQuestions": [
@@ -75,7 +75,7 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": null,
+        "last-active-time": "2018-11-03T22:18:00Z",
         "views": 12,
         "concerns": 2
     }

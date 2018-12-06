@@ -56,8 +56,8 @@
             "agree-by": [],
             "using-mobile-phone": false,
             "comments": 0,
-            "publishTime": null,
-            "modifyTime": null
+            "publishTime": "2018-11-04T00:00:00.000Z",
+            "modifyTime": "2018-11-04T00:00:00.000Z"
         }
     ],
     "relatedQuestions": [
@@ -103,7 +103,7 @@
         }
     ],
     "questionStatus": {
-        "last-active-time": null,
+        "last-active-time": "2018-11-04T00:00:00.000Z",
         "views": 32,
         "concerns": 2
     }
